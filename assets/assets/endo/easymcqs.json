@@ -1,0 +1,6624 @@
+[
+  {
+    "mcq_number": 1,
+    "question": "The thyroid diverticulum arises from which embryological structure?",
+    "options": [
+      "A- Roof of the oral cavity",
+      "B- Floor of the primitive pharynx",
+      "C- Third pharyngeal pouch",
+      "D- Fourth pharyngeal arch"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question": "Which structure connects the developing thyroid gland to the tongue during its descent?",
+    "options": [
+      "A- Thyrohyoid membrane",
+      "B- Pharyngeal cleft",
+      "C- Thyroglossal duct",
+      "D- Cervical sinus"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 3,
+    "question": "What is the normal adult remnant of the thyroglossal duct located on the tongue?",
+    "options": [
+      "A- Pyramidal lobe",
+      "B- Foramen cecum",
+      "C- Lingual tonsil",
+      "D- Vallate papillae"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question": "Where is the most common site for ectopic thyroid tissue to be found?",
+    "options": [
+      "A- Mediastinum",
+      "B- Tongue",
+      "C- Lateral neck",
+      "D- Submandibular region"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question": "What may occur if lingual thyroid tissue is removed and it is the only thyroid tissue present in the patient?",
+    "options": [
+      "A- Hyperthyroidism",
+      "B- Thyroid storm",
+      "C- Hypothyroidism",
+      "D- Iodine deficiency"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question": "A thyroglossal duct cyst typically presents as a mass in which location?",
+    "options": [
+      "A- Lateral neck",
+      "B- Posterior cervical triangle",
+      "C- Anterior midline neck",
+      "D- Supraclavicular notch"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question": "Which physical examination finding is characteristic of a thyroglossal duct cyst?",
+    "options": [
+      "A- Moves with eye movement",
+      "B- Moves with swallowing",
+      "C- Fixed to the overlying skin",
+      "D- Pulsatile on palpation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question": "Besides swallowing, which maneuver causes a thyroglossal duct cyst to move upward?",
+    "options": [
+      "A- Deep inspiration",
+      "B- Neck extension",
+      "C- Protrusion of the tongue",
+      "D- Valsalva maneuver"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question": "A persistent cervical sinus can lead to the formation of a cyst in which location?",
+    "options": [
+      "A- Anterior midline neck",
+      "B- Lateral neck",
+      "C- Base of the tongue",
+      "D- Mediastinum"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question": "Thyroid follicular cells are embryologically derived from which germ layer?",
+    "options": [
+      "A- Ectoderm",
+      "B- Mesoderm",
+      "C- Endoderm",
+      "D- Neural crest"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question": "From which embryological structure do parafollicular cells (C cells) arise?",
+    "options": [
+      "A- 1st pharyngeal pouch",
+      "B- 2nd pharyngeal pouch",
+      "C- 3rd pharyngeal pouch",
+      "D- 4th pharyngeal pouch"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question": "Which part of the thyroid gland is a common anatomical variation representing a persistent remnant of the thyroglossal duct?",
+    "options": [
+      "A- Left lobe",
+      "B- Right lobe",
+      "C- Pyramidal lobe",
+      "D- Isthmus"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question": "The thyrohyoid membrane connects the hyoid bone to which other structure?",
+    "options": [
+      "A- Trachea",
+      "B- Thyroid cartilage",
+      "C- Cricoid cartilage",
+      "D- Mandible"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question": "Based on the anatomical descent, the thyroid gland eventually lies anterior to which structure?",
+    "options": [
+      "A- Esophagus",
+      "B- Trachea",
+      "C- Carotid sheath",
+      "D- Scalene muscles"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question": "Which artery is a direct branch of the thyrocervical trunk that supplies the thyroid gland?",
+    "options": [
+      "A- Superior thyroid artery",
+      "B- Inferior thyroid artery",
+      "C- Internal carotid artery",
+      "D- Superior laryngeal artery"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 16,
+    "question": "The superior thyroid artery is typically a branch of which major vessel?",
+    "options": [
+      "A- Internal carotid artery",
+      "B- External carotid artery",
+      "C- Subclavian artery",
+      "D- Brachiocephalic artery"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question": "A pharyngeal cleft cyst is also known as which of the following?",
+    "options": [
+      "A- Dermoid cyst",
+      "B- Branchial cleft cyst",
+      "C- Thyroglossal cyst",
+      "D- Retention cyst"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question": "During development, the thyroid gland descends through the neck to reach its final position. At which site does this descent begin?",
+    "options": [
+      "A- Foramen cecum",
+      "B- Hyoid bone",
+      "C- Thyroid cartilage",
+      "D- Ultimobranchial body"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question": "Which pharyngeal structure failure results in a pharyngeal cleft cyst in the lateral neck?",
+    "options": [
+      "A- Thyroglossal duct",
+      "B- Persistent cervical sinus",
+      "C- Third pouch endoderm",
+      "D- Tracheal diverticulum"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question": "Which of the following describes the nature of thyroid follicular cells compared to parafollicular cells?",
+    "options": [
+      "A- Both are endodermal",
+      "B- Follicular are endodermal; Parafollicular are from the 4th pouch",
+      "C- Both arise from the 4th pouch",
+      "D- Follicular are mesodermal; Parafollicular are endodermal"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 21,
+    "question": "Which embryological structure gives rise to the anterior pituitary (adenohypophysis)?",
+    "options": [
+      "A- Neuroectoderm",
+      "B- Oral ectoderm (Rathke pouch)",
+      "C- Mesoderm",
+      "D- Endoderm"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question": "Which of the following hormones is secreted by the anterior pituitary?",
+    "options": [
+      "A- Oxytocin",
+      "B- Vasopressin",
+      "C- Follicle-stimulating hormone (FSH)",
+      "D- Aldosterone"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question": "Which hormone is specifically secreted from the intermediate lobe of the pituitary gland?",
+    "options": [
+      "A- Prolactin",
+      "B- Growth Hormone",
+      "C- Melanotropin (MSH)",
+      "D- TSH"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question": "The alpha subunit is a hormone subunit common to TSH, LH, FSH, and which other hormone?",
+    "options": [
+      "A- ACTH",
+      "B- Prolactin",
+      "C- hCG",
+      "D- Growth Hormone"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question": "In the pituitary hormones TSH, LH, and FSH, which subunit determines the specific hormone action?",
+    "options": [
+      "A- Alpha subunit",
+      "B- Beta subunit",
+      "C- Gamma subunit",
+      "D- Delta subunit"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question": "Which of the following is a derivative of Proopiomelanocortin (POMC)?",
+    "options": [
+      "A- Prolactin",
+      "|B- Beta-endorphin",
+      "C- Growth Hormone",
+      "D- FSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question": "Which anterior pituitary hormones are classified as basophils?",
+    "options": [
+      "A- Prolactin and GH",
+      "B- FSH, LH, ACTH, and TSH",
+      "C- TSH and GH",
+      "D- ACTH and Prolactin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question": "Which anterior pituitary hormones are classified as acidophils?",
+    "options": [
+      "A- FSH and LH",
+      "B- TSH and ACTH",
+      "C- Prolactin and GH",
+      "D- MSH and Beta-endorphin"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question": "From which embryological tissue is the posterior pituitary (neurohypophysis) derived?",
+    "options": [
+      "A- Oral ectoderm",
+      "B- Neuroectoderm",
+      "C- Mesoderm",
+      "D- Endoderm"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question": "Where are Vasopressin (ADH) and Oxytocin actually synthesized?",
+    "options": [
+      "A- Posterior pituitary",
+      "B- Anterior pituitary",
+      "C- Hypothalamus",
+      "D- Adrenal cortex"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 31,
+    "question": "Which specific hypothalamic nuclei are responsible for making ADH and Oxytocin?",
+    "options": [
+      "A- Arcuate and Preoptic nuclei",
+      "B- Supraoptic and Paraventricular nuclei",
+      "C- Ventromedial and Lateral nuclei",
+      "D- Suprachiasmatic and Mammillary nuclei"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question": "What are the carrier proteins that transport ADH and Oxytocin to the posterior pituitary?",
+    "options": [
+      "A- Albumin",
+      "B- Neurophysins",
+      "C- Transcortin",
+      "D- Globulins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question": "The adrenal cortex is embryologically derived from which layer?",
+    "options": [
+      "A- Ectoderm",
+      "B- Mesoderm",
+      "C- Endoderm",
+      "D- Neural crest"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question": "The adrenal medulla is embryologically derived from which cells?",
+    "options": [
+      "A- Mesoderm",
+      "B- Oral ectoderm",
+      "C- Neural crest",
+      "D- Endoderm"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 35,
+    "question": "Which layer of the adrenal cortex is the outermost layer, located just beneath the capsule?",
+    "options": [
+      "A- Zona Fasciculata",
+      "B- Zona Reticularis",
+      "C- Zona Glomerulosa",
+      "D- Adrenal Medulla"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 36,
+    "question": "What is the primary hormone produced by the Zona Glomerulosa?",
+    "options": [
+      "A- Cortisol",
+      "B- Aldosterone",
+      "C- Dehydroepiandrosterone (DHEA)",
+      "D- Epinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question": "Which class of hormones does Aldosterone belong to?",
+    "options": [
+      "A- Glucocorticoids",
+      "B- Mineralocorticoids",
+      "C- Androgens",
+      "D- Catecholamines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question": "The Zona Glomerulosa is primarily regulated by which substance?",
+    "options": [
+      "A- ACTH",
+      "B- CRH",
+      "C- Angiotensin II",
+      "D- Dopamine"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question": "Which layer of the adrenal cortex is the middle and thickest layer?",
+    "options": [
+      "A- Zona Glomerulosa",
+      "B- Zona Fasciculata",
+      "C- Zona Reticularis",
+      "D- Medulla"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question": "What is the primary hormone produced by the Zona Fasciculata?",
+    "options": [
+      "A- Aldosterone",
+      "B- Cortisol",
+      "C- Androstenedione",
+      "D- Norepinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question": "Which category of hormones is produced by the Zona Fasciculata?",
+    "options": [
+      "A- Mineralocorticoids",
+      "B- Glucocorticoids",
+      "C- Androgens",
+      "D- Catecholamines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question": "The Zona Fasciculata and Zona Reticularis are primarily regulated by which hormones?",
+    "options": [
+      "A- Angiotensin II",
+      "B- ACTH and CRH",
+      "C- Renin",
+      "D- Insulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question": "Which layer of the adrenal cortex is the innermost layer, adjacent to the medulla?",
+    "options": [
+      "A- Zona Glomerulosa",
+      "B- Zona Fasciculata",
+      "C- Zona Reticularis",
+      "D- Capsule"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question": "What is the primary hormone produced by the Zona Reticularis?",
+    "options": [
+      "A- Aldosterone",
+      "B- Cortisol",
+      "C- DHEA (Androgens)",
+      "D- Epinephrine"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question": "Which cells are found in the adrenal medulla?",
+    "options": [
+      "A- Follicular cells",
+      "B- Chromaffin cells",
+      "C- Islet cells",
+      "D- Chief cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question": "The adrenal medulla produces which class of hormones?",
+    "options": [
+      "A- Glucocorticoids",
+      "B- Mineralocorticoids",
+      "C- Catecholamines",
+      "D- Androgens"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 47,
+    "question": "Which hormones are primarily produced by the adrenal medulla?",
+    "options": [
+      "A- Cortisol and Aldosterone",
+      "B- Epinephrine and Norepinephrine",
+      "C- Insulin and Glucagon",
+      "D- T3 and T4"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question": "The adrenal medulla is regulated by which of the following?",
+    "options": [
+      "A- ACTH",
+      "B- Angiotensin II",
+      "C- Preganglionic sympathetic fibers",
+      "D- TSH"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question": "The mnemonic 'GFR' for the adrenal cortex layers corresponds to which functional products?",
+    "options": [
+      "A- Glucose, Fat, Reproduction",
+      "B- Salt, Sugar, Sex",
+      "C- Sodium, Potassium, Chloride",
+      "D- Growth, Filtration, Respiration"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question": "Which cells in the pancreatic Islets of Langerhans produce glucagon?",
+    "options": [
+      "A- Alpha cells",
+      "B- Beta cells",
+      "C- Delta cells",
+      "D- F cells"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question": "In the pancreatic islets, where are the alpha cells typically located?",
+    "options": [
+      "A- Central",
+      "B- Peripheral",
+      "C- Interspersed",
+      "D- Throughout the exocrine tissue"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question": "Which pancreatic islet cells produce insulin?",
+    "options": [
+      "A- Alpha cells",
+      "B- Beta cells",
+      "C- Delta cells",
+      "D- G cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question": "In the pancreatic islets, where are the beta cells typically located?",
+    "options": [
+      "A- Peripheral",
+      "B- Central",
+      "C- Interspersed",
+      "D- Basement membrane"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question": "Which pancreatic islet cells produce somatostatin?",
+    "options": [
+      "A- Alpha cells",
+      "B- Beta cells",
+      "C- Delta cells",
+      "D- PP cells"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question": "How are delta cells distributed within the Islets of Langerhans?",
+    "options": [
+      "A- Peripheral",
+      "B- Central",
+      "C- Interspersed",
+      "D- Clustered at one pole"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 56,
+    "question": "The Islets of Langerhans arise embryologically from which structure?",
+    "options": [
+      "A- Neural crest",
+      "B- Mesoderm",
+      "C- Pancreatic buds",
+      "D- Rathke pouch"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question": "Which anterior pituitary hormone mnemonic 'FLAT' represents the basophils?",
+    "options": [
+      "A- FSH, LH, ACTH, TSH",
+      "B- FSH, LH, ADH, TSH",
+      "C- Fatty acids, Lipids, Alpha cells, Testosterone",
+      "D- FSH, LH, Aldosterone, TSH"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question": "What does the mnemonic 'Acid PiG' stand for regarding the pituitary?",
+    "options": [
+      "A- Acidophils produce Prolactin and GH",
+      "B- Acidophils produce PTH and Glucagon",
+      "C- Acidophils produce Progesterone and Gastrin",
+      "D- Acidophils produce Pancreas and Islet Glands"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question": "Which part of the pituitary gland stores and releases hormones but does not synthesize them?",
+    "options": [
+      "A- Anterior pituitary",
+      "B- Intermediate lobe",
+      "C- Posterior pituitary",
+      "D- Adenohypophysis"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 60,
+    "question": "The adrenal gland is located on the superior surface of which organ?",
+    "options": [
+      "A- Liver",
+      "B- Spleen",
+      "C- Kidney",
+      "D- Pancreas"
+    ],
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 61,
+    "question": "What is the primary function of Antidiuretic Hormone (ADH) in the kidney?",
+    "options": [
+      "A- Increases sodium reabsorption in the proximal tubule",
+      "B- Increases water permeability of distal convoluted tubule and collecting duct cells",
+      "C- Decreases water permeability in the loop of Henle",
+      "D- Increases potassium secretion in the cortex"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question": "What is the clinical effect of increased water reabsorption mediated by ADH?",
+    "options": [
+      "A- Decreased blood pressure",
+      "B- Increased urine volume",
+      "C- Increased water reabsorption",
+      "D- Increased sodium excretion"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question": "How does alcohol consumption affect ADH secretion?",
+    "options": [
+      "A- It stimulates ADH secretion",
+      "B- It has no effect on ADH",
+      "C- It inhibits ADH secretion",
+      "D- It increases ADH sensitivity"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 64,
+    "question": "What are the common clinical results of alcohol-induced inhibition of ADH?",
+    "options": [
+      "A- Polyuria and dehydration",
+      "B- Oliguria and fluid overload",
+      "C- Hypertension and bradycardia",
+      "D- Glycosuria and weight gain"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question": "Which of the following hormones does Corticotropin-releasing hormone (CRH) increase?",
+    "options": [
+      "A- TSH and Prolactin",
+      "B- ACTH, MSH, and beta-endorphin",
+      "C- GH and FSH",
+      "D- LH and Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question": "How are CRH levels affected in chronic glucocorticoid use?",
+    "options": [
+      "A- CRH levels increase",
+      "B- CRH levels remain unchanged",
+      "C- CRH levels decrease",
+      "D- CRH sensitivity increases"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 67,
+    "question": "Which substance is commonly referred to as the prolactin-inhibiting factor?",
+    "options": [
+      "A- Serotonin",
+      "B- Norepinephrine",
+      "C- Dopamine",
+      "D- Acetylcholine"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 68,
+    "question": "What are the two primary hormones inhibited by Prolactin-inhibiting factor (dopamine)?",
+    "options": [
+      "A- FSH and LH",
+      "B- Prolactin and TSH",
+      "C- GH and ACTH",
+      "D- MSH and Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question": "Why can dopamine antagonists, such as antipsychotics, cause galactorrhea?",
+    "options": [
+      "A- They stimulate the thyroid directly",
+      "B- They cause hyperprolactinemia by removing inhibition",
+      "C- They increase GHRH levels",
+      "D- They decrease ADH levels"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question": "What is the primary function of Growth hormone-releasing hormone (GHRH)?",
+    "options": [
+      "A- Increases TSH",
+      "B- Increases GH",
+      "C- Decreases Prolactin",
+      "D- Increases ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 71,
+    "question": "Which GHRH analog is specifically used to treat HIV-associated lipodystrophy?",
+    "options": [
+      "A- Octreotide",
+      "B- Leuprolide",
+      "C- Tesamorelin",
+      "D- Cabergoline"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question": "Which two hormones are stimulated by Gonadotropin-releasing hormone (GnRH)?",
+    "options": [
+      "A- TSH and ACTH",
+      "B- FSH and LH",
+      "C- GH and Prolactin",
+      "D- ADH and Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question": "How does hyperprolactinemia affect GnRH secretion?",
+    "options": [
+      "A- It stimulates GnRH",
+      "B- It has no effect on GnRH",
+      "C- It suppresses GnRH",
+      "D- It converts GnRH to GHRH"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 74,
+    "question": "What is the clinical effect of a tonic (continuous) administration of a GnRH analog like leuprolide?",
+    "options": [
+      "A- Stimulates the pituitary-gonadal axis",
+      "B- Suppresses the hypothalamic-pituitary-gonadal axis",
+      "C- Causes immediate ovulation",
+      "D- Increases sperm count"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question": "What is the physiological result of pulsatile GnRH secretion?",
+    "options": [
+      "A- Suppression of FSH",
+      "B- Puberty and fertility",
+      "C- Menopause",
+      "D- Galactorrhea"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question": "What is the primary function of Melanocyte-stimulating hormone (MSH)?",
+    "options": [
+      "A- Increases milk production",
+      "B- Increases melanogenesis by melanocytes",
+      "C- Decreases skin pigmentation",
+      "D- Stimulates bone growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question": "Why does hyperpigmentation occur in Cushing disease?",
+    "options": [
+      "A- MSH and ACTH share the same precursor molecule, POMC",
+      "B- Cortisol directly stains the skin",
+      "C- GnRH stimulates melanocytes",
+      "D- TSH cross-reacts with MSH receptors"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question": "What is the primary precursor molecule for both MSH and ACTH?",
+    "options": [
+      "A- Thyroglobulin",
+      "B- Proopiomelanocortin (POMC)",
+      "C- Preproinsulin",
+      "D- Neurophysin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question": "Which hormone is responsible for uterine contractions during labor?",
+    "options": [
+      "A- Prolactin",
+      "B- Oxytocin",
+      "C- Progesterone",
+      "D- Relaxin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question": "Which reflex is Oxytocin responsible for in response to suckling?",
+    "options": [
+      "A- Lactogenesis",
+      "B- Milk letdown reflex",
+      "C- Rooting reflex",
+      "D- Moro reflex"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question": "Which of the following is an additional role of Oxytocin?",
+    "options": [
+      "A- Stimulates GH release",
+      "B- Modulates fear, anxiety, and social bonding",
+      "C- Increases blood pressure",
+      "D- Inhibits TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question": "What are the two primary functions of Prolactin?",
+    "options": [
+      "A- Stimulates TSH and LH",
+      "B- Inhibits GnRH and stimulates lactogenesis",
+      "C- Stimulates GnRH and inhibits oxytocin",
+      "D- Increases GH and decreases ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question": "Which of the following is a symptom of a pituitary prolactinoma in females?",
+    "options": [
+      "A- Menorrhagia",
+      "B- Amenorrhea and galactorrhea",
+      "C- Increased bone density",
+      "D- Hyperthyroidism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question": "How does breastfeeding act as a form of natural contraception?",
+    "options": [
+      "A- It increases GnRH",
+      "B- Increased prolactin inhibits GnRH, delaying ovulation",
+      "C- It decreases oxytocin",
+      "D- It stimulates FSH and LH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question": "What is another name for Somatostatin?",
+    "options": [
+      "A- Growth hormone-releasing hormone",
+      "B- Growth hormone-inhibiting hormone (GHIH)",
+      "C- Prolactin-releasing factor",
+      "D- Gonadotropin-inhibiting hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question": "Which two pituitary hormones are inhibited by Somatostatin?",
+    "options": [
+      "A- ACTH and MSH",
+      "B- GH and TSH",
+      "C- FSH and LH",
+      "D- Prolactin and ADH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question": "Which two hormones are stimulated by Thyrotropin-releasing hormone (TRH)?",
+    "options": [
+      "A- TSH and Prolactin",
+      "B- TSH and GH",
+      "C- ACTH and TSH",
+      "D- LH and FSH"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question": "In primary or secondary hypothyroidism, why might a patient develop galactorrhea?",
+    "options": [
+      "A- Decreased TRH",
+      "B- Increased TRH stimulates prolactin secretion",
+      "C- Increased TSH inhibits dopamine",
+      "D- Decreased dopamine leads to increased GH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question": "According to the diagram, which pituitary cells are classified as acidophils (eosinophilic)?",
+    "options": [
+      "A- Cells secreting ACTH, LH, FSH, and TSH",
+      "B- Cells secreting GH and Prolactin",
+      "C- Cells secreting ADH and Oxytocin",
+      "D- Cells secreting MSH and Somatostatin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question": "According to the diagram, which pituitary cells are classified as basophils (basophilic)?",
+    "options": [
+      "A- Cells secreting GH and Prolactin",
+      "B- Cells secreting ACTH, LH, FSH, and TSH",
+      "C- Cells secreting DA and TRH",
+      "D- Cells secreting Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question": "Based on the regulatory diagram, which hypothalamic factor inhibits Prolactin?",
+    "options": [
+      "A- TRH",
+      "B- Somatostatin",
+      "C- DA (Dopamine)",
+      "D- GHRH"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 92,
+    "question": "Based on the regulatory diagram, Somatostatin inhibits which hormone from the anterior pituitary acidophils?",
+    "options": [
+      "A- Prolactin",
+      "B- GH",
+      "C- TSH",
+      "D- ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 93,
+    "question": "Which hypothalamic hormone has a positive effect on both FSH and LH?",
+    "options": [
+      "A- GHRH",
+      "B- GnRH",
+      "C- TRH",
+      "D- CRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question": "Which hypothalamic hormone has a positive effect on TSH?",
+    "options": [
+      "A- GHRH",
+      "B- TRH",
+      "C- GnRH",
+      "D- CRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question": "Which hypothalamic hormone stimulates the release of ACTH?",
+    "options": [
+      "A- TRH",
+      "B- CRH",
+      "C- GHRH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question": "In the kidney, ADH acts on which cells specifically to increase water reabsorption?",
+    "options": [
+      "A- Principal cells of the collecting duct",
+      "B- Intercalated cells of the distal tubule",
+      "C- Macula densa cells",
+      "D- Podocytes"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 97,
+    "question": "What is the effect of CRH on beta-endorphin levels?",
+    "options": [
+      "A- Decreases beta-endorphin",
+      "B- Increases beta-endorphin",
+      "C- Has no effect",
+      "D- Competitively inhibits it"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question": "Besides Prolactin, which other hormone is inhibited by Dopamine?",
+    "options": [
+      "A- GH",
+      "B- TSH",
+      "C- ACTH",
+      "D- FSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 99,
+    "question": "A GHRH analog is used in HIV patients for which condition?",
+    "options": [
+      "A- Muscle wasting",
+      "B- Lipodystrophy",
+      "C- Opportunistic infections",
+      "D- Encephalopathy"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question": "Leuprolide is an analog of which hormone?",
+    "options": [
+      "A- GHRH",
+      "B- GnRH",
+      "C- TRH",
+      "D- CRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 101,
+    "question": "Which hormone leads to increased melanin production in the skin?",
+    "options": [
+      "A- ACTH",
+      "B- MSH",
+      "C- GH",
+      "D- TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question": "Which hormone is associated with modulation of social bonding?",
+    "options": [
+      "A- ADH",
+      "B- Oxytocin",
+      "C- Prolactin",
+      "D- GH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question": "Prolactinomas are associated with which bone condition?",
+    "options": [
+      "A- Osteopetrosis",
+      "B- Osteoporosis",
+      "C- Osteosarcoma",
+      "D- Paget disease"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question": "What is the effect of TRH on Prolactin?",
+    "options": [
+      "A- Inhibitory",
+      "B- Stimulatory",
+      "C- No effect",
+      "D- Permissive"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question": "According to the diagram, Somatostatin provides negative feedback to which basophilic cell product?",
+    "options": [
+      "A- ACTH",
+      "B- TSH",
+      "C- FSH",
+      "D- LH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 106,
+    "question": "What happens to ADH levels after drinking alcohol?",
+    "options": [
+      "A- They rise rapidly",
+      "B- They fall",
+      "C- They stay the same",
+      "D- They fluctuate rhythmically"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question": "Chronic use of which medication class leads to decreased CRH?",
+    "options": [
+      "A- Beta-blockers",
+      "B- Glucocorticoids",
+      "C- NSAIDs",
+      "D- Diuretics"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question": "Dopamine is primarily produced in which hypothalamic pathway to inhibit prolactin?",
+    "options": [
+      "A- Nigrostriatal",
+      "B- Tuberoinfundibular",
+      "C- Mesolimbic",
+      "D- Mesocortical"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question": "In the context of HIV, what is the trade name or analog type of Tesamorelin?",
+    "options": [
+      "A- GnRH analog",
+      "B- GHRH analog",
+      "C- Somatostatin analog",
+      "D- Prolactin analog"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 110,
+    "question": "Pulsatile release of GnRH is essential for which life stage?",
+    "options": [
+      "A- Embryogenesis",
+      "B- Puberty",
+      "C- Menopause",
+      "D- Senescence"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 111,
+    "question": "Hyperpigmentation in Cushing disease is due to increased levels of which precursor cleavage products?",
+    "options": [
+      "A- TSH and TRH",
+      "B- ACTH and MSH",
+      "C- GH and IGF-1",
+      "D- ADH and Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question": "Which hormone acts on the breast to stimulate the actual production of milk (lactogenesis)?",
+    "options": [
+      "A- Oxytocin",
+      "B- Prolactin",
+      "C- Estrogen",
+      "D- Progesterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question": "Somatostatin inhibits the release of which growth-related hormone?",
+    "options": [
+      "A- Insulin",
+      "B- GH",
+      "C- Thyroxine",
+      "D- Testosterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question": "Which pituitary cell type stains with basic dyes?",
+    "options": [
+      "A- Acidophils",
+      "B- Basophils",
+      "C- Chromophobes",
+      "D- Pituicytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question": "Which pituitary cell type stains with acidic dyes like eosin?",
+    "options": [
+      "A- Basophils",
+      "B- Acidophils",
+      "C- Neutrophils",
+      "D- Gonadotrophs"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question": "What is the primary effect of ADH on urine concentration?",
+    "options": [
+      "A- Dilutes urine",
+      "B- Concentrates urine",
+      "C- No effect on concentration",
+      "D- Acidifies urine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question": "MSH belongs to the same family as which of the following?",
+    "options": [
+      "A- Prolactin",
+      "B- ACTH",
+      "C- TSH",
+      "D- FSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question": "What is the effect of Somatostatin on TSH?",
+    "options": [
+      "A- Stimulation",
+      "B- Inhibition",
+      "C- No effect",
+      "D- Synergistic"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question": "Which hormone's clinical note mentions its role in modulating depression?",
+    "options": [
+      "A- ADH",
+      "B- Oxytocin",
+      "C- CRH",
+      "D- GHRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question": "Lactogenesis is specifically stimulated by which hormone?",
+    "options": [
+      "A- Oxytocin",
+      "B- Prolactin",
+      "C- LH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question": "The suppression of the hypothalamic-pituitary-gonadal axis by tonic leuprolide is used for what purpose?",
+    "options": [
+      "A- Treating infertility",
+      "B- Treating hormone-dependent conditions",
+      "C- Induction of labor",
+      "D- Promoting growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question": "What is the relationship between Prolactin and GnRH?",
+    "options": [
+      "A- Prolactin stimulates GnRH",
+      "B- Prolactin inhibits GnRH",
+      "C- Prolactin has no effect on GnRH",
+      "D- GnRH inhibits Prolactin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question": "Which hormone increases in response to low thyroid hormone levels and can then cause milk discharge?",
+    "options": [
+      "A- GHRH",
+      "B- TRH",
+      "C- Somatostatin",
+      "D- CRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 124,
+    "question": "High-dose glucocorticoids have what effect on the adrenal-stimulating hormone pathway?",
+    "options": [
+      "A- Stimulate CRH",
+      "B- Inhibit CRH",
+      "C- No effect on CRH",
+      "D- Increase ACTH sensitivity"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question": "Galactorrhea can be a side effect of which type of psychiatric medication?",
+    "options": [
+      "A- Stimulants",
+      "B- Dopamine antagonists (Antipsychotics)",
+      "C- Benzodiazepines",
+      "D- Mood stabilizers"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 126,
+    "question": "Which hormone stimulates the 'let-down' of milk?",
+    "options": [
+      "A- Prolactin",
+      "B- Oxytocin",
+      "C- Estrogen",
+      "D- FSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question": "MSH stimulates which cells in the skin?",
+    "options": [
+      "A- Keratinocytes",
+      "B- Melanocytes",
+      "C- Langerhans cells",
+      "D- Merkel cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question": "Hypogonadism seen in prolactinoma is due to the inhibition of which hormone?",
+    "options": [
+      "A- TSH",
+      "B- GnRH",
+      "C- GH",
+      "D- ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question": "What is the effect of Somatostatin on Growth Hormone?",
+    "options": [
+      "A- Increases it",
+      "B- Decreases it",
+      "C- Neutral",
+      "D- Changes its structure"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question": "TRH stimulates the release of TSH and which other anterior pituitary hormone?",
+    "options": [
+      "A- GH",
+      "B- Prolactin",
+      "C- ACTH",
+      "D- FSH"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 131,
+    "question": "What is the alternative medical name for Growth Hormone?",
+    "options": [
+      "A- Somatostatin",
+      "B- Somatotropin",
+      "C- Somatomedin",
+      "D- Prolactin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question": "Which gland is responsible for the secretion of Growth Hormone?",
+    "options": [
+      "A- Posterior pituitary",
+      "B- Anterior pituitary",
+      "C- Adrenal cortex",
+      "D- Pancreas"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question": "Growth Hormone stimulates linear growth and muscle mass primarily through the secretion of which factor?",
+    "options": [
+      "A- GHRH",
+      "B- IGF-1",
+      "C- Somatostatin",
+      "D- Cortisol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question": "Which organ is the primary source of Insulin-like Growth Factor 1 (IGF-1) in response to Growth Hormone?",
+    "options": [
+      "A- Kidney",
+      "B- Pancreas",
+      "C- Liver",
+      "D- Muscle"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 135,
+    "question": "What is another name for IGF-1?",
+    "options": [
+      "A- Somatotropin",
+      "B- Somatostatin",
+      "C- Somatomedin C",
+      "D- Ghrelin"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 136,
+    "question": "What metabolic effect does Growth Hormone have on insulin resistance?",
+    "options": [
+      "A- Decreases insulin resistance",
+      "B- Increases insulin resistance",
+      "C- Has no effect on insulin",
+      "D- Increases insulin sensitivity"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question": "Because Growth Hormone increases insulin resistance, it is often described as having which type of effect?",
+    "options": [
+      "A- Hypoglycemic",
+      "B- Diabetogenic",
+      "C- Myogenic",
+      "D- Lipogenic"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question": "In what manner is Growth Hormone typically released into the circulation?",
+    "options": [
+      "A- Continuous secretion",
+      "B- Pulsatile release",
+      "C- Circadian steady-state",
+      "D- Only during feeding"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question": "Growth Hormone release occurs in response to which hypothalamic hormone?",
+    "options": [
+      "A- Somatostatin",
+      "B- Growth hormone-releasing hormone (GHRH)",
+      "C- Dopamine",
+      "D- TRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question": "During which physiological state does Growth Hormone secretion typically increase?",
+    "options": [
+      "A- Hyperglycemia",
+      "B- Obesity",
+      "C- (Deep) sleep",
+      "D- Aging"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 141,
+    "question": "How does hypoglycemia affect the secretion of Growth Hormone?",
+    "options": [
+      "A- It inhibits secretion",
+      "B- It increases secretion",
+      "C- It has no effect",
+      "D- It destroys GH receptors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question": "Which of the following conditions is an inhibitor of Growth Hormone secretion?",
+    "options": [
+      "A- Exercise",
+      "B- Puberty",
+      "C- Obesity",
+      "D- Stress"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 143,
+    "question": "Which hypothalamic hormone serves as a major inhibitor of Growth Hormone release?",
+    "options": [
+      "A- GHRH",
+      "B- Somatostatin",
+      "C- GnRH",
+      "D- Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 144,
+    "question": "How does aging influence the secretion of Growth Hormone?",
+    "options": [
+      "A- It increases secretion",
+      "B- It decreases secretion",
+      "C- Secretion remains constant",
+      "D- Secretion becomes continuous"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 145,
+    "question": "Which regulatory molecule secreted by the liver provides negative feedback to inhibit GH secretion?",
+    "options": [
+      "A- Albumin",
+      "B- Somatomedin",
+      "C- Bilirubin",
+      "D- Angiotensinogen"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question": "Excess secretion of Growth Hormone in adults leads to which clinical condition?",
+    "options": [
+      "A- Gigantism",
+      "B- Acromegaly",
+      "C- Dwarfism",
+      "D- Cretinism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question": "Excess secretion of Growth Hormone in children results in which condition?",
+    "options": [
+      "A- Acromegaly",
+      "B- Gigantism",
+      "C- Marfan syndrome",
+      "D- Rickets"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question": "What is the most common cause of excess Growth Hormone secretion?",
+    "options": [
+      "A- Adrenal hyperplasia",
+      "B- Pituitary adenoma",
+      "C- Hypothalamic atrophy",
+      "D- Thyroiditis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question": "Which of the following is a medical treatment for excess Growth Hormone secretion?",
+    "options": [
+      "A- GHRH analogs",
+      "B- Somatostatin analogs",
+      "C- Insulin therapy",
+      "D- Prolactin inhibitors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question": "Name a specific somatostatin analog used to treat Acromegaly.",
+    "options": [
+      "A- Octreotide",
+      "B- Leuprolide",
+      "C- Teriparatide",
+      "D- Desmopressin"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question": "IGF-1 promotes bone and soft tissue growth by increasing the uptake of which substance?",
+    "options": [
+      "A- Glucose",
+      "B- Amino acids",
+      "C- Fatty acids",
+      "D- Calcium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question": "IGF-1 stimulates the synthesis of which cartilage-specific component?",
+    "options": [
+      "A- Collagen",
+      "B- Chondroitin sulfate",
+      "C- Keratin",
+      "D- Myelin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question": "What is the effect of Growth Hormone/IGF-1 on cell size and number?",
+    "options": [
+      "A- It decreases cell size",
+      "B- It increases both cell size and number",
+      "C- It only increases cell number",
+      "D- It has no effect on cell size"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 154,
+    "question": "How does IGF-1 affect glucose uptake in adipose tissue?",
+    "options": [
+      "A- Increases it",
+      "B- Decreases it",
+      "C- It has no effect",
+      "D- It causes immediate glucose storage"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 155,
+    "question": "What is the effect of IGF-1 on lipolysis in adipose tissue?",
+    "options": [
+      "A- Decreases it",
+      "B- Increases it",
+      "C- Stops it completely",
+      "D- Converts lipids to proteins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question": "What is another name for Antidiuretic Hormone (ADH)?",
+    "options": [
+      "A- Oxytocin",
+      "B- Vasopressin",
+      "C- Aldosterone",
+      "D- Renin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 157,
+    "question": "In which specific hypothalamic nuclei is ADH synthesized?",
+    "options": [
+      "A- Arcuate and preoptic nuclei",
+      "B- Supraoptic and paraventricular nuclei",
+      "C- Ventromedial and lateral nuclei",
+      "D- Mammillary and posterior nuclei"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question": "Where is ADH stored and eventually secreted from?",
+    "options": [
+      "A- Anterior pituitary",
+      "B- Posterior pituitary",
+      "C- Hypothalamus",
+      "D- Adrenal medulla"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question": "Which receptor type does ADH use to regulate blood pressure?",
+    "options": [
+      "A- V1-receptors",
+      "B- V2-receptors",
+      "C- Beta-1 receptors",
+      "D- Alpha-2 receptors"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question": "Which receptor type does ADH use to regulate serum osmolality?",
+    "options": [
+      "A- V1-receptors",
+      "B- V2-receptors",
+      "C- Muscarinic receptors",
+      "D- Nicotinic receptors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 161,
+    "question": "What is the primary function of ADH regarding serum osmolality?",
+    "options": [
+      "A- Increases serum osmolality",
+      "B- Decreases serum osmolality",
+      "C- Maintains serum osmolality at zero",
+      "D- Has no effect on osmolality"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question": "How does ADH affect urine osmolality?",
+    "options": [
+      "A- Decreases urine osmolality",
+      "B- Increases urine osmolality",
+      "C- Keeps urine osmolality equal to serum",
+      "D- It neutralizes urine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question": "Through what mechanism does ADH regulate water in the kidney?",
+    "options": [
+      "A- Sodium-potassium pump activation",
+      "B- Aquaporin channel insertion",
+      "C- Decreasing glomerular filtration rate",
+      "D- Stimulating renin release"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question": "In which specific cells of the renal collecting duct does ADH act?",
+    "options": [
+      "A- Intercalated cells",
+      "B- Principal cells",
+      "C- Macula densa cells",
+      "D- Podocytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question": "In central diabetes insipidus (DI), how are ADH levels affected?",
+    "options": [
+      "A- They are elevated",
+      "B- They are decreased",
+      "C- They are normal",
+      "D- They are undetectable"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 166,
+    "question": "In nephrogenic diabetes insipidus, what is the status of ADH levels?",
+    "options": [
+      "A- Decreased",
+      "B- Normal or increased",
+      "C- Extremely low",
+      "D- They are always zero"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question": "Which medication is an ADH analog used to treat central diabetes insipidus?",
+    "options": [
+      "A- Vasopressin",
+      "B- Desmopressin",
+      "C- Oxytocin",
+      "D- Furosemide"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question": "Besides central DI, what other common condition is treated with Desmopressin?",
+    "options": [
+      "A- Hypertension",
+      "B- Nocturnal enuresis",
+      "C- Hyperglycemia",
+      "D- Obesity"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question": "Vasopressin can be used as a potent vasopressor in which medical emergency to increase organ perfusion?",
+    "options": [
+      "A- Hypoglycemic coma",
+      "B- Septic shock",
+      "C- Asthma attack",
+      "D- Diabetic ketoacidosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 170,
+    "question": "What is the primary regulator of ADH secretion?",
+    "options": [
+      "A- Blood glucose",
+      "B- Plasma osmolality",
+      "C- Body temperature",
+      "D- Serum potassium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question": "Which of the following stimulators causes an increase in ADH secretion?",
+    "options": [
+      "A- Hypervolemia",
+      "B- Hypovolemia",
+      "C- Low plasma osmolality",
+      "D- High serum volume"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 172,
+    "question": "What is the effect of ADH on urine volume?",
+    "options": [
+      "A- Increases it",
+      "B- Decreases it",
+      "C- No effect",
+      "D- Causes polyuria"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question": "In the hypothalamus, ADH and Oxytocin are synthesized. Where are they then transported for storage?",
+    "options": [
+      "A- Anterior pituitary",
+      "B- Posterior pituitary",
+      "C- Thalamus",
+      "D- Pineal gland"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question": "What happens to serum osmolality when ADH levels are high?",
+    "options": [
+      "A- It rises",
+      "B- It falls",
+      "C- It remains unchanged",
+      "D- It fluctuates wildly"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question": "Which of the following is a symptom of Growth Hormone deficiency (implied as opposite of excess)?",
+    "options": [
+      "A- Gigantism",
+      "B- Failure to grow linearly",
+      "C- Acromegaly",
+      "D- Hyperglycemia"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 176,
+    "question": "According to the GH diagram, which condition provides positive feedback to GHRH?",
+    "options": [
+      "A- Hyperglycemia",
+      "B- Hypoglycemia",
+      "C- Obesity",
+      "D- Aging"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question": "The insertion of aquaporin channels by ADH occurs in which part of the renal tubule?",
+    "options": [
+      "A- Proximal convoluted tubule",
+      "B- Medullary collecting duct",
+      "C- Descending loop of Henle",
+      "D- Bowman's capsule"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question": "IGF-1 stimulates the synthesis of which genetic materials?",
+    "options": [
+      "A- Proteins only",
+      "B- DNA and RNA",
+      "C- Lipids",
+      "D- ATP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question": "Growth Hormone secretion is high during which stage of life?",
+    "options": [
+      "A- Senescence",
+      "B- Puberty",
+      "C- Early adulthood only",
+      "D- It is never high"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question": "What is the primary stimulus for the release of Somatomedin from the liver?",
+    "options": [
+      "A- Insulin",
+      "B- Growth Hormone (GH)",
+      "C- Glucagon",
+      "D- Somatostatin"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 181,
+    "question": "Which gland is the primary source of prolactin secretion?",
+    "options": [
+      "A- Posterior pituitary",
+      "B- Anterior pituitary",
+      "C- Hypothalamus",
+      "D- Adrenal cortex"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 182,
+    "question": "Prolactin is structurally homologous to which other hormone?",
+    "options": [
+      "A- Insulin",
+      "B- Growth hormone",
+      "C- ACTH",
+      "D- TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question": "What is the primary function of prolactin in the breast?",
+    "options": [
+      "A- Stimulates milk let-down",
+      "B- Stimulates milk production",
+      "C- Decreases glandular tissue",
+      "D- Inhibits lactogenesis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question": "How does prolactin inhibit ovulation in females and spermatogenesis in males?",
+    "options": [
+      "A- By stimulating TSH",
+      "B- By inhibiting GnRH synthesis and release",
+      "C- By increasing dopamine",
+      "D- By stimulating FSH and LH directly"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 185,
+    "question": "Which condition is clinically associated with elevated prolactin levels in both genders?",
+    "options": [
+      "A- Increased fertility",
+      "B- Infertility",
+      "C- Weight gain",
+      "D- Hyperactivity"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 186,
+    "question": "In females, what is a common clinical sign of hyperprolactinemia involving milk discharge?",
+    "options": [
+      "A- Amenorrhea",
+      "B- Galactorrhea",
+      "C- Osteoporosis",
+      "D- Hirsutism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question": "Hyperprolactinemia in females can lead to the absence of menstruation, known as:",
+    "options": [
+      "A- Menorrhagia",
+      "B- Amenorrhea",
+      "C- Dysmenorrhea",
+      "D- Oligomenorrhea"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 188,
+    "question": "What bone-related condition can develop in females with chronic hyperprolactinemia?",
+    "options": [
+      "A- Osteopetrosis",
+      "B- Osteoporosis",
+      "C- Osteosarcoma",
+      "D- Osteoarthritis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question": "In males, elevated prolactin levels can cause the development of breast tissue, known as:",
+    "options": [
+      "A- Gynecomastia",
+      "B- Galactorrhea",
+      "C- Hirsutism",
+      "D- Cryptorchidism"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question": "Which of the following is a common symptom of hyperprolactinemia in males?",
+    "options": [
+      "A- Increased libido",
+      "B- Decreased libido",
+      "C- Increased sperm count",
+      "D- Excessive hair growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 191,
+    "question": "Besides decreased libido, what other reproductive symptom occurs in males with high prolactin?",
+    "options": [
+      "A- Priapism",
+      "B- Impotence",
+      "C- Precocious puberty",
+      "D- Testicular hypertrophy"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question": "Which neurotransmitter tonically inhibits prolactin secretion from the anterior pituitary?",
+    "options": [
+      "A- Serotonin",
+      "B- Dopamine",
+      "C- Acetylcholine",
+      "D- Norepinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 193,
+    "question": "From which hypothalamic pathway is dopamine released to inhibit prolactin?",
+    "options": [
+      "A- Nigrostriatal pathway",
+      "B- Tuberoinfundibular pathway",
+      "C- Mesolimbic pathway",
+      "D- Mesocortical pathway"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question": "Prolactin regulates its own secretion by increasing the synthesis of which substance in the hypothalamus?",
+    "options": [
+      "A- TRH",
+      "B- Dopamine",
+      "C- GHRH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question": "Which hypothalamic releasing hormone can stimulate prolactin secretion, particularly in hypothyroidism?",
+    "options": [
+      "A- CRH",
+      "B- TRH",
+      "C- GHRH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question": "In primary or secondary hypothyroidism, increased levels of which hormone lead to hyperprolactinemia?",
+    "options": [
+      "A- TSH",
+      "B- TRH",
+      "C- T4",
+      "D- T3"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 197,
+    "question": "Between Dopamine and TRH, which has a stronger effect on the regulation of prolactin?",
+    "options": [
+      "A- TRH",
+      "B- Dopamine",
+      "C- They are equal",
+      "D- It depends on the age"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question": "Which class of drugs is used to inhibit prolactin secretion in the treatment of prolactinoma?",
+    "options": [
+      "A- Dopamine antagonists",
+      "B- Dopamine agonists",
+      "C- Serotonin reuptake inhibitors",
+      "D- Beta-blockers"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question": "Which of the following is a dopamine agonist used to treat prolactinoma?",
+    "options": [
+      "A- Haloperidol",
+      "B- Bromocriptine",
+      "C- Metoclopramide",
+      "D- Risperidone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 200,
+    "question": "In addition to Bromocriptine, which other dopamine agonist is mentioned for inhibiting prolactin?",
+    "options": [
+      "A- Chlorpromazine",
+      "B- Cabergoline",
+      "C- Olanzapine",
+      "D- Clozapine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 201,
+    "question": "Dopamine antagonists, such as antipsychotics, have what effect on prolactin secretion?",
+    "options": [
+      "A- They inhibit it",
+      "B- They stimulate it",
+      "C- They have no effect",
+      "D- They decrease its half-life"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question": "Which gastrointestinal medication is a dopamine antagonist that can stimulate prolactin secretion?",
+    "options": [
+      "A- Omeprazole",
+      "B- Metoclopramide",
+      "C- Ranitidine",
+      "D- Loperamide"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 203,
+    "question": "What is the effect of estrogens (e.g., OCPs, pregnancy) on prolactin secretion?",
+    "options": [
+      "A- They inhibit it",
+      "B- They stimulate it",
+      "C- They destroy prolactin receptors",
+      "D- They convert prolactin to GH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 204,
+    "question": "Which external sensory stimulus can trigger prolactin release via higher cortical centers?",
+    "options": [
+      "A- Loud noise",
+      "B- Sight or cry of a baby",
+      "C- Bright light",
+      "D- Specific smells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question": "Nipple stimulation stimulates prolactin release. Which pathway does this travel through?",
+    "options": [
+      "A- Bloodstream",
+      "B- Chest wall injury (via ANS)",
+      "C- Lymphatic system",
+      "D- Direct pituitary stimulation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question": "How does renal failure affect prolactin levels?",
+    "options": [
+      "A- Decreases levels due to low production",
+      "B- Increases levels due to reduced elimination",
+      "C- Levels remain normal",
+      "D- Causes prolactin to be filtered faster"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 207,
+    "question": "Which of the following is a cause of reduced prolactin elimination?",
+    "options": [
+      "A- Liver cirrhosis",
+      "B- Renal failure",
+      "C- Heart failure",
+      "D- Pancreatitis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question": "According to the diagram, which hypothalamic hormone inhibits GnRH?",
+    "options": [
+      "A- TRH",
+      "B- Prolactin",
+      "C- Dopamine",
+      "D- GHRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question": "Inhibition of GnRH by prolactin leads to a decrease in which two gonadotropins?",
+    "options": [
+      "A- TSH and ACTH",
+      "B- FSH and LH",
+      "C- GH and MSH",
+      "D- ADH and Oxytocin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 210,
+    "question": "Which of the following medications is listed as a potential cause of increased prolactin?",
+    "options": [
+      "A- Aspirin",
+      "B- Antipsychotics",
+      "C- Penicillin",
+      "D- Statins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question": "The 'let-down' of milk is triggered by oxytocin, but the actual production is triggered by:",
+    "options": [
+      "A- Estrogen",
+      "B- Prolactin",
+      "C- Progesterone",
+      "D- Insulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 212,
+    "question": "Which part of the pituitary contains the pituicytes (implied context from anatomy, though focuses on the Prolactin diagram area)?",
+    "options": [
+      "A- Anterior pituitary",
+      "B- Posterior pituitary",
+      "C- Intermediate lobe",
+      "D- Hypothalamus"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question": "Does dopamine provide a positive or negative signal to the anterior pituitary regarding prolactin?",
+    "options": [
+      "A- Positive",
+      "B- Negative",
+      "C- Variable",
+      "D- Neutral"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question": "According to the diagram, what is the effect of estrogen on the anterior pituitary?",
+    "options": [
+      "A- Inhibition of prolactin",
+      "B- Stimulation of prolactin",
+      "C- Destruction of acidophils",
+      "D- No effect"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 215,
+    "question": "Chest wall injury can lead to high prolactin levels by acting through which system?",
+    "options": [
+      "A- Endocrine system only",
+      "B- Autonomic nervous system (ANS)",
+      "C- Exocrine system",
+      "D- Circulatory system"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 216,
+    "question": "Reduced GnRH due to prolactin directly inhibits which male process?",
+    "options": [
+      "A- Hair growth",
+      "B- Spermatogenesis",
+      "C- Urination",
+      "D- Muscle contraction"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question": "Reduced GnRH due to prolactin directly inhibits which female process?",
+    "options": [
+      "A- Lactation",
+      "B- Ovulation",
+      "C- Digestion",
+      "D- Sleep"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question": "In the negative feedback loop, Prolactin acts on the Hypothalamus to increase secretion of:",
+    "options": [
+      "A- TRH",
+      "B- Dopamine",
+      "C- GnRH",
+      "D- GHRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 219,
+    "question": "Is prolactin considered a peptide hormone (based on its homology to GH)?",
+    "options": [
+      "A- Yes",
+      "B- No",
+      "C- It is a steroid",
+      "D- It is a catecholamine"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question": "Which of the following is NOT a stimulus for prolactin release based on the text?",
+    "options": [
+      "A- TRH",
+      "B- Dopamine",
+      "C- Pregnancy",
+      "D- Nipple stimulation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question": "Hyperprolactinemia causes osteoporosis in females primarily by inhibiting which axis?",
+    "options": [
+      "A- Pituitary-Adrenal",
+      "B- Pituitary-Gonadal",
+      "C- Pituitary-Thyroid",
+      "D- Hypothalamic-Growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 222,
+    "question": "Which specific cells in the anterior pituitary secrete prolactin?",
+    "options": [
+      "A- Somatotrophs",
+      "B- Lactotrophs",
+      "C- Corticotrophs",
+      "D- Thyrotrophs"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question": "Prolactin belongs to which family of receptors?",
+    "options": [
+      "A- G-protein coupled",
+      "B- Janus Kinase (JAK/STAT)",
+      "C- Tyrosine kinase",
+      "D- Intracellular"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 224,
+    "question": "Does prolactin have a role in stimulating the immune system (foundational knowledge related to GH homology)?",
+    "options": [
+      "A- Yes",
+      "B- No",
+      "C- It is exclusively for lactation",
+      "D- It suppresses immunity"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question": "What is the effect of prolactin on the release of FSH from the pituitary?",
+    "options": [
+      "A- Stimulates",
+      "B- Inhibits (indirectly via GnRH)",
+      "C- No effect",
+      "D- Potentiates"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 226,
+    "question": "Which of the following is true regarding dopamine's inhibition of prolactin?",
+    "options": [
+      "A- It is phasic",
+      "B- It is tonic",
+      "C- It only occurs at night",
+      "D- It is stimulated by estrogen"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 227,
+    "question": "Which of the following is a symptom of hyperprolactinemia in a 30-year-old male?",
+    "options": [
+      "A- Increased beard growth",
+      "B- Impotence",
+      "C- Deeper voice",
+      "D- Weight loss"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 228,
+    "question": "The synthesis of milk by prolactin occurs in which part of the breast?",
+    "options": [
+      "A- Adipose tissue",
+      "B- Alveolar cells",
+      "C- Nipple epidermis",
+      "D- Suspensory ligaments"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 229,
+    "question": "Can high levels of prolactin cause a person to feel 'protective' (social bonding aspect)?",
+    "options": [
+      "A- Yes",
+      "B- No",
+      "C- It only causes physical symptoms",
+      "D- It causes aggression"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question": "Which of the following is a contraindication for using dopamine agonists?",
+    "options": [
+      "A- Hyperprolactinemia",
+      "B- Psychosis (due to risk of worsening)",
+      "C- Parkinson's disease",
+      "D- Infertility"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 230,
+    "question": "Which of the following is the full name of the thyroid hormone T3?",
+    "options": [
+      "A- Thyroxine",
+      "B- Triiodothyronine",
+      "C- Tetraiodothyronine",
+      "D- Thyroglobulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question": "Which of the following is the full name of the thyroid hormone T4?",
+    "options": [
+      "A- Triiodothyronine",
+      "B- Thyroxine",
+      "C- Reverse T3",
+      "D- Thyroid-stimulating hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 232,
+    "question": "Which essential trace element is a required component of both T3 and T4?",
+    "options": [
+      "A- Iron",
+      "B- Iodine",
+      "C- Zinc",
+      "D- Selenium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 233,
+    "question": "What is the primary physiological role of thyroid hormones in the body?",
+    "options": [
+      "A- Regulation of blood calcium",
+      "B- Control of the body's metabolic rate",
+      "C- Inhibition of growth hormone",
+      "D- Regulation of blood glucose only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 234,
+    "question": "In which specific structure of the thyroid gland are thyroid hormones produced?",
+    "options": [
+      "A- Parafollicular cells",
+      "B- Thyroid follicles",
+      "C- Adrenal cortex",
+      "D- Medullary cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question": "Which hormone is the major product directly secreted by the thyroid gland?",
+    "options": [
+      "A- T3",
+      "B- T4",
+      "C- Reverse T3",
+      "D- Calcitonin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question": "Which enzyme is responsible for converting T4 to the more active T3 in peripheral tissues?",
+    "options": [
+      "A- Thyroid peroxidase",
+      "B- 5'-deiodinase",
+      "C- 1-alpha-hydroxylase",
+      "D- Aromatase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 237,
+    "question": "Which of the following hormones is an activator of the 5'-deiodinase pathway?",
+    "options": [
+      "A- Glucocorticoids",
+      "B- Growth hormone",
+      "C- Beta-blockers",
+      "D- Propylthiouracil"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 238,
+    "question": "Which class of drugs is known to inhibit the peripheral conversion of T4 to T3?",
+    "options": [
+      "A- ACE inhibitors",
+      "B- Beta-blockers",
+      "C- Calcium channel blockers",
+      "D- Statins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 239,
+    "question": "Which antithyroid medication inhibits both thyroid peroxidase and peripheral 5'-deiodinase?",
+    "options": [
+      "A- Methimazole",
+      "B- Propylthiouracil (PTU)",
+      "C- Levothyroxine",
+      "D- Radioactive iodine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question": "Which inactive byproduct is produced from the peripheral conversion of T4?",
+    "options": [
+      "A- Active T3",
+      "B- Reverse T3 (rT3)",
+      "C- Thyroxine",
+      "D- Monoiodotyrosine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question": "The production of metabolically inactive reverse T3 (rT3) is increased by which of the following?",
+    "options": [
+      "A- Growth hormone",
+      "B- Glucocorticoids",
+      "C- Insulin",
+      "D- Epinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question": "Thyroid peroxidase (TPO) is involved in which of the following processes?",
+    "options": [
+      "A- Proteolysis of thyroglobulin",
+      "B- Oxidation and organification of iodine",
+      "C- Peripheral conversion of T4 to T3",
+      "D- Transport of iodine into the cell"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question": "In the thyroid gland, the coupling of two DIT (diiodotyrosine) molecules results in the formation of:",
+    "options": [
+      "A- T3",
+      "B- T4",
+      "C- Reverse T3",
+      "D- Thyroglobulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question": "The coupling of one MIT (monoiodotyrosine) and one DIT (diiodotyrosine) molecule results in the formation of:",
+    "options": [
+      "A- T4",
+      "B- T3",
+      "C- TSH",
+      "D- Iodine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question": "Which of the following medications acts by inhibiting the enzyme thyroid peroxidase?",
+    "options": [
+      "A- Levothyroxine",
+      "B- Methimazole",
+      "C- Propranolol",
+      "D- Hydrocortisone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 246,
+    "question": "What is the Wolff-Chaikoff effect?",
+    "options": [
+      "A- Increased T3 production due to low iodine",
+      "B- Temporary shutdown of thyroid peroxidase due to excess iodine",
+      "C- Permanent hyperthyroidism after iodine exposure",
+      "D- Increased sensitivity to TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 247,
+    "question": "Of the circulating thyroid hormones, which form is physiologically active?",
+    "options": [
+      "A- Bound hormone",
+      "B- Free hormone",
+      "C- Thyroglobulin-linked hormone",
+      "D- rT3"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question": "Which thyroid hormone has a much greater affinity for the nuclear thyroid receptor?",
+    "options": [
+      "A- T4",
+      "B- T3",
+      "C- rT3",
+      "D- TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 249,
+    "question": "In the '7 B's' mnemonic for T3 functions, which 'B' refers to the development of the central nervous system?",
+    "options": [
+      "A- Bone growth",
+      "B- Brain maturation",
+      "C- Beta-adrenergic effects",
+      "D- Basal metabolic rate"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 250,
+    "question": "Thyroid hormone promotes bone growth through synergism with which of the following?",
+    "options": [
+      "A- Insulin",
+      "B- GH and IGF-1",
+      "C- Cortisol",
+      "D- Parathyroid hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 251,
+    "question": "Thyroid hormone increases heart rate and contractility by increasing the expression of which receptors?",
+    "options": [
+      "A- Alpha-1 receptors",
+      "B- Beta-1 receptors",
+      "C- Muscarinic receptors",
+      "D- Nicotinic receptors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question": "Which medication is used to alleviate the adrenergic symptoms of thyrotoxicosis?",
+    "options": [
+      "A- PTU",
+      "B- Beta-blockers",
+      "C- Aspirin",
+      "D- Penicillin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 253,
+    "question": "How does thyroid hormone increase the basal metabolic rate (BMR)?",
+    "options": [
+      "A- By inhibiting the Na+/K+-ATPase",
+      "B- By increasing the activity of Na+/K+-ATPase",
+      "C- By decreasing oxygen consumption",
+      "D- By lowering body temperature"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question": "Thyroid hormone increases blood sugar levels through which of the following processes?",
+    "options": [
+      "A- Glycogenesis",
+      "B- Glycogenolysis and gluconeogenesis",
+      "C- Inhibition of lipolysis",
+      "D- Decreasing glucose absorption"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 255,
+    "question": "What is the effect of thyroid hormone on lipid metabolism?",
+    "options": [
+      "A- Stimulates lipogenesis",
+      "B- Stimulates lipolysis",
+      "C- Decreases free fatty acids",
+      "D- Has no effect on lipids"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 256,
+    "question": "Which 'B' in the T3 functions mnemonic relates to the respiratory system in newborns?",
+    "options": [
+      "A- Basal metabolic rate",
+      "B- Babies (surfactant synthesis)",
+      "C- Brain maturation",
+      "D- Blood sugar"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 257,
+    "question": "Which hypothalamic hormone stimulates the release of TSH?",
+    "options": [
+      "A- GHRH",
+      "B- TRH",
+      "C- CRH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 258,
+    "question": "Thyroid-stimulating immunoglobulin (TSI) is a hallmark of which condition?",
+    "options": [
+      "A- Hashimoto thyroiditis",
+      "B- Graves disease",
+      "C- Riedel thyroiditis",
+      "D- Iodine deficiency"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 259,
+    "question": "Which mechanism describes how free T3 and T4 regulate their own production at the pituitary level?",
+    "options": [
+      "A- Increasing sensitivity to TRH",
+      "B- Decreasing sensitivity to TRH",
+      "C- Increasing TSH secretion",
+      "D- Stimulating TRH release"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 260,
+    "question": "What happens to TRH secretion from the hypothalamus when free T3 and T4 levels are high?",
+    "options": [
+      "A- TRH secretion increases",
+      "B- TRH secretion decreases",
+      "C- TRH secretion stays the same",
+      "D- TRH is converted to TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question": "What is the name of the primary protein that binds most T3 and T4 in the blood?",
+    "options": [
+      "A- Albumin",
+      "B- Thyroxine-binding globulin (TBG)",
+      "C- Transthyretin",
+      "D- Hemoglobin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 262,
+    "question": "Thyroid hormone that is bound to TBG is considered to be in what state?",
+    "options": [
+      "A- Active",
+      "B- Inactive",
+      "C- Toxic",
+      "D- Partially active"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question": "How does pregnancy or OCP use affect total T4 levels?",
+    "options": [
+      "A- Decreases total T4",
+      "B- Increases total T4",
+      "C- Has no effect on total T4",
+      "D- Decreases TBG"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 264,
+    "question": "Why do total T3/T4 levels increase during pregnancy?",
+    "options": [
+      "A- Because the thyroid gland becomes hyperactive",
+      "B- Estrogen increases the production of TBG",
+      "C- Thyroid hormone clearance increases",
+      "D- Pregnancy causes iodine deficiency"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 265,
+    "question": "Which of the following conditions leads to a decrease in TBG levels?",
+    "options": [
+      "A- Pregnancy",
+      "B- Nephrotic syndrome",
+      "C- OCP use",
+      "D- Hyperestrogenism"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 266,
+    "question": "Besides nephrotic syndrome, which liver condition results in decreased TBG?",
+    "options": [
+      "A- Hepatitis A",
+      "B- Cirrhosis",
+      "C- Liver cysts",
+      "D- Hemangioma"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question": "Although thyroid hormones are lipophilic, they require what to diffuse into the cell?",
+    "options": [
+      "A- ATP",
+      "B- Specific transporters (facilitated diffusion)",
+      "C- Simple diffusion only",
+      "D- Endocytosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question": "According to the diagram, iodine ($I^-$) enters the thyroid follicular cell from the blood via which mechanism?",
+    "options": [
+      "A- $I^-$ channel",
+      "B- $Na^+/I^-$ symporter",
+      "C- $K^+/I^-$ exchanger",
+      "D- Facilitated diffusion"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 269,
+    "question": "What is the large scaffold protein where thyroid hormones are synthesized and stored in the follicle?",
+    "options": [
+      "A- Thyroid peroxidase",
+      "B- Thyroglobulin (TG)",
+      "C- TBG",
+      "D- Albumin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question": "The step where iodine is added to thyroglobulin is called:",
+    "options": [
+      "A- Oxidation",
+      "B- Organification",
+      "C- Coupling",
+      "D- Proteolysis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question": "According to the diagram, thyroid hormones are released into circulation following the endocytosis of TG and the action of:",
+    "options": [
+      "A- Kinases",
+      "B- Proteases",
+      "C- Dehydrogenases",
+      "D- Polymerases"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question": "Which hormone activates the Na+/I- symporter (implied via TSH stimulation pathway)?",
+    "options": [
+      "A- TRH",
+      "B- TSH",
+      "C- T3",
+      "D- PTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question": "Which of the following is a symptom of increased BMR caused by thyroid hormone?",
+    "options": [
+      "A- Decreased heart rate",
+      "B- Increased body temperature",
+      "C- Decreased respiratory rate",
+      "D- Weight gain"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question": "The Wolff-Chaikoff effect is described as a 'protective' mechanism. What does it protect against?",
+    "options": [
+      "A- Iodine deficiency",
+      "B- Excessive thyroid hormone production after iodine load",
+      "C- Thyroid cancer",
+      "D- Goiter development"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question": "Which specific enzyme converts T4 to T3 and is inhibited by PTU?",
+    "options": [
+      "A- Thyroid peroxidase",
+      "B- 5'-deiodinase",
+      "C- Adenylate cyclase",
+      "D- Phospholipase C"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 276,
+    "question": "What is the charge/nature of thyroid hormones that prevents them from simple diffusion despite being lipophilic?",
+    "options": [
+      "A- They are too large",
+      "B- They have charged amino acids",
+      "C- They are highly non-polar",
+      "D- They are water-soluble"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question": "Which gland secretes TRH?",
+    "options": [
+      "A- Anterior pituitary",
+      "B- Hypothalamus",
+      "C- Thyroid gland",
+      "D- Posterior pituitary"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question": "TSI acts on which specific receptors in Graves disease?",
+    "options": [
+      "A- TRH receptors",
+      "B- TSH receptors",
+      "C- T3 receptors",
+      "D- Iodine symporters"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question": "What is the relationship between T3/T4 and TSH levels in a healthy negative feedback loop?",
+    "options": [
+      "A- High T3/T4 leads to high TSH",
+      "B- High T3/T4 leads to low TSH",
+      "C- Low T3/T4 leads to low TSH",
+      "D- There is no relationship"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question": "Coupling of iodinated tyrosine residues occurs within which molecule?",
+    "options": [
+      "A- Albumin",
+      "B- Thyroglobulin (TG)",
+      "C- Thyroid peroxidase",
+      "D- TBG"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 281,
+    "question": "In the thyroid follicle, where does 'organification' specifically take place?",
+    "options": [
+      "A- Inside the nucleus",
+      "B- Follicular lumen (at the apical membrane)",
+      "C- Inside the mitochondria",
+      "D- In the blood stream"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 282,
+    "question": "What happens to the level of 'free' T4 initially when TBG levels increase, before equilibrium is reached?",
+    "options": [
+      "A- It increases",
+      "B- It decreases",
+      "C- It stays the same",
+      "D- It vanishes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question": "Which of the following describes the activity of reverse T3 (rT3)?",
+    "options": [
+      "A- Most active thyroid hormone",
+      "B- Metabolically inactive",
+      "C- Stimulates heart rate",
+      "D- Increases oxygen consumption"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question": "Thyroid hormone effect on CO (Cardiac Output) is primarily:",
+    "options": [
+      "A- Inhibitory",
+      "B- Stimulatory",
+      "C- No effect",
+      "D- Variable"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 285,
+    "question": "Glucocorticoids have what effect on the conversion of T4 to active T3?",
+    "options": [
+      "A- Stimulate it",
+      "B- Inhibit it",
+      "C- No effect",
+      "D- Bypass it"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 286,
+    "question": "Thyroid hormone-induced increase in oxygen consumption leads to an increase in:",
+    "options": [
+      "A- Blood pressure",
+      "B- Respiratory rate",
+      "C- Blood glucose",
+      "D- Sleep duration"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 287,
+    "question": "Which thyroid hormone is produced in larger quantities by the thyroid gland?",
+    "options": [
+      "A- T3",
+      "B- T4",
+      "C- rT3",
+      "D- Calcitonin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 288,
+    "question": "What occurs during the 'oxidation' step of thyroid hormone synthesis?",
+    "options": [
+      "A- $I_2$ is converted to $I^-$",
+      "B- $I^-$ is converted to $I_2$",
+      "C- T4 is converted to T3",
+      "D- TG is broken down"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 289,
+    "question": "What is the primary site of T4 to T3 conversion?",
+    "options": [
+      "A- Thyroid gland",
+      "B- Peripheral tissues (e.g., liver, kidney)",
+      "C- Brain only",
+      "D- Intestines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 290,
+    "question": "In a patient with cirrhosis, what would you expect to happen to the 'total' T4 level?",
+    "options": [
+      "A- Increase",
+      "B- Decrease",
+      "C- Stay the same",
+      "D- Fluctuate"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 291,
+    "question": "In the thyroid follicle, the process of 'coupling' creates T3 and T4 from which precursors?",
+    "options": [
+      "A- Tyrosine and Iodine",
+      "B- MIT and DIT",
+      "C- TSH and TRH",
+      "D- Albumin and Globulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 292,
+    "question": "Which 'B' of T3 function refers to its role in fat breakdown?",
+    "options": [
+      "A- Basal metabolic rate",
+      "B- Break down lipids",
+      "C- Bone growth",
+      "D- Blood sugar"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 293,
+    "question": "TSH is released from which part of the pituitary gland?",
+    "options": [
+      "A- Posterior pituitary",
+      "B- Anterior pituitary",
+      "C- Intermediate lobe",
+      "D- Hypothalamus"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 294,
+    "question": "The $Na^+/I^-$ symporter uses the gradient of which ion to pull iodine into the cell?",
+    "options": [
+      "A- Potassium",
+      "B- Sodium",
+      "C- Calcium",
+      "D- Chloride"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 295,
+    "question": "Which of the following describes the thyroid follicular lumen?",
+    "options": [
+      "A- Filled with blood",
+      "B- Filled with colloid (containing TG)",
+      "C- Empty space",
+      "D- Contains the cell nucleus"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 296,
+    "question": "Which of the following refers to the addition of iodine to tyrosine residues on TG?",
+    "options": [
+      "A- Oxidation",
+      "B- Organification",
+      "C- Coupling",
+      "D- Endocytosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question": "Which hormone is associated with 'facilitated diffusion' through transporters to enter target cells?",
+    "options": [
+      "A- Insulin",
+      "B- Thyroid hormone (T3/T4)",
+      "C- Epinephrine",
+      "D- Growth hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 298,
+    "question": "A patient with nephrotic syndrome loses protein in the urine. This leads to a decrease in:",
+    "options": [
+      "A- Free T4",
+      "B- Thyroxine-binding globulin (TBG)",
+      "C- TSH",
+      "D- Iodine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 299,
+    "question": "Which enzyme is the primary target inhibited by the antithyroid drug Methimazole?",
+    "options": [
+      "A- 5'-deiodinase",
+      "B- Thyroid peroxidase",
+      "C- Protease",
+      "D- Symporter"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 300,
+    "question": "Which specific cell type in the parathyroid gland is responsible for secreting Parathyroid Hormone (PTH)?",
+    "options": [
+      "A- Follicular cells",
+      "B- Chief cells",
+      "C- Parafollicular cells",
+      "D- Oxyphil cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 301,
+    "question": "What is the primary (1°) physiological function of Parathyroid Hormone?",
+    "options": [
+      "A- Increase serum phosphate",
+      "B- Increase free calcium in the blood",
+      "C- Decrease bone resorption",
+      "D- Increase water reabsorption"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 302,
+    "question": "In which part of the renal tubule does PTH increase calcium reabsorption?",
+    "options": [
+      "A- Proximal convoluted tubule (PCT)",
+      "B- Descending limb of loop of Henle",
+      "C- Distal convoluted tubule (DCT)",
+      "D- Collecting duct"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 303,
+    "question": "What is the effect of PTH on phosphate reabsorption in the Proximal Convoluted Tubule (PCT)?",
+    "options": [
+      "A- Increases reabsorption",
+      "B- Decreases reabsorption",
+      "C- No effect on reabsorption",
+      "D- Stimulates phosphate storage"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 304,
+    "question": "Which enzyme does PTH activate in the Proximal Convoluted Tubule to promote Vitamin D maturation?",
+    "options": [
+      "A- 5'-deiodinase",
+      "B- 1α-hydroxylase",
+      "C- 24-hydroxylase",
+      "D- Thyroid peroxidase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 305,
+    "question": "What is the specific name of the active form of Vitamin D produced in the kidney under the influence of PTH?",
+    "options": [
+      "A- 25-OH D3",
+      "B- 7-dehydrocholesterol",
+      "C- 1,25-(OH)2D3 (calcitriol)",
+      "D- Ergocalciferol"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 306,
+    "question": "What happens to urinary cAMP levels in response to PTH activity in the kidney?",
+    "options": [
+      "A- They decrease",
+      "B- They increase",
+      "C- They remain unchanged",
+      "D- cAMP is not found in urine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 307,
+    "question": "PTH stimulates bone resorption by increasing the secretion of which ligand from osteoblasts?",
+    "options": [
+      "A- RANK",
+      "B- RANK-L",
+      "C- Osteoprotegerin",
+      "D- Calcitonin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 308,
+    "question": "Which cells express the RANK receptor that binds with RANK-L to stimulate bone resorption?",
+    "options": [
+      "A- Osteoblasts",
+      "B- Osteocytes",
+      "C- Osteoclasts",
+      "D- Chondrocytes"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 309,
+    "question": "While chronic PTH elevation causes bone resorption, what is the effect of intermittent PTH release on bone?",
+    "options": [
+      "A- Bone destruction",
+      "B- Bone formation",
+      "C- No effect on bone",
+      "D- Increased marrow fat"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 310,
+    "question": "According to the mnemonic provided, PTH can be thought of as the hormone that does what to phosphate?",
+    "options": [
+      "A- Phosphate-Saving Hormone",
+      "B- Phosphate-Trashing Hormone",
+      "C- Phosphate-Building Hormone",
+      "D- Phosphate-Neutralizing Hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 311,
+    "question": "What is the name of the peptide that functions like PTH and is commonly increased in certain malignancies?",
+    "options": [
+      "A- PTH-inhibiting peptide",
+      "B- PTH-related peptide (PTHrP)",
+      "C- Calcitonin-gene related peptide",
+      "D- ADH-like peptide"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 312,
+    "question": "In which type of lung cancer is PTH-related peptide (PTHrP) commonly increased?",
+    "options": [
+      "A- Small cell carcinoma",
+      "B- Adenocarcinoma",
+      "C- Squamous cell carcinoma",
+      "D- Large cell carcinoma"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 313,
+    "question": "Besides lung cancer, which other malignancy is frequently associated with increased PTHrP?",
+    "options": [
+      "A- Gastric carcinoma",
+      "B- Renal cell carcinoma",
+      "C- Colon cancer",
+      "D- Thyroid cancer"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 314,
+    "question": "What is the primary stimulus for the secretion of PTH from the parathyroid glands?",
+    "options": [
+      "A- Increased serum calcium",
+      "B- Decreased serum calcium",
+      "C- Decreased serum phosphate",
+      "D- Increased Vitamin D"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 315,
+    "question": "How do increased serum phosphate levels affect PTH secretion?",
+    "options": [
+      "A- They inhibit PTH secretion",
+      "B- They stimulate PTH secretion",
+      "C- They have no effect on PTH",
+      "D- They cause parathyroid atrophy"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 316,
+    "question": "What is the effect of a moderate decrease in serum magnesium ($Mg^{2+}$) on PTH secretion?",
+    "options": [
+      "A- Decreases PTH secretion",
+      "B- Increases PTH secretion",
+      "C- No effect on PTH secretion",
+      "D- Increases Vitamin D instead"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 317,
+    "question": "What is the paradoxical effect of very low (severe) serum magnesium levels on PTH?",
+    "options": [
+      "A- Massive PTH release",
+      "B- Decreased PTH secretion",
+      "C- No effect on PTH",
+      "D- Permanent PTH activation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 318,
+    "question": "Which of the following is a common cause of decreased serum magnesium that might affect PTH regulation?",
+    "options": [
+      "A- Hypertension",
+      "B- Diuretics",
+      "C- High protein diet",
+      "D- Vitamin C overdose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question": "Which behavioral disorder is listed as a common cause of low magnesium levels?",
+    "options": [
+      "A- Bipolar disorder",
+      "B- Alcohol use disorder",
+      "C- Sleep apnea",
+      "D- Anxiety disorder"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 320,
+    "question": "Which gastrointestinal condition can lead to decreased magnesium and subsequent PTH issues?",
+    "options": [
+      "A- Constipation",
+      "B- Diarrhea",
+      "C- GERD",
+      "D- Gastritis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 321,
+    "question": "Which class of antibiotics is associated with causing low magnesium levels?",
+    "options": [
+      "A- Penicillins",
+      "B- Aminoglycosides",
+      "C- Macrolides",
+      "D- Tetracyclines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 322,
+    "question": "Which ion is considered the 'major regulator' of Parathyroid Hormone release?",
+    "options": [
+      "A- Phosphate ($PO_4^{3-}$)",
+      "B- Calcium ($Ca^{2+}$)",
+      "C- Magnesium ($Mg^{2+}$)",
+      "D- Sodium ($Na^+$)"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 323,
+    "question": "PTH increases intestinal absorption of calcium and phosphate indirectly. Through which molecule does it achieve this?",
+    "options": [
+      "A- Calcitonin",
+      "B- Active Vitamin D (Calcitriol)",
+      "C- PTHrP",
+      "D- Aldosterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question": "Active Vitamin D (1,25-(OH)2D3) acts on the intestines to increase the absorption of which two ions?",
+    "options": [
+      "A- Sodium and Potassium",
+      "B- Calcium and Phosphate",
+      "C- Magnesium and Chloride",
+      "D- Calcium and Magnesium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 325,
+    "question": "Which of the following provides direct negative feedback to inhibit the synthesis of PTH?",
+    "options": [
+      "A- 25-OH D3",
+      "B- 1,25-(OH)2D3",
+      "C- High serum phosphate",
+      "D- RANK-L"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 326,
+    "question": "What overall effect does PTH have on serum phosphate levels?",
+    "options": [
+      "A- Increases serum phosphate",
+      "B- Decreases serum phosphate",
+      "C- No effect on serum phosphate",
+      "D- Causes phosphate to crystallize"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 327,
+    "question": "What is the net effect of PTH on urinary phosphate levels?",
+    "options": [
+      "A- Decreases urinary phosphate",
+      "B- Increases urinary phosphate",
+      "C- No effect on urinary phosphate",
+      "D- Stops phosphate filtration"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 328,
+    "question": "What is the net effect of PTH on urinary calcium levels?",
+    "options": [
+      "A- Increases urinary calcium",
+      "B- Decreases urinary calcium",
+      "C- No effect on urinary calcium",
+      "D- Causes calcium stones instantly"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 329,
+    "question": "The mnemonic 'tri to make D3 in the PCT' helps remember that which enzyme is found in the PCT?",
+    "options": [
+      "A- 5'-deiodinase",
+      "B- 1α-hydroxylase",
+      "C- Adenylate cyclase",
+      "D- Protease"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 330,
+    "question": "How many parathyroid glands are typically shown in the anatomical diagram?",
+    "options": [
+      "A- Two",
+      "B- Four",
+      "C- Six",
+      "D- Eight"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question": "Vitamin D activity on bone results in the release of which two ions?",
+    "options": [
+      "A- Sodium and Calcium",
+      "B- Calcium and Phosphate",
+      "C- Potassium and Magnesium",
+      "D- Phosphate and Magnesium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 332,
+    "question": "According to the diagram, PTH acts on the kidney to increase the reabsorption of:",
+    "options": [
+      "A- Phosphate",
+      "B- Calcium",
+      "C- Magnesium",
+      "D- Glucose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question": "Which precursor molecule is converted by 1α-hydroxylase into 1,25-(OH)2D3?",
+    "options": [
+      "A- Cholesterol",
+      "B- 25-OH D3",
+      "C- 7-dehydrocholesterol",
+      "D- PTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 334,
+    "question": "Besides osteoblasts, which other bone cells secrete RANK-L in response to PTH?",
+    "options": [
+      "A- Osteoclasts",
+      "B- Osteocytes",
+      "C- Chondroblasts",
+      "D- Fibroblasts"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 335,
+    "question": "What is the clinical significance of the cAMP mentioned in the PTH function section?",
+    "options": [
+      "A- It is a marker of PTH activity in the kidney",
+      "B- It inhibits calcium reabsorption",
+      "C- It destroys Vitamin D",
+      "D- It is used for energy in the DCT"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 336,
+    "question": "PTHrP functions like PTH. In a patient with increased PTHrP, what would you expect to happen to serum calcium?",
+    "options": [
+      "A- Decrease",
+      "B- Increase",
+      "C- No change",
+      "D- It becomes bound to protein"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 337,
+    "question": "RANK-L binding to the RANK receptor stimulates the precursors of which cell type?",
+    "options": [
+      "A- Osteoblasts",
+      "B- Osteoclasts",
+      "C- Erythrocytes",
+      "D- Lymphocytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question": "In the renal tubular cells, PTH increases the synthesis of 1,25-(OH)2D3. Where is this hormone primarily utilized for mineral absorption?",
+    "options": [
+      "A- Heart",
+      "B- Intestines",
+      "C- Lungs",
+      "D- Brain"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 339,
+    "question": "What is the net effect of 1,25-(OH)2D3 on serum calcium?",
+    "options": [
+      "A- It lowers serum calcium",
+      "B- It raises serum calcium",
+      "C- It has no effect",
+      "D- It stores calcium in the liver"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 340,
+    "question": "According to the regulation section, which of the following triggers PTH release?",
+    "options": [
+      "A- High ionized calcium",
+      "B- Low ionized calcium",
+      "C- Low serum phosphate",
+      "D- High Vitamin D"
+    ],
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 341,
+    "question": "In which form does the majority of physiologically active calcium exist in the plasma?",
+    "options": [
+      "A- Bound to albumin",
+      "B- Bound to anions",
+      "C- Ionized/free form",
+      "D- Bound to hemoglobin"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 342,
+    "question": "What percentage of plasma calcium is typically in the ionized or free form?",
+    "options": [
+      "A- 15%",
+      "B- 40%",
+      "C- 45%",
+      "D- 90%"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 343,
+    "question": "Approximately what percentage of plasma calcium is bound to the protein albumin?",
+    "options": [
+      "A- 15%",
+      "B- 40%",
+      "C- 45%",
+      "D- 60%"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 344,
+    "question": "What percentage of plasma calcium is generally found bound to anions?",
+    "options": [
+      "A- 5%",
+      "B- 15%",
+      "C- 40%",
+      "D- 45%"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 345,
+    "question": "Which form of calcium serves as the primary (1°) regulator of Parathyroid Hormone (PTH) secretion?",
+    "options": [
+      "A- Calcium bound to albumin",
+      "B- Calcium bound to citrate",
+      "C- Ionized/free calcium",
+      "D- Total serum calcium"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 346,
+    "question": "A change in the concentration of which of the following does NOT directly alter Parathyroid Hormone (PTH) secretion?",
+    "options": [
+      "A- Ionized calcium",
+      "B- Serum pH",
+      "C- Albumin concentration",
+      "D- Phosphate concentration"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 347,
+    "question": "Which ions compete with calcium ($Ca^{2+}$) for binding sites on the albumin protein?",
+    "options": [
+      "A- Sodium ions ($Na^+$)",
+      "B- Potassium ions ($K^+$)",
+      "C- Hydrogen ions ($H^+$)",
+      "D- Magnesium ions ($Mg^{2+}$)"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 348,
+    "question": "What is the effect of an increase in serum pH (alkalemia) on ionized calcium levels?",
+    "options": [
+      "A- Ionized calcium increases",
+      "B- Ionized calcium decreases",
+      "C- Ionized calcium remains unchanged",
+      "D- Total calcium increases"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 349,
+    "question": "In alkalemia, why does the ionized calcium level decrease?",
+    "options": [
+      "A- Calcium is excreted by the kidneys",
+      "B- Albumin binds more calcium due to fewer hydrogen ions",
+      "C- Calcium enters the bone matrix",
+      "D- Calcium is converted to phosphate"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 350,
+    "question": "Which of the following is a clinical symptom of the hypocalcemia induced by alkalemia?",
+    "options": [
+      "A- Bone pain",
+      "B- Carpopedal spasm",
+      "C- Polyuria",
+      "D- Constipation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 351,
+    "question": "Alkalemia-induced hypocalcemia often presents with which sensory symptom?",
+    "options": [
+      "A- Loss of hearing",
+      "B- Paresthesias",
+      "C- Blurred vision",
+      "D- Anosmia"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 352,
+    "question": "How does alkalemia affect the secretion of Parathyroid Hormone (PTH)?",
+    "options": [
+      "A- Increases PTH secretion",
+      "B- Decreases PTH secretion",
+      "C- Has no effect on PTH",
+      "D- Causes parathyroid atrophy"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 353,
+    "question": "What happens to the binding of calcium to albumin during acidemia (low pH)?",
+    "options": [
+      "A- Albumin binds more calcium",
+      "B- Albumin binds less calcium",
+      "C- Albumin denatures and releases all calcium",
+      "D- Albumin concentration increases"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 354,
+    "question": "During acidemia, the increase in hydrogen ions ($H^+$) leads to what change in ionized calcium?",
+    "options": [
+      "A- Decreased ionized calcium",
+      "B- Increased ionized calcium",
+      "C- No change in ionized calcium",
+      "D- Precipitation of calcium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 355,
+    "question": "How does acidemia affect Parathyroid Hormone (PTH) secretion?",
+    "options": [
+      "A- Increases PTH secretion",
+      "B- Decreases PTH secretion",
+      "C- PTH secretion is unaffected",
+      "D- PTH is destroyed in the blood"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question": "Which specific cells of the thyroid gland are the source of calcitonin?",
+    "options": [
+      "A- Follicular cells",
+      "B- Parafollicular cells (C cells)",
+      "C- Chief cells",
+      "D- Oxyphil cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 357,
+    "question": "What is the primary function of calcitonin?",
+    "options": [
+      "A- Increase bone resorption",
+      "B- Decrease bone resorption",
+      "C- Increase intestinal calcium absorption",
+      "D- Increase renal phosphate reabsorption"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 358,
+    "question": "Which hormone does calcitonin oppose in its action on serum calcium?",
+    "options": [
+      "A- Insulin",
+      "B- Thyroid hormone",
+      "C- Parathyroid hormone (PTH)",
+      "D- Aldosterone"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 359,
+    "question": "What is the primary regulator/stimulus for the secretion of calcitonin?",
+    "options": [
+      "A- Decreased serum calcium",
+      "B- Increased serum calcium",
+      "C- Increased serum phosphate",
+      "D- Low pH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 360,
+    "question": "According to the provided mnemonic, calcitonin 'tones down' serum calcium and keeps it in which location?",
+    "options": [
+      "A- Liver",
+      "B- Kidneys",
+      "C- Bones",
+      "D- Muscles"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 361,
+    "question": "Calcitonin lowers serum calcium levels by inhibiting the activity of which specific bone cells?",
+    "options": [
+      "A- Osteoblasts",
+      "B- Osteoclasts",
+      "C- Osteocytes",
+      "D- Chondrocytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 362,
+    "question": "How important is calcitonin in normal human calcium homeostasis?",
+    "options": [
+      "A- It is the most important regulator",
+      "B- It is not important in normal homeostasis",
+      "C- it is only important during exercise",
+      "D- It is secondary only to Vitamin D"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 363,
+    "question": "Which pancreatic cells are responsible for the production of glucagon?",
+    "options": [
+      "A- Alpha cells",
+      "B- Beta cells",
+      "C- Delta cells",
+      "D- Gamma cells"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 364,
+    "question": "What is the primary function of glucagon regarding blood sugar levels?",
+    "options": [
+      "A- Lowers blood sugar",
+      "B- Elevates blood sugar",
+      "C- Has no effect on sugar",
+      "D- Converts sugar to protein"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 365,
+    "question": "Glucagon maintains homeostasis primarily when blood glucose levels are in which state?",
+    "options": [
+      "A- Postprandial (after a meal)",
+      "B- Too low (fasting state)",
+      "C- Extremely high",
+      "D- During sleep only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 366,
+    "question": "Which of the following metabolic processes is promoted by glucagon to increase blood glucose?",
+    "options": [
+      "A- Glycogenesis",
+      "B- Glycogenolysis",
+      "C- Glycolysis",
+      "D- Protein synthesis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 367,
+    "question": "Glucagon promotes the production of glucose from non-carbohydrate sources through which process?",
+    "options": [
+      "A- Gluconeogenesis",
+      "B- Lipogenesis",
+      "C- Ketolysis",
+      "D- Proteolysis"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 368,
+    "question": "What effect does glucagon have on adipose tissue?",
+    "options": [
+      "A- Promotes lipogenesis",
+      "B- Promotes lipolysis",
+      "C- Increases fat storage",
+      "D- Inhibits fatty acid release"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 369,
+    "question": "Glucagon promotes the formation of ketone bodies, a process known as:",
+    "options": [
+      "A- Ketolysis",
+      "B- Ketogenesis",
+      "C- Glycation",
+      "D- Hydrogenation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 370,
+    "question": "What is the primary stimulus for glucagon secretion?",
+    "options": [
+      "A- Hyperglycemia",
+      "B- Hypoglycemia",
+      "C- High insulin levels",
+      "D- High somatostatin levels"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 371,
+    "question": "Which of the following hormones inhibits the secretion of glucagon?",
+    "options": [
+      "A- Epinephrine",
+      "B- Cortisol",
+      "C- Insulin",
+      "D- Growth Hormone"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 372,
+    "question": "Besides insulin, which other pancreatic hormone inhibits glucagon release?",
+    "options": [
+      "A- Somatostatin",
+      "B- Gastrin",
+      "C- Secretin",
+      "D- Motilin"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 373,
+    "question": "Which of the following substances, secreted alongside insulin, also inhibits glucagon?",
+    "options": [
+      "A- Amylin",
+      "B- Glucagon-like peptide",
+      "C- Renin",
+      "D- Pepsin"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question": "How does hyperglycemia affect glucagon secretion?",
+    "options": [
+      "A- It stimulates glucagon secretion",
+      "B- It inhibits glucagon secretion",
+      "C- It has no effect",
+      "D- It increases glucagon sensitivity"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 375,
+    "question": "According to the diagram, calcitonin decreases bone resorption by acting on which specific bone-dissolving cell?",
+    "options": [
+      "A- Osteoblast",
+      "B- Osteoclast",
+      "C- Osteocyte",
+      "D- Macrophage"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 376,
+    "question": "In the diagram of calcium homeostasis, what is shown as being bound to albumin in alkalemia?",
+    "options": [
+      "A- Only hydrogen ions",
+      "B- More calcium ions",
+      "C- Fewer calcium ions",
+      "D- Sodium ions"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 377,
+    "question": "In acidemia, as shown in the diagram, what occupies the binding sites on albumin, displacing calcium?",
+    "options": [
+      "A- Phosphate",
+      "B- Hydrogen ions ($H^+$)",
+      "C- Bicarbonate",
+      "D- Glucose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 378,
+    "question": "What is the relationship between serum $Ca^{2+}$ and calcitonin secretion as shown in the Calcitonin regulation diagram?",
+    "options": [
+      "A- Increasing serum $Ca^{2+}$ stimulates calcitonin",
+      "B- Decreasing serum $Ca^{2+}$ stimulates calcitonin",
+      "C- Serum $Ca^{2+}$ has no effect on calcitonin",
+      "D- Calcitonin stimulates serum $Ca^{2+}$"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 379,
+    "question": "A patient with alkalemia might experience carpopedal spasms due to a decrease in which form of calcium?",
+    "options": [
+      "A- Total calcium",
+      "B- Ionized/free calcium",
+      "C- Calcium bound to albumin",
+      "D- Calcium bound to anions"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 380,
+    "question": "Which form of calcium accounts for approximately 15% of the total plasma calcium?",
+    "options": [
+      "A- Ionized form",
+      "B- Bound to albumin",
+      "C- Bound to anions",
+      "D- Bound to red blood cells"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 381,
+    "question": "Which of the following is true regarding calcium and pH?",
+    "options": [
+      "A- High pH increases ionized calcium",
+      "B- Low pH increases ionized calcium",
+      "C- pH has no effect on calcium binding",
+      "D- Ionized calcium is unaffected by pH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 382,
+    "question": "The parafollicular cells are also known as:",
+    "options": [
+      "A- Alpha cells",
+      "B- Beta cells",
+      "C- C cells",
+      "D- Delta cells"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 383,
+    "question": "Glucagon acts to increase blood sugar primarily during which physiological state?",
+    "options": [
+      "A- Fed state",
+      "B- Fasting state",
+      "C- Exercise only",
+      "D- Stress only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 384,
+    "question": "Which pancreatic hormone is the primary antagonist of glucagon?",
+    "options": [
+      "A- Somatostatin",
+      "B- Amylin",
+      "C- Insulin",
+      "D- Pancreatic polypeptide"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 385,
+    "question": "Which form of calcium is the most reliable indicator of calcium status for PTH regulation?",
+    "options": [
+      "A- Total calcium",
+      "B- Bound calcium",
+      "C- Ionized/free calcium",
+      "D- Anion-bound calcium"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 386,
+    "question": "Alkalemia leads to an increase in albumin-bound calcium, which directly causes what change in ionized calcium?",
+    "options": [
+      "A- Increase",
+      "B- Decrease",
+      "C- No change",
+      "D- Doubling"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 387,
+    "question": "Which form of calcium is considered to be physiologically inactive?",
+    "options": [
+      "A- Ionized/free",
+      "B- Bound to albumin",
+      "C- Total calcium",
+      "D- Both bound to albumin and bound to anions"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 388,
+    "question": "In the context of the diagram, parafollicular cells are located in which organ?",
+    "options": [
+      "A- Pancreas",
+      "B- Parathyroid",
+      "C- Thyroid",
+      "D- Kidney"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 389,
+    "question": "What is the net effect of calcitonin on serum calcium levels?",
+    "options": [
+      "A- Elevation",
+      "B- Reduction",
+      "C- Maintenance of a high level",
+      "D- It has no net effect"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 390,
+    "question": "Hypoglycemia triggers the release of glucagon to maintain what physiological state?",
+    "options": [
+      "A- Blood sugar stability (homeostasis)",
+      "B- Muscle growth",
+      "C- Weight gain",
+      "D- Sleep induction"
+    ],
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 391,
+    "question": "In which part of the pancreatic beta cell is preproinsulin synthesized?",
+    "options": [
+      "A- Golgi apparatus",
+      "B- Rough endoplasmic reticulum (RER)",
+      "C- Smooth endoplasmic reticulum",
+      "D- Mitochondria"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 392,
+    "question": "What is the first step in the conversion of preproinsulin to proinsulin?",
+    "options": [
+      "A- Addition of a sugar group",
+      "B- Cleavage of the 'presignal' sequence",
+      "C- Removal of the C-peptide",
+      "D- Exocytosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 393,
+    "question": "Where is proinsulin stored within the pancreatic beta cell before secretion?",
+    "options": [
+      "A- Nucleus",
+      "B- Secretory granules",
+      "C- Lysosomes",
+      "D- Cytosol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 394,
+    "question": "The cleavage of proinsulin results in the equimolar release of insulin and which other substance?",
+    "options": [
+      "A- Glucagon",
+      "B- C-peptide",
+      "C- Somatostatin",
+      "D- Amylin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 395,
+    "question": "Which substance is present in cases of endogenous insulin secretion but absent in exogenous insulin administration?",
+    "options": [
+      "A- Alpha-chain",
+      "B- C-peptide",
+      "C- Tyrosine kinase",
+      "D- Beta-chain"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 396,
+    "question": "Measurement of which substance helps differentiate factitious hypoglycemia from an insulinoma?",
+    "options": [
+      "A- Glucose",
+      "B- C-peptide",
+      "C- Glycogen",
+      "D- Glucagon"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 397,
+    "question": "Which of the following is an example of increased endogenous insulin secretion where C-peptide would be elevated?",
+    "options": [
+      "A- Type 1 Diabetes Mellitus",
+      "B- Insulinoma",
+      "C- Exogenous insulin injection",
+      "D- Prolonged fasting"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 398,
+    "question": "Besides the liver, which organ is primarily responsible for the clearance of insulin?",
+    "options": [
+      "A- Spleen",
+      "B- Kidneys",
+      "C- Lungs",
+      "D- Heart"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 399,
+    "question": "What type of receptor activity is possessed by the insulin receptor?",
+    "options": [
+      "A- G-protein coupled",
+      "B- Tyrosine kinase activity",
+      "C- Intracellular nuclear receptor",
+      "D- Ligand-gated ion channel"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 400,
+    "question": "Insulin induces glucose uptake into insulin-dependent tissues through which transport mechanism?",
+    "options": [
+      "A- Simple diffusion",
+      "B- Carrier-mediated transport",
+      "C- Active transport against a gradient",
+      "D- Osmosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 401,
+    "question": "What is the effect of insulin on glycogen synthesis and storage?",
+    "options": [
+      "A- Inhibits it",
+      "B- Increases it",
+      "C- Has no effect",
+      "D- Promotes glycogen breakdown"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 402,
+    "question": "How does insulin affect triglyceride synthesis?",
+    "options": [
+      "A- Decreases it",
+      "B- Increases it",
+      "C- Promotes triglyceride breakdown",
+      "D- Converts triglycerides to glucose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 403,
+    "question": "What is the effect of insulin on sodium ($Na^+$) retention in the kidneys?",
+    "options": [
+      "A- Decreases retention",
+      "B- Increases retention",
+      "C- Increases excretion",
+      "D- Has no effect on sodium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 404,
+    "question": "In which tissue does insulin primarily increase protein synthesis?",
+    "options": [
+      "A- Liver",
+      "B- Muscles",
+      "C- Brain",
+      "D- Adipose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 405,
+    "question": "Insulin promotes the cellular uptake of which ion, potentially leading to hypokalemia if excessive?",
+    "options": [
+      "A- Sodium ($Na^+$)",
+      "B- Potassium ($K^+$)",
+      "C- Calcium ($Ca^{2+}$)",
+      "D- Chloride ($Cl^-$)"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 406,
+    "question": "What is the effect of insulin on glucagon release?",
+    "options": [
+      "A- Stimulates it",
+      "B- Decreases it",
+      "C- Has no effect",
+      "D- Increases it via alpha cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 407,
+    "question": "What effect does insulin have on lipolysis in adipose tissue?",
+    "options": [
+      "A- Increases it",
+      "B- Decreases it",
+      "C- Promotes fat breakdown",
+      "D- No effect"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 408,
+    "question": "Which glucose transporter is insulin-dependent?",
+    "options": [
+      "A- GLUT1",
+      "B- GLUT4",
+      "C- GLUT2",
+      "D- GLUT3"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 409,
+    "question": "In which tissues is GLUT4 primarily located?",
+    "options": [
+      "A- Brain and RBCs",
+      "B- Adipose tissue and striated muscle",
+      "C- Liver and kidney",
+      "D- Small intestine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 410,
+    "question": "Which physiological activity can increase the expression of GLUT4 in muscles independent of insulin?",
+    "options": [
+      "A- Sleeping",
+      "B- Exercise",
+      "C- Fasting",
+      "D- Stress"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 411,
+    "question": "Which glucose transporter is found in RBCs, the brain, the cornea, and the placenta?",
+    "options": [
+      "A- GLUT4",
+      "B- GLUT1",
+      "C- GLUT5",
+      "D- SGLT1"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 412,
+    "question": "Which glucose transporter is bidirectional and found in beta islet cells, the liver, and the kidney?",
+    "options": [
+      "A- GLUT1",
+      "B- GLUT2",
+      "C- GLUT3",
+      "D- GLUT4"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 413,
+    "question": "Which transporter is responsible for the uptake of fructose in spermatocytes and the GI tract?",
+    "options": [
+      "A- GLUT1",
+      "B- GLUT5",
+      "C- GLUT2",
+      "D- SGLT2"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 414,
+    "question": "What type of transporters are SGLT1 and SGLT2?",
+    "options": [
+      "A- Fructose transporters",
+      "B- $Na^+$-glucose cotransporters",
+      "C- Insulin-dependent transporters",
+      "D- Bidirectional GLUT transporters"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 415,
+    "question": "Which organs/cells utilize insulin-independent glucose uptake, as represented by the mnemonic 'BRICK LIPS'?",
+    "options": [
+      "A- Striated muscle and adipose tissue",
+      "B- Brain, RBCs, Intestine, Cornea, Kidney, Liver, Islet cells, Placenta, Spermatocytes",
+      "C- Heart and Lung",
+      "D- Bone and Cartilage"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 416,
+    "question": "Which cells utilize only glucose for metabolism because they lack mitochondria for aerobic metabolism?",
+    "options": [
+      "A- Brain cells",
+      "B- RBCs",
+      "C- Liver cells",
+      "D- Beta cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 417,
+    "question": "Does insulin cross the placenta?",
+    "options": [
+      "A- Yes, it crosses easily",
+      "B- No, it does not cross the placenta",
+      "C- It only crosses during the first trimester",
+      "D- It crosses only if the mother is diabetic"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 418,
+    "question": "In mothers with diabetes, what causes increased fetal insulin levels?",
+    "options": [
+      "A- Maternal insulin crossing the placenta",
+      "B- Excess maternal glucose crossing the placenta",
+      "C- Placental synthesis of insulin",
+      "D- Fetal stress"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 419,
+    "question": "What is the major regulator of insulin release?",
+    "options": [
+      "A- Amino acids",
+      "B- Glucose",
+      "C- Glucagon",
+      "D- Fatty acids"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 420,
+    "question": "Why is the insulin response higher with oral glucose compared to intravenous glucose?",
+    "options": [
+      "A- Intravenous glucose is toxic to beta cells",
+      "B- Due to the release of incretins like GLP-1 and GIP",
+      "C- Oral glucose is absorbed faster",
+      "D- Intravenous glucose bypasses the liver"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 421,
+    "question": "Which of the following is an incretin released after meals that increases beta cell sensitivity to glucose?",
+    "options": [
+      "A- Somatostatin",
+      "B- Glucagon-like peptide 1 (GLP-1)",
+      "C- Cortisol",
+      "D- Epinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 422,
+    "question": "How does stimulation of alpha-2 ($alpha_2$) adrenergic receptors affect insulin release?",
+    "options": [
+      "A- Increases release",
+      "B- Decreases release",
+      "C- No effect",
+      "D- Promotes exocytosis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 423,
+    "question": "How does stimulation of beta-2 ($\beta_2$) adrenergic receptors affect insulin release?",
+    "options": [
+      "A- Decreases release",
+      "B- Increases release",
+      "C- Has no effect",
+      "D- Inhibits glycolysis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 424,
+    "question": "Through which transporter does glucose enter the pancreatic beta cells?",
+    "options": [
+      "A- GLUT1",
+      "B- GLUT2",
+      "C- GLUT4",
+      "D- SGLT2"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 425,
+    "question": "What molecule is generated from glucose metabolism in the beta cell that leads to the closing of potassium channels?",
+    "options": [
+      "A- cAMP",
+      "B- ATP",
+      "C- ADP",
+      "D- NADH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 426,
+    "question": "The closing of which specific channels leads to depolarization of the beta cell membrane?",
+    "options": [
+      "A- Voltage-gated calcium channels",
+      "B- ATP-sensitive potassium ($K^+$) channels",
+      "C- Sodium channels",
+      "D- Chloride channels"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 427,
+    "question": "Which class of diabetes medications targets the ATP-sensitive potassium channels to stimulate insulin release?",
+    "options": [
+      "A- Biguanides",
+      "B- Sulfonylureas",
+      "C- SGLT2 inhibitors",
+      "D- DPP-4 inhibitors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 428,
+    "question": "Depolarization of the beta cell membrane causes the opening of which channels?",
+    "options": [
+      "A- ATP-sensitive $K^+$ channels",
+      "B- Voltage-gated $Ca^{2+}$ channels",
+      "C- Ligand-gated $Na^+$ channels",
+      "D- Aquaporins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 429,
+    "question": "The influx of which ion directly stimulates the exocytosis of insulin granules?",
+    "options": [
+      "A- Sodium ($Na^+$)",
+      "B- Calcium ($Ca^{2+}$)",
+      "C- Potassium ($K^+$)",
+      "D- Magnesium ($Mg^{2+}$)"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 430,
+    "question": "Insulin is an example of what type of hormone?",
+    "options": [
+      "A- Catabolic hormone",
+      "B- Anabolic hormone",
+      "C- Steroid hormone",
+      "D- Thyroid hormone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 431,
+    "question": "Which brain fuel is preferred during starvation when glucose is low?",
+    "options": [
+      "A- Fatty acids",
+      "B- Ketone bodies",
+      "C- Amino acids",
+      "D- Fructose"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 432,
+    "question": "Insulin increases glucose transport into which of the following tissues?",
+    "options": [
+      "A- Brain",
+      "B- Skeletal muscle",
+      "C- Liver",
+      "D- Red blood cells"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 433,
+    "question": "What is the primary effect of insulin on amino acid uptake by cells?",
+    "options": [
+      "A- Inhibits it",
+      "B- Increases it",
+      "C- No effect",
+      "D- Promotes excretion"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 434,
+    "question": "Cleavage of proinsulin occurs inside which cell structure?",
+    "options": [
+      "A- Nucleus",
+      "B- Secretory granules",
+      "C- Mitochondria",
+      "D- Ribosomes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 435,
+    "question": "Which glucose transporter is described as being 'bidirectional'?",
+    "options": [
+      "A- GLUT1",
+      "B- GLUT2",
+      "C- GLUT4",
+      "D- GLUT3"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 436,
+    "question": "A high ATP to ADP ratio in the beta cell causes which event?",
+    "options": [
+      "A- Opening of $K^+$ channels",
+      "B- Closing of $K^+$ channels",
+      "C- Closing of $Ca^{2+}$ channels",
+      "D- Hyperpolarization"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 437,
+    "question": "Which subunit of the insulin receptor is associated with tyrosine kinase activity?",
+    "options": [
+      "A- Alpha subunit",
+      "B- Beta subunit",
+      "C- Gamma subunit",
+      "D- Delta subunit"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 438,
+    "question": "Glucose-dependent insulinotropic polypeptide (GIP) is an example of an:",
+    "options": [
+      "A- Enzyme",
+      "B- Incretin",
+      "C- Antibody",
+      "D- Islet cell"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 439,
+    "question": "What happens to the intracellular $Ca^{2+}$ concentration during insulin secretion?",
+    "options": [
+      "A- It decreases",
+      "B- It increases",
+      "C- It stays the same",
+      "D- It is pumped out of the cell"
+    ],
+    "correct_answer": "B"
+  },
+ 
+  {
+    "mcq_number": 440,
+    "question": "What is the rate-limiting enzyme in the adrenal steroid synthesis pathway?",
+    "options": [
+      "A- 21-hydroxylase",
+      "B- 11β-hydroxylase",
+      "C- Cholesterol desmolase",
+      "D- Aldosterone synthase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 441,
+    "question": "The Zona Glomerulosa is primarily responsible for producing which class of hormones?",
+    "options": [
+      "A- Glucocorticoids",
+      "B- Mineralocorticoids",
+      "C- Androgens",
+      "D- Catecholamines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 442,
+    "question": "The Zona Fasciculata is primarily responsible for producing which class of hormones?",
+    "options": [
+      "A- Mineralocorticoids",
+      "B- Androgens",
+      "C- Glucocorticoids",
+      "D- Estrogens"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 443,
+    "question": "The Zona Reticularis is primarily responsible for producing which class of hormones?",
+    "options": [
+      "A- Mineralocorticoids",
+      "B- Glucocorticoids",
+      "C- Androgens",
+      "D- Progestins"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 444,
+    "question": "Which precursor is converted to Pregnenolone by cholesterol desmolase?",
+    "options": [
+      "A- Progesterone",
+      "B- Cortisol",
+      "C- Cholesterol",
+      "D- DHEA"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 445,
+    "question": "Which hormone is the primary product of the Zona Glomerulosa?",
+    "options": [
+      "A- Cortisol",
+      "B- Aldosterone",
+      "C- Testosterone",
+      "D- Dehydroepiandrosterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 446,
+    "question": "Which hormone is the primary glucocorticoid produced in the Zona Fasciculata?",
+    "options": [
+      "A- Aldosterone",
+      "B- Cortisol",
+      "C- Androstenedione",
+      "D- Estrone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 447,
+    "question": "Which enzyme converts testosterone to the more potent dihydrotestosterone (DHT) in peripheral tissues?",
+    "options": [
+      "A- Aromatase",
+      "B- 5α-reductase",
+      "C- 17α-hydroxylase",
+      "D- 21-hydroxylase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 448,
+    "question": "Which medication acts as an inhibitor of the enzyme 5α-reductase?",
+    "options": [
+      "A- Anastrozole",
+      "B- Finasteride",
+      "C- Letrozole",
+      "D- Exemestane"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 449,
+    "question": "Which enzyme converts androgens like androstenedione and testosterone into estrogens?",
+    "options": [
+      "A- 11β-hydroxylase",
+      "B- Aromatase",
+      "C- 21-hydroxylase",
+      "D- Aldosterone synthase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 450,
+    "question": "Anastrozole and Letrozole are inhibitors of which enzyme?",
+    "options": [
+      "A- 5α-reductase",
+      "B- Aromatase",
+      "C- Cholesterol desmolase",
+      "D- 17α-hydroxylase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 451,
+    "question": "Which enzyme is deficient in the most common form of Congenital Adrenal Hyperplasia?",
+    "options": [
+      "A- 17α-hydroxylase",
+      "B- 21-hydroxylase",
+      "C- 11β-hydroxylase",
+      "D- 3β-hydroxysteroid dehydrogenase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 452,
+    "question": "In 17α-hydroxylase deficiency, what is the effect on blood pressure?",
+    "options": [
+      "A- Hypotension",
+      "B- Hypertension",
+      "C- No effect",
+      "D- Orthostatic hypotension"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 453,
+    "question": "In 21-hydroxylase deficiency, what is the typical effect on potassium ($K^+$) levels?",
+    "options": [
+      "A- Decreased (hypokalemia)",
+      "B- Increased (hyperkalemia)",
+      "C- Normal",
+      "D- Unpredictable"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 454,
+    "question": "Which hormone is significantly elevated in the labs of a patient with 21-hydroxylase deficiency?",
+    "options": [
+      "A- Aldosterone",
+      "B- Cortisol",
+      "C- 17-hydroxyprogesterone",
+      "D- Estrone"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 455,
+    "question": "In 11β-hydroxylase deficiency, why does hypertension occur despite low aldosterone?",
+    "options": [
+      "A- Excess cortisol production",
+      "B- Accumulation of 11-deoxycorticosterone",
+      "C- Increased renin activity",
+      "D- Decreased potassium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 456,
+    "question": "A patient with 17α-hydroxylase deficiency will show which of the following sex hormone profiles?",
+    "options": [
+      "A- Increased sex hormones",
+      "B- Decreased sex hormones",
+      "C- Normal sex hormones",
+      "D- Increased testosterone only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 457,
+    "question": "A genetic female (XX) with 21-hydroxylase deficiency typically presents with:",
+    "options": [
+      "A- Lacks secondary sexual development",
+      "B- Virilization",
+      "C- Atypical genitalia",
+      "D- Normal sexual development"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 458,
+    "question": "What is the typical inheritance pattern for all congenital adrenal enzyme deficiencies?",
+    "options": [
+      "A- Autosomal dominant",
+      "B- Autosomal recessive",
+      "C- X-linked recessive",
+      "D- Mitochondrial"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 459,
+    "question": "Why does bilateral adrenal gland enlargement occur in CAH?",
+    "options": [
+      "A- Due to increased renin",
+      "B- Due to increased ACTH stimulation",
+      "C- Due to increased aldosterone",
+      "D- Due to decreased MSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 460,
+    "question": "Skin hyperpigmentation in CAH is caused by the overproduction of which substance co-secreted with ACTH?",
+    "options": [
+      "A- CRH",
+      "B- MSH",
+      "C- Cortisol",
+      "D- DHEA"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 461,
+    "question": "In 11β-hydroxylase deficiency, what happens to renin activity?",
+    "options": [
+      "A- Increases",
+      "B- Decreases",
+      "C- Remains normal",
+      "D- Renin is not involved"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 462,
+    "question": "If a deficient enzyme starts with the number 1 (e.g., 11 or 17), it generally causes:",
+    "options": [
+      "A- Hypotension",
+      "B- Hypertension",
+      "C- Virilization",
+      "D- Salt wasting"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 463,
+    "question": "If a deficient enzyme ends with the number 1 (e.g., 11 or 21), it generally causes:",
+    "options": [
+      "A- Hypertension",
+      "B- Virilization in females",
+      "C- Undescended testes in males",
+      "D- High cortisol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 464,
+    "question": "A genetic male (XY) with 17α-hydroxylase deficiency may present with:",
+    "options": [
+      "A- Precocious puberty",
+      "B- Atypical genitalia and undescended testes",
+      "C- Virilization",
+      "D- Severe acne"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 465,
+    "question": "21-hydroxylase deficiency in infancy often presents with which critical clinical feature?",
+    "options": [
+      "A- Severe hypertension",
+      "B- Salt wasting",
+      "C- Hyperglycemia",
+      "D- Hypokalemia"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 466,
+    "question": "What is the effect of 11β-hydroxylase deficiency on cortisol levels?",
+    "options": [
+      "A- Increased",
+      "B- Decreased",
+      "C- Normal",
+      "D- Fluctuating"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 467,
+    "question": "Which hormone is converted to cortisone by glycyrrhetinic acid inhibition?",
+    "options": [
+      "A- Aldosterone",
+      "B- Cortisol",
+      "C- Testosterone",
+      "D- Progesterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 468,
+    "question": "In which zone of the adrenal cortex is DHEA primarily produced?",
+    "options": [
+      "A- Zona Glomerulosa",
+      "B- Zona Fasciculata",
+      "C- Zona Reticularis",
+      "D- Medulla"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 469,
+    "question": "Which enzyme converts Progesterone to 11-deoxycorticosterone?",
+    "options": [
+      "A- 17α-hydroxylase",
+      "B- 21-hydroxylase",
+      "C- 11β-hydroxylase",
+      "D- Aromatase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 470,
+    "question": "Which enzyme is used in the final step to produce Aldosterone?",
+    "options": [
+      "A- Cholesterol desmolase",
+      "B- Aldosterone synthase",
+      "C- 21-hydroxylase",
+      "D- 17α-hydroxylase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 471,
+    "question": "17-hydroxypregnenolone is a precursor for which androgen?",
+    "options": [
+      "A- Aldosterone",
+      "B- Dehydroepiandrosterone (DHEA)",
+      "C- Cortisol",
+      "D- Estradiol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 472,
+    "question": "Which enzyme converts 11-deoxycortisol to Cortisol?",
+    "options": [
+      "A- 21-hydroxylase",
+      "B- 11β-hydroxylase",
+      "C- 17α-hydroxylase",
+      "D- Aldosterone synthase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 473,
+    "question": "In 17α-hydroxylase deficiency, what happens to the levels of Aldosterone?",
+    "options": [
+      "A- Decreased",
+      "B- Increased",
+      "C- No change",
+      "D- Remains zero"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 474,
+    "question": "Which ion's decrease is a characteristic lab finding in 11β-hydroxylase deficiency?",
+    "options": [
+      "A- Sodium",
+      "B- Potassium",
+      "C- Calcium",
+      "D- Magnesium"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 475,
+    "question": "17α-hydroxylase converts Progesterone into which intermediate?",
+    "options": [
+      "A- 11-deoxycorticosterone",
+      "B- 17-hydroxyprogesterone",
+      "C- Cortisol",
+      "D- Pregnenolone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 476,
+    "question": "In 21-hydroxylase deficiency, the shunting of precursors leads to an overproduction of:",
+    "options": [
+      "A- Mineralocorticoids",
+      "B- Sex hormones (Androgens)",
+      "C- Glucocorticoids",
+      "D- Estrogens"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 477,
+    "question": "Which of the following describes the status of Cortisol in all three major CAH enzyme deficiencies?",
+    "options": [
+      "A- Increased",
+      "B- Decreased",
+      "C- Normal",
+      "D- Variable"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 478,
+    "question": "Which enzyme deficiency causes an increase in 11-deoxycorticosterone (DOC)?",
+    "options": [
+      "A- 21-hydroxylase only",
+      "B- 17α-hydroxylase and 11β-hydroxylase",
+      "C- Cholesterol desmolase",
+      "D- 5α-reductase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 479,
+    "question": "What is the common effect of 21-hydroxylase and 11β-hydroxylase deficiency on female genitalia?",
+    "options": [
+      "A- Underdevelopment",
+      "B- Virilization",
+      "C- No effect",
+      "D- Atrophy"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 480,
+    "question": "The conversion of Testosterone to Estradiol is mediated by:",
+    "options": [
+      "A- 5α-reductase",
+      "B- Aromatase",
+      "C- 21-hydroxylase",
+      "D- 11β-hydroxylase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 481,
+    "question": "Pregnenolone is converted to Progesterone by which enzyme?",
+    "options": [
+      "A- 17α-hydroxylase",
+      "B- 3β-hydroxysteroid dehydrogenase",
+      "C- 21-hydroxylase",
+      "D- Cholesterol desmolase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 482,
+    "question": "Which hormone inhibits the conversion of Cortisol to Cortisone?",
+    "options": [
+      "A- Insulin",
+      "B- Glycyrrhetinic acid",
+      "C- ACTH",
+      "D- Epinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 483,
+    "question": "What happens to the level of androstenedione in 17α-hydroxylase deficiency?",
+    "options": [
+      "A- Increases",
+      "B- Decreases",
+      "C- Normal",
+      "D- Doubled"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 484,
+    "question": "Which of the following is co-secreted with ACTH and causes skin darkening?",
+    "options": [
+      "A- TSH",
+      "B- MSH",
+      "C- LH",
+      "D- GH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 485,
+    "question": "Where is the adrenal gland located relative to the kidney?",
+    "options": [
+      "A- Inferior",
+      "B- Superior",
+      "C- Medial",
+      "D- Posterior"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 486,
+    "question": "The adrenal capsule is located:",
+    "options": [
+      "A- Inside the medulla",
+      "B- On the outer surface of the gland",
+      "C- Between the cortex and medulla",
+      "D- In the hilum"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 487,
+    "question": "Which enzyme converts androstenedione to estrone?",
+    "options": [
+      "A- 11β-hydroxylase",
+      "B- Aromatase",
+      "C- 5α-reductase",
+      "D- Aldosterone synthase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 488,
+    "question": "Which androgen is primarily produced in peripheral tissue from testosterone?",
+    "options": [
+      "A- DHEA",
+      "B- Dihydrotestosterone (DHT)",
+      "C- Androstenedione",
+      "D- Estrone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 489,
+    "question": "Which CAH deficiency is associated with atypical genitalia in XY males?",
+    "options": [
+      "A- 21-hydroxylase",
+      "B- 17α-hydroxylase",
+      "C- 11β-hydroxylase",
+      "D- Aldosterone synthase deficiency"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 490,
+    "question": "In 21-hydroxylase deficiency, renin activity is expected to be:",
+    "options": [
+      "A- Low",
+      "B- High",
+      "C- Absent",
+      "D- Normal"
+    ],
+    "correct_answer": "B"
+  },
+  
+  {
+    "mcq_number": 491,
+    "question": "What is the primary source of cortisol in the adrenal gland?",
+    "options": [
+      "A- Zona glomerulosa",
+      "B- Zona fasciculata",
+      "C- Zona reticularis",
+      "D- Adrenal medulla"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 492,
+    "question": "To which protein is the majority of cortisol bound in the blood?",
+    "options": [
+      "A- Albumin",
+      "B- Transthyretin",
+      "C- Corticosteroid-binding globulin",
+      "D- Sex hormone-binding globulin"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 493,
+    "question": "What is the effect of cortisol on appetite?",
+    "options": [
+      "A- Decreases appetite",
+      "B- Increases appetite",
+      "C- No effect on appetite",
+      "D- Only affects appetite in children"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 494,
+    "question": "Which enzyme's activity does cortisol stimulate to increase blood pressure?",
+    "options": [
+      "A- Conversion of epinephrine to norepinephrine",
+      "B- Conversion of norepinephrine to epinephrine",
+      "C- Conversion of angiotensin I to II",
+      "D- Conversion of dopamine to norepinephrine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 495,
+    "question": "How does cortisol affect alpha-1 receptors on arterioles?",
+    "options": [
+      "A- Downregulates receptors",
+      "B- Upregulates receptors to increase sensitivity to norepinephrine",
+      "C- Directly blocks the receptors",
+      "D- Destroys the receptor sites"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 496,
+    "question": "At high concentrations, cortisol can bind to which other type of receptor, mimicking aldosterone?",
+    "options": [
+      "A- Glucagon receptors",
+      "B- Mineralocorticoid receptors",
+      "C- Thyroid hormone receptors",
+      "D- Growth hormone receptors"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 497,
+    "question": "What is the metabolic effect of cortisol on insulin?",
+    "options": [
+      "A- Increases insulin sensitivity",
+      "B- Increases insulin resistance",
+      "C- Decreases insulin production",
+      "D- Promotes insulin binding"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 498,
+    "question": "Because of its effect on insulin resistance, cortisol is described as being:",
+    "options": [
+      "A- Glycogenic",
+      "B- Diabetogenic",
+      "C- Ketogenic",
+      "D- Antidiabetic"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 499,
+    "question": "What is the effect of cortisol on gluconeogenesis?",
+    "options": [
+      "A- Inhibits it",
+      "B- Increases it",
+      "C- Stops it",
+      "D- Has no effect"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 500,
+    "question": "How does cortisol affect glucose utilization in peripheral tissues?",
+    "options": [
+      "A- Increases utilization",
+      "B- Decreases utilization",
+      "C- No effect on utilization",
+      "D- Utilizes glucose for fat storage only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 501,
+    "question": "What effect does cortisol have on protein metabolism (proteolysis)?",
+    "options": [
+      "A- Increases protein synthesis",
+      "B- Increases proteolysis",
+      "C- Inhibits protein breakdown",
+      "D- Promotes muscle growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 502,
+    "question": "What is the effect of cortisol on fibroblast activity?",
+    "options": [
+      "A- Stimulates activity",
+      "B- Decreases activity",
+      "C- Increases collagen synthesis",
+      "D- Accelerates wound healing"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 503,
+    "question": "Decreased collagen synthesis due to cortisol can lead to the formation of which skin feature?",
+    "options": [
+      "A- Hirsutism",
+      "B- Striae",
+      "C- Acne",
+      "D- Hyperpigmentation"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 504,
+    "question": "What is the clinical consequence of cortisol's effect on fibroblast activity during injury?",
+    "options": [
+      "A- Rapid healing",
+      "B- Poor wound healing",
+      "C- Excessive scarring",
+      "D- No effect"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 505,
+    "question": "Cortisol inhibits the production of which inflammatory mediators?",
+    "options": [
+      "A- Insulin and Glucagon",
+      "B- Leukotrienes and prostaglandins",
+      "C- Acetylcholine",
+      "D- Thyroid hormones"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 506,
+    "question": "How does cortisol affect White Blood Cell (WBC) adhesion?",
+    "options": [
+      "A- Promotes adhesion",
+      "B- Inhibits adhesion",
+      "C- Has no effect",
+      "D- Causes WBCs to die"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 507,
+    "question": "What lab finding occurs in the blood when cortisol inhibits WBC adhesion?",
+    "options": [
+      "A- Neutropenia",
+      "B- Neutrophilia",
+      "C- Anemia",
+      "D- Thrombocytopenia"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 508,
+    "question": "Which cells show a decreased count (penia) in the blood due to cortisol?",
+    "options": [
+      "A- Neutrophils",
+      "B- Eosinophils and lymphocytes",
+      "C- Platelets",
+      "D- Erythrocytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 509,
+    "question": "Cortisol blocks the release of which substance from mast cells?",
+    "options": [
+      "A- Serotonin",
+      "B- Histamine",
+      "C- Dopamine",
+      "D- Insulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 510,
+    "question": "Which cytokine's production is blocked by cortisol, leading to immunosuppression?",
+    "options": [
+      "A- IL-1",
+      "B- IL-2",
+      "C- IL-6",
+      "D- TNF-alpha"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 511,
+    "question": "What is the effect of cortisol on bone formation?",
+    "options": [
+      "A- Increases osteoblast activity",
+      "B- Decreases bone formation",
+      "C- Strengthens bone matrix",
+      "D- Stimulates chondrocytes"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 512,
+    "question": "Cortisol reduces bone formation by specifically decreasing the activity of which cells?",
+    "options": [
+      "A- Osteoclasts",
+      "B- Osteoblasts",
+      "C- Osteocytes",
+      "D- Fibroblasts"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 513,
+    "question": "Which infection can be reactivated by the use of exogenous glucocorticoids?",
+    "options": [
+      "A- Malaria",
+      "B- Tuberculosis (TB)",
+      "C- Hepatitis B",
+      "D- Influenza"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 514,
+    "question": "Besides TB, which fungal infection can be caused/reactivated by exogenous glucocorticoids?",
+    "options": [
+      "A- Aspergillosis",
+      "B- Candidiasis",
+      "C- Histoplasmosis",
+      "D- Ringworm"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 515,
+    "question": "Which hypothalamic hormone stimulates the release of ACTH?",
+    "options": [
+      "A- GHRH",
+      "B- CRH",
+      "C- TRH",
+      "D- GnRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 516,
+    "question": "ACTH stimulates the production of cortisol in which specific adrenal layer?",
+    "options": [
+      "A- Zona glomerulosa",
+      "B- Zona fasciculata",
+      "C- Zona reticularis",
+      "D- Medulla"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 517,
+    "question": "What is the effect of excess cortisol on the secretion of CRH and ACTH?",
+    "options": [
+      "A- Positive feedback (increases them)",
+      "B- Negative feedback (decreases them)",
+      "C- No effect",
+      "D- Stimulates only CRH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 518,
+    "question": "Chronic stress may induce resistance to which hormone, according to the text?",
+    "options": [
+      "A- Insulin",
+      "B- Cortisol",
+      "C- Thyroid hormone",
+      "D- Adrenaline"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 519,
+    "question": "Which axis is dysregulated by chronic stress, leading to prolonged cortisol secretion?",
+    "options": [
+      "A- HPT axis",
+      "B- HPA axis",
+      "C- HPG axis",
+      "D- Renin-angiotensin axis"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 520,
+    "question": "According to the mnemonic 'A BIG FIB', what does the 'L' in 'lipolysis' stand for (embedded in the 'G')?",
+    "options": [
+      "A- Lung maturation",
+      "B- Lipolysis",
+      "C- Lymphopenia",
+      "D- Liver growth"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 521,
+    "question": "According to the diagram, which molecule is a precursor to ACTH and MSH?",
+    "options": [
+      "A- Thyroglobulin",
+      "B- Proopiomelanocortin (POMC)",
+      "C- Preproinsulin",
+      "D- Angiotensinogen"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 522,
+    "question": "Besides ACTH and MSH, what other substances are derivatives of POMC?",
+    "options": [
+      "A- Cortisol",
+      "B- Endorphins",
+      "C- Estrogens",
+      "D- Catecholamines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 523,
+    "question": "Which hormone stimulates hunger and is described as having an orexigenic effect?",
+    "options": [
+      "A- Leptin",
+      "B- Ghrelin",
+      "C- Insulin",
+      "D- Somatostatin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 524,
+    "question": "Where is ghrelin primarily produced?",
+    "options": [
+      "A- Adipose tissue",
+      "B- Stomach",
+      "C- Pancreas",
+      "D- Small intestine"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 525,
+    "question": "On which specific area of the hypothalamus does ghrelin act to increase appetite?",
+    "options": [
+      "A- Ventromedial area",
+      "B- Lateral area",
+      "C- Supraoptic nucleus",
+      "D- Arcuate nucleus"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 526,
+    "question": "How does sleep deprivation affect ghrelin production?",
+    "options": [
+      "A- Decreases production",
+      "B- Increases production",
+      "C- No effect",
+      "D- Production stops"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 527,
+    "question": "Which genetic syndrome is associated with increased ghrelin production and constant hunger?",
+    "options": [
+      "A- Down syndrome",
+      "B- Prader-Willi syndrome",
+      "C- Turner syndrome",
+      "D- Klinefelter syndrome"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 528,
+    "question": "Which hormone is known as the 'satiety hormone'?",
+    "options": [
+      "A- Ghrelin",
+      "B- Leptin",
+      "C- Glucagon",
+      "D- Cortisol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 529,
+    "question": "Where is leptin primarily produced?",
+    "options": [
+      "A- Stomach",
+      "B- Adipose tissue",
+      "C- Liver",
+      "D- Muscle"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 530,
+    "question": "On which area of the hypothalamus does leptin act to decrease appetite?",
+    "options": [
+      "A- Lateral area",
+      "B- Ventromedial area",
+      "C- Paraventricular nucleus",
+      "D- Posterior area"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 531,
+    "question": "What is the effect of starvation on leptin production?",
+    "options": [
+      "A- Increases production",
+      "B- Decreases production",
+      "C- No effect",
+      "D- Causes leptin resistance"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 532,
+    "question": "What happens in the body when there is a mutation in the leptin gene?",
+    "options": [
+      "A- Severe anorexia",
+      "B- Severe obesity",
+      "C- Type 1 diabetes",
+      "D- Muscle wasting"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 533,
+    "question": "Why do obese individuals often have high leptin levels but remain obese?",
+    "options": [
+      "A- They lack leptin receptors",
+      "B- They are tolerant or resistant to leptin's effects",
+      "C- Leptin is broken down too fast",
+      "D- Ghrelin blocks leptin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 534,
+    "question": "Which substances act at cannabinoid receptors in the hypothalamus to increase appetite?",
+    "options": [
+      "A- Peptides",
+      "B- Endocannabinoids",
+      "C- Steroids",
+      "D- Catecholamines"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 535,
+    "question": "Besides the hypothalamus, where else do endocannabinoids act to control food intake?",
+    "options": [
+      "A- Thalamus",
+      "B- Nucleus accumbens",
+      "C- Cerebellum",
+      "D- Medulla"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 536,
+    "question": "What is the common term for the appetite increase caused by exogenous cannabinoids?",
+    "options": [
+      "A- The crashes",
+      "B- The munchies",
+      "C- The jitters",
+      "D- The sweats"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 537,
+    "question": "Ghrelin stimulates the release of which other anterior pituitary hormone?",
+    "options": [
+      "A- TSH",
+      "B- Growth Hormone (GH)",
+      "C- Prolactin",
+      "D- ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 538,
+    "question": "According to the mnemonic for leptin, 'Leptin keeps you ____.'",
+    "options": [
+      "A- Fat",
+      "B- Thin",
+      "C- Hungry",
+      "D- Tired"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 539,
+    "question": "According to the mnemonic for ghrelin, 'Ghrelin makes you ____.'",
+    "options": [
+      "A- Grow taller",
+      "B- ghrow hunghry",
+      "C- Sleepy",
+      "D- Thirsty"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 540,
+    "question": "Which hypothalamic center is known as the 'hunger center'?",
+    "options": [
+      "A- Ventromedial area",
+      "B- Lateral area",
+      "C- Preoptic area",
+      "D- Mammillary body"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 541,
+    "question": "Which hypothalamic center is known as the 'satiety center'?",
+    "options": [
+      "A- Lateral area",
+      "B- Ventromedial area",
+      "C- Anterior area",
+      "D- Paraventricular area"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 542,
+    "question": "What is the effect of sleep deprivation on leptin production?",
+    "options": [
+      "A- Increases it",
+      "B- Decreases it",
+      "C- No effect",
+      "D- Doubles it"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 543,
+    "question": "What happens to glucose utilization under the influence of cortisol?",
+    "options": [
+      "A- Increases",
+      "B- Decreases",
+      "C- Remains constant",
+      "D- Only occurs in the brain"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 544,
+    "question": "In the mnemonic 'A BIG FIB', what does the first 'I' stand for?",
+    "options": [
+      "A- Insulin resistance",
+      "B- Immune response (decreased)",
+      "C- Infertility",
+      "D- Iodine uptake"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 545,
+    "question": "In the mnemonic 'A BIG FIB', what does the second 'I' stand for?",
+    "options": [
+      "A- Insulin synthesis",
+      "B- Inflammatory and Immune responses (decreased)",
+      "C- Increased growth",
+      "D- Intestinal motility"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 546,
+    "question": "Which molecule binds most cortisol in the plasma?",
+    "options": [
+      "A- Albumin",
+      "B- Corticosteroid-binding globulin",
+      "C- Prealbumin",
+      "D- Gamma globulin"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 547,
+    "question": "Cortisol promotes lipolysis. What is the product of lipolysis?",
+    "options": [
+      "A- Amino acids",
+      "B- Free fatty acids",
+      "C- Glucose",
+      "D- Polypeptides"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 548,
+    "question": "The permissive action of cortisol on blood pressure involves which adrenergic receptor?",
+    "options": [
+      "A- Alpha-2",
+      "B- Alpha-1",
+      "C- Beta-1",
+      "D- Beta-2"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 549,
+    "question": "How does cortisol affect the number of circulating eosinophils?",
+    "options": [
+      "A- Increases them",
+      "B- Decreases them (eosinopenia)",
+      "C- No effect",
+      "D- Changes their shape"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 550,
+    "question": "How does cortisol affect the number of circulating lymphocytes?",
+    "options": [
+      "A- Increases them",
+      "B- Decreases them (lymphopenia)",
+      "C- No effect",
+      "D- Stimulates their division"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 551,
+    "question": "What is the relationship between circadian rhythm and cortisol regulation?",
+    "options": [
+      "A- Cortisol is only released during sleep",
+      "B- Circadian rhythm stimulates CRH release",
+      "C- Circadian rhythm inhibits ACTH",
+      "D- There is no relationship"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 552,
+    "question": "Which of the following is an 'orexigenic' hormone?",
+    "options": [
+      "A- Leptin",
+      "B- Ghrelin",
+      "C- Insulin",
+      "D- GLP-1"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 553,
+    "question": "Which of the following is an 'anorexigenic' hormone?",
+    "options": [
+      "A- Ghrelin",
+      "B- Leptin",
+      "C- Endocannabinoids",
+      "D- Cortisol"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 554,
+    "question": "Where are the cannabinoid receptors located for appetite control?",
+    "options": [
+      "A- Stomach and Liver",
+      "B- Hypothalamus and Nucleus accumbens",
+      "C- Kidneys",
+      "D- Adrenal glands"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 555,
+    "question": "Increased adipose tissue leads to an increase in which hormone level?",
+    "options": [
+      "A- Ghrelin",
+      "B- Leptin",
+      "C- Cortisol",
+      "D- Glucagon"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 556,
+    "question": "Proteolysis refers to the breakdown of:",
+    "options": [
+      "A- Lipids",
+      "B- Proteins",
+      "C- Glycogen",
+      "D- Vitamins"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 557,
+    "question": "Gluconeogenesis refers to the synthesis of glucose from:",
+    "options": [
+      "A- Other sugars",
+      "B- Non-carbohydrate sources",
+      "C- Starch",
+      "D- Pure fat only"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 558,
+    "question": "Which hormone is associated with the 'hedonic' control of food intake?",
+    "options": [
+      "A- Leptin",
+      "B- Endocannabinoids",
+      "C- Insulin",
+      "D- TSH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 559,
+    "question": "What is the primary effect of GH release stimulated by ghrelin?",
+    "options": [
+      "A- Fat storage",
+      "B- Growth and metabolism regulation",
+      "C- Decreased hunger",
+      "D- Lower blood sugar"
+    ],
+    "correct_answer": "B"
+  },
+
+  {
+    "mcq_number": 560,
+    "question": "Which signaling pathway is utilized by Follicle-stimulating hormone (FSH)?",
+    "options": [
+      "A- cGMP",
+      "B- IP3",
+      "C- cAMP",
+      "D- MAP kinase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 561,
+    "question": "Which of the following hormones utilizes the cAMP signaling pathway?",
+    "options": [
+      "A- Insulin",
+      "B- Luteinizing hormone (LH)",
+      "C- Oxytocin",
+      "D- Estrogen"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 562,
+    "question": "Adrenocorticotropic hormone (ACTH) exerts its effects through which second messenger?",
+    "options": [
+      "A- cAMP",
+      "B- cGMP",
+      "C- IP3",
+      "D- Nitric oxide"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 563,
+    "question": "Thyroid-stimulating hormone (TSH) uses which of the following signaling pathways?",
+    "options": [
+      "A- Tyrosine kinase",
+      "B- cAMP",
+      "C- Intracellular receptor",
+      "D- cGMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 564,
+    "question": "Which signaling pathway is used by Corticotropin-releasing hormone (CRH)?",
+    "options": [
+      "A- JAK/STAT",
+      "B- cAMP",
+      "C- IP3",
+      "D- Receptor tyrosine kinase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 565,
+    "question": "Human chorionic gonadotropin (hCG) signals through which of the following?",
+    "options": [
+      "A- cAMP",
+      "B- cGMP",
+      "C- IP3",
+      "D- MAP kinase"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 566,
+    "question": "Antidiuretic hormone (ADH) uses the cAMP pathway when acting on which specific receptor?",
+    "options": [
+      "A- V1-receptor",
+      "B- V2-receptor",
+      "C- V3-receptor",
+      "D- Alpha-1 receptor"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 567,
+    "question": "Melanocyte-stimulating hormone (MSH) utilizes which second messenger system?",
+    "options": [
+      "A- cAMP",
+      "B- IP3",
+      "C- cGMP",
+      "D- JAK/STAT"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 568,
+    "question": "Parathyroid hormone (PTH) uses which of the following signaling pathways?",
+    "options": [
+      "A- cGMP",
+      "B- cAMP",
+      "C- Intracellular receptor",
+      "D- Tyrosine kinase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 569,
+    "question": "Which signaling pathway is utilized by Calcitonin?",
+    "options": [
+      "A- cAMP",
+      "B- IP3",
+      "C- cGMP",
+      "D- MAP kinase"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 570,
+    "question": "Histamine uses the cAMP pathway when acting on which receptor?",
+    "options": [
+      "A- H1-receptor",
+      "B- H2-receptor",
+      "C- H3-receptor",
+      "D- H4-receptor"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 571,
+    "question": "Which second messenger system is utilized by Glucagon?",
+    "options": [
+      "A- IP3",
+      "B- cGMP",
+      "C- cAMP",
+      "D- Tyrosine kinase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 572,
+    "question": "Growth hormone-releasing hormone (GHRH) signals via which pathway?",
+    "options": [
+      "A- JAK/STAT",
+      "B- IP3",
+      "C- cAMP",
+      "D- MAP kinase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 573,
+    "question": "Which signaling pathway is used by Atrial natriuretic peptide (ANP) and B-type natriuretic peptide (BNP)?",
+    "options": [
+      "A- cAMP",
+      "B- cGMP",
+      "C- IP3",
+      "D- Tyrosine kinase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 574,
+    "question": "Endothelium-derived relaxing factor (Nitric Oxide) utilizes which signaling pathway?",
+    "options": [
+      "A- IP3",
+      "B- cGMP",
+      "C- cAMP",
+      "D- JAK/STAT"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 575,
+    "question": "Hormones signaling through the cGMP pathway generally promote which physiological effects?",
+    "options": [
+      "A- Vasoconstriction and fluid retention",
+      "B- Vasodilation and diuresis",
+      "C- Increased heart rate",
+      "D- Muscle contraction"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 576,
+    "question": "Which signaling pathway is utilized by Gonadotropin-releasing hormone (GnRH)?",
+    "options": [
+      "A- cAMP",
+      "B- IP3",
+      "C- cGMP",
+      "D- MAP kinase"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 577,
+    "question": "Oxytocin exerts its effects through which of the following signaling pathways?",
+    "options": [
+      "A- cAMP",
+      "B- IP3",
+      "C- cGMP",
+      "D- Intracellular receptor"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 578,
+    "question": "Antidiuretic hormone (ADH) uses the IP3 pathway when acting on which receptor?",
+    "options": [
+      "A- V1-receptor",
+      "B- V2-receptor",
+      "C- Beta-2 receptor",
+      "D- M2 receptor"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 579,
+    "question": "Which second messenger is utilized by Thyrotropin-releasing hormone (TRH)?",
+    "options": [
+      "A- cAMP",
+      "B- cGMP",
+      "C- IP3",
+      "D- Tyrosine kinase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 580,
+    "question": "Histamine acts through the IP3 pathway at which specific receptor?",
+    "options": [
+      "A- H1-receptor",
+      "B- H2-receptor",
+      "C- Alpha-1 receptor",
+      "D- Beta-1 receptor"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 581,
+    "question": "Angiotensin II and Gastrin share which of the following signaling pathways?",
+    "options": [
+      "A- cAMP",
+      "B- cGMP",
+      "C- IP3",
+      "D- Tyrosine kinase"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 582,
+    "question": "Which of the following hormones utilizes an intracellular receptor?",
+    "options": [
+      "A- Insulin",
+      "B- Epinephrine",
+      "C- Progesterone",
+      "D- Glucagon"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 583,
+    "question": "Estrogen and Testosterone utilize which type of receptor for signaling?",
+    "options": [
+      "A- cAMP-linked receptor",
+      "B- Intracellular receptor",
+      "C- Receptor tyrosine kinase",
+      "D- IP3-linked receptor"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 584,
+    "question": "Cortisol and Aldosterone exert their effects via which mechanism?",
+    "options": [
+      "A- cAMP pathway",
+      "B- Intracellular receptors",
+      "C- JAK/STAT pathway",
+      "D- cGMP pathway"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 585,
+    "question": "Which of the following lipophilic hormones uses an intracellular receptor despite not being a steroid?",
+    "options": [
+      "A- Insulin",
+      "B- T3 and T4",
+      "C- PTH",
+      "D- ACTH"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 586,
+    "question": "Vitamin D signaling occurs through which of the following?",
+    "options": [
+      "A- IP3",
+      "B- Intracellular receptor",
+      "C- Receptor tyrosine kinase",
+      "D- cGMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 587,
+    "question": "Hormones like Cortisol and Vitamin D typically bind to receptors located in the:",
+    "options": [
+      "A- Cell membrane",
+      "B- Nucleus or cytoplasm",
+      "C- Extracellular matrix",
+      "D- Golgi apparatus"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 588,
+    "question": "Which signaling pathway is utilized by Insulin?",
+    "options": [
+      "A- Intracellular receptor",
+      "B- Receptor tyrosine kinase",
+      "C- Nonreceptor tyrosine kinase",
+      "D- cAMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 589,
+    "question": "IGF-1 and FGF signal through which of the following pathways?",
+    "options": [
+      "A- IP3",
+      "B- Receptor tyrosine kinase",
+      "C- JAK/STAT",
+      "D- cGMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 590,
+    "question": "Receptor tyrosine kinases are associated with which intracellular signaling cascade?",
+    "options": [
+      "A- MAP kinase pathway",
+      "B- JAK/STAT pathway",
+      "C- Adenylate cyclase pathway",
+      "D- Nitric oxide pathway"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 591,
+    "question": "Which signaling pathway is utilized by Growth Hormone (GH)?",
+    "options": [
+      "A- Receptor tyrosine kinase",
+      "B- Nonreceptor tyrosine kinase",
+      "C- cAMP",
+      "D- IP3"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 592,
+    "question": "Prolactin signaling occurs via which pathway?",
+    "options": [
+      "A- Receptor tyrosine kinase",
+      "B- Nonreceptor tyrosine kinase",
+      "C- Intracellular receptor",
+      "D- cGMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 593,
+    "question": "Erythropoietin and Thrombopoietin utilize which signaling pathway?",
+    "options": [
+      "A- IP3",
+      "B- Nonreceptor tyrosine kinase",
+      "C- Receptor tyrosine kinase",
+      "D- cAMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 594,
+    "question": "Nonreceptor tyrosine kinases typically utilize which signaling cascade?",
+    "options": [
+      "A- MAP kinase pathway",
+      "B- JAK/STAT pathway",
+      "C- cAMP pathway",
+      "D- IP3 pathway"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 595,
+    "question": "Immunomodulators like IL-2, IL-6, and IFN signal through which mechanism?",
+    "options": [
+      "A- Receptor tyrosine kinase",
+      "B- Nonreceptor tyrosine kinase",
+      "C- Intracellular receptor",
+      "D- cGMP"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 596,
+    "question": "Steroid hormones are lipophilic and must circulate in the blood bound to what?",
+    "options": [
+      "A- Red blood cells",
+      "B- Specific binding globulins",
+      "C- Platelets",
+      "D- Sodium ions"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 597,
+    "question": "Binding of a steroid hormone to its receptor in the cell results in the exposure of what?",
+    "options": [
+      "A- ATP-binding site",
+      "B- DNA-binding protein",
+      "C- Ion channel",
+      "D- Lipid-binding domain"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 598,
+    "question": "In males, an increase in Sex hormone-binding globulin (SHBG) has what effect on free testosterone?",
+    "options": [
+      "A- Increases free testosterone",
+      "B- Lowers free testosterone",
+      "C- Has no effect",
+      "D- Destroys testosterone"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 599,
+    "question": "In females, a decrease in Sex hormone-binding globulin (SHBG) can lead to which condition?",
+    "options": [
+      "A- Gynecomastia",
+      "B- Hirsutism",
+      "C- Infertility",
+      "D- Hypoglycemia"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 600,
+    "question": "What is the effect of increased Estrogen (e.g., OCPs, pregnancy) on SHBG levels?",
+    "options": [
+      "A- Decreases SHBG",
+      "B- Increases SHBG",
+      "C- No effect",
+      "D- Only affects SHBG in males"
+    ],
+    "correct_answer": "B"
+  }
+]
