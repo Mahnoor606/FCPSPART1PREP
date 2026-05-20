@@ -1,0 +1,1943 @@
+[
+{
+"mcq_number": 1,
+"question_text": "A 28-year-old female undergoes a biopsy of the fallopian tube. Histological examination reveals a specific epithelial lining designed to facilitate ovum transport. What is the characteristic epithelium of the fallopian tube?",
+"options": {
+"A": "Simple squamous epithelium",
+"B": "Simple ciliated columnar epithelium",
+"C": "Stratified squamous non-keratinized epithelium",
+"D": "Transitional epithelium"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The fallopian tubes are lined with simple ciliated columnar cells that use rhythmic ciliary beating to sweep the ovum toward the uterus, while interspersed non-ciliated peg cells provide essential nutrients. This mechanical transport is vital for successful fertilization and implantation. Reference: BRS Histology; First Aid for the USMLE Step 1 (Reproductive Anatomy)."
+},
+{
+"mcq_number": 2,
+"question_text": "A neonate presents with craniofacial dysmorphism, hypotonia, and seizures. Laboratory testing suggests a defect in the biogenesis of organelles responsible for long-chain fatty acid oxidation. Which organelle is affected in Zellweger syndrome?",
+"options": {
+"A": "Lysosomes",
+"B": "Mitochondria",
+"C": "Peroxisomes",
+"D": "Golgi apparatus"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Zellweger syndrome is an autosomal recessive disorder caused by mutated PEX genes, which leads to a failure in peroxisome biogenesis and the subsequent toxic accumulation of very-long-chain fatty acids (VLCFAs). This metabolic failure disrupts the development of the brain, liver, and kidneys. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+},
+{
+"mcq_number": 3,
+"question_text": "A patient at 34 weeks gestation presents with sudden onset dark vaginal bleeding and severe abdominal tenderness. On examination, the uterus is `woody` hard and fetal distress is noted. What is the most likely diagnosis?",
+"options": {
+"A": "Placenta previa",
+"B": "Vasa previa",
+"C": "Abruptio placentae",
+"D": "Uterine rupture"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Placental abruption involves the premature separation of the placenta, where trapped retroplacental blood irritates the myometrium, causing a characteristically hard, tender, 'woody' uterus and painful dark bleeding. This is a surgical emergency due to the high risk of fetal hypoxia. Reference: Williams Obstetrics; First Aid for the USMLE Step 1 (Reproductive Pathology)."
+},
+{
+"mcq_number": 4,
+"question_text": "A 33-week pregnant female presents with an episode of painless, bright red vaginal bleeding. The fetal heart rate (FHR) is normal and there is no abdominal pain. What is the most probable diagnosis?",
+"options": {
+"A": "Abruptio placentae",
+"B": "Placenta previa",
+"C": "Cervical polyp",
+"D": "Marginal sinus rupture"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Placenta previa occurs when the placenta covers the internal cervical os, leading to painless bleeding as the lower uterine segment stretches and thins during the third trimester. Unlike abruption, the absence of myometrial irritation ensures the uterus remains soft and non-tender. Reference: Williams Obstetrics; First Aid for the USMLE Step 1 (Reproductive Pathology)."
+},
+{
+"mcq_number": 5,
+"question_text": "A female requests emergency contraception 4 days after unprotected intercourse. Which of the following is the most effective method available?",
+"options": {
+"A": "Levonorgestrel",
+"B": "Ulipristal acetate",
+"C": "Cu-IUCD",
+"D": "Combined oral contraceptive pills"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The copper intrauterine contraceptive device (Cu-IUCD) is the most effective emergency contraceptive method, maintaining high efficacy up to 120 hours (5 days) post-intercourse. It works by creating a local inflammatory environment that is toxic to sperm and prevents blastocyst implantation. Reference: BRS Obstetrics and Gynecology; First Aid for the USMLE Step 1 (Pharmacology)."
+}
+,
+  {
+    "mcq_number": 6,
+    "question_text": "A patient who underwent total gastrectomy for gastric cancer is at high risk for nutritional deficiencies. Apart from Vit B12, which of the following should be monitored and supplemented?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Fat-soluble vitamins",
+      "C": "Water-soluble vitamins",
+      "D": "Vitamin K"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Total gastrectomy removes the source of gastric acid and intrinsic factor, which are essential for the optimal absorption of several water-soluble vitamins and minerals. While B12 is the most prominent deficiency, others like Vitamin C and iron are frequently compromised due to the loss of gastric processing. Reference: Guyton and Hall Textbook of Medical Physiology; USMLE Step 1 First Aid (Gastrointestinal)."
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "An HIV-positive patient with a low CD4 count presents with chronic diarrhea, multiple oral/esophageal ulcers, and gastrointestinal bleeding. Biopsy shows intranuclear inclusion bodies. What is the causative agent?",
+    "options": {
+      "A": "Cryptosporidium",
+      "B": "Cytomegalovirus",
+      "C": "Mycobacterium avium complex",
+      "D": "Giardia lamblia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cytomegalovirus (CMV) is a major opportunistic pathogen in advanced AIDS (CD4 < 50) that typically causes deep, linear esophageal or colonic ulcers. The diagnosis is confirmed by finding 'owl's eye' intranuclear inclusion bodies, which represent the viral replication centers within the cells. Reference: USMLE Step 1 First Aid (Microbiology); Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A patient presents with sudden onset drooping of the right side of the face, inability to close the right eye, and loss of the forehead wrinkle on the right. Which nerve is likely affected?",
+    "options": {
+      "A": "Left Facial Nerve",
+      "B": "Right Facial Nerve",
+      "C": "Right Trigeminal Nerve",
+      "D": "Left Trigeminal Nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Loss of forehead wrinkling indicates a lower motor neuron (LMN) lesion of the facial nerve (CN VII) on the same side as the weakness. This differentiates it from an upper motor neuron (UMN) lesion, where the forehead is spared due to bilateral cortical innervation. Reference: USMLE Step 1 First Aid (Neurology); Snell's Clinical Anatomy."
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A farmer is brought to the ER with pinpoint pupils, excessive salivation, and muscle fasciculations after spraying pesticides. After administering Atropine, which agent is used to regenerate acetylcholinesterase?",
+    "options": {
+      "A": "Neostigmine",
+      "B": "Pralidoxime",
+      "C": "Physostigmine",
+      "D": "Naloxone"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pralidoxime (2-PAM) acts as a regenerator by binding to the phosphate group of the organophosphate and pulling it off the acetylcholinesterase enzyme, provided 'aging' has not occurred. Unlike atropine, which only manages muscarinic symptoms, pralidoxime treats the underlying enzyme inhibition and addresses nicotinic effects like muscle paralysis. Reference: USMLE Step 1 First Aid (Pharmacology)."
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A chest X-ray of an immunocompromised patient shows a \"fungal ball\" within a pre-existing lung cavity. Microscopy reveals septate hyphae branching at 45-degree angles. What is the diagnosis?",
+    "options": {
+      "A": "Mucormycosis",
+      "B": "Aspergillosis",
+      "C": "Candidiasis",
+      "D": "Histoplasmosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Aspergillus fumigatus typically colonizes old pulmonary cavities (like those from TB) to form an aspergilloma or 'fungal ball.' Under microscopy, it is identified by septate hyphae that exhibit acute, V-shaped branching at 45-degree angles. Reference: USMLE Step 1 First Aid (Microbiology); Jawetz Medical Microbiology."
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Following a vaginal delivery, a patient experiences severe postpartum hemorrhage, unresponsive to uterine massage and oxytocics. Surgical intervention is required. Which vessel should be ligated first?",
+    "options": {
+      "A": "Internal iliac artery",
+      "B": "Uterine artery",
+      "C": "Ovarian artery",
+      "D": "Common iliac artery"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Ligation of the uterine artery (O'Leary stitch) is the primary surgical step to control refractory postpartum hemorrhage because it directly cuts off the major blood supply to the uterus. If this fails, surgeons then proceed to ligate the internal iliac artery to reduce pelvic pulse pressure. Reference: Williams Obstetrics (Postpartum Hemorrhage Management)."
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "During a pelvic surgery, the surgeon identifies branches of the internal iliac artery. Which of the following is a direct branch of the internal iliac artery?",
+    "options": {
+      "A": "Superior rectal artery",
+      "B": "Middle rectal artery",
+      "C": "Inferior rectal artery",
+      "D": "Left colic artery"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The middle rectal artery arises directly from the anterior division of the internal iliac artery to supply the rectum. In contrast, the superior rectal is a continuation of the IMA, and the inferior rectal is a branch of the internal pudendal artery. Reference: Moore's Clinically Oriented Anatomy."
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "In a case of mesenteric ischemia, the blood supply to the rectum is evaluated. The superior rectal artery is the terminal continuation of which vessel?",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Superior mesenteric artery",
+      "C": "Inferior mesenteric artery",
+      "D": "Internal pudendal artery"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The inferior mesenteric artery (IMA) supplies the hindgut and terminates by becoming the superior rectal artery after passing into the pelvis. This anatomical continuity makes the upper rectum vulnerable during severe IMA ischemia. Reference: USMLE Step 1 First Aid (Anatomy/GI)."
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "An epidemiologist conducts a study by identifying a group of patients with lung cancer and a group of people without lung cancer to look back at their previous smoking habits. This is a:",
+    "options": {
+      "A": "Cohort study",
+      "B": "Cross-sectional study",
+      "C": "Case-control study",
+      "D": "Randomized controlled trial"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "A case-control study begins by selecting participants based on their disease status (cases vs. controls) and then retrospectively assesses their exposure history. This design is highly efficient for studying rare diseases or those with a long latency period. Reference: USMLE Step 1 First Aid (Public Health/Epidemiology)."
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A person feels their phone vibrating in their pocket. Which spinal cord nucleus is primarily involved in transmitting unconscious proprioception and fine touch related to this sensation from the lower trunk?",
+    "options": {
+      "A": "Substantia gelatinosa",
+      "B": "Nucleus proprius",
+      "C": "Clarke's nucleus",
+      "D": "Interomediolateral column"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Clarke's nucleus (T1-L2) serves as the primary relay station for unconscious proprioceptive information from the trunk and lower limbs destined for the cerebellum via the dorsal spinocerebellar tract. It is essential for coordinating posture and movement without conscious awareness. Reference: Kaplan Medical USMLE Step 1 Lecture Notes (Neuroanatomy)."
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A pregnant female at 32 weeks presents for a routine check-up. Her BP is 150/90 mmHg and urinalysis shows 1+ proteinuria. She has no headaches or visual blurring. What is the diagnosis?",
+    "options": {
+      "A": "Gestational hypertension",
+      "B": "Chronic hypertension",
+      "C": "Pre-eclampsia",
+      "D": "Eclampsia"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Pre-eclampsia is defined by new-onset hypertension (≥140/90) and proteinuria (≥1+ on dipstick) occurring after 20 weeks of gestation. Even in the absence of 'severe features' like visual changes, the combination of HTN and proteinuria confirms the diagnosis. Reference: Williams Obstetrics; USMLE Step 1 First Aid (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Calculate the mean of the following data set: 33, 32, 34, 34, 36, 42, 44, 46, 52.",
+    "options": {
+      "A": "38.5",
+      "B": "40.5",
+      "C": "42.0",
+      "D": "39.0"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The mean is calculated by dividing the sum of the values (353) by the number of observations (9), which equals approximately 39.2. Option D is the closest answer provided in this classic recall set. Reference: USMLE Step 1 First Aid (Biostatistics)."
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A 24-year-old female with Polycystic Ovary Syndrome is primarily concerned with her acne and excessive facial hair. Which medication is most appropriate for her specific concerns?",
+    "options": {
+      "A": "Metformin",
+      "B": "Clomiphene citrate",
+      "C": "Cyproterone acetate",
+      "D": "Progesterone"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Cyproterone acetate is a potent anti-androgen that competes with dihydrotestosterone for binding to the androgen receptor, effectively treating hirsutism and acne. In PCOS, it is often combined with estrogen to regulate the cycle while suppressing androgenic symptoms. Reference: BRS Pharmacology; USMLE Step 1 First Aid (Reproductive)."
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "To provide anesthesia for an episiotomy, a clinician performs a pudendal nerve block. Which anatomical landmark is used to locate the nerve?",
+    "options": {
+      "A": "Ischial tuberosity",
+      "B": "Ischial spine",
+      "C": "Posterior superior iliac spine",
+      "D": "Sacral promontory"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The pudendal nerve (S2-S4) exits the pelvis through the greater sciatic foramen and re-enters through the lesser sciatic foramen, hooking around the ischial spine. This makes the ischial spine the definitive palpable landmark for transvaginal local anesthetic injection. Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid (Anatomy)."
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A patient presents with irregular periods (oligomenorrhea), hirsutism, and an ultrasound showing multiple small ovarian follicles. Lab results show an LH:FSH ratio of 3:1. What is the diagnosis?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Polycystic Ovary Syndrome",
+      "C": "Premature ovarian failure",
+      "D": "Congenital adrenal hyperplasia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "PCOS is diagnosed using the Rotterdam criteria, which include oligomenorrhea, hyperandrogenism, and polycystic ovaries on ultrasound. The elevated LH:FSH ratio (typically >2:1) reflects the neuroendocrine dysfunction that drives excess androgen production from ovarian theca cells. Reference: USMLE Step 1 First Aid (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Which nerve passes through the foramen ovale of the skull?",
+    "options": {
+      "A": "Maxillary nerve (V2)",
+      "B": "Mandibular nerve (V3)",
+      "C": "Ophthalmic nerve (V1)",
+      "D": "Middle meningeal artery"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The mandibular nerve (V3) is the third branch of the trigeminal nerve and exits the skull through the foramen ovale. This can be remembered with the mnemonic 'OVALE': Otic ganglion, V3, Accessory meningeal artery, Lesser petrosal nerve, and Emissary veins. Reference: USMLE Step 1 First Aid (Neuroanatomy)."
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Which part of the brain is primarily responsible for regulating hunger, satiety, and appetite control?",
+    "options": {
+      "A": "Thalamus",
+      "B": "Hypothalamus",
+      "C": "Medulla oblongata",
+      "D": "Cerebellum"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The hypothalamus contains specific nuclei for energy balance: the lateral hypothalamus serves as the 'hunger center,' while the ventromedial nucleus serves as the 'satiety center.' These areas integrate hormonal signals like ghrelin and leptin to regulate food intake. Reference: Guyton and Hall Textbook of Medical Physiology; USMLE Step 1 First Aid (Neurology)."
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A patient with known aortic stenosis reports that he gets easily tired and dizzy during his morning run. This exertional syncope is associated with which hemodynamic change?",
+    "options": {
+      "A": "Increased pulse pressure",
+      "B": "Decreased pulse pressure",
+      "C": "Increased systolic blood pressure",
+      "D": "Increased systemic vascular resistance"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Aortic stenosis creates a fixed outflow obstruction that limits the increase in stroke volume during exercise, leading to a narrowed (decreased) pulse pressure. This insufficient cardiac output fails to meet the metabolic demands of the brain and periphery during exertion, causing syncope. Reference: USMLE Step 1 First Aid (Cardiovascular Pathology)."
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A young girl presents with heavy menstrual bleeding and frequent nosebleeds. Lab results: Normal Platelet count, Normal PT, but Prolonged APTT. What is the most likely inherited bleeding disorder?",
+    "options": {
+      "A": "Hemophilia A",
+      "B": "Hemophilia B",
+      "C": "von Willebrand Disease",
+      "D": "Vitamin K deficiency"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "von Willebrand Disease (vWD) causes mucosal bleeding and a prolonged APTT because von Willebrand factor is required to stabilize Factor VIII in the plasma. Unlike hemophilia, which primarily affects males and causes deep joint bleeds, vWD is the most common cause of abnormal bleeding in females. Reference: USMLE Step 1 First Aid (Hematology)."
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Supra-aortic valvular stenosis is often associated with Williams syndrome. A defect in which protein is responsible for this condition?",
+    "options": {
+      "A": "Collagen Type I",
+      "B": "Elastin",
+      "C": "Fibrillin",
+      "D": "Laminin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Williams syndrome results from a 7q11.23 microdeletion that includes the elastin gene, leading to systemic connective tissue abnormalities. Elastin deficiency causes 'elfin' facies, hypercalcemia, and characteristic vascular stenoses, most notably supravalvular aortic stenosis. Reference: USMLE Step 1 First Aid (Genetics)."
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "A patient is brought to the ER with respiratory depression and sedation after an intentional overdose of Diazepam. What is the specific reversal agent?",
+    "options": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "N-acetylcysteine",
+      "D": "Atropine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Flumazenil is a competitive antagonist at the benzodiazepine binding site on the GABA-A receptor, used to reverse benzodiazepine-induced sedation. It must be used with caution as it can precipitate life-threatening seizures in chronic users or those with TCA co-ingestion. Reference: USMLE Step 1 First Aid (Pharmacology)."
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "During a speculum examination, the clinician observes a \"strawberry cervix\". Which organism is the most likely cause?",
+    "options": {
+      "A": "Candida albicans",
+      "B": "Gardnerella vaginalis",
+      "C": "Trichomonas vaginalis",
+      "D": "Chlamydia trachomatis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The 'strawberry cervix' is a classic clinical sign of Trichomonas vaginalis infection, caused by punctate hemorrhages on the cervical mucosa. This protozoan infection typically presents with a foul-smelling, greenish-yellow discharge and a vaginal pH > 4.5. Reference: USMLE Step 1 First Aid (Microbiology)."
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A 35-year-old female presents with heavy menstrual bleeding that interferes with her daily life. She does not wish to use hormonal contraception at this time. Which non-hormonal treatment is first-line?",
+    "options": {
+      "A": "Mefenamic acid",
+      "B": "Tranexamic acid",
+      "C": "Medroxyprogesterone",
+      "D": "Danazol"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Tranexamic acid is an antifibrinolytic that reversibly binds to plasminogen, preventing the breakdown of fibrin clots in the endometrium. It is a highly effective non-hormonal treatment for heavy menstrual bleeding, reducing loss by up to 50%. Reference: BRS Pharmacology; NICE Guidelines (Heavy Menstrual Bleeding)."
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "A 14-year-old girl presents with primary amenorrhea and cyclical pelvic pain. Physical examination reveals a bluish, bulging membrane at the vaginal introitus. What is the diagnosis?",
+    "options": {
+      "A": "Vaginal agenesis",
+      "B": "Imperforate hymen",
+      "C": "Transverse vaginal septum",
+      "D": "Turner syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "An imperforate hymen blocks the exit of menstrual blood, leading to hematocolpos (blood in the vagina). The accumulated old blood exerts pressure and appears as a bluish, bulging membrane at the vaginal opening during puberty. Reference: BRS Obstetrics and Gynecology; USMLE Step 1 First Aid (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "What is the primary Mechanism of Action of Zidovudine (AZT) in the treatment of HIV?",
+    "options": {
+      "A": "Protease inhibition",
+      "B": "Integrase inhibition",
+      "C": "Nucleoside Reverse Transcriptase Inhibition",
+      "D": "Fusion inhibition"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor (NRTI) that acts as a thymidine analog; once phosphorylated, it is incorporated into the viral DNA chain by reverse transcriptase, causing premature chain termination. This prevents the integration of the viral genome into the host cell. Reference: USMLE Step 1 First Aid (Pharmacology)."
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "A lesion in the pons affects the abducens nucleus, and the axons of the facial nerve are seen looping around it. This anatomical landmark is known as the:",
+    "options": {
+      "A": "Inferior colliculus",
+      "B": "Facial colliculus",
+      "C": "Vagal trigone",
+      "D": "Hypoglossal trigone"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The facial colliculus is a bulge on the dorsal surface of the pons, formed by the fibers of the facial nerve (CN VII) as they loop around the nucleus of the abducens nerve (CN VI). A lesion here typically results in an 'internuclear' ophthalmoplegia-like palsy or combined CN VI and VII deficits. Reference: USMLE Step 1 First Aid (Neuroanatomy)."
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "A pregnant patient's lab reports show low serum ferritin and low hemoglobin. What is the physiological basis for this in pregnancy?",
+    "options": {
+      "A": "Increased iron stores",
+      "B": "Decreased iron due to hemodilution and fetal demand",
+      "C": "Chronic blood loss",
+      "D": "Increased red cell lifespan"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "During pregnancy, maternal plasma volume increases by ~50% while red cell mass only increases by ~20%, leading to a 'physiological' hemodilution and lower hemoglobin concentration. Concurrently, iron is actively transported to the fetus, often depleting maternal ferritin stores. Reference: Williams Obstetrics; USMLE Step 1 First Aid (Reproductive Physiology)."
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Sickle cell anemia is caused by a point mutation in the beta-globin chain where glutamic acid is replaced by valine. Which of the following is the correct mutation?",
+    "options": {
+      "A": "Adenine to Cytosine",
+      "B": "Adenine to Thymine",
+      "C": "Guanine to Cytosine",
+      "D": "Cytosine to Uracil"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The sickle cell mutation occurs in the 6th codon of the beta-globin gene, where a transversion point mutation changes GAG (Glutamic acid) to GTG (Valine). This substitution of a hydrophilic amino acid for a hydrophobic one causes hemoglobin polymerization under deoxygenated conditions. Reference: USMLE Step 1 First Aid (Biochemistry)."
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A patient presents with a deep-lobe parotid swelling. During the clinical examination, it is noted that the tonsil is pushed medially. In this scenario, the internal carotid artery is typically displaced in which direction?",
+    "options": {
+      "A": "Anteriorly",
+      "B": "Posteriorly",
+      "C": "Medially",
+      "D": "Inferiorly"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The parapharyngeal space is bounded by the parotid gland and the pharynx; tumors of the deep parotid lobe grow through the stylomandibular tunnel and push the internal carotid artery and other carotid sheath contents posteriorly. This specific displacement pattern helps distinguish parotid tumors from other pharyngeal masses. Reference: Gray's Anatomy for Students."
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "After a surgical procedure where heparin was used, the surgeon administered Protamine Sulfate to reverse its effects. What is the mechanism of action of Protamine?",
+    "options": {
+      "A": "Competitive inhibition of antithrombin III",
+      "B": "Formation of an inactive complex via ionic bonding",
+      "C": "Enzymatic degradation of heparin",
+      "D": "Activation of Vitamin K-dependent factors"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Protamine is a positively charged, basic protein that binds to negatively charged, acidic heparin through ionic (chemical) bonding. This creates a stable, inactive salt complex that rapidly neutralizes heparin's anticoagulant properties. Reference: USMLE Step 1 First Aid (Pharmacology); BRS Pharmacology."
+  }
+,
+
+  {
+    "mcq_number": 36,
+    "question_text": "A 28-year-old woman is diagnosed with an ectopic pregnancy. Statistically, what is the most common site for an ectopic implantation?",
+    "options": {
+      "A": "Isthmus",
+      "B": "Ampulla",
+      "C": "Fimbria",
+      "D": "Interstitial portion"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The ampulla is the widest part of the fallopian tube and the most common site for both fertilization and ectopic implantation, accounting for approximately 70-80% of tubal pregnancies. Its large volume compared to the isthmus allows the conceptus to grow longer before rupture occurs. Reference: Williams Obstetrics; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "A hemodynamically stable patient with an ectopic pregnancy has a beta-hCG level of 1500 IU/L. There is no visible fetal heart activity on ultrasound. What is the most appropriate management?",
+    "options": {
+      "A": "Laparoscopic salpingectomy",
+      "B": "Laparotomy",
+      "C": "Expectant management",
+      "D": "Methotrexate"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Methotrexate, a folic acid antagonist, is the treatment of choice for hemodynamically stable patients with a low beta-hCG (<3000-5000 IU/L) and no fetal cardiac activity. It inhibits rapidly dividing trophoblastic cells, allowing for non-surgical resolution of the ectopic pregnancy. Reference: RCOG Green-top Guideline 21; First Aid for the USMLE Step 1 (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A woman in the reproductive age group receives the Rubella vaccine. How long should she be advised to use effective contraception following the vaccination?",
+    "options": {
+      "A": "28 days",
+      "B": "6 months",
+      "C": "9 months",
+      "D": "12 months"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Because the Rubella vaccine contains a live-attenuated virus, there is a theoretical risk of congenital rubella syndrome if conception occurs too soon after vaccination. Current CDC and WHO guidelines recommend a 28-day (4-week) waiting period before attempting pregnancy. Reference: CDC Vaccine Guidelines; First Aid for the USMLE Step 1 (Microbiology)."
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A patient presents with secondary amenorrhea and galactorrhea. Her serum prolactin level is found to be 1600 mIU/L. What is the most likely diagnosis?",
+    "options": {
+      "A": "Microprolactinoma",
+      "B": "Macroprolactinoma",
+      "C": "Stress-induced hyperprolactinemia",
+      "D": "Drug-induced hyperprolactinemia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Prolactin levels between 1000 and 5000 mIU/L are highly suggestive of a microprolactinoma (<10mm), as physiological or drug-induced elevations rarely exceed 1000 mIU/L. Hyperprolactinemia causes amenorrhea by inhibiting GnRH pulsatility in the hypothalamus. Reference: Kaplan Medical USMLE Step 1 (Endocrinology); BRS Physiology."
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "A newborn presents with hypotonia, a flat facial profile, and a single palmar crease. Which chromosomal abnormality is likely?",
+    "options": {
+      "A": "Trisomy 13",
+      "B": "Trisomy 18",
+      "C": "Trisomy 21",
+      "D": "Monosomy X"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Trisomy 21 (Down Syndrome) is characterized by a single transverse palmar crease (Simian crease), hypotonia, and flat facies due to a meiotic nondisjunction of chromosome 21. It is the most common live-born autosomal trisomy. Reference: First Aid for the USMLE Step 1 (Genetics)."
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "During a surgical procedure, air accidentally enters the venous system. What is the minimum volume of air generally required to cause a fatal air embolism in an adult?",
+    "options": {
+      "A": "10 cc",
+      "B": "50 cc",
+      "C": "100 cc",
+      "D": "300 cc"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "A volume of approximately 100-300 ml of air is required to create an 'air lock' in the right ventricle, which obstructs blood flow to the pulmonary arteries and leads to sudden circulatory collapse. Smaller volumes can be fatal if they pass through a patent foramen ovale into the arterial circulation (paradoxical embolism). Reference: Guyton and Hall Textbook of Medical Physiology; Clinical Anatomy Cases."
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "A Jewish lady at 16 weeks' gestation is adopted and has an unknown family history. Her husband is \"half-Jewish.\" What is the most appropriate next step for genetic screening?",
+    "options": {
+      "A": "Tay-Sachs screening for the mother",
+      "B": "Quadruple test",
+      "C": "Amniocentesis",
+      "D": "No intervention needed"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Ashkenazi Jews have a significantly higher carrier frequency for Tay-Sachs disease (a GM2 gangliosidosis), so the mother should be screened first regardless of the husband's status. If she is a carrier, the husband is then tested to determine the risk of an affected offspring (autosomal recessive). Reference: First Aid for the USMLE Step 1 (Biochemistry/Genetics)."
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A patient presents with a vesicular rash in various stages of healing. The physical appearance is described as \"dew drops on a rose petal.\" What is the causative agent?",
+    "options": {
+      "A": "Human Papillomavirus",
+      "B": "Herpes Simplex Virus 1",
+      "C": "Cytomegalovirus",
+      "D": "Varicella-Zoster Virus"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The 'dew drops on a rose petal' description refers to clear vesicles on an erythematous base, the pathognomonic sign of primary Varicella (chickenpox). The hallmark of the rash is the presence of lesions in multiple stages of development (papules, vesicles, and crusts) simultaneously. Reference: First Aid for the USMLE Step 1 (Microbiology/Dermatology)."
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "A pregnant woman at 30 weeks' gestation develops chickenpox with respiratory symptoms. What is the recommended treatment?",
+    "options": {
+      "A": "Oral Acyclovir",
+      "B": "IV Acyclovir",
+      "C": "Varicella-Zoster Immunoglobulin",
+      "D": "Observation"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Varicella pneumonia in pregnancy is a life-threatening complication with high maternal mortality, necessitating immediate hospitalization and intravenous Acyclovir. Oral treatment is insufficient for systemic or visceral involvement in a high-risk pregnant patient. Reference: RCOG Green-top Guideline 48; Williams Obstetrics."
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Neonatal lupus and congenital heart block in a fetus are specifically associated with which maternal antibodies?",
+    "options": {
+      "A": "Anti-Ro (SS-A)",
+      "B": "Anti-Jo-1",
+      "C": "Anti-dsDNA",
+      "D": "Anti-Smith"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Maternal Anti-Ro (SS-A) and Anti-La (SS-B) antibodies can cross the placenta and cause inflammatory damage to the fetal cardiac conduction system, leading to permanent third-degree heart block. This is the most serious manifestation of neonatal lupus syndrome. Reference: First Aid for the USMLE Step 1 (Immunology/Rheumatology)."
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "In a case of choriocarcinoma, beta-hCG is markedly elevated. Which cells are responsible for the secretion of this hormone?",
+    "options": {
+      "A": "Cytotrophoblasts only",
+      "B": "Syncytiotrophoblasts only",
+      "C": "Both Syncytiotrophoblasts and Cytotrophoblasts",
+      "D": "Decidua"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "While syncytiotrophoblasts are the primary source of hCG in normal pregnancy, choriocarcinoma is a malignant proliferation of both cytotrophoblasts and syncytiotrophoblasts. The abnormal growth of both cell types leads to the characteristically massive elevations in hCG used as a tumor marker. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "A young athlete presents with amenorrhea. Lab results show low FSH and low LH with normal prolactin and thyroid levels. What is the diagnosis?",
+    "options": {
+      "A": "Hypothalamic Amenorrhea",
+      "B": "Pituitary Macroadenoma",
+      "C": "PCOS",
+      "D": "Asherman Syndrome"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Functional hypothalamic amenorrhea occurs when excessive exercise or low body fat disrupts the pulsatile release of GnRH, leading to low FSH and LH (hypogonadotropic hypogonadism). This is a protective mechanism that shuts down the reproductive axis during periods of physical stress or energy deficit. Reference: First Aid for the USMLE Step 1 (Reproductive Physiology)."
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A Rhesus-negative woman has a miscarriage at 6 weeks' gestation. What is the recommended dose of Anti-D immunoglobulin according to standard guidelines?",
+    "options": {
+      "A": "500 IU",
+      "B": "250 IU",
+      "C": "1500 IU",
+      "D": "Not required"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "For sensitizing events occurring before 12 weeks of gestation, a 'mini-dose' of 250 IU (50 mcg) of Anti-D is sufficient to neutralize the small volume of fetal RBCs that may have entered the maternal circulation. This prevents Rh isoimmunization in future pregnancies. Reference: NICE Guidelines; RCOG Green-top Guideline 22."
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "During the insertion of a secondary trocar in laparoscopy, which vessel is most at risk of injury if the trocar is placed too laterally?",
+    "options": {
+      "A": "Deep Circumflex Iliac Artery",
+      "B": "Superior Epigastric Artery",
+      "C": "Inferior Epigastric Artery",
+      "D": "Superficial Epigastric Artery"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The inferior epigastric artery runs laterally to the rectus abdominis muscle within the preperitoneal fat and is a frequent site of injury during lateral port placement. Surgeons avoid this by transilluminating the abdominal wall or identifying the vessel laparoscopically. Reference: Moore's Clinically Oriented Anatomy; BRS Anatomy."
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "What are the primary functional supports of the uterus that maintain its position within the pelvis?",
+    "options": {
+      "A": "Uterosacral and Cardinal ligaments",
+      "B": "Round and Broad ligaments",
+      "C": "Pubocervical and Round ligaments",
+      "D": "Infundibulopelvic ligaments"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The cardinal (transverse cervical) and uterosacral ligaments provide the essential endopelvic fascia support that holds the cervix and uterus in place. The round and broad ligaments are secondary and do not provide significant structural support against prolapse. Reference: Snell's Clinical Anatomy; BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "A perineal tear that involves the vaginal mucosa, perineal muscles, and both the internal and external anal sphincters is classified as:",
+    "options": {
+      "A": "2nd-degree tear",
+      "B": "3rd-degree tear",
+      "C": "4th-degree tear",
+      "D": "1st-degree tear"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A 3rd-degree tear involves the anal sphincter complex but does not extend through the anal epithelium into the rectum. If the rectal mucosa were breached, it would be classified as a 4th-degree tear. Reference: RCOG Green-top Guideline 29 (Perineal Tears)."
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "While counseling an infertile couple, you explain that the fallopian tube is the site where which critical event occurs?",
+    "options": {
+      "A": "Fertilization",
+      "B": "Implantation",
+      "C": "Ovulation",
+      "D": "Oogenesis"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Fertilization typically occurs in the ampulla of the fallopian tube within 24 hours of ovulation. Obstruction of this tube (tubal factor infertility) prevents the sperm from reaching the egg, making it a primary focus of infertility workups. Reference: First Aid for the USMLE Step 1 (Reproductive Anatomy)."
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "The major portion and the most important functional component of the levator ani muscle is the:",
+    "options": {
+      "A": "Pubococcygeus",
+      "B": "Iliococcygeus",
+      "C": "Ischiococcygeus",
+      "D": "Superficial Transverse perineal muscle"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The pubococcygeus (including the puborectalis portion) forms the bulk of the pelvic floor and is essential for maintaining urinary and fecal continence. Weakness in this muscle is the primary driver of pelvic organ prolapse. Reference: Moore's Clinically Oriented Anatomy; BRS Anatomy."
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "A patient with both diabetes with vascular complications and hypertension desires contraception. Which of the following is strictly contraindicated?",
+    "options": {
+      "A": "Combined Oral Contraceptive Pill",
+      "B": "Progestogen-only pill",
+      "C": "Copper IUD",
+      "D": "Mirena"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Combined oral contraceptives (containing estrogen) significantly increase the risk of thromboembolism and stroke in patients with pre-existing vascular disease. Estrogen promotes the synthesis of clotting factors and increases platelet aggregation, making it unsafe for diabetics with vasculopathy. Reference: WHO Medical Eligibility Criteria (MEC 4); First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "A 25-year-old woman with Premature Ovarian Insufficiency experiences severe vasomotor symptoms. What is the gold standard treatment?",
+    "options": {
+      "A": "Progestogen-only therapy",
+      "B": "Combined Estrogen and Progestogen HRT",
+      "C": "Tibolone",
+      "D": "Bisphosphonates"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Young women with POI require physiological hormone replacement therapy (HRT) to protect bone density and cardiovascular health while alleviating hot flashes. Since she has an intact uterus, progesterone must be added to estrogen to prevent endometrial hyperplasia. Reference: First Aid for the USMLE Step 1 (Reproductive/Endocrinology)."
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A patient on Tamoxifen for breast cancer undergoes an ultrasound showing an endometrial thickness of 15 mm. Tamoxifen acts on the endometrium as an:",
+    "options": {
+      "A": "Agonist",
+      "B": "Antagonist",
+      "C": "Neutral agent",
+      "D": "Enzyme inhibitor"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Tamoxifen is a Selective Estrogen Receptor Modulator (SERM) that acts as an antagonist in the breast but as a partial agonist in the uterus and bone. Its agonistic effect on the endometrium can lead to hyperplasia and an increased risk of endometrial carcinoma. Reference: First Aid for the USMLE Step 1 (Pharmacology/Oncology)."
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "After a hysterectomy, a patient complains of paresthesia on the anterior thigh and the medial aspect of the calf. Which nerve was likely damaged?",
+    "options": {
+      "A": "Femoral Nerve",
+      "B": "Ilioinguinal Nerve",
+      "C": "Genitofemoral Nerve",
+      "D": "Obturator Nerve"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The femoral nerve (L2-L4) provides sensation to the anterior thigh and gives off the saphenous nerve, which supplies the medial calf. During pelvic surgery, the femoral nerve can be compressed by self-retaining retractors against the psoas muscle. Reference: First Aid for the USMLE Step 1 (Neurology/Anatomy)."
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "A patient loses taste sensation on the right side of the tongue, anterior two-thirds. Which nerve is involved?",
+    "options": {
+      "A": "Right Facial Nerve",
+      "B": "Left Facial Nerve",
+      "C": "Right Hypoglossal Nerve",
+      "D": "Right Glossopharyngeal Nerve"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Taste for the anterior 2/3 of the tongue is mediated by the chorda tympani, a branch of the facial nerve (CN VII). In contrast, the posterior 1/3 taste and general sensation are both handled by the glossopharyngeal nerve (CN IX). Reference: First Aid for the USMLE Step 1 (Neuroanatomy)."
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A girl falls from a height and presents with left-sided abdominal pain and referred pain to the left shoulder. Which organ is most likely ruptured?",
+    "options": {
+      "A": "Stomach",
+      "B": "Diaphragm",
+      "C": "Liver",
+      "D": "Spleen"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "This classic presentation is known as Kehr's sign, where blood from a ruptured spleen irritates the phrenic nerve on the diaphragm, causing referred pain to the C3-C5 dermatomes (the shoulder). The spleen is the most commonly injured organ in blunt abdominal trauma. Reference: First Aid for the USMLE Step 1 (Anatomy/Gastrointestinal)."
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "An HIV-positive patient with a low CD4 count presents with blurred vision. Fundoscopy reveals a \"pizza-pie\" appearance with perivascular hemorrhages and white fluffy halos. What is the most likely causative agent?",
+    "options": {
+      "A": "Cytomegalovirus",
+      "B": "Toxoplasma gondii",
+      "C": "Cryptococcus neoformans",
+      "D": "Herpes Simplex Virus"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "CMV retinitis is the most common cause of blindness in AIDS patients (CD4 < 50) and displays a 'pizza-pie' (hemorrhage and exudate) pattern on fundoscopy. It requires urgent treatment with ganciclovir to prevent retinal detachment and permanent vision loss. Reference: First Aid for the USMLE Step 1 (Microbiology/Ophthalmology)."
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "A patient being treated for a germ cell tumor develops progressive dyspnea. A chest X-ray shows pulmonary infiltrates and fibrosis. Which chemotherapeutic agent is most likely responsible?",
+    "options": {
+      "A": "Etoposide",
+      "B": "Cisplatin",
+      "C": "Bleomycin",
+      "D": "Methotrexate"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Bleomycin causes dose-dependent pulmonary toxicity by inducing free radical damage that leads to lung inflammation and fibrosis. It is a cornerstone of germ cell tumor therapy, but patients must be monitored for restrictive lung disease. Reference: First Aid for the USMLE Step 1 (Pharmacology/Oncology)."
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "A 5-year-old child accidentally swallows/inhales a coin. If the coin enters the lower respiratory tract, where is it most likely to lodge?",
+    "options": {
+      "A": "Left primary bronchus",
+      "B": "Right primary bronchus",
+      "C": "Left tertiary bronchus",
+      "D": "Crura of the trachea"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The right primary bronchus is wider, shorter, and more vertically oriented than the left, making it the path of least resistance for aspirated foreign bodies. If the patient is upright, the object usually enters the superior segment of the right lower lobe. Reference: First Aid for the USMLE Step 1 (Anatomy/Respiratory)."
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A patient presents with profuse sweating, salivation, and miosis after consuming wild mushrooms. What is the specific antidote for these symptoms?",
+    "options": {
+      "A": "Atropine",
+      "B": "Pralidoxime",
+      "C": "Flumazenil",
+      "D": "Physostigmine"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Mushroom poisoning often involves muscarine, which overstimulates muscarinic acetylcholine receptors, causing 'DUMBBELS' symptoms. Atropine acts as a competitive antagonist at these receptors to dry secretions and reverse miosis. Reference: First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "An infant presents with intellectual disability, a \"musty\" body odor, and fair skin. Which amino acid will be found in abnormally high levels in this patient's blood?",
+    "options": {
+      "A": "Phenylalanine",
+      "B": "Tyrosine",
+      "C": "Tryptophan",
+      "D": "Alanine"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Phenylketonuria (PKU) is caused by a deficiency in phenylalanine hydroxylase, preventing the conversion of phenylalanine to tyrosine. The resulting buildup of phenylalanine leads to brain damage and the classic musty odor from phenylacetate excretion. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "A woman at full term presents in active labor with a 2 cm dilated cervix. On examination, active primary genital herpes lesions are noted. What is the most appropriate management to prevent neonatal transmission?",
+    "options": {
+      "A": "IV Acyclovir and continue vaginal delivery",
+      "B": "Oral Acyclovir and continue vaginal delivery",
+      "C": "Immediate Cesarean Section",
+      "D": "Application of topical Lidocaine"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The presence of active genital herpes lesions at the time of labor poses a significant risk of vertical transmission to the neonate, which can cause devastating disseminated infection. Immediate Cesarean section is the gold standard to bypass the infected birth canal. Reference: RCOG Green-top Guideline 30; Williams Obstetrics."
+  }
+,
+
+  {
+    "mcq_number": 66,
+    "question_text": "A house officer is performing a mediolateral episiotomy. To avoid injury to the anal sphincter while providing adequate space, at what angle from the midline should the incision be made?",
+    "options": {
+      "A": "15 degrees",
+      "B": "45 degrees",
+      "C": "60 degrees",
+      "D": "90 degrees"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Current RCOG guidelines recommend a 60-degree angle from the midline to maximize the distance from the anal sphincter and prevent extension into third or fourth-degree tears. This angle accounts for the anatomical distension of the perineum during crowning. Reference: RCOG Green-top Guideline (Episiotomy and Perineal Tears)."
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "During a pelvic surgery, the surgeon identifies the right ovarian vein. Into which vessel does this vein directly drain?",
+    "options": {
+      "A": "Right Renal Vein",
+      "B": "Inferior Vena Cava",
+      "C": "Internal Iliac Vein",
+      "D": "Common Iliac Vein"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The right ovarian vein drains directly into the Inferior Vena Cava (IVC) at an acute angle, whereas the left ovarian vein drains into the left renal vein at a 90-degree angle. This asymmetry is a common surgical landmark and explains why left-sided varicocele or pelvic congestion is more common. Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid (Anatomy)."
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "During a vaginal examination of a patient in labor, the forehead is the presenting part. Which diameter of the fetal skull is involved in a brow presentation?",
+    "options": {
+      "A": "Submentobregmatic (9.5 cm)",
+      "B": "Mentovertical (13.5 cm)",
+      "C": "Suboccipitobregmatic (9.5 cm)",
+      "D": "Occipitofrontal (11.5 cm)"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In a brow presentation, the head is partially extended, presenting the mentovertical diameter, which at 13.5 cm is the largest diameter of the fetal head. This diameter typically exceeds the pelvic dimensions, making vaginal delivery impossible unless the head flexes or extends further. Reference: Williams Obstetrics; BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "On neonatal examination, the anterior fontanelle is palpated. What is its characteristic shape and location?",
+    "options": {
+      "A": "Diamond shape at the junction of coronal and sagittal sutures",
+      "B": "Triangular shape at the junction of lambdoid and sagittal sutures",
+      "C": "Square shape at the junction of frontal and coronal sutures",
+      "D": "Diamond shape at the junction of lambdoid and coronal sutures"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The anterior fontanelle (Bregma) is a diamond-shaped soft spot formed by the intersection of the sagittal, coronal, and frontal sutures. It typically closes by 18 months and serves as a clinical window for assessing intracranial pressure and hydration. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid (Anatomy)."
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "A pregnant woman is concerned about redness on her palms and small red vascular spots on her chest. Her uncle, who has cirrhosis, has similar findings. These signs are caused by an increase in which hormone?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "Prolactin",
+      "D": "Testosterone"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "High circulating levels of estrogen in both pregnancy and cirrhosis lead to vascular changes like palmar erythema and spider nevi (telangiectasias). Estrogen has a direct vasodilatory effect on the microvasculature of the skin. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid (GI/Reproductive)."
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Which specific cell type in the alveoli is responsible for the secretion of pulmonary surfactant?",
+    "options": {
+      "A": "Type I Pneumocyte",
+      "B": "Type II Pneumocyte",
+      "C": "Alveolar Macrophage",
+      "D": "Goblet Cell"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Type II pneumocytes are cuboidal cells that produce, store, and secrete dipalmitoylphosphatidylcholine (surfactant), which reduces alveolar surface tension and prevents lung collapse. They also serve as progenitor cells for Type I pneumocytes after lung injury. Reference: USMLE Step 1 First Aid (Respiratory); Histology: A Text and Atlas."
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A patient is found to have two separate uterine bodies and two cervices. This congenital anomaly results from which embryological failure?",
+    "options": {
+      "A": "Complete failure of fusion of Paramesonephric ducts",
+      "B": "Failure of canalization of Paramesonephric ducts",
+      "C": "Incomplete fusion of Paramesonephric ducts",
+      "D": "Failure of development of Mesonephric ducts"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Uterus didelphys occurs when the two Mullerian (paramesonephric) ducts fail to fuse at all, resulting in a double uterus, double cervix, and often a double vagina. Partial fusion failure results in a bicornuate uterus instead. Reference: Langman's Medical Embryology; USMLE Step 1 First Aid (Reproductive)."
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "A tall 17-year-old girl presents with primary amenorrhea. Examination reveals a short, blind-ending vagina, absent uterus, and bilateral inguinal masses. What is her most likely karyotype?",
+    "options": {
+      "A": "45, XO",
+      "B": "46, XY",
+      "C": "46, XX",
+      "D": "47, XXY"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Androgen Insensitivity Syndrome (AIS) occurs in genotypic males (46, XY) who have defective androgen receptors, leading to a female phenotype but with absent Mullerian structures due to intact Anti-Mullerian Hormone production. The inguinal masses are undescended testes that must be removed after puberty to prevent malignancy. Reference: USMLE Step 1 First Aid (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "A patient with a history of gestational hypertension in her previous pregnancy is currently in early pregnancy with a normal blood pressure. What medication should be started to reduce the risk of pre-eclampsia?",
+    "options": {
+      "A": "Labetalol",
+      "B": "Methyldopa",
+      "C": "Low-dose Aspirin",
+      "D": "Magnesium Sulfate"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Low-dose aspirin (75-150 mg) started before 16 weeks of gestation is proven to reduce the risk of pre-eclampsia in high-risk women by modulating thromboxane/prostacyclin ratios and improving placental perfusion. It is the primary preventive strategy for women with prior hypertensive disorders of pregnancy. Reference: NICE Guidelines; USMLE Step 1 First Aid (Reproductive)."
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A patient on treatment for pulmonary tuberculosis develops numbness and a \"pins and needles\" sensation in their feet. Which drug is responsible for this peripheral neuropathy?",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Isoniazid",
+      "C": "Ethambutol",
+      "D": "Pyrazinamide"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Isoniazid (INH) is structurally similar to Vitamin B6 (pyridoxine) and promotes its excretion, leading to a deficiency that causes peripheral neuropathy. This side effect is easily prevented by co-administering pyridoxine supplements with the anti-tubercular regimen. Reference: USMLE Step 1 First Aid (Pharmacology); BRS Pharmacology."
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "A lesion in a specific part of the hypothalamus results in loss of appetite and thirst. Which centre has been affected?",
+    "options": {
+      "A": "Lateral Hypothalamus",
+      "B": "Ventromedial Hypothalamus",
+      "C": "Anterior Hypothalamus",
+      "D": "Supraoptic Nucleus"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The lateral hypothalamus is the 'feeding center' that stimulates hunger and thirst; destruction leads to aphagia and adipsia (starvation). Conversely, the ventromedial nucleus is the 'satiety center,' and its destruction leads to hyperphagia and obesity. Reference: Guyton and Hall Textbook of Medical Physiology; USMLE Step 1 First Aid (Neurology)."
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A patient sustains an injury to the anterior triangle of the perineum. Extravasated urine is found limited by a fascia that is continuous with the Scarpa's fascia of the abdominal wall. What is this fascia?",
+    "options": {
+      "A": "Camper's Fascia",
+      "B": "Denonvilliers' Fascia",
+      "C": "Colles' Fascia",
+      "D": "Pelvic Diaphragm"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Colles' fascia is the deep layer of the superficial perineal fascia and is continuous with Scarpa's fascia of the abdominal wall. This anatomical continuity explains why urine from a ruptured urethra can track into the scrotum and up the abdominal wall but cannot enter the thighs. Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid (Anatomy)."
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "An 8 hours after a vaginal delivery, a patient complains of intense perineal pain. Examination reveals a large, tense, bluish mass bulging into the vaginal wall. What is the most appropriate management?",
+    "options": {
+      "A": "Vaginal packing",
+      "B": "Incision and Drainage",
+      "C": "Cold packing in the perineum",
+      "D": "Expectant management"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A large, expanding vulvovaginal hematoma causes severe pressure and pain, necessitating surgical incision, evacuation of the clot, and ligation of any bleeding vessels. Expectant management is reserved only for small, stable hematomas. Reference: Williams Obstetrics; BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Carbon monoxide inhibits cellular respiration by binding to and inhibiting which component of the Electron Transport Chain?",
+    "options": {
+      "A": "Complex I",
+      "B": "Complex II",
+      "C": "Complex III",
+      "D": "Complex IV"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Carbon monoxide (and cyanide) binds to the Fe3+ in Cytochrome c Oxidase (Complex IV), blocking the final transfer of electrons to oxygen. This halts the proton gradient formation and ATP synthesis, leading to cellular hypoxia and death. Reference: USMLE Step 1 First Aid (Biochemistry); Lehninger Principles of Biochemistry."
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Following a total gastrectomy, a patient will require lifelong supplementation of which vitamin due to the loss of Intrinsic Factor?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin B12",
+      "C": "Vitamin B6",
+      "D": "Vitamin K"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Intrinsic factor is secreted by gastric parietal cells and is absolutely required for the absorption of Vitamin B12 in the terminal ileum. Total gastrectomy removes the only source of intrinsic factor, making lifelong parenteral B12 supplementation mandatory to prevent megaloblastic anemia. Reference: USMLE Step 1 First Aid (Gastrointestinal); Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "In chronic alcoholic liver disease, the characteristic connective tissue change seen in the \"chicken wire\" fibrosis pattern is categorized as:",
+    "options": {
+      "A": "Dense Irregular Connective Tissue",
+      "B": "Dense Regular Connective Tissue",
+      "C": "Elastic Tissue",
+      "D": "Reticular tissue"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The 'chicken wire' appearance in alcoholic steatohepatitis refers to perisinusoidal/pericellular fibrosis composed mainly of Type III collagen (reticular fibers). These fibers wrap around individual hepatocytes and disrupt the normal architecture of the liver lobule. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid (GI Pathology)."
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "What is the mechanism of action of Ipratropium Bromide in the management of COPD and asthma?",
+    "options": {
+      "A": "beta-2 Adrenergic Agonist",
+      "B": "Muscarinic Antagonist",
+      "C": "Leukotriene Receptor Antagonist",
+      "D": "Corticosteroid"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Ipratropium is a short-acting muscarinic antagonist (SAMA) that competitively blocks M3 receptors in bronchial smooth muscle, inhibiting parasympathetic-mediated bronchoconstriction. It is particularly effective in COPD, where cholinergic tone is often high. Reference: USMLE Step 1 First Aid (Pharmacology); BRS Pharmacology."
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "An 8-week pregnant lady presents with mild jaundice. Her LFTs are normal except for an unconjugated bilirubin of 3.5 mg/dL. There is no evidence of hemolysis. What is the most likely diagnosis?",
+    "options": {
+      "A": "Acute Viral Hepatitis",
+      "B": "Gilbert's Syndrome",
+      "C": "Intrahepatic Cholestasis of Pregnancy",
+      "D": "HELLP Syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Gilbert’s syndrome is a benign deficiency in UDP-glucuronosyltransferase, leading to isolated unconjugated hyperbilirubinemia often triggered by stress, fasting, or pregnancy. The absence of hemolysis or elevated transaminases confirms this diagnosis over other hepatic pathologies. Reference: USMLE Step 1 First Aid (Gastrointestinal); Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "A patient is unable to dorsiflex their big toe and has a \"foot drop\" after a leg injury. Which nerve is likely damaged?",
+    "options": {
+      "A": "Deep Peroneal Nerve",
+      "B": "Tibial Nerve",
+      "C": "Sural Nerve",
+      "D": "Obturator Nerve"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The deep peroneal nerve (a branch of the common peroneal) supplies the anterior compartment muscles of the leg responsible for dorsiflexion of the foot and toes. Injury results in the characteristic 'foot drop' gait where the patient cannot lift their toes while walking. Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid (Anatomy)."
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "A patient presents with an isolated prolonged Prothrombin Time (PT), while the APTT is normal. Which clotting factor is likely deficient?",
+    "options": {
+      "A": "Factor VIII",
+      "B": "Factor IX",
+      "C": "Factor VII",
+      "D": "Factor XII"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Factor VII is the only clotting factor in the extrinsic pathway; therefore, its deficiency (or inhibition by early warfarin therapy) prolongs the PT but not the APTT. In contrast, Factor VIII and IX deficiencies prolong the APTT as they are part of the intrinsic pathway. Reference: USMLE Step 1 First Aid (Hematology); BRS Physiology."
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "In the terminal bronchioles, which cell type acts as a progenitor cell to replace ciliated cells and secretes a component of surfactant?",
+    "options": {
+      "A": "Clara Cells",
+      "B": "Goblet Cells",
+      "C": "Type I Pneumocytes",
+      "D": "Kulchitsky Cells"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Clara cells (now known as Club cells) are non-ciliated, dome-shaped cells in terminal bronchioles that secrete protective proteins and can differentiate into ciliated cells. They also help degrade toxins via P450 enzymes and contribute to the surfactant layer in small airways. Reference: Histology: A Text and Atlas; USMLE Step 1 First Aid (Respiratory)."
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A fetus at 24 weeks' gestation is in which stage of lung development, characterized by the formation of primitive alveoli and increased vascularization?",
+    "options": {
+      "A": "Pseudoglandular",
+      "B": "Canalicular",
+      "C": "Saccular",
+      "D": "Alveolar"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The canalicular stage (16–26 weeks) is characterized by the widening of terminal bronchioles into alveolar ducts and the first appearance of primitive alveoli. This stage is critical because it marks the onset of potential viability due to gas exchange capability. Reference: Langman's Medical Embryology; USMLE Step 1 First Aid (Respiratory)."
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "A woman complains of sharp, mid-cycle pelvic pain occurring regularly about 14 days before her next expected period. What is the most likely cause?",
+    "options": {
+      "A": "Mittelschmerz",
+      "B": "Endometriosis",
+      "C": "Pelvic Inflammatory Disease",
+      "D": "Ovarian Torsion"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Mittelschmerz is mid-cycle ovulatory pain caused by the irritation of the peritoneum by follicular fluid or blood released during ovulation. It is a benign condition that occurs roughly 14 days before the next menses, coinciding with the LH surge. Reference: USMLE Step 1 First Aid (Reproductive); BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Following a splenectomy, a patient is at an increased risk of sepsis from encapsulated organisms. Which of the following is the most common Gram-positive culprit?",
+    "options": {
+      "A": "Streptococcus pneumoniae",
+      "B": "Neisseria meningitidis",
+      "C": "Haemophilus influenzae",
+      "D": "Escherichia coli"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The spleen contains marginal zone B cells that are essential for clearing encapsulated bacteria; without it, patients are highly susceptible to 'overwhelming post-splenectomy infection' (OPSI). Streptococcus pneumoniae is the most common and dangerous pathogen in this context. Reference: USMLE Step 1 First Aid (Immunology/Microbiology); Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A patient with a foul-smelling vaginal discharge is found to have flagellated protozoa on a wet mount. What is the treatment of choice?",
+    "options": {
+      "A": "Azithromycin",
+      "B": "Fluconazole",
+      "C": "Metronidazole",
+      "D": "Doxycycline"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Flagellated protozoa on wet mount identify Trichomonas vaginalis, for which Metronidazole (or Tinidazole) is the definitive treatment. It is essential to treat both the patient and their sexual partner to prevent reinfection. Reference: USMLE Step 1 First Aid (Microbiology); BRS Pharmacology."
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A patient presents with abdominal pain, neuropsychiatric symptoms, and \"port-wine\" colored urine. The primary biochemical defect is an accumulation of Porphobilinogen and delta-aminolevulinic acid (ALA). What is the diagnosis?",
+    "options": {
+      "A": "Acute Intermittent Porphyria",
+      "B": "Porphyria Cutanea Tarda",
+      "C": "Erythropoietic Protoporphyria",
+      "D": "Lead Poisoning"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Acute Intermittent Porphyria (AIP) is caused by a deficiency in Porphobilinogen Deaminase, leading to the accumulation of toxic precursors. The 5 Ps characterize AIP: Painful abdomen, Port-wine urine, Polyneuropathy, Psychological disturbances, and Precipitated by drugs. Reference: USMLE Step 1 First Aid (Biochemistry)."
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "A mid-trimester ultrasound shows severe oligohydramnios and an empty fetal renal bladder. This is most likely:",
+    "options": {
+      "A": "Premature Rupture of Membranes",
+      "B": "Posterior Urethral Valves",
+      "C": "Placental Insufficiency",
+      "D": "Potter's Sequence"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Potter's sequence is the result of bilateral renal agenesis, which leads to a lack of fetal urine production (oligohydramnios). This lack of amniotic fluid causes pulmonary hypoplasia, limb deformities, and characteristic facial features. Reference: Langman's Medical Embryology; USMLE Step 1 First Aid (Renal)."
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "During an autopsy, a clot is found in the heart that is not attached to the vessel wall and has a \"chicken-fat\" appearance. This is a:",
+    "options": {
+      "A": "Post-mortem clot",
+      "B": "Venous Thrombus",
+      "C": "Arterial Thrombus",
+      "D": "Ante-mortem clot"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Post-mortem clots are gelatinous and unattached, often showing a bottom layer of red cells ('currant jelly') and a top layer of plasma ('chicken fat'). True thrombi (ante-mortem) are attached to the wall and show distinct Lines of Zahn. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid (Pathology)."
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A 28-year-old woman presents with lower abdominal pain and a positive pregnancy test. Ultrasound reveals an empty uterus. What is the most common location for this condition?",
+    "options": {
+      "A": "Fallopian tube",
+      "B": "Ovary",
+      "C": "Cervix",
+      "D": "Abdominal cavity"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Ectopic pregnancies occur in approximately 2% of pregnancies, with over 95% of these located within the fallopian tube (most commonly the ampulla). An empty uterus with a positive pregnancy test is highly suspicious for an ectopic gestation. Reference: Williams Obstetrics; USMLE Step 1 First Aid (Reproductive Pathology)."
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A 35-year-old female presents with dry cough, dyspnea, and erythema nodosum. Chest X-ray shows bilateral hilar lymphadenopathy. Biopsy would most likely reveal:",
+    "options": {
+      "A": "Caseating granulomas",
+      "B": "Non-caseating granulomas",
+      "C": "Aschoff bodies",
+      "D": "Negri bodies"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Sarcoidosis is a systemic disease characterized by non-caseating granulomas and bilateral hilar lymphadenopathy on imaging. The hallmark of the granuloma is a central collection of macrophages without central necrosis (caseation), which distinguishes it from TB. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid (Respiratory)."
+  }
+,
+
+  {
+    "mcq_number": 96,
+    "question_text": "A patient presents with chronic cough, night sweats, and weight loss. Sputum staining reveals acid-fast bacilli. Which infectious agent is responsible?",
+    "options": {
+      "A": "Mycobacterium tuberculosis",
+      "B": "Staphylococcus aureus",
+      "C": "Klebsiella pneumoniae",
+      "D": "Mycoplasma pneumoniae"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Mycobacterium tuberculosis is an acid-fast bacterium due to high mycolic acid content in its cell wall, which prevents decolorization by acid-alcohol. It classically causes granulomatous inflammation and cavitary lesions in the lungs of immunocompromised or malnourished patients. Reference: First Aid for the USMLE Step 1 (Microbiology)."
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A 50-year-old man with a family history of early myocardial infarction is advised to lower his \"bad\" cholesterol. Which lipoprotein is primarily responsible for transporting cholesterol to peripheral tissues?",
+    "options": {
+      "A": "HDL",
+      "B": "LDL",
+      "C": "VLDL",
+      "D": "Chylomicrons"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Low-Density Lipoprotein (LDL) is the primary carrier of cholesterol in the blood, delivering it to peripheral tissues via receptor-mediated endocytosis. High levels are strongly correlated with the development of atherosclerosis and coronary artery disease. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Which hormone is secreted by the parafollicular C-cells of the thyroid gland to lower blood calcium levels?",
+    "options": {
+      "A": "Thyroxine",
+      "B": "Parathyroid hormone",
+      "C": "Calcitonin",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Calcitonin is secreted by thyroid C-cells in response to hypercalcemia; it lowers calcium by inhibiting osteoclast-mediated bone resorption and increasing renal excretion. It acts as a direct physiological antagonist to Parathyroid Hormone (PTH). Reference: Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "An ECG is performed on a patient 48 hours after chest pain. The presence of which finding indicates a previous full-thickness myocardial infarction?",
+    "options": {
+      "A": "ST-segment depression",
+      "B": "Tall T-waves",
+      "C": "Pathological Q-waves",
+      "D": "Prolonged PR interval"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Pathological Q-waves represent the lack of electrical activity in necrotic tissue, serving as a permanent ECG marker of a previous transmural (full-thickness) infarction. They typically develop hours to days after the acute event and persist indefinitely. Reference: Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "A patient presents with bitemporal hemianopia and a serum prolactin level > 5000 mIU/L. Imaging shows a pituitary tumor 15 mm in diameter. This is classified as a:",
+    "options": {
+      "A": "Microprolactinoma",
+      "B": "Macroprolactinoma",
+      "C": "Craniopharyngioma",
+      "D": "Meningioma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pituitary adenomas greater than 10 mm are classified as macroadenomas; they can compress the optic chiasm, causing bitemporal hemianopia. Massive prolactin elevations (>5000 mIU/L) are highly characteristic of these larger secretory tumors. Reference: First Aid for the USMLE Step 1 (Endocrinology)."
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "In a developing female, what is typically the first physical sign of puberty?",
+    "options": {
+      "A": "Menarche",
+      "B": "Breast development",
+      "C": "Pubarche",
+      "D": "Growth spurt"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Thelarche, or breast bud development, is typically the first visible sign of puberty in girls, usually occurring around age 10 under the influence of rising estrogen. The classic order is Thelarche, then Pubarche (adrenarche), and finally Menarche. Reference: BRS Pediatrics."
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "A child in a developing country presents with night blindness and Bitot's spots on the conjunctiva. This is a deficiency of:",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin C",
+      "C": "Vitamin D",
+      "D": "Vitamin B12"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Vitamin A (retinol) is essential for the formation of rhodopsin in the retina; its deficiency causes night blindness and squamous metaplasia of the conjunctiva (Bitot's spots). It is a major cause of preventable blindness worldwide. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Which hormone is responsible for the proliferation of the endometrial lining during the first half of the menstrual cycle?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "LH",
+      "D": "FSH"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Estrogen, primarily estradiol, stimulates the growth of the endometrial functional layer and the synthesis of progesterone receptors during the proliferative phase. After ovulation, progesterone halts this proliferation and initiates the secretory phase. Reference: First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "During cardiac surgery, the surgeon incises the outermost fibrous layer of the sac surrounding the heart. This layer is the:",
+    "options": {
+      "A": "Myocardium",
+      "B": "Visceral pericardium",
+      "C": "Parietal pericardium",
+      "D": "Endocardium"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The pericardium consists of a tough outer fibrous layer and an inner serous layer. The serous layer is divided into the visceral pericardium (epicardium) and the parietal pericardium, which is fused to the fibrous sac. Reference: Moore's Clinically Oriented Anatomy."
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "A patient presents with the \"3 Ds\": Dermatitis, Diarrhea, and Dementia. This clinical triad is due to a deficiency of:",
+    "options": {
+      "A": "Thiamine (B1)",
+      "B": "Riboflavin (B2)",
+      "C": "Niacin (B3)",
+      "D": "Pyridoxine (B6)"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Pellagra is caused by Niacin (Vitamin B3) deficiency and classically presents with Dermatitis, Diarrhea, Dementia, and eventually Death if untreated. It is often seen in populations with corn-heavy diets or conditions like Hartnup disease. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Elevated levels of which substance in maternal serum at 16 weeks' gestation are associated with neural tube defects?",
+    "options": {
+      "A": "AFP",
+      "B": "hCG",
+      "C": "Estriol",
+      "D": "Inhibin-A"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Alpha-fetoprotein (AFP) is a fetal plasma protein that leaks into maternal serum in cases of open neural tube defects or abdominal wall defects. Low AFP levels are instead associated with chromosomal trisomies like Down Syndrome. Reference: First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Malignant transformation of cells often involves the:",
+    "options": {
+      "A": "Under-expression of tumor suppressor genes",
+      "B": "Over-expression of oncogenes",
+      "C": "Inactivation of telomerase",
+      "D": "Activation of apoptosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cancer results from mutations that either activate proto-oncogenes (gain-of-function) or inactivate tumor suppressor genes (loss-of-function). Over-expression of oncogenes like MYC or RAS drives uncontrolled cell proliferation. Reference: Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A newborn has an abdominal wall defect to the right of the umbilical cord with exposed bowel loops not covered by a sac. This is:",
+    "options": {
+      "A": "Omphalocele",
+      "B": "Gastroschisis",
+      "C": "Umbilical hernia",
+      "D": "Diaphragmatic hernia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Gastroschisis is a full-thickness paraumbilical abdominal wall defect with protrusion of viscera that lacks a peritoneal covering. It is distinct from omphalocele, which occurs at the umbilicus and is covered by a sac of peritoneum and amnion. Reference: First Aid for the USMLE Step 1 (Gastrointestinal)."
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "During an acute asthma attack, a patient uses \"accessory muscles\" to breathe. These include the Sternocleidomastoid (SCM), Scalene Anterior, and:",
+    "options": {
+      "A": "External Intercostals",
+      "B": "Diaphragm",
+      "C": "Internal Intercostals",
+      "D": "Rectus Abdominis"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The diaphragm is the primary muscle of quiet inspiration, but the external intercostals, SCM, and scalenes act as accessory muscles to expand the thorax during respiratory distress. Internal intercostals and abdominal muscles are used for forced expiration. Reference: Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "A young woman presents with a malar rash, joint pain, and photosensitivity. Which multisystem autoimmune disease is most likely?",
+    "options": {
+      "A": "Dermatomyositis",
+      "B": "Rheumatoid Arthritis",
+      "C": "Scleroderma",
+      "D": "Systemic Lupus Erythematosus"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "SLE is a type III hypersensitivity reaction characterized by ANA and anti-dsDNA autoantibodies that form immune complexes, causing widespread inflammation. The malar 'butterfly' rash and photosensitivity are classic cutaneous manifestations. Reference: First Aid for the USMLE Step 1 (Immunology)."
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "\"Programmed cell death\" that occurs without an inflammatory response is known as:",
+    "options": {
+      "A": "Necrosis",
+      "B": "Apoptosis",
+      "C": "Infarction",
+      "D": "Autolysis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Apoptosis is an energy-dependent, caspase-mediated cellular suicide mechanism that neatly packs cell fragments into apoptotic bodies for phagocytosis. This process prevents the release of cellular enzymes and thus avoids an inflammatory response, unlike necrosis. Reference: Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "A patient who is hyperventilating due to an anxiety attack will most likely show which acid-base disturbance?",
+    "options": {
+      "A": "Respiratory Acidosis",
+      "B": "Respiratory Alkalosis",
+      "C": "Metabolic Acidosis",
+      "D": "Metabolic Alkalosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hyperventilation leads to excessive 'blowing off' of CO2, resulting in a low arterial PaCO2 and a high pH. This respiratory alkalosis can cause a decrease in ionized calcium, leading to the clinical symptom of paresthesia. Reference: First Aid for the USMLE Step 1 (Renal)."
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Parkinson's disease is characterized by the loss of dopaminergic neurons in the:",
+    "options": {
+      "A": "Nucleus Accumbens",
+      "B": "Caudate Nucleus",
+      "C": "Substantia Nigra",
+      "D": "Putamen"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Parkinson's disease involves the progressive degeneration of dopaminergic neurons in the substantia nigra pars compacta. This loss impairs the basal ganglia's direct pathway, leading to the hallmark symptoms of resting tremor, rigidity, and bradykinesia. Reference: First Aid for the USMLE Step 1 (Neurology)."
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A patient has weight gain, a \"buffalo hump,\" and high cortisol. If the cause is a pituitary adenoma, which lab value will be elevated?",
+    "options": {
+      "A": "ACTH",
+      "B": "TSH",
+      "C": "CRH",
+      "D": "ADH"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Cushing's disease refers specifically to hypercortisolism caused by an ACTH-secreting pituitary adenoma. The high ACTH levels chronically stimulate the adrenal glands to produce excess cortisol, resulting in a cushingoid appearance. Reference: First Aid for the USMLE Step 1 (Endocrinology)."
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A pregnant woman at 28 weeks has a blood pressure of 160/110 mmHg and 2+ proteinuria. What is the diagnosis?",
+    "options": {
+      "A": "Gestational hypertension",
+      "B": "Pre-eclampsia",
+      "C": "Eclampsia",
+      "D": "Chronic hypertension"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pre-eclampsia with severe features is defined by new-onset hypertension (≥160/110) and proteinuria after 20 weeks of gestation. It reflects widespread endothelial dysfunction and requires close monitoring for complications like seizures (eclampsia). Reference: Williams Obstetrics."
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "For a patient with certain low-grade or highly sensitive lymphomas, the primary curative or management modality is:",
+    "options": {
+      "A": "Only chemotherapy",
+      "B": "Only surgery",
+      "C": "Only physical therapy",
+      "D": "Only lifestyle change"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Hematological malignancies like lymphoma are inherently systemic diseases and are often extremely sensitive to cytotoxic drugs, making chemotherapy the cornerstone of curative intent. Surgery is usually limited to diagnostic biopsy rather than curative resection. Reference: First Aid for the USMLE Step 1 (Hematology/Oncology)."
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Chronic Myeloid Leukemia is classically associated with the Philadelphia chromosome, which involves a translocation between:",
+    "options": {
+      "A": "t(9;22)",
+      "B": "t(8;14)",
+      "C": "t(14;18)",
+      "D": "t(15;17)"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The t(9;22) translocation creates the BCR-ABL fusion gene, which encodes a constitutively active tyrosine kinase. This drives the uncontrolled myeloid proliferation seen in CML and is the target for therapy with imatinib. Reference: First Aid for the USMLE Step 1 (Hematology)."
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Which medication acts as a physical barrier by binding to the base of an ulcer, protecting it from stomach acid?",
+    "options": {
+      "A": "Omeprazole",
+      "B": "Ranitidine",
+      "C": "Sucralfate",
+      "D": "Misoprostol"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Sucralfate is a complex of aluminum hydroxide and sulfated sucrose that polymerizes into a sticky paste in an acidic environment. It selectively binds to the exposed proteins at the ulcer base, creating a physical shield against pepsin and acid. Reference: First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A woman with a strong family history of breast and ovarian cancer most likely carries a mutation in which gene?",
+    "options": {
+      "A": "BRCA-1/2",
+      "B": "APC",
+      "C": "KRAS",
+      "D": "HER2/neu"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Mutations in BRCA1 or BRCA2 genes impair homologous recombination for DNA double-strand break repair, significantly increasing the lifetime risk of breast, ovarian, and prostate cancers. These mutations are inherited in an autosomal dominant fashion with high penetrance. Reference: First Aid for the USMLE Step 1 (Genetics)."
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A 28-year-old female is seeking treatment for infertility. Which dopamine agonist is first-line for inhibiting prolactin secretion?",
+    "options": {
+      "A": "Metoclopramide",
+      "B": "Cabergoline",
+      "C": "Bromocriptine",
+      "D": "Domperidone"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cabergoline is a potent D2 receptor agonist that effectively suppresses prolactin production; it is considered first-line for prolactinomas due to its superior efficacy and better side-effect profile compared to bromocriptine. Inhibiting prolactin restores the normal pulsatile release of GnRH and facilitates ovulation. Reference: First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Shortly after the rupture of membranes, a laboring patient develops sudden cardiovascular collapse, respiratory distress, and disseminated intravascular coagulation. What is the most likely diagnosis?",
+    "options": {
+      "A": "Amniotic Fluid Embolism",
+      "B": "Pulmonary Embolism",
+      "C": "Placental Abruption",
+      "D": "Eclampsia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Amniotic fluid embolism is a rare but catastrophic obstetric emergency where amniotic fluid entering the maternal circulation triggers an anaphylactoid-like reaction. This leads to sudden cardio-respiratory failure and consumptive coagulopathy (DIC). Reference: Williams Obstetrics."
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A 16-year-old girl presents with primary amenorrhea. Examination reveals normal secondary sexual characteristics but a blind-ending vaginal pouch and an absent uterus. This is:",
+    "options": {
+      "A": "Asherman Syndrome",
+      "B": "Turner Syndrome",
+      "C": "Androgen Insensitivity Syndrome",
+      "D": "Rokitansky syndrome"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Müllerian agenesis (Mayer-Rokitansky-Küster-Hauser syndrome) involves the congenital absence of the uterus and the upper two-thirds of the vagina in a 46,XX individual. These patients have normal ovarian function and therefore develop normal secondary sexual characteristics. Reference: First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "A patient has cyclical pelvic pain and an obstructive mass in the mid-vagina, but the hymen is normal. This congenital anomaly is a:",
+    "options": {
+      "A": "Transverse Vaginal Septum",
+      "B": "Longitudinal Vaginal Septum",
+      "C": "Imperforate Hymen",
+      "D": "Vaginal Atresia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "A transverse vaginal septum occurs when the urogenital sinus and Müllerian ducts fail to canalize properly at their junction. It causes hematocolpos and cyclical pain, mimicking an imperforate hymen, but is located higher in the vaginal canal. Reference: BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A postmenopausal woman with a BMI of 35 presents with vaginal bleeding. An endometrial biopsy shows an overproliferation of glands. This is:",
+    "options": {
+      "A": "Endometrial Atrophy",
+      "B": "Endometrial Hyperplasia",
+      "C": "Endometritis",
+      "D": "Submucosal Fibroid"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Endometrial hyperplasia is driven by unopposed estrogen, which in obese postmenopausal women is produced via peripheral aromatization of androgens in adipose tissue. This overproliferation of glands is a major precursor to endometrial carcinoma. Reference: Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A 45-year-old woman presents with post-coital bleeding. Speculum examination reveals a small, red, pedunculated mass protruding from the cervical os. It is likely a:",
+    "options": {
+      "A": "Polyp",
+      "B": "Cervical Ectropion",
+      "C": "Fibroid",
+      "D": "Malignancy"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Cervical polyps are benign, common growths of the endocervical mucosa that often present with intermenstrual or post-coital spotting. They appear as smooth, red, pedunculated structures protruding through the external os. Reference: BRS Obstetrics and Gynecology."
+  }
+,
+
+  {
+    "mcq_number": 126,
+    "question_text": "Males are more commonly affected by X-linked recessive disorders because they possess only one X chromosome. This state is called:",
+    "options": {
+      "A": "Hemizygous",
+      "B": "Heterozygous",
+      "C": "Homozygous",
+      "D": "Haploid"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Hemizygosity describes the condition of having only one copy of a gene or chromosome instead of the usual two; in males, this applies to almost all genes on the X and Y chromosomes. Consequently, a single recessive mutation on the X chromosome will always be phenotypically expressed. Reference: First Aid for the USMLE Step 1 (Genetics)."
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Which cytokine, released by macrophages, acts on the hypothalamus to increase the set-point temperature and cause fever?",
+    "options": {
+      "A": "IL-4",
+      "B": "IL-1",
+      "C": "IL-10",
+      "D": "IFN-gamma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "IL-1 is a potent endogenous pyrogen that stimulates the anterior hypothalamus to produce Prostaglandin E2 (PGE2), which shifts the thermoregulatory set-point upward. This mechanism initiates heat-promoting behaviors and physiological changes like shivering and vasoconstriction. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Immunology)."
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A patient presents with a swollen, red, and painful thumb after a minor cut. This rapid response characterized by neutrophils is:",
+    "options": {
+      "A": "Granulomatous Inflammation",
+      "B": "Chronic Inflammation",
+      "C": "Acute Inflammation",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Acute inflammation is the immediate innate immune response to injury, characterized by increased vascular permeability and the rapid recruitment of neutrophils to the site of damage. This process is orchestrated by chemical mediators like histamine and leukotrienes. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Pathology)."
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "During a hysterectomy, which structure is most at risk of injury when the uterine artery is ligated?",
+    "options": {
+      "A": "Ureter",
+      "B": "Bladder",
+      "C": "Obturator nerve",
+      "D": "Internal iliac artery"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The ureter passes directly inferior to the uterine artery ('water under the bridge') near the level of the internal os of the cervix. This close anatomical relationship makes the ureter highly vulnerable to accidental ligation or transection during hysterectomy. Reference: Moore's Clinically Oriented Anatomy; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "The primary blood supply to the uterus arises from the uterine artery, which is a branch of the:",
+    "options": {
+      "A": "External Iliac Artery",
+      "B": "Internal Iliac Artery",
+      "C": "Abdominal Aorta",
+      "D": "Common Iliac Artery"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The uterine artery is a major branch of the anterior division of the internal iliac artery, providing the bulk of the blood supply to the uterus, fallopian tubes, and upper vagina. Its complex anastomoses with the ovarian artery ensure significant collateral flow. Reference: Snell's Clinical Anatomy; BRS Obstetrics and Gynecology."
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "The double layer of peritoneum that drapes over the uterus and fallopian tubes is the:",
+    "options": {
+      "A": "Broad ligament",
+      "B": "Round ligament",
+      "C": "Cardinal ligament",
+      "D": "Suspensory ligament"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The broad ligament is a fold of peritoneum that supports the uterus, ovaries, and fallopian tubes, serving as a conduit for their respective neurovascular bundles. It is subdivided into the mesometrium, mesosalpinx, and mesovarium based on the structures it encloses. Reference: Moore's Clinically Oriented Anatomy."
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "The uterus, fallopian tubes, and upper vagina develop from which embryonic structure?",
+    "options": {
+      "A": "Paramesonephric ducts",
+      "B": "Mesonephric ducts",
+      "C": "Urogenital sinus",
+      "D": "Metanephros"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "In the absence of Anti-Müllerian Hormone (AMH), the Paramesonephric (Müllerian) ducts develop into the female internal reproductive tract. Failure of these ducts to fuse or develop correctly leads to various uterine anomalies. Reference: Langman's Medical Embryology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Which technique uses labeled antibodies to identify specific antigens within a tissue section?",
+    "options": {
+      "A": "Flow Cytometry",
+      "B": "Western Blot",
+      "C": "PCR",
+      "D": "Immunohistochemistry"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Immunohistochemistry (IHC) utilizes the specificity of antibody-antigen binding to visualize cellular components directly within tissue architecture. It is the gold standard in pathology for subtyping tumors and identifying infectious agents. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Which organ of the human body serves as the primary barrier against the environment and is considered the largest by surface area?",
+    "options": {
+      "A": "Skin",
+      "B": "Liver",
+      "C": "Small intestine",
+      "D": "Lungs"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The skin is the body's primary innate defense barrier, protecting against physical trauma, pathogens, and UV radiation while regulating temperature. It is the largest organ of the body, providing essential sensory information through specialized nerve endings. Reference: Histology: A Text and Atlas; Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "In a patient with significant hypovolemia or heart failure, the difference between systolic and diastolic blood pressure decreases. This is:",
+    "options": {
+      "A": "Decreased pulse pressure",
+      "B": "Increased pulse pressure",
+      "C": "Hypertension",
+      "D": "Tachycardia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Pulse pressure is primarily determined by stroke volume; in hypovolemia or heart failure, a reduced stroke volume results in a narrow (decreased) pulse pressure. This clinical sign is often a compensatory mechanism to maintain mean arterial pressure despite low cardiac output. Reference: Guyton and Hall Textbook of Medical Physiology; First Aid for the USMLE Step 1 (Cardiovascular)."
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A fracture of the surgical neck of the humerus risks injuring the axillary nerve and which accompanying artery?",
+    "options": {
+      "A": "Brachial artery",
+      "B": "Profunda brachii artery",
+      "C": "Posterior circumflex humeral artery",
+      "D": "Subscapular artery"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The axillary nerve and the posterior circumflex humeral artery travel together through the quadrangular space and wrap around the surgical neck of the humerus. This proximity makes both structures highly susceptible to damage during humeral neck fractures or shoulder dislocations. Reference: Moore's Clinically Oriented Anatomy; First Aid for the USMLE Step 1 (Anatomy)."
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "A patient with seasonal allergic rhinitis is prescribed a medication that blocks histamine receptors to reduce sneezing and itching. This drug class is:",
+    "options": {
+      "A": "H1-receptor antagonist",
+      "B": "H2-receptor antagonist",
+      "C": "Proton pump inhibitor",
+      "D": "beta2 agonist"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "H1-receptor antagonists (antihistamines) block the effects of histamine on small blood vessels and sensory nerves, effectively reducing edema and pruritus. Second-generation H1-blockers are preferred in allergic rhinitis because they do not readily cross the blood-brain barrier, avoiding sedation. Reference: First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "A pregnant woman at 32 weeks' gestation presents with preterm labor. Which drug can be used as a tocolytic to inhibit uterine contractions?",
+    "options": {
+      "A": "Diltiazem",
+      "B": "Verapamil",
+      "C": "Nifedipine",
+      "D": "Amlodipine"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Nifedipine is a calcium channel blocker used as a tocolytic because it inhibits the influx of calcium into myometrial cells, preventing the calcium-calmodulin activation required for contraction. It is favored for its favorable safety profile and ease of oral administration. Reference: BRS Obstetrics and Gynecology; First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Which first-line oral hypoglycemic agent works by inhibiting hepatic gluconeogenesis and increasing peripheral insulin sensitivity?",
+    "options": {
+      "A": "Metformin",
+      "B": "Glibenclamide",
+      "C": "Pioglitazone",
+      "D": "Sitagliptin"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Metformin, a biguanide, activates AMP-activated protein kinase (AMPK) to suppress hepatic glucose production and enhance glucose uptake in skeletal muscle. It is unique among oral hypoglycemics because it does not cause weight gain or hypoglycemia. Reference: First Aid for the USMLE Step 1 (Pharmacology/Endocrinology)."
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "A bone marrow biopsy shows hypocellularity with increased fat spaces and pancytopenia in the peripheral blood. This is:",
+    "options": {
+      "A": "Pernicious anemia",
+      "B": "Myelofibrosis",
+      "C": "Leukemia",
+      "D": "Aplastic anemia"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Aplastic anemia is characterized by the replacement of hematopoietic stem cells with fat, leading to 'dry tap' or hypocellular marrow and a deficiency in all three blood cell lines. It often results from immune-mediated destruction of stem cells or toxic exposure. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Hematology)."
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Which placental hormone is primarily responsible for the insulin resistance observed during pregnancy?",
+    "options": {
+      "A": "hPL (Human Placental Lactogen)",
+      "B": "hCG",
+      "C": "Progesterone",
+      "D": "Estriol"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Human Placental Lactogen (hPL) antagonizes the effects of insulin, increasing maternal blood glucose levels to ensure a steady nutrient supply to the fetus. This physiological insulin resistance can lead to gestational diabetes in predisposed women. Reference: Guyton and Hall Textbook of Medical Physiology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "An ultrasound shows a \"snowstorm\" appearance in the uterus and no fetus. This is diagnostic of:",
+    "options": {
+      "A": "Molar pregnancy",
+      "B": "Anembryonic pregnancy",
+      "C": "Missed miscarriage",
+      "D": "Choriocarcinoma"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "A complete hydatidiform mole results from the fertilization of an 'empty' egg, leading to a proliferation of hydropic chorionic villi that create the classic 'snowstorm' or 'bunch of grapes' ultrasound pattern. These patients require close monitoring of hCG levels due to the risk of malignant transformation. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "A patient has lost pain and temperature sensation on the right side of their body below the level of the injury. This indicates damage to the:",
+    "options": {
+      "A": "Left lateral spinothalamic tract",
+      "B": "Right lateral spinothalamic tract",
+      "C": "Left dorsal columns",
+      "D": "Right corticospinal tract"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The spinothalamic tract carries pain and temperature information and decussates 1-2 segments above the level of entry in the spinal cord. Therefore, a lesion on the left side of the cord results in a loss of these sensations on the contralateral (right) side of the body. Reference: First Aid for the USMLE Step 1 (Neuroanatomy)."
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "A newborn with ambiguous genitalia and salt-wasting is suspected of having CAH. This condition most commonly results from a deficiency in which enzyme?",
+    "options": {
+      "A": "Aromatase",
+      "B": "11-beta-hydroxylase",
+      "C": "17-alpha-hydroxylase",
+      "D": "21-hydroxylase"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "21-hydroxylase deficiency accounts for ~95% of congenital adrenal hyperplasia (CAH) cases, leading to impaired cortisol and aldosterone synthesis with a shunting of precursors toward androgen production. The resulting hypoaldosteronism causes life-threatening 'salt-wasting' crises in infancy. Reference: First Aid for the USMLE Step 1 (Endocrinology/Biochemistry)."
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "In the screening and diagnosis of the most common form of Congenital Adrenal Hyperplasia, which metabolite is found to be significantly elevated?",
+    "options": {
+      "A": "17-Hydroxyprogesterone",
+      "B": "Cortisol",
+      "C": "Aldosterone",
+      "D": "Dehydroepiandrosterone"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "17-hydroxyprogesterone (17-OHP) is the substrate for 21-hydroxylase; when the enzyme is deficient, 17-OHP accumulates and serves as a diagnostic biomarker. Elevated levels confirm the diagnosis and trigger newborn screening protocols for CAH. Reference: First Aid for the USMLE Step 1 (Endocrinology)."
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Which hormone is primarily responsible for maintaining the decidualized endometrium and decreasing uterine contractility during pregnancy?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "hCG",
+      "D": "Relaxin"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Progesterone is the 'hormone of pregnancy,' essential for maintaining myometrial quiescence and the decidualized lining required for fetal support. A drop in progesterone is a key physiological trigger for the onset of labor. Reference: Guyton and Hall Textbook of Medical Physiology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "In the fasting state, which form of lipid serves as the primary storage of energy in adipose tissue?",
+    "options": {
+      "A": "Phospholipids",
+      "B": "Cholesterol",
+      "C": "Triglycerides",
+      "D": "Free fatty acids"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Triglycerides are highly efficient energy storage molecules, consisting of three fatty acids esterified to a glycerol backbone. During fasting, hormone-sensitive lipase breaks these down into glycerol and free fatty acids for systemic energy use. Reference: First Aid for the USMLE Step 1 (Biochemistry); Lehninger Principles of Biochemistry."
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Inside the sarcoplasmic reticulum of muscle cells, which protein binds and stores calcium ions to maintain a low free Ca2+ concentration?",
+    "options": {
+      "A": "Calsequestrin",
+      "B": "Troponin C",
+      "C": "Calmodulin",
+      "D": "Myosin"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Calsequestrin is a high-capacity, low-affinity calcium-binding protein that allows the sarcoplasmic reticulum to store large amounts of calcium without raising its internal osmotic pressure. This sequestered calcium is rapidly released during muscle contraction. Reference: Guyton and Hall Textbook of Medical Physiology; USMLE Step 1 First Aid (Musculoskeletal)."
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "During prolonged starvation or uncontrolled diabetes, the body switches from glucose metabolism to the breakdown of fats for energy. This process is:",
+    "options": {
+      "A": "Fat inhibition",
+      "B": "Fat utilization",
+      "C": "Protein synthesis",
+      "D": "Glycogenesis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In states of low insulin (starvation/diabetes), the body undergoes lipolysis to release fatty acids, which the liver then converts into ketone bodies for the brain and heart. This shift to fat utilization preserves blood glucose and skeletal muscle protein. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Most drugs at therapeutic concentrations are eliminated such that a constant fraction of the drug is removed per unit of time. This is known as:",
+    "options": {
+      "A": "Zero-order kinetics",
+      "B": "First-order kinetics",
+      "C": "Michaelis-Menten kinetics",
+      "D": "Saturation kinetics"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "First-order elimination means the rate of drug removal is directly proportional to its concentration, resulting in a constant half-life. This is the kinetic profile for the majority of clinical drugs at standard dosing. Reference: First Aid for the USMLE Step 1 (Pharmacology)."
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "A patient presents with bulging eyes, pretibial myxedema, and a suppressed TSH. This autoimmune hyperthyroidism is:",
+    "options": {
+      "A": "Plummer disease",
+      "B": "Hashimoto thyroiditis",
+      "C": "Graves' disease",
+      "D": "De Quervain thyroiditis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Graves' disease is caused by Thyroid-Stimulating Immunoglobulins (TSI) that activate the TSH receptor, leading to excessive thyroid hormone production. The classic ophthalmopathy and dermopathy are due to fibroblast stimulation by these same antibodies. Reference: First Aid for the USMLE Step 1 (Endocrinology)."
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "After ovulation, the corpus luteum is formed. Which hormone does it secrete in high amounts to prepare the uterus for implantation?",
+    "options": {
+      "A": "Progesterone",
+      "B": "LH",
+      "C": "FSH",
+      "D": "Testosterone"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Progesterone levels peak during the mid-luteal phase, secreted by the corpus luteum to transform the endometrium into a receptive, secretory state. If pregnancy does not occur, the corpus luteum degenerates, leading to a drop in progesterone and the onset of menses. Reference: First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Which test is performed on a maternal blood sample to detect the presence of unbound Rh antibodies in the mother's serum?",
+    "options": {
+      "A": "Direct Coombs test",
+      "B": "Indirect Coombs test",
+      "C": "Kleihauer-Betke test",
+      "D": "Apt test"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The Indirect Coombs test screens maternal serum for antibodies that could cross the placenta and cause hemolytic disease of the newborn. A positive result indicates that the mother is already sensitized and carrying Rh antibodies. Reference: First Aid for the USMLE Step 1 (Hematology/Reproductive)."
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "In the male fetus, the development of the mesonephric duct structures, such as the epididymis and vas deferens, is stimulated by:",
+    "options": {
+      "A": "Androgens",
+      "B": "Anti-Müllerian Hormone",
+      "C": "Estrogen",
+      "D": "Growth Hormone"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Testosterone, produced by Leydig cells, directly stimulates the survival and differentiation of the Wolffian (mesonephric) ducts into the male internal genitalia. Meanwhile, Sertoli cells produce AMH to cause the regression of the female Müllerian ducts. Reference: Langman's Medical Embryology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "In the liver and pancreatic beta-cells, which enzyme has a high Km for glucose, acting as a \"glucose sensor\" that only functions when blood sugar is high?",
+    "options": {
+      "A": "Hexokinase",
+      "B": "Glucokinase",
+      "C": "Phosphofructokinase",
+      "D": "Pyruvate Kinase"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Glucokinase (Hexokinase IV) has a low affinity (high Km) for glucose, allowing these cells to 'sense' and process glucose only when systemic levels are elevated. This prevents the liver from hoarding glucose when blood levels are low, leaving it available for the brain. Reference: First Aid for the USMLE Step 1 (Biochemistry)."
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "In the management of chronic asthma, which drug class is used to reduce airway inflammation and long-term sensitivity?",
+    "options": {
+      "A": "Anticholinergics",
+      "B": "Short-acting beta agonists",
+      "C": "Glucocorticoids",
+      "D": "Methylxanthines"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Inhaled glucocorticoids are the most effective long-term 'controllers' in asthma because they inhibit the synthesis of inflammatory cytokines and reduce bronchial hyperreactivity. Unlike bronchodilators, they treat the underlying inflammatory pathophysiology. Reference: First Aid for the USMLE Step 1 (Pharmacology/Respiratory)."
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A patient is found to have high cholesterol. According to guidelines, the initial step in management for most patients with moderate risk should be:",
+    "options": {
+      "A": "Low-fat diet + weight reduction",
+      "B": "Immediate high-dose statin",
+      "C": "Fibrates",
+      "D": "Bile acid sequestrants"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Therapeutic lifestyle changes (diet and exercise) are the first-line intervention for dyslipidemia, as they can significantly improve the lipid profile and reduce overall cardiovascular risk. Pharmacological therapy is typically added only if target levels are not achieved through lifestyle modification. Reference: First Aid for the USMLE Step 1 (Cardiovascular/Biochemistry)."
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A patient presents with chest pain. Which cardiac biomarker is most specific for detecting a re-infarction because its levels return to baseline within 48–72 hours?",
+    "options": {
+      "A": "Troponin I",
+      "B": "CK-MB",
+      "C": "Myoglobin",
+      "D": "LDH"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "CK-MB returns to normal within 2–3 days, whereas troponin stays elevated for up to 10 days; this makes CK-MB uniquely useful for identifying a second infarction occurring shortly after the first. Troponin remains the preferred marker for initial diagnosis due to higher sensitivity. Reference: First Aid for the USMLE Step 1 (Cardiovascular)."
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "At 24–26 weeks of gestation, the lungs enter a phase where primitive alveoli form. This is the:",
+    "options": {
+      "A": "Pseudoglandular period",
+      "B": "Canalicular period",
+      "C": "Terminal sac period",
+      "D": "Alveolar period"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The canalicular stage (16–26 weeks) is critical for viability because terminal bronchioles divide into respiratory bronchioles, and vascularization significantly increases. By the end of this stage, the first primitive alveoli allow for the possibility of gas exchange. Reference: Langman's Medical Embryology; First Aid for the USMLE Step 1 (Respiratory)."
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Which diagnostic test involves injecting radiopaque dye into the cervical canal to assess the patency of the fallopian tubes?",
+    "options": {
+      "A": "Laparoscopy",
+      "B": "Hysterosalpingogram",
+      "C": "Hysteroscopy",
+      "D": "Transvaginal Ultrasound"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hysterosalpingography (HSG) is a fluoroscopic procedure used primarily in infertility workups to visualize the uterine cavity and confirm the bilateral spillage of dye, indicating patent fallopian tubes. It can also be therapeutic by flushing out minor tubal debris. Reference: BRS Obstetrics and Gynecology; First Aid for the USMLE Step 1 (Reproductive)."
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Which diuretic can cause hyperuricemia and may precipitate an attack of gout?",
+    "options": {
+      "A": "Hydrochlorothiazide",
+      "B": "Spironolactone",
+      "C": "Furosemide",
+      "D": "Acetazolamide"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Thiazide diuretics compete with uric acid for secretion in the proximal tubule, leading to increased serum uric acid levels. This hyperuricemia can trigger an acute gouty arthritis flare in susceptible individuals. Reference: First Aid for the USMLE Step 1 (Pharmacology/Renal)."
+  }
+]
