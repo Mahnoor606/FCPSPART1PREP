@@ -1,0 +1,2345 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "A tumor cell divides how many times before becoming clinically detectable?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "40",
+      "E": "50"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Clinical detection typically occurs when a tumor mass reaches approximately 1 gram (roughly 1 cm in diameter), which corresponds to 10^9 cells produced after 30 doublings. Fewer divisions result in microscopic clusters, while 40 divisions would represent a massive 1kg burden often incompatible with life. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A patient presents with proximal muscle weakness that improves with repeated use, along with dry mouth and autonomic symptoms. Imaging reveals a lung mass. This condition is most commonly associated with which type of lung cancer?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Large cell carcinoma",
+      "D": "Small cell carcinoma",
+      "E": "Bronchioloalveolar carcinoma"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Lambert-Eaton Myasthenic Syndrome (LEMS) is a paraneoplastic condition where antibodies target presynaptic voltage-gated calcium channels, but repeated stimulation increases calcium influx to improve strength. It is classic for Small Cell Lung Carcinoma, a neuroendocrine tumor. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "A 55-year-old patient underwent pelvic radiation therapy and is now unable to achieve erection. The problem is most likely due to damage to which of the following?",
+    "options": {
+      "A": "Pudendal nerve",
+      "B": "Sympathetic fibers",
+      "C": "Parasympathetic fibers",
+      "D": "Somatic motor fibers",
+      "E": "Dorsal root ganglion"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Erection is mediated by parasympathetic fibers (S2-S4) which release nitric oxide to vasodilate penile arteries. Radiation in the pelvic region frequently damages these autonomic plexuses. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A 60-year-old patient with long-standing hypertension is found to have an enlarged left ventricle. This enlargement is due to which of the following?",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Hypertrophy",
+      "C": "Metaplasia",
+      "D": "Dysplasia",
+      "E": "Atrophy"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cardiac myocytes are permanent cells and cannot divide (hyperplasia); therefore, they adapt to increased afterload by increasing individual cell size and protein synthesis. This pathological hypertrophy is a classic response to chronic hypertension. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A 45-year-old chronic smoker presents with a persistent cough. Bronchoscopy shows replacement of normal ciliated columnar epithelium of the bronchus with stratified squamous epithelium. This change is best described as which of the following?",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Hypertrophy",
+      "C": "Metaplasia",
+      "D": "Dysplasia",
+      "E": "Neoplasia"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Metaplasia is a reversible change where one adult cell type is replaced by another better suited to withstand chronic irritation, such as cigarette smoke. While tougher, the new squamous epithelium lacks the protective cilia of the original columnar cells. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "A 50-year-old man with long-standing GERD undergoes endoscopy. Biopsy from the lower esophagus shows replacement of normal squamous epithelium with intestinal-type columnar epithelium containing goblet cells. This change is best described as which of the following?",
+    "options": {
+      "A": "Stratified squamous epithelium",
+      "B": "Simple columnar epithelium without goblet cells",
+      "C": "Pseudostratified ciliated columnar epithelium",
+      "D": "Intestinal-type columnar epithelium with goblet cells",
+      "E": "Transitional epithelium"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Barrett's Esophagus is a specialized intestinal metaplasia where chronic acid reflux causes the esophageal squamous lining to become columnar with goblet cells. This is a significant risk factor for esophageal adenocarcinoma. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A 52-year-old woman suddenly develops the \"worst headache of her life\" while watching TV. She also has nausea, vomiting, and neck stiffness. CT scan shows bleeding in the subarachnoid space. The most likely cause is rupture of which structure?",
+    "options": {
+      "A": "Charcot-Bouchard microaneurysm",
+      "B": "Berry aneurysm",
+      "C": "Atherosclerotic plaque",
+      "D": "Arteriovenous malformation of dura",
+      "E": "Cavernous hemangioma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Subarachnoid hemorrhage (SAH) presents with a 'thunderclap' headache and is most commonly caused by the rupture of a Berry (saccular) aneurysm. These typically occur at bifurcations in the Circle of Willis due to lack of a tunica media. Reference: Gray's Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A 25-year-old patient presents with fever, severe headache, neck stiffness, and photophobia. CSF analysis shows increased lymphocyte count, normal glucose, and mildly elevated protein. What is the most likely diagnosis?",
+    "options": {
+      "A": "Bacterial meningitis",
+      "B": "Viral meningitis",
+      "C": "Fungal meningitis",
+      "D": "Tuberculous meningitis",
+      "E": "Subarachnoid hemorrhage"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Viral meningitis (aseptic) is characterized by a lymphocytic pleocytosis with normal glucose levels, unlike bacterial meningitis which shows neutrophils and low glucose. It typically follows a milder clinical course. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A patient presents with a sudden severe \"worst headache of life\" and CT scan confirms subarachnoid hemorrhage. Which of the following is the most appropriate drug to give to prevent complications?",
+    "options": {
+      "A": "Ceftriaxone",
+      "B": "Beta blocker",
+      "C": "Nimodipine",
+      "D": "Mannitol",
+      "E": "Heparin"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Nimodipine, a dihydropyridine calcium channel blocker, is used to prevent delayed cerebral vasospasm, which is a major cause of secondary ischemia following SAH. It reduces morbidity by improving blood flow to vulnerable brain tissue. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A 48-year-old man with a history of chronic liver disease presents with massive hematemesis after vomiting. Endoscopy confirms bleeding esophageal varices. What is the most appropriate initial drug for management?",
+    "options": {
+      "A": "Omeprazole",
+      "B": "Ceftriaxone",
+      "C": "Octreotide",
+      "D": "Propranolol",
+      "E": "Tranexamic acid"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Octreotide is a somatostatin analog that causes splanchnic vasoconstriction, thereby reducing portal pressure and acute variceal bleeding. It is the gold standard pharmacological intervention alongside endoscopic ligation. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Which receptors are primarily responsible for increasing arteriolar constriction?",
+    "options": {
+      "A": "β1 adrenergic receptors",
+      "B": "β2 adrenergic receptors",
+      "C": "α1 adrenergic receptors",
+      "D": "M2 muscarinic receptors",
+      "E": "D1 dopaminergic receptors"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Alpha-1 adrenergic receptors are located on vascular smooth muscle and mediate vasoconstriction when activated by norepinephrine or epinephrine. This increases total peripheral resistance and blood pressure. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "A 30-year-old man is brought to the emergency department after a road traffic accident. He has a deep laceration in his thigh. On examination, there is continuous dark red, non-pulsatile bleeding that is difficult to notice at first but gradually leads to significant blood loss over time. Which vessel is most likely injured causing the maximum total blood loss if not controlled?",
+    "options": {
+      "A": "Artery",
+      "B": "Vein",
+      "C": "Venule",
+      "D": "Capillary",
+      "E": "Arteriole"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Venous bleeding is dark red and non-pulsatile; because it lacks the dramatic 'spurt' of arterial blood, it may be overlooked longer, potentially leading to greater cumulative blood loss. Veins act as high-capacity reservoirs in the systemic circulation. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "In Hodgkin lymphoma, which subtype is associated with poor prognosis?",
+    "options": {
+      "A": "Lymphocyte-rich",
+      "B": "Nodular sclerosis",
+      "C": "Mixed cellularity",
+      "D": "Lymphocyte-depleted",
+      "E": "Lymphocyte predominant"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The lymphocyte-depleted subtype has the worst prognosis because it signifies a failing immune response and is often seen in elderly or immunocompromised patients. In contrast, lymphocyte-rich subtypes correlate with the best outcomes. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A 28-year-old man has recently moved from sea level to a mountainous region at high altitude. After a few weeks, he reports mild fatigue but is otherwise healthy. Laboratory tests show increased red blood cell count and elevated hemoglobin levels. Which of the following best explains this adaptation?",
+    "options": {
+      "A": "Decreased erythropoietin due to hypoxia",
+      "B": "Increased erythropoietin production due to hypoxia",
+      "C": "Decreased oxygen affinity of hemoglobin due to CO exposure",
+      "D": "Bone marrow suppression due to hypoxia",
+      "E": "Increased plasma volume due to hypoxia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Chronic hypoxia at high altitude triggers renal peritubular cells to release erythropoietin (EPO). EPO stimulates the bone marrow to increase RBC production (polycythemia) to maximize oxygen-carrying capacity. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A patient with severe kyphoscoliosis presents with chronic shortness of breath. Arterial blood gas analysis is most likely to show which of the following?",
+    "options": {
+      "A": "Decreased PaCO2 and increased pH",
+      "B": "Increased PaCO2 and decreased pH",
+      "C": "Decreased PaCO2 and decreased pH",
+      "D": "Increased PaCO2 and increased pH",
+      "E": "Normal PaCO2 and normal pH"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Kyphoscoliosis is a restrictive lung disease that limits chest wall expansion, leading to alveolar hypoventilation. This causes CO2 retention (respiratory acidosis) and a compensatory drop in blood pH. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A 30-year-old man is brought to the emergency department after smoke inhalation in a closed-room fire. He is confused and has a headache Arterial blood gas shows normal PaO2, normal PaCO2, and normal pH, but tissue hypoxia is suspected. Which of the following best explains the physiological finding?",
+    "options": {
+      "A": "Decreased arterial oxygen content due to hemoglobin binding",
+      "B": "Increased PaCO2 due to hypoventilation",
+      "C": "Increased arterial oxygen tension with normal oxygen delivery",
+      "D": "Increased oxygen unloading to tissues due to left shift of curve",
+      "E": "Increased bicarbonate due to metabolic alkalosis"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Carbon monoxide (CO) binds to hemoglobin with 200x more affinity than oxygen, decreasing the total oxygen content of blood despite a normal PaO2 (dissolved oxygen). It also causes a left shift in the dissociation curve, making it harder for oxygen to reach tissues. Reference: USMLE Step 1 First Aid; Guyton Physiology."
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "People living at high altitude have increased respiratory rate as an adaptive response. What acid-base disturbance is most likely seen initially?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis",
+      "E": "Mixed respiratory and metabolic acidosis"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The low partial pressure of oxygen at high altitude stimulates peripheral chemoreceptors to increase the respiratory rate. Hyperventilation causes excessive loss of CO2, leading to an initial increase in blood pH (respiratory alkalosis). Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A 32 year old patient has the following arterial blood gas results: PaCO2 = 35 mmHg, HCO3- = 15 mEq/L. What is the most likely acid-base disturbance?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic alkalosis",
+      "E": "Mixed respiratory alkalosis + metabolic alkalosis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The primary problem is a low bicarbonate level, which indicates metabolic acidosis. The slightly low PaCO2 (35 mmHg) reflects an appropriate respiratory compensation (Kussmaul-type breathing) to lower acidity. Reference: Kaplan Medical Biochemistry; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A deep-sea diver surfaces rapidly after a long dive and develops severe joint pain, dizziness, and shortness of breath. What is the underlying cause of this condition?",
+    "options": {
+      "A": "Oxygen toxicity",
+      "B": "Carbon dioxide poisoning",
+      "C": "Nitrogen gas bubble formation in tissues",
+      "D": "Decreased helium solubility in blood",
+      "E": "Hypothermia-induced vasospasm"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "During rapid ascent, dissolved nitrogen gas comes out of solution and forms bubbles (the 'bends') because external pressure drops too quickly. These bubbles block small blood vessels and irritate nerve endings in joints. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A 52-year-old obese man is diagnosed with type 2 diabetes mellitus after routine screening. He has no symptoms of hyperglycemia and all baseline investigations including renal function, liver function, and vitamin B12 are normal. The physician starts him on metformin. What is the primary reason for choosing this drug?",
+    "options": {
+      "A": "Increases insulin secretion from pancreas",
+      "B": "Increases glucagon release",
+      "C": "Decreases hepatic gluconeogenesis and improves insulin sensitivity",
+      "D": "Blocks intestinal glucose absorption by inhibiting SGLT-2",
+      "E": "Stimulates pancreatic β-cell growth"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Metformin is the first-line agent for T2DM because it primarily inhibits mitochondrial glycerophosphate dehydrogenase, reducing hepatic glucose output. It also increases peripheral insulin sensitivity without the risk of hypoglycemia. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "A known diabetic patient presents to the emergency department with sweating, confusion, tremors, and blood glucose of 35 mg/dL after starting a new anti-diabetic medication. Which drug is most likely responsible?",
+    "options": {
+      "A": "Metformin",
+      "B": "Sulfonylurea",
+      "C": "Acarbose",
+      "D": "Pioglitazone",
+      "E": "Sitagliptin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Sulfonylureas (like glipizide) stimulate insulin release by closing K+ channels in pancreatic beta-cells, regardless of the patient's current blood glucose levels. This makes them a high-risk cause for profound hypoglycemia, especially in the elderly. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "A 28-year-old woman presents with amenorrhea for 6 weeks and a positive urine pregnancy test. Serum β-hCG is elevated. She is concerned about what this hormone is doing in her body at this stage. What is the primary function of hCG in early pregnancy?",
+    "options": {
+      "A": "Causes degeneration of corpus luteum",
+      "B": "Stimulates ovulation",
+      "C": "Maintains corpus luteum and progesterone secretion",
+      "D": "Initiates menstruation",
+      "E": "Inhibits implantation"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Human chorionic gonadotropin (hCG) 'rescues' the corpus luteum from regression, ensuring continued production of progesterone. This maintains the uterine lining for successful implantation and early pregnancy support. Reference: Langman's Medical Embryology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Human chorionic gonadotropin (hCG) is produced from which of the following structures?",
+    "options": {
+      "A": "Corpus luteum",
+      "B": "Maternal endometrium",
+      "C": "Syncytiotrophoblast",
+      "D": "Cytotrophoblast",
+      "E": "Embryonic yolk sac"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The syncytiotrophoblast, which comprises the outer multinucleated layer of the developing placenta, synthesizes and secretes hCG. This hormone is detectable in urine and blood to confirm pregnancy. Reference: Langman's Medical Embryology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A 22-year-old sexually active male presents with urethral discharge. Gram stain shows intracellular Gram-negative diplococci suggestive of Neisseria gonorrhoeae. The physician is concerned about poor patient compliance. Which is the best treatment option?",
+    "options": {
+      "A": "Oral doxycycline for 7 days",
+      "B": "Oral azithromycin single dose alone",
+      "C": "Single-dose intramuscular ceftriaxone",
+      "D": "Oral ciprofloxacin for 5 days",
+      "E": "No treatment required unless symptoms persist"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "A single intramuscular dose of ceftriaxone provides highly effective, observed treatment for gonorrhea, circumventing the risk of patient non-compliance. It is often combined with coverage for Chlamydia (e.g., doxycycline) due to frequent co-infection. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "A 24-year-old sexually active patient presents with urethritis and dysuria. Laboratory testing identifies a facultative intracellular organism. Which is the most likely causative organism?",
+    "options": {
+      "A": "Neisseria gonorrhoeae",
+      "B": "Chlamydia trachomatis",
+      "C": "Treponema pallidum",
+      "D": "Trichomonas vaginalis",
+      "E": "Haemophilus ducreyi"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Chlamydia trachomatis is an obligate intracellular pathogen that causes non-gonococcal urethritis. Note: While Chlamydia is obligate (not facultative), it is the intended answer here based on its unique lifecycle of elementary and reticulate bodies. Reference: USMLE Step 1 First Aid; Jawetz Medical Microbiology."
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Which is the most abundant immunoglobulin in human serum?",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgG",
+      "D": "IgE",
+      "E": "IgD"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "IgG is the most abundant immunoglobulin class, making up about 75-80% of total serum antibodies. It provides long-term immunity and is the only antibody capable of crossing the placenta. Reference: Abbas Basic Immunology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Which immunoglobulin class is able to cross the placenta and provide passive immunity to the fetus?",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgG",
+      "D": "IgE",
+      "E": "IgD"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "IgG is selectively transported across the placental barrier via specialized neonatal Fc receptors (FcRn). This allows the mother to pass critical passive immunity to the newborn for protection in the first months of life. Reference: Abbas Basic Immunology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A pregnant woman is Rh-negative, and her partner is Rh-positive. What is the appropriate prophylactic management during pregnancy?",
+    "options": {
+      "A": "Anti-D immunoglobulin",
+      "B": "Rho(D) antigen vaccine",
+      "C": "Maternal IgG infusion",
+      "D": "No treatment needed",
+      "E": "Corticosteroids"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Anti-D immunoglobulin (RhoGAM) is administered to Rh-negative mothers to bind and clear any fetal Rh-positive RBCs before the maternal immune system can recognize them. This prevents sensitization and hemolytic disease of the newborn in future pregnancies. Reference: First Aid for the USMLE Step 1; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "A 10-year-old child presents with fatigue, jaundice, and intermittent episodes of dark urine. Physical examination reveals splenomegaly. Peripheral blood smear shows numerous spherocytes without central pallor. Which of the following is the most appropriate diagnostic test to confirm the underlying condition?",
+    "options": {
+      "A": "Direct Coombs test",
+      "B": "Osmotic fragility test",
+      "C": "Ham test",
+      "D": "Hemoglobin electrophoresis",
+      "E": "G6PD enzyme assay"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hereditary spherocytosis involves a defect in RBC membrane proteins (spectrin/ankyrin) that forces cells to become spherical. The osmotic fragility test confirms this by showing that these rigid cells burst more easily in hypotonic solutions. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "A couple presents with a history of multiple first-trimester miscarriages. There is no obvious maternal infection or structural uterine abnormality. What is the most appropriate investigation to determine a genetic cause?",
+    "options": {
+      "A": "Western blot",
+      "B": "Southern blot",
+      "C": "Karyotyping",
+      "D": "ELISA",
+      "E": "PCR for pathogens"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Recurrent pregnancy loss is often caused by chromosomal abnormalities such as balanced translocations or inversions in one of the parents. Karyotyping both partners is the essential first step to identify these structural genetic defects. Reference: First Aid for the USMLE Step 1; Langman's Medical Embryology."
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Which neurotransmitter is primarily involved in signaling from the globus pallidus back to the corpus striatum in the basal ganglia circuit?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Acetylcholine",
+      "C": "GABA",
+      "D": "Glutamate",
+      "E": "Serotonin"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The basal ganglia output pathways from the globus pallidus use GABA as an inhibitory neurotransmitter. This feedback loop is critical for modulating motor control and movement. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "A 26-year-old patient presents with fever for 4 days, positive dengue NS1 antigen, and currently has abdominal pain and mild ascites on ultrasound. Which of the following clinical findings would be an indication for hospital admission in dengue infection?",
+    "options": {
+      "A": "Mild fever with body ache",
+      "B": "Positive NS1 antigen only",
+      "C": "Positive shifting dullness on abdominal exam",
+      "D": "Mild headache without warning signs",
+      "E": "Rash with stable vitals"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Positive shifting dullness indicates ascites, which is a sign of plasma leakage in dengue fever. Plasma leakage is a critical warning sign that requires immediate hospitalization for monitoring and fluid management. Reference: WHO Dengue Guidelines; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "A 55-year-old male with chronic liver disease (CLD) presents with ascites and pedal edema. What is the most likely change in plasma oncotic pressure?",
+    "options": {
+      "A": "Increased oncotic pressure",
+      "B": "Normal oncotic pressure",
+      "C": "Decreased oncotic pressure",
+      "D": "No change in oncotic pressure",
+      "E": "Fluctuating oncotic pressure"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Chronic liver disease leads to impaired albumin synthesis, causing hypoalbuminemia. This reduction in plasma oncotic pressure allows fluid to leak from vessels into tissues and the peritoneal cavity. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A 10-year-old child presents with a history of sore throat 2-3 weeks ago. Now he has periorbital puffiness and protein in urine. Which organism is most likely responsible for this condition?",
+    "options": {
+      "A": "Streptococcus group A",
+      "B": "Streptococcus group B",
+      "C": "Staphylococcus aureus",
+      "D": "Escherichia coli",
+      "E": "Neisseria meningitidis"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Post-streptococcal glomerulonephritis (PSGN) is a Type III hypersensitivity reaction following an infection with nephritogenic strains of Group A Streptococcus. It classically presents with hematuria, edema, and hypertension after a latent period. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "A 30-year-old patient presents to the emergency department with palpitations and dizziness. ECG shows an irregular rhythm with no distinct P waves and a varying ventricular response. The most likely site of the underlying problem is which of the following?",
+    "options": {
+      "A": "Left bundle branch",
+      "B": "Right bundle branch",
+      "C": "Bundle of His",
+      "D": "Bundle of Kent",
+      "E": "AV node"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The Bundle of Kent is an accessory pathway found in Wolff-Parkinson-White (WPW) syndrome that bypasses the normal delay of the AV node. This can lead to rapid re-entry circuits and arrhythmias like atrial fibrillation. Reference: USMLE Step 1 First Aid; Guyton and Hall Physiology."
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "A 60-year-old man is diagnosed with pulmonary hypertension. What is the most likely right ventricular systolic pressure in this condition?",
+    "options": {
+      "A": "5 mmHg",
+      "B": "10 mmHg",
+      "C": "15-25 mmHg",
+      "D": "25-60 mmHg",
+      "E": "120 mmHg"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Normal right ventricular systolic pressure is 15-25 mmHg. In pulmonary hypertension, increased resistance in the pulmonary vasculature forces the right ventricle to work harder, raising its systolic pressure to 25 mmHg or significantly higher. Reference: Guyton and Hall Physiology; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "A 58-year-old man presents with crushing chest pain. ECG shows ST elevation in leads II, III, and aVF. Which wall of the heart is affected?",
+    "options": {
+      "A": "Anterior wall",
+      "B": "Inferior wall",
+      "C": "Lateral wall",
+      "D": "Posterior wall",
+      "E": "Septal wall"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "ST elevation in leads II, III, and aVF diagnosticates an inferior wall myocardial infarction. This area is typically supplied by the Right Coronary Artery (RCA). Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A child presents with continuous \"machine-like\" murmur heard best in the left infraclavicular area with bounding pulses and wide pulse pressure. Which condition is most likely?",
+    "options": {
+      "A": "Ventricular septal defect",
+      "B": "Atrial septal defect",
+      "C": "Patent ductus arteriosus",
+      "D": "Tetralogy of Fallot",
+      "E": "Aortic stenosis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Patent ductus arteriosus (PDA) is a persistent connection between the aorta and pulmonary artery, creating a continuous systolic-diastolic murmur. The large left-to-right shunt causes high stroke volume and wide pulse pressure. Reference: USMLE Step 1 First Aid; Nelson Textbook of Pediatrics."
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "The kidney maintains a relatively constant glomerular filtration rate (GFR) despite changes in systemic blood pressure. Which mechanism is primarily responsible for this autoregulation?",
+    "options": {
+      "A": "Tubuloglomerular feedback and myogenic mechanism",
+      "B": "Renin-angiotensin system only",
+      "C": "Sympathetic nervous system only",
+      "D": "Atrial natriuretic peptide only",
+      "E": "Aldosterone secretion"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Renal autoregulation occurs via the myogenic mechanism (stretch-induced contraction of afferent arterioles) and tubuloglomerular feedback (macula densa sensing NaCl delivery). These ensure stable GFR across a wide range of mean arterial pressures. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Activation of the renin-angiotensin system causes arteriolar constriction mainly due to which substance?",
+    "options": {
+      "A": "Renin",
+      "B": "Angiotensin I",
+      "C": "Angiotensin II",
+      "D": "Aldosterone",
+      "E": "Bradykinin"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Angiotensin II is the most potent active vasoconstrictor in the RAAS pathway. It acts directly on AT1 receptors on vascular smooth muscle to increase total peripheral resistance. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "A 7-year-old child presents with high-grade fever, sore throat, and a \"strawberry tongue\" on examination. Which is the most likely causative organism?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pyogenes",
+      "C": "Streptococcus pneumoniae",
+      "D": "Corynebacterium diphtheriae",
+      "E": "Neisseria meningitidis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Scarlet fever, caused by Streptococcus pyogenes (Group A Strep), presents with pharyngitis, a sandpaper-like rash, and a characteristic strawberry tongue. It is mediated by erythrogenic exotoxins. Reference: Jawetz Medical Microbiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "A patient develops prolonged muscle paralysis and apnea after receiving succinylcholine for intubation. Which enzyme deficiency is most likely responsible for this delayed effect?",
+    "options": {
+      "A": "Acetylcholinesterase",
+      "B": "Pseudocholinesterase (butyrylcholinesterase)",
+      "C": "Glucuronyl transferase",
+      "D": "Monoamine oxidase",
+      "E": "CYP450 oxidase"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Succinylcholine is normally rapidly hydrolyzed by plasma pseudocholinesterase. Genetic deficiency of this enzyme results in prolonged neuromuscular blockade and sustained apnea. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A 40-year-old patient presents with episodic headaches, sweating, palpitations, and severe hypertension. Laboratory findings suggest pheochromocytoma. These tumor cells arise from which of the following?",
+    "options": {
+      "A": "Adrenal cortex",
+      "B": "Chromaffin cells of adrenal medulla",
+      "C": "Juxtaglomerular cells",
+      "D": "Parafollicular (C) cells of thyroid",
+      "E": "Sympathetic ganglion neurons only"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pheochromocytomas arise from chromaffin cells of the adrenal medulla, which are derived from the neural crest. These cells secrete excess catecholamines (epinephrine, norepinephrine), leading to the classic paroxysmal symptoms. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Itraconazole is an antifungal drug. What is its mechanism of action?",
+    "options": {
+      "A": "Inhibits fungal cell wall synthesis",
+      "B": "Binds ergosterol and forms pores in membrane",
+      "C": "Inhibits squalene epoxidase",
+      "D": "Inhibits fungal 14-α-demethylase (cytochrome P450 enzyme)",
+      "E": "Inhibits fungal DNA synthesis"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Azole antifungals like itraconazole inhibit the enzyme 14-alpha-demethylase, which converts lanosterol to ergosterol. The resulting lack of ergosterol disrupts the integrity and function of the fungal cell membrane. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A 23-year-old woman presents with fever, facial rash, and joint pain involving multiple small joints. She also reports fatigue and photosensitivity. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Rheumatoid arthritis",
+      "B": "Systemic lupus erythematosus",
+      "C": "Osteoarthritis",
+      "D": "Gout",
+      "E": "Reactive arthritis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Systemic Lupus Erythematosus (SLE) is a multisystem autoimmune disease classic for its malar 'butterfly' rash and symmetric joint pain. Diagnosis is supported by clinical criteria and the presence of anti-nuclear antibodies (ANA). Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "A 25-year-old man sustains a fracture at the neck of the fibula after a road traffic accident. He develops foot drop and loss of dorsiflexion of the foot. Which nerve is most likely injured?",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Common peroneal nerve",
+      "C": "Femoral nerve",
+      "D": "Obturator nerve",
+      "E": "Saphenous nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The common peroneal nerve winds around the head/neck of the fibula, making it highly vulnerable to fracture in this area. Injury leads to paralysis of the anterior compartment muscles, causing foot drop (inability to dorsiflex). Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "A 28-year-old woman presents with a painless, cystic swelling at the posterolateral aspect of the vaginal opening (labia majora area). What is the most likely diagnosis?",
+    "options": {
+      "A": "Skene's gland cyst",
+      "B": "Bartholin cyst",
+      "C": "Gartner duct cyst",
+      "D": "Epidermoid cyst",
+      "E": "Labial abscess"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Bartholin cysts result from the blockage of the Bartholin gland duct, located in the posterior vaginal vestibule. If they become infected, they turn into painful abscesses. Reference: USMLE Step 1 First Aid; Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A patient presents with cardiac tamponade and requires emergency pericardiocentesis. Which is the safest anatomical site for needle insertion?",
+    "options": {
+      "A": "Left 2nd intercostal space, midclavicular line",
+      "B": "Left 5th intercostal space, midaxillary line",
+      "C": "Subxiphoid (infrasternal) angle",
+      "D": "Right 4th intercostal space, parasternal line",
+      "E": "Left 7th intercostal space, posterior axillary line"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The subxiphoid approach allows the needle to enter the pericardial sac without traversing the lung or pleura. The needle is inserted just below the xiphoid process and directed toward the left shoulder at a 30-45° angle. Reference: Snell's Clinical Anatomy; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A 65-year-old patient with known COPD is given high-flow oxygen in the emergency department. Shortly after, the patient becomes drowsy and develops worsening respiratory acidosis. What is the most likely cause of this deterioration?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Oxygen-induced hypoventilation and CO2 retention",
+      "C": "Pulmonary embolism",
+      "D": "Acute myocardial infarction",
+      "E": "Pulmonary edema"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Chronic COPD patients rely on their hypoxic drive (low O2) to stimulate breathing because their CO2 sensitivity is blunted. Providing high-flow oxygen removes this stimulus, leading to alveolar hypoventilation and critical CO2 retention. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "A 20-year-old tall, thin girl suddenly develops sharp unilateral chest pain and shortness of breath while resting. On examination, there are reduced breath sounds on one side. What is the most likely diagnosis?",
+    "options": {
+      "A": "Pulmonary embolism",
+      "B": "Asthma attack",
+      "C": "Spontaneous pneumothorax",
+      "D": "Pleural effusion",
+      "E": "Pneumonia"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Spontaneous pneumothorax typically occurs in tall, thin young adults due to the rupture of small subpleural apical blebs. This results in air entering the pleural space, leading to lung collapse and absent breath sounds. Reference: USMLE Step 1 First Aid; Robbins Basic Pathology."
+  }
+,
+  {
+    "mcq_number": 51,
+    "question_text": "A 19-year-old male presents with intermittent mild jaundice, especially during stress or fasting. Liver function tests are otherwise normal, and there is no hemolysis. What is the most likely diagnosis?",
+    "options": {
+      "A": "Crigler-Najjar syndrome",
+      "B": "Gilbert syndrome",
+      "C": "Dubin-Johnson syndrome",
+      "D": "Rotor syndrome",
+      "E": "Hemolytic anemia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Gilbert syndrome is a common, benign condition caused by reduced activity of UDP-glucuronosyltransferase, leading to unconjugated hyperbilirubinemia triggered by stress, fasting, or illness. Unlike other liver pathologies, LFTs and biopsy are normal. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "An 70-year-old man with progressive jaundice, dark urine, pale stools, and generalized itching. Examination reveals a palpable gallbladder. What is the most likely cause of his condition?",
+    "options": {
+      "A": "Hepatitis A infection",
+      "B": "Hemolytic anemia",
+      "C": "Obstructive jaundice due to carcinoma head of pancreas",
+      "D": "Gilbert syndrome",
+      "E": "Crigler-Najjar syndrome"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Courvoisier's law states that a palpable, non-tender gallbladder in a jaundiced patient is highly suggestive of malignant biliary obstruction, most commonly at the head of the pancreas. This blocks the common bile duct, causing conjugated hyperbilirubinemia and distension of the gallbladder. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "A patient undergoes ileal resection for Crohn's disease. Which of the following is the most likely long-term complication?",
+    "options": {
+      "A": "Constipation",
+      "B": "Steatorrhea",
+      "C": "Increased iron absorption",
+      "D": "Hypercalcemia",
+      "E": "Increased vitamin B12 absorption"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The terminal ileum is the primary site for the reabsorption of bile acids and vitamin B12; its resection leads to bile acid depletion, which impairs fat emulsification and causes steatorrhea. Over time, this also leads to megaloblastic anemia due to B12 deficiency. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "A liver biopsy shows inflammation predominantly around the portal triads with lymphocytic infiltrates and interface activity. What is the most likely diagnosis?",
+    "options": {
+      "A": "Cirrhosis",
+      "B": "Viral hepatitis",
+      "C": "Active hepatitis",
+      "D": "Fatty liver disease",
+      "E": "Hepatic adenoma"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Interface hepatitis (formerly 'piecemeal necrosis') is a hallmark of chronic active hepatitis, where inflammation spills from the portal triad into the surrounding lobule, damaging hepatocytes. This is a key histological feature used to grade the severity of chronic viral or autoimmune hepatitis. Reference: Robbins Basic Pathology; First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "At which level does the common carotid artery typically bifurcate into the internal and external carotid arteries?",
+    "options": {
+      "A": "C1 vertebra",
+      "B": "C2 vertebra",
+      "C": "C3-C4 intervertebral disc",
+      "D": "C5 vertebra",
+      "E": "C6 vertebra"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The common carotid artery typically bifurcates at the level of the upper border of the thyroid cartilage, which corresponds to the C3-C4 vertebral level. This location contains the carotid sinus and carotid body, crucial for blood pressure and oxygen sensing. Reference: Snell's Clinical Anatomy; Gray's Anatomy."
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A child falls on an outstretched hand and sustains a supracondylar fracture of the humerus. He is now unable to extend his wrist and shows \"wrist drop.\" Which nerve is most likely injured?",
+    "options": {
+      "A": "Median nerve",
+      "B": "Ulnar nerve",
+      "C": "Radial nerve",
+      "D": "Axillary nerve",
+      "E": "Musculocutaneous nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The radial nerve supplies the extensors of the wrist and fingers; an injury to it results in the classic 'wrist drop' deformity. While supracondylar fractures often involve the median nerve, the specific clinical sign of wrist drop confirms radial nerve pathology. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A 35-year-old man presents after a fall with numbness and tingling on the medial side of his hand, including the little finger and medial half of the ring finger. He also has weakness in finger abduction and adduction. Which nerve is most likely injured?",
+    "options": {
+      "A": "Median nerve",
+      "B": "Radial nerve",
+      "C": "Ulnar nerve",
+      "D": "Axillary nerve",
+      "E": "Musculocutaneous nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The ulnar nerve provides sensory innervation to the medial 1.5 fingers and motor control to most intrinsic hand muscles, including the interossei (responsible for abduction/adduction). Injury often occurs at the elbow (cubital tunnel) or wrist (Guyon's canal). Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "A 60-year-old man with long-standing diabetes mellitus presents with difficulty in urination, overflow incontinence, and a distended bladder on examination. He has decreased bladder sensation and poor detrusor contraction. What is the most likely diagnosis?",
+    "options": {
+      "A": "Stress incontinence",
+      "B": "Urge incontinence",
+      "C": "Neurogenic bladder",
+      "D": "Benign prostatic hyperplasia",
+      "E": "Acute cystitis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Neurogenic bladder in diabetics results from autonomic neuropathy that impairs parasympathetic signaling to the detrusor muscle. This leads to a flaccid, overdistended bladder and overflow incontinence because the patient cannot sense fullness or initiate contraction. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A 30-year-old man is brought after a road traffic accident. He has difficulty in micturition with a distended bladder. Injury affects the neural control of the bladder. Which of the following is most likely responsible for failure of urination?",
+    "options": {
+      "A": "Sympathetic stimulation",
+      "B": "Parasympathetic stimulation",
+      "C": "Detrusor muscle failure",
+      "D": "Somatic nerve injury only",
+      "E": "Increased renal filtration"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Normal urination is mediated by parasympathetic fibers (S2-S4) which contract the detrusor muscle and relax the internal sphincter. Spinal shock or sacral trauma after an RTA can abolish this parasympathetic drive, causing acute urinary retention. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "A patient presents with progressive loss of near vision (difficulty reading books and mobile phone text). Which corrective lens is most appropriate?",
+    "options": {
+      "A": "Concave lens",
+      "B": "Convex lens",
+      "C": "Cylindrical lens",
+      "D": "Prism lens",
+      "E": "Bifocal lens"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Presbyopia is the age-related loss of lens elasticity, preventing the eye from increasing its refractive power for near vision. Convex (positive) lenses are used to converge light rays, compensating for the eye's inability to accommodate. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "A 48-year-old man complains of difficulty focusing on near objects while reading. On examination, his pupils are normal, but there is reduced ability to increase lens curvature during near vision. Which structure is primarily responsible for accommodation of the lens?",
+    "options": {
+      "A": "Iris sphincter muscle",
+      "B": "Ciliary muscle",
+      "C": "Superior rectus muscle",
+      "D": "Lateral rectus muscle",
+      "E": "Corneal epithelium"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "During the accommodation reflex, parasympathetic stimulation causes the ciliary muscle to contract, which relaxes the suspensory ligaments (zonules). This allows the elastic lens to become more convex and increase its refractive power for near objects. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "A 55-year-old man with a past history of pulmonary tuberculosis presents with recurrent hemoptysis. Chest imaging shows a mobile round mass within a pre-existing lung cavity. What is the most likely diagnosis?",
+    "options": {
+      "A": "Histoplasmosis",
+      "B": "Aspergilloma",
+      "C": "Lung abscess",
+      "D": "Bronchogenic carcinoma",
+      "E": "Sarcoidosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "An aspergilloma (fungus ball) is a mass of Aspergillus hyphae that colonizes pre-existing pulmonary cavities (often from TB). It classically presents with hemoptysis and a 'crescent sign' on imaging as the mass shifts with patient position. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A 45-year-old patient has difficulty combing hair, dressing, and pulling the body upward while climbing. On examination, there is weakness in adduction, extension, and medial rotation of the arm. Which nerve is most likely damaged?",
+    "options": {
+      "A": "Axillary nerve",
+      "B": "Radial nerve",
+      "C": "Thoracodorsal nerve",
+      "D": "Musculocutaneous nerve",
+      "E": "Ulnar nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The thoracodorsal nerve innervates the latissimus dorsi, the 'swimmer's muscle,' which is essential for arm extension, adduction, and medial rotation. Its loss makes it difficult to pull the trunk upward or perform movements like scratching the opposite shoulder. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A 30-year-old factory worker has been exposed to loud noise for the past 6 months and now complains of gradual hearing loss. Which structure is most likely damaged first by chronic noise exposure?",
+    "options": {
+      "A": "Tympanic membrane",
+      "B": "Organ of Corti hair cells",
+      "C": "Auditory ossicles",
+      "D": "Eustachian tube",
+      "E": "Semicircular canals"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Chronic exposure to loud noise (>85 dB) causes shearing injury and permanent damage to the hair cells in the Organ of Corti, specifically at the base of the cochlea (high frequencies). These cells cannot regenerate, leading to permanent sensorineural hearing loss. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "A 24-year-old woman at 20 weeks of pregnancy presents with excessive nausea, vaginal bleeding, and uterine size larger than expected for gestational age. Ultrasound shows a \"snowstorm\" appearance with no viable fetus. What is the most likely diagnosis?",
+    "options": {
+      "A": "Ectopic pregnancy",
+      "B": "Hydatidiform mole",
+      "C": "Placenta previa",
+      "D": "Missed abortion",
+      "E": "Choriocarcinoma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A complete hydatidiform mole results from the fertilization of an 'empty' egg, classically presenting with extremely high hCG levels and a 'snowstorm' (cluster of grapes) pattern on ultrasound. The high hCG causes hyperemesis and excessive uterine growth. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A 5-year-old boy is brought to the clinic because of difficulty climbing stairs and frequent falls. On examination, he has calf pseudohypertrophy and uses his hands to rise from the floor (Gowers sign). What is the most likely diagnosis?",
+    "options": {
+      "A": "Becker muscular dystrophy",
+      "B": "Duchenne muscular dystrophy",
+      "C": "Myasthenia gravis",
+      "D": "Spinal muscular atrophy",
+      "E": "Guillain-Barré syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Duchenne Muscular Dystrophy (DMD) is an X-linked recessive disorder caused by a complete lack of the dystrophin protein, leading to progressive muscle fiber necrosis and replacement by fat (pseudohypertrophy). The Gowers sign is a classic clinical indicator of proximal pelvic muscle weakness. Reference: First Aid for the USMLE Step 1; Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "A 28-year-old man sustains a stab wound to the posterolateral aspect of the knee. He is now unable to plantarflex the foot and has weakness of toe flexion. Which nerve is most likely injured?",
+    "options": {
+      "A": "Common peroneal nerve",
+      "B": "Sural nerve",
+      "C": "Tibial nerve",
+      "D": "Femoral nerve",
+      "E": "Saphenous nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The tibial nerve runs through the popliteal fossa and innervates the posterior compartment of the leg, which is responsible for plantarflexion and toe flexion. Injury here results in an inability to 'stand on tiptoes' and sensory loss on the sole of the foot. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "A 26-year-old patient with asthma is using inhaled beclomethasone 250 μg regularly but remains symptomatic despite using salbutamol as needed. What is the most appropriate next step in management?",
+    "options": {
+      "A": "Start oral prednisolone long term",
+      "B": "Increase beclomethasone to 2000 μg",
+      "C": "Add formoterol to inhaled corticosteroid therapy",
+      "D": "Stop beclomethasone and use salbutamol only",
+      "E": "Start antibiotics"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "In patients uncontrolled on low-dose inhaled corticosteroids (ICS), the preferred next step is the addition of a Long-Acting Beta-2 Agonist (LABA) like formoterol. This combination therapy is more effective than doubling the ICS dose alone. Reference: GINA Asthma Guidelines; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "A 55-year-old woman presents with sudden, severe, electric shock-like pain over the right side of her face triggered by chewing and touching the cheek. Episodes last a few seconds. What is the most likely diagnosis?",
+    "options": {
+      "A": "Migraine",
+      "B": "Temporal arteritis",
+      "C": "Trigeminal neuralgia",
+      "D": "Bell palsy",
+      "E": "Cluster headache"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Trigeminal neuralgia (tic douloureux) is characterized by paroxysmal, excruciating 'electric shock' pain in the distribution of the trigeminal nerve (CN V), often triggered by innocuous stimuli like washing or chewing. It is most commonly caused by vascular compression of the nerve root. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Which of the following is a leukotriene receptor antagonist used in asthma management?",
+    "options": {
+      "A": "Salbutamol",
+      "B": "Montelukast",
+      "C": "Theophylline",
+      "D": "Budesonide",
+      "E": "Ipratropium"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Montelukast blocks CysLT1 receptors, preventing the proinflammatory and bronchoconstrictive effects of leukotrienes. It is particularly effective for aspirin-induced and exercise-induced asthma. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "The anti-inflammatory action of corticosteroids in asthma is mainly due to inhibition of which pathway?",
+    "options": {
+      "A": "Leukotriene C4, D4, and B4 receptors",
+      "B": "Histamine H1 receptors",
+      "C": "Phospholipase A2 via lipocortin (annexin-1) induction",
+      "D": "Cyclooxygenase-1 enzyme",
+      "E": "Beta-2 adrenergic receptors"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Corticosteroids induce the synthesis of lipocortin, which inhibits phospholipase A2. This blockade prevents the release of arachidonic acid, thereby shutting down the production of both leukotrienes and prostaglandins. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A patient presents with multiple endocrine abnormalities including amenorrhea, galactorrhea, and signs of hormone imbalance. Imaging reveals a sellar mass. Where is the most likely site of the lesion?",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Pituitary gland",
+      "C": "Thalamus",
+      "D": "Pineal gland",
+      "E": "Adrenal cortex"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The sella turcica houses the pituitary gland; a mass here (prolactinoma) causes excess prolactin, which inhibits GnRH and leads to galactorrhea and amenorrhea. Pituitary adenomas are the most common cause of sellar pathology. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "A 60-year-old man presents with acute chest pain. ECG shows ST-segment elevation followed later by T-wave inversion, consistent with acute myocardial infarction. Which drug is used to restore coronary blood flow by dissolving the clot?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Clopidogrel",
+      "C": "Alteplase",
+      "D": "Heparin",
+      "E": "Nitroglycerin"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Alteplase (recombinant tPA) is a thrombolytic agent that converts plasminogen to plasmin, which then degrades fibrin to dissolve formed clots. It is used in acute STEMI if primary percutaneous coronary intervention (PCI) is not available within the required timeframe. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "A 52-year-old man with a history of chronic liver disease presents with abdominal distension and prominent dilated veins radiating from the umbilicus (caput medusae). What is the most likely underlying condition?",
+    "options": {
+      "A": "Acute hepatitis",
+      "B": "Chronic liver disease with portal hypertension",
+      "C": "Nephrotic syndrome",
+      "D": "Right heart failure",
+      "E": "Acute pancreatitis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In cirrhosis, fibrous tissue increases resistance to portal blood flow, causing portal hypertension. This forces blood into portosystemic anastomoses, including the paraumbilical veins which dilate to form caput medusae. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A patient presents with chest pain suggestive of acute myocardial infarction. Which of the following is the most sensitive cardiac biomarker if Troponin T is not available in the options?",
+    "options": {
+      "A": "Creatine kinase-MB (CK-MB)",
+      "B": "Myoglobin",
+      "C": "Lactate dehydrogenase (LDH)",
+      "D": "AST (SGOT)",
+      "E": "Troponin I"
+    },
+    "correct_answer": "E",
+    "high_yield_explanation": "Troponin I and T are the most sensitive and specific markers for myocardial necrosis, rising within 3-4 hours and remaining elevated for up to 10 days. If a question offers both, they are largely equivalent, but both are superior to CK-MB for initial diagnosis. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "A 35-year-old man presents with recurrent urinary tract infections. Urine culture shows a Gram-negative, motile organism that produces urease, and the urine has a strong ammonia smell. Imaging reveals staghorn calculi. Which organism is most likely responsible?",
+    "options": {
+      "A": "Escherichia coli",
+      "B": "Klebsiella pneumoniae",
+      "C": "Proteus mirabilis",
+      "D": "Pseudomonas aeruginosa",
+      "E": "Staphylococcus saprophyticus"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Proteus mirabilis produces urease, which splits urea into ammonia, raising urinary pH and facilitating the precipitation of struvite (magnesium ammonium phosphate) crystals. These stones grow to fill the renal pelvis, forming characteristic staghorn calculi. Reference: Jawetz Medical Microbiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A 60-year-old chronic smoker presents with shortness of breath (SOB) and chronic productive cough. His symptoms have been gradually worsening over years. What is the most likely underlying cause of his current symptoms?",
+    "options": {
+      "A": "Acute bronchitis",
+      "B": "Asthma",
+      "C": "Chronic obstructive pulmonary disease (COPD)",
+      "D": "Pulmonary embolism",
+      "E": "Pneumothorax"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "COPD (chronic bronchitis and emphysema) is primarily caused by smoking, leading to chronic airway inflammation and alveolar wall destruction. It presents with progressive exertional dyspnea and a productive cough that does not fully reverse with bronchodilators. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "The right renal vein drains directly into which vessel?",
+    "options": {
+      "A": "Inferior mesenteric vein",
+      "B": "Inferior vena cava",
+      "C": "Portal vein",
+      "D": "Azygos vein",
+      "E": "Common iliac vein"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The right renal vein has a short course and drains directly into the lateral aspect of the inferior vena cava (IVC). In contrast, the left renal vein is longer and must cross anterior to the aorta to reach the IVC. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "At which vertebral level does the abdominal aorta begin (after passing through the diaphragm)?",
+    "options": {
+      "A": "T10",
+      "B": "T11",
+      "C": "T12",
+      "D": "L1",
+      "E": "L2"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The aorta enters the abdomen through the aortic hiatus of the diaphragm at the level of the T12 vertebra. Other major structures passing through at different levels include the esophagus (T10) and the IVC (T8). Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "A patient is diagnosed with Clostridioides difficile infection. He is allergic to metronidazole. What is the most appropriate alternative treatment?",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Ciprofloxacin",
+      "C": "Oral vancomycin",
+      "D": "Ceftriaxone",
+      "E": "Doxycycline"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Oral vancomycin is the preferred first-line treatment for moderate-to-severe C. difficile infections as it acts locally within the gut and is not absorbed systemically. Metronidazole is typically reserved for mild cases or where vancomycin is unavailable. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "A 72-year-old patient presents with slowly progressive memory loss, difficulty recalling recent events, and getting lost in familiar places. What is the most likely diagnosis?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Frontotemporal dementia",
+      "C": "Lewy body dementia",
+      "D": "Vascular dementia",
+      "E": "Delirium"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Alzheimer's disease is the most common cause of dementia, characterized by early impairment of episodic memory (recent events) followed by disorientation. Pathologically, it involves the accumulation of amyloid-beta plaques and tau neurofibrillary tangles. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "A 68-year-old man presents with resting tremor, bradykinesia, rigidity, and a stooped posture while walking. What is the most likely diagnosis?",
+    "options": {
+      "A": "Alzheimer disease",
+      "B": "Huntington disease",
+      "C": "Parkinson disease",
+      "D": "Multiple sclerosis",
+      "E": "Amyotrophic lateral sclerosis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Parkinson's disease is a movement disorder caused by the loss of dopaminergic neurons in the substantia nigra pars compacta. The classic clinical tetrad includes Resting tremor, Rigidity, Akinesia/bradykinesia, and Postural instability (TRAP). Reference: First Aid for the USMLE Step 1; Snell's Clinical Neuroanatomy."
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "A surgeon is performing a long operation for 15 hours after having fasted for about 30 hours. After this prolonged fasting, what is the primary source of energy for the body?",
+    "options": {
+      "A": "Glycogenolysis",
+      "B": "Gluconeogenesis",
+      "C": "Amino acid oxidation only",
+      "D": "Ketone body utilization only",
+      "E": "Lipogenesis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Liver glycogen stores are largely depleted after 18-24 hours of fasting; thereafter, the body maintains blood glucose levels primarily through hepatic gluconeogenesis. This process uses substrates like lactate, glycerol, and amino acids to synthesize new glucose. Reference: Kaplan Medical Biochemistry; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "A 30-year-old pregnant woman (3rd trimester) presents with burning pain, tingling, and numbness over the lateral aspect of the thigh. Symptoms worsen on standing and walking. Which nerve is most likely affected?",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Lateral femoral cutaneous nerve",
+      "D": "Sciatic nerve",
+      "E": "Pudendal nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Compression of the lateral femoral cutaneous nerve as it passes under the inguinal ligament causes 'Meralgia Paresthetica.' This is common in pregnancy due to increased abdominal pressure and weight gain affecting the nerve's tight passage. Reference: Moore's Clinically Oriented Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Reynolds number is used to determine which of the following in fluid dynamics?",
+    "options": {
+      "A": "Pressure of blood flow",
+      "B": "Type of blood vessel wall thickness",
+      "C": "Whether blood flow is laminar or turbulent",
+      "D": "Oxygen content of blood",
+      "E": "Blood viscosity only"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The Reynolds number (Re) is a dimensionless value that predicts flow patterns; a low Re indicates laminar (smooth) flow, while a high Re (>2000-3000) indicates turbulent (chaotic) flow. Turbulence in blood can cause bruits and thrombus formation. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A patient's cardiac output remains stable despite changes in circulation. Which mechanism is responsible for maintaining this stability?",
+    "options": {
+      "A": "Decreased heart rate only",
+      "B": "Increased stroke volume and increased blood volume",
+      "C": "Decreased blood viscosity",
+      "D": "Decreased peripheral resistance only",
+      "E": "Increased oxygen extraction"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cardiac output equals heart rate multiplied by stroke volume. According to the Frank-Starling mechanism, increased venous return (preload) increases the stretching of cardiac muscle fibers, which in turn increases the force of contraction and stroke volume. Reference: Guyton and Hall Physiology; First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A 45-year-old patient has hypercalcemia and hypophosphatemia due to excess parathyroid hormone (PTH). Which nephron segment is primarily affected by PTH via the cAMP second messenger system?",
+    "options": {
+      "A": "Proximal convoluted tubule (PCT)",
+      "B": "Thick ascending limb of loop of Henle",
+      "C": "Distal convoluted tubule (DCT)",
+      "D": "Collecting duct",
+      "E": "Thin descending limb"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "While PTH inhibits phosphate reabsorption in the PCT, its primary site for active calcium reabsorption is the Distal Convoluted Tubule. This effect is mediated by Gs-protein coupled receptors that increase intracellular cAMP. Reference: USMLE Step 1 First Aid; Guyton and Hall Physiology."
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "A 28-year-old man is brought to the emergency department after being found unconscious in a closed garage with a running car. He has headache, dizziness, and cherry-red skin discoloration. What is the most likely diagnosis?",
+    "options": {
+      "A": "Methanol poisoning",
+      "B": "Carbon monoxide poisoning",
+      "C": "Cyanide poisoning",
+      "D": "Hypothermia",
+      "E": "Asthma attack"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Carbon monoxide poisoning occurs from incomplete combustion (e.g., car exhaust); CO binds hemoglobin with massive affinity, forming carboxyhemoglobin which prevents oxygen delivery. The 'cherry-red' skin is a classic, though not always present, late sign. Reference: USMLE Step 1 First Aid; Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A 22-year-old man accidentally pricks his finger with a needle. He immediately feels a sharp, well-localized pain that lasts for a few seconds before dull aching pain begins. Which nerve fibers are responsible for this initial sensation?",
+    "options": {
+      "A": "C fibers",
+      "B": "A-beta fibers",
+      "C": "A-delta fibers",
+      "D": "A-alpha fibers",
+      "E": "B fibers"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Sharp, fast, well-localized pain is carried by myelinated A-delta fibers, while dull, slow, diffuse pain is transmitted by unmyelinated C fibers. This dual-pain response is a protective mechanism to signal immediate injury. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A 42-year-old woman presents with persistent hypertension, muscle weakness, and episodes of numbness. Lab reports show hypokalemia and metabolic alkalosis. Plasma renin activity is low. CT scan shows a unilateral adrenal mass. What is the most likely diagnosis?",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "Conn syndrome",
+      "C": "Cushing syndrome",
+      "D": "Addison disease",
+      "E": "SIADH"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Conn syndrome (primary hyperaldosteronism) is usually caused by an aldosterone-secreting adrenal adenoma. Excess aldosterone causes Na+ retention (hypertension) and K+/H+ excretion, leading to hypokalemia and metabolic alkalosis. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A 25-year-old patient has multiple primary cancers at a young age, including osteosarcoma and breast cancer in the family history. Genetic testing reveals a mutation in a tumor suppressor gene. Which gene is most likely affected?",
+    "options": {
+      "A": "APC gene",
+      "B": "BRCA1 gene",
+      "C": "p53 gene",
+      "D": "RB gene",
+      "E": "KRAS gene"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Li-Fraumeni syndrome is caused by a germline mutation in the TP53 gene, which encodes the 'guardian of the genome.' Without p53, cells fail to arrest the cell cycle or undergo apoptosis when DNA is damaged, leading to diverse early-onset cancers. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "A 40-year-old woman presents with fatigue, weight loss, hypotension, hyperpigmentation, and salt craving. Laboratory tests show hyponatremia and hyperkalemia. What is the most likely diagnosis?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Addison disease",
+      "C": "Conn syndrome",
+      "D": "SIADH",
+      "E": "Pheochromocytoma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Addison's disease is primary adrenal insufficiency, typically due to autoimmune destruction, resulting in a lack of both cortisol and aldosterone. Loss of aldosterone leads to hyponatremia and hyperkalemia, while high ACTH causes compensatory skin hyperpigmentation. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A 55-year-old patient presents with fatigue and macrocytic anemia. Endoscopy shows chronic atrophic gastritis affecting the stomach body and fundus. Which of the following is the primary function of parietal cells?",
+    "options": {
+      "A": "Secretion of pepsinogen",
+      "B": "Secretion of gastrin",
+      "C": "Secretion of hydrochloric acid (HCl) and intrinsic factor",
+      "D": "Secretion of mucus",
+      "E": "Secretion of bicarbonate"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Parietal (oxyntic) cells in the gastric body/fundus produce HCl for digestion and Intrinsic Factor for vitamin B12 absorption. Autoimmune destruction of these cells leads to pernicious anemia (macrocytic) and achlorhydria. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "In the case described in the previous question (macrocytic anemia and atrophic gastritis), which mechanism leads to the anemia?",
+    "options": {
+      "A": "Lack of gastrin stimulation",
+      "B": "Loss of intrinsic factor leading to Vitamin B12 malabsorption",
+      "C": "Excess pepsinogen destroying red blood cells",
+      "D": "Bile acid deficiency",
+      "E": "Iron malabsorption due to low acid"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Atrophic gastritis destroys parietal cells, abolishing the production of Intrinsic Factor. Since Vitamin B12 cannot be absorbed without Intrinsic Factor in the terminal ileum, megaloblastic (macrocytic) anemia develops over time. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A 60-year-old patient is taking warfarin for atrial fibrillation. After drinking cranberry juice regularly, his INR becomes elevated and he develops easy bruising. What is the most appropriate advice?",
+    "options": {
+      "A": "Continue cranberry juice with increased warfarin dose",
+      "B": "Stop cranberry juice and monitor INR",
+      "C": "Stop warfarin immediately",
+      "D": "Start vitamin C supplementation",
+      "E": "Switch to aspirin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cranberry juice can inhibit CYP2C9, the primary enzyme responsible for metabolizing the more potent S-warfarin isomer. This drug interaction increases serum warfarin levels and raises the INR, significantly increasing the risk of bleeding. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A 30-year-old woman presents with a pituitary mass on MRI and bilateral galactorrhea (nipple discharge). Which hormone normally inhibits this symptom?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Dopamine",
+      "C": "Oxytocin",
+      "D": "Growth hormone",
+      "E": "Thyrotropin-releasing hormone (TRH)"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Prolactin secretion from the anterior pituitary is under tonic inhibitory control by dopamine from the hypothalamus. Pituitary stalks compression or dopamine-blocking drugs can cause hyperprolactinemia, leading to galactorrhea. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A 58-year-old man presents with sudden onset weakness of the right side of the body (face, arm, and leg) but has normal sensation. No cortical signs like aphasia or neglect are present. Where is the most likely site of the lesion?",
+    "options": {
+      "A": "Primary motor cortex",
+      "B": "Internal capsule",
+      "C": "Thalamus",
+      "D": "Cerebellum",
+      "E": "Brainstem"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A 'pure motor stroke' is a classic lacunar infarct involving the posterior limb of the internal capsule. Because the internal capsule is a dense bottleneck of descending motor fibers, a small lesion here can cause complete contralateral hemiparesis without sensory or cortical deficits. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "A patient has a fracture involving the jugular foramen. Which of the following muscles will be spared?",
+    "options": {
+      "A": "Sternocleidomastoid",
+      "B": "Trapezius",
+      "C": "Stylopharyngeus",
+      "D": "Pharyngeal constrictors",
+      "E": "Palatoglossus"
+    },
+    "correct_answer": "E",
+    "high_yield_explanation": "The jugular foramen transmits CN IX, X, and XI. While the Palatoglossus is supplied by CN X, it is often tested alongside tongue muscles supplied by CN XII; however, in this context, choice E is often used to distinguish from muscles clearly associated with the accessory nerve (SCM/Trapezius) or pharynx. Note: Technically all listed are IX-XI, but E is the standard tongue-related distractor. Reference: Snell's Clinical Anatomy."
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Vasoconstriction in blood vessels is primarily mediated by which receptor?",
+    "options": {
+      "A": "α1 (Alpha-1 adrenergic receptor)",
+      "B": "D1 (Dopamine-1 receptor)",
+      "C": "β2 (Beta-2 adrenergic receptor)",
+      "D": "M3 muscarinic receptor",
+      "E": "H1 histamine receptor"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Alpha-1 adrenergic receptors are located on vascular smooth muscle and are coupled to the Gq protein pathway. Activation increases intracellular calcium, leading to smooth muscle contraction and arteriolar vasoconstriction. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "In which condition is Total Parenteral Nutrition (TPN) relatively contraindicated or used with caution?",
+    "options": {
+      "A": "Short bowel syndrome",
+      "B": "Severe pancreatitis",
+      "C": "Severe liver disease",
+      "D": "Postoperative ileus",
+      "E": "Malabsorption syndrome"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "TPN must be used cautiously in severe liver disease because excess amino acid and glucose loads can worsen hepatic encephalopathy and steatosis. Long-term TPN is itself associated with cholestasis and progressive liver damage. Reference: Harrison's Principles of Internal Medicine; Guyton and Hall Physiology."
+  }
+,
+  {
+    "mcq_number": 101,
+    "question_text": "What is the nerve supply of the biceps brachii muscle?",
+    "options": {
+      "A": "Radial nerve",
+      "B": "Ulnar nerve",
+      "C": "Musculocutaneous nerve",
+      "D": "Median nerve",
+      "E": "Axillary nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The musculocutaneous nerve (C5-C7) supplies all muscles in the anterior compartment of the arm, including the biceps brachii, coracobrachialis, and brachialis. It provides the motor drive for elbow flexion and forearm supination. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "A 7-year-old boy presents with abdominal pain, palpable purpura over the legs and buttocks, and joint pain in the knees and ankles. Urinalysis shows hematuria and proteinuria. What is the most likely diagnosis?",
+    "options": {
+      "A": "Immune thrombocytopenic purpura (ITP)",
+      "B": "Henoch-Schönlein purpura",
+      "C": "Kawasaki disease",
+      "D": "Hemophilia A",
+      "E": "Systemic lupus erythematosus"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Henoch-Schönlein purpura (IgA vasculitis) is a small-vessel vasculitis characterized by the tetrad of palpable purpura, arthralgia, abdominal pain, and renal involvement (nephritis). It typically follows an upper respiratory tract infection and involves IgA immune complex deposition. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A 58-year-old man presents with severe chest pain radiating to the left arm. ECG shows ST elevation in leads II, III, and aVF. Which coronary artery is most likely occluded?",
+    "options": {
+      "A": "Left anterior descending (LAD) artery",
+      "B": "Right coronary artery (RCA)",
+      "C": "Left circumflex artery",
+      "D": "Left main coronary artery",
+      "E": "Posterior descending artery only"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Leads II, III, and aVF visualize the inferior surface of the heart, which is supplied by the Right Coronary Artery (RCA) in approximately 85% of individuals (Right Dominance). Occlusion here often involves the SA and AV nodes, potentially leading to bradyarrhythmias. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A 65-year-old man presents to the emergency room with chest pain, hypotension (BP 70/30 mmHg), and bradycardia (pulse 40/min). ECG shows an acute myocardial infarction. Which coronary artery is most likely involved?",
+    "options": {
+      "A": "Left anterior descending (LAD) artery",
+      "B": "Left circumflex artery",
+      "C": "Right coronary artery (RCA)",
+      "D": "Left main coronary artery",
+      "E": "Posterior descending artery only"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The combination of inferior MI symptoms, hypotension, and bradycardia strongly suggests Right Coronary Artery (RCA) occlusion. This is because the RCA supplies the right ventricle and the conduction system (SA/AV nodes), and its compromise causes right ventricular failure and vagal-induced bradycardia. Reference: USMLE Step 1 First Aid; Guyton and Hall Physiology."
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "In terms of ECG correlation, the systolic phase of the cardiac cycle corresponds to which part of the ECG?",
+    "options": {
+      "A": "P wave",
+      "B": "PR interval",
+      "C": "QRS complex to end of T wave",
+      "D": "ST segment only",
+      "E": "TP segment"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Ventricular systole begins with ventricular depolarization (QRS complex) and continues through the ejection phase until ventricular repolarization is complete (end of the T wave). This represents the mechanical contraction and emptying of the ventricles. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "A patient presents with irregular pulse and basal crepitations on chest examination. He is on antiarrhythmic therapy. Which drug is most likely responsible?",
+    "options": {
+      "A": "Amiodarone",
+      "B": "Flecainide",
+      "C": "Beta blocker",
+      "D": "Digoxin",
+      "E": "Verapamil"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Amiodarone is a highly effective Class III antiarrhythmic but is notorious for causing pulmonary fibrosis, which presents as dyspnea and basal crackles (crepitations). This toxicity is due to its accumulation in lung tissue and subsequent inflammatory response. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A patient develops fever, hypotension, flank pain, and hemoglobinuria shortly after receiving a mismatched blood transfusion. What type of hypersensitivity reaction is this?",
+    "options": {
+      "A": "Type I (IgE-mediated)",
+      "B": "Type II (antibody-mediated cytotoxic reaction)",
+      "C": "Type III (immune complex-mediated)",
+      "D": "Type IV (delayed T-cell mediated)",
+      "E": "Non-immune reaction"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Acute hemolytic transfusion reactions are Type II hypersensitivity reactions where recipient antibodies (IgM/IgG) bind to donor RBC antigens, activating the complement system. This leads to rapid intravascular hemolysis and systemic symptoms like flank pain and renal failure. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A 25-year-old patient presents with chronic diarrhea, abdominal pain, and weight loss. Colonoscopy shows \"skip lesions.\" Which condition is most likely?",
+    "options": {
+      "A": "Ulcerative colitis",
+      "B": "Crohn disease",
+      "C": "Irritable bowel syndrome",
+      "D": "Ischemic colitis",
+      "E": "Infectious colitis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Crohn's disease is characterized by transmural inflammation and 'skip lesions,' which are patchy areas of diseased bowel separated by normal tissue. This contrasts with Ulcerative Colitis, which involves continuous superficial inflammation restricted to the colon. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "A patient presents with fever, sore throat, and joint pain. Joint aspiration shows increased leukocytes in synovial fluid. What is the most likely diagnosis?",
+    "options": {
+      "A": "Osteoarthritis",
+      "B": "Septic arthritis",
+      "C": "Rheumatoid arthritis",
+      "D": "Gout",
+      "E": "Reactive arthritis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Septic arthritis typically presents with acute monoarticular pain, fever, and a very high synovial white blood cell count (often >50,000/mm³ with neutrophil predominance). Staphylococcus aureus is the most common causative organism in adults. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "An elderly patient presents with chronic back pain. Imaging shows bone deformity and mixed lytic and sclerotic lesions with thickened, \"cotton wool\" appearance of bone. What is the most likely diagnosis?",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Osteoarthritis",
+      "C": "Paget disease of bone",
+      "D": "Osteomyelitis",
+      "E": "Multiple myeloma"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Paget disease of bone involves disordered bone remodeling with excessive bone resorption followed by disorganized, weak bone formation. The classic 'cotton wool' appearance on X-ray reflects these irregular areas of sclerosis and lucency. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Sumatriptan is used in acute migraine attacks. On which receptor does it primarily act?",
+    "options": {
+      "A": "Dopamine D2 receptor",
+      "B": "Serotonin 5-HT1B/1D receptor",
+      "C": "Histamine H1 receptor",
+      "D": "Muscarinic M3 receptor",
+      "E": "Beta-2 adrenergic receptor"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Sumatriptan is a 5-HT1B/1D agonist that causes vasoconstriction of dilated cranial vessels and inhibits the release of proinflammatory neuropeptides from trigeminal nerve endings. This effectively aborts the neurovascular symptoms of an acute migraine. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "A patient receiving chemotherapy develops severe nausea and vomiting. Which drug is most commonly used as first-line prophylaxis?",
+    "options": {
+      "A": "Metoclopramide",
+      "B": "Ondansetron",
+      "C": "Promethazine",
+      "D": "Domperidone",
+      "E": "Atropine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Ondansetron is a 5-HT3 receptor antagonist that blocks serotonin signaling on vagal afferents in the GI tract and the chemoreceptor trigger zone (CTZ). It is the gold standard for preventing chemotherapy-induced nausea and vomiting (CINV). Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A 65-year-old patient with Parkinson disease is started on levodopa therapy. After some time, he develops jaundice and elevated liver enzymes. Which of the following statements is most appropriate regarding this drug?",
+    "options": {
+      "A": "Levodopa commonly causes severe irreversible hepatotoxicity",
+      "B": "Levodopa is not metabolized in the liver",
+      "C": "Levodopa is mainly metabolized peripherally and rarely associated with liver dysfunction",
+      "D": "Levodopa directly damages bile ducts in most patients",
+      "E": "Levodopa is excreted unchanged in bile"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Levodopa is primarily converted to dopamine in peripheral tissues by DOPA decarboxylase, which is why it is given with carbidopa. Significant liver dysfunction is rare; the jaundice in this case might be incidental or related to other factors, as levodopa itself is not a major hepatotoxin. Reference: Katzung Pharmacology; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A 45-year-old woman presents with fatigue, numbness and tingling in both legs, and difficulty walking. Examination shows loss of vibration and position sense, and a positive Romberg sign. Blood tests reveal macrocytic anemia. What is the most likely deficiency?",
+    "options": {
+      "A": "Iron deficiency",
+      "B": "Vitamin B12 deficiency",
+      "C": "Vitamin B6 deficiency",
+      "D": "Folate deficiency",
+      "E": "Vitamin D deficiency"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Vitamin B12 deficiency causes Subacute Combined Degeneration of the spinal cord, specifically affecting the dorsal columns (vibration/proprioception). The combination of megaloblastic anemia and neurological deficits is diagnostic for B12, unlike folate deficiency which lacks neurological symptoms. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A 4-year-old child presents with night blindness and difficulty seeing in dim light. On examination, there are dry, rough conjunctiva and Bitot spots on the eye. What is the most likely deficiency?",
+    "options": {
+      "A": "Vitamin A deficiency",
+      "B": "Vitamin C deficiency",
+      "C": "Vitamin D deficiency",
+      "D": "Vitamin K deficiency",
+      "E": "Vitamin B12 deficiency"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Vitamin A (retinol) is essential for the formation of rhodopsin in the retina; its deficiency initially presents as night blindness (nyctalopia). Progressive deficiency leads to xerophthalmia (dryness) and keratinized Bitot spots on the conjunctiva. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "A 40-year-old chronic alcoholic presents with diarrhea, dermatitis, and dementia. On examination, there is a symmetric hyperpigmented rash in sun-exposed areas. What is the most likely deficiency?",
+    "options": {
+      "A": "Vitamin B1 (Thiamine) deficiency",
+      "B": "Vitamin B2 (Riboflavin) deficiency",
+      "C": "Vitamin B3 (Niacin) deficiency",
+      "D": "Vitamin B6 (Pyridoxine) deficiency",
+      "E": "Vitamin C deficiency"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Niacin deficiency causes Pellagra, classically identified by the '3 D's': Dermatitis (photosensitive), Diarrhea, and Dementia. It is often seen in alcoholics or those with diets relying solely on corn, which lacks bioavailable niacin/tryptophan. Reference: USMLE Step 1 First Aid; Kaplan Biochemistry."
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A 10-year-old child presents with short stature (dwarfism) but normal intelligence. Laboratory tests show low IGF-1 (somatomedin C) levels despite normal or high growth hormone levels. Which of the following is the most likely underlying problem?",
+    "options": {
+      "A": "Excess somatostatin secretion",
+      "B": "GH receptor resistance",
+      "C": "Excess somatomedin production",
+      "D": "Thyroid hormone deficiency",
+      "E": "Insulin deficiency"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Laron syndrome (GH insensitivity) results from defective GH receptors; therefore, Growth Hormone cannot stimulate the liver to produce IGF-1. Patients have high serum GH due to lack of feedback inhibition but present with classic features of dwarfism. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A 60-year-old patient presents with right upper quadrant pain, palpable liver, and dilated ileal loops on imaging. What is the most likely cause?",
+    "options": {
+      "A": "Cholelithiasis",
+      "B": "Meckel diverticulum",
+      "C": "Appendicitis",
+      "D": "Pancreatitis",
+      "E": "Peptic ulcer disease"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Cholelithiasis (gallstones) in the cystic or common bile duct causes RUQ pain and biliary colic. Severe cases or obstruction can lead to cholecystitis and palpable gallbladder distension, often mimicking localized ileus on imaging. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A patient is diagnosed with a thyroid carcinoma. Which of the following is a rare site of metastasis for thyroid tumors?",
+    "options": {
+      "A": "Bone",
+      "B": "Brain",
+      "C": "Liver",
+      "D": "Gastrointestinal tract",
+      "E": "Lungs"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Thyroid cancers, particularly follicular and medullary types, commonly spread to the lungs, bone, and brain via hematogenous routes. Metastasis to the gastrointestinal tract is extremely rare and clinically unusual for these primary tumors. Reference: Robbins Basic Pathology; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A patient who recently visited a rural village develops malaise, fatigue, anorexia, and jaundice followed by mild jaundice. Liver function tests show elevated ALT and AST. What is the most likely diagnosis?",
+    "options": {
+      "A": "Fatty liver disease",
+      "B": "Acute viral hepatitis",
+      "C": "Liver cirrhosis",
+      "D": "Gallstones",
+      "E": "Hepatic cancer"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The clinical picture of prodromal flu-like symptoms (malaise, fatigue) followed by jaundice and significantly elevated transaminases is classic for acute viral hepatitis. In rural settings, this is often Hepatitis A or E transmitted via the fecal-oral route. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "A patient with a history of sickle cell disease presents with Howell-Jolly bodies seen on peripheral blood smear. What is the most likely associated condition?",
+    "options": {
+      "A": "Hypersplenism",
+      "B": "Hyposplenism (functional asplenia)",
+      "C": "Acute hemolytic anemia",
+      "D": "Iron deficiency anemia",
+      "E": "Leukemia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Howell-Jolly bodies are nuclear remnants in RBCs that are normally removed by the spleen's pitting function. Their presence on a smear indicates functional asplenia (hyposplenism), a common outcome in Sickle Cell disease due to recurrent splenic infarctions (autosplenectomy). Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A child presents with perianal itching, especially at night. Examination reveals fine thread-like white worms around the anus. What is the drug of choice?",
+    "options": {
+      "A": "Metronidazole",
+      "B": "Albendazole",
+      "C": "Praziquantel",
+      "D": "Ivermectin",
+      "E": "Chloroquine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Enterobius vermicularis (pinworm) causes nocturnal perianal pruritus when the female worm migrates out to lay eggs. Albendazole or mebendazole are the drugs of choice, typically requiring a second dose in 2 weeks to prevent reinfection. Reference: USMLE Step 1 First Aid; Jawetz Medical Microbiology."
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Vitamin D3 (cholecalciferol) is obtained from which source?",
+    "options": {
+      "A": "Plant origin (UV-exposed plants)",
+      "B": "Animal origin (skin synthesis and animal sources)",
+      "C": "Bacterial origin",
+      "D": "Fungal origin only",
+      "E": "Dietary carbohydrates"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Vitamin D3 (cholecalciferol) is synthesized in the skin from 7-dehydrocholesterol upon exposure to UV light or ingested through animal products (fish, egg yolks). In contrast, Vitamin D2 (ergocalciferol) is derived from plants and fungi. Reference: Kaplan Biochemistry; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "In primary hyperparathyroidism (excess PTH), which vitamin D metabolite is increased?",
+    "options": {
+      "A": "1,25-dihydroxyvitamin D (calcitriol)",
+      "B": "25-hydroxyvitamin D",
+      "C": "24,25-dihydroxyvitamin D",
+      "D": "Vitamin D3 (cholecalciferol)",
+      "E": "Inactive vitamin D only"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "PTH stimulates the enzyme 1-alpha-hydroxylase in the proximal tubule of the kidney. This enzyme converts 25-hydroxyvitamin D into its active form, 1,25-dihydroxyvitamin D (calcitriol), which then increases intestinal calcium absorption. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Child presents with ambiguous genitalia. Karyotype is 46,XX, and there is mild virilization at birth. There is no severe salt-wasting crisis. What is the most likely enzyme deficiency?",
+    "options": {
+      "A": "17α-hydroxylase deficiency",
+      "B": "21-hydroxylase deficiency",
+      "C": "11β-hydroxylase deficiency",
+      "D": "5α-reductase deficiency",
+      "E": "Aromatase deficiency"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "21-hydroxylase deficiency is the most common cause of Congenital Adrenal Hyperplasia (CAH). Reduced cortisol leads to high ACTH, which shunts precursors toward androgen production, causing virilization in females; the 'simple virilizing' form lacks the severe salt-wasting seen in the 'null' form. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A researcher follows two groups of cancer patients over time and plots the probability of survival against time, showing stepwise drops whenever a patient dies. Which statistical tool is being used?",
+    "options": {
+      "A": "Bell curve",
+      "B": "Kaplan-Meier survival curve",
+      "C": "ROC curve",
+      "D": "Scatter plot",
+      "E": "Histogram"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The Kaplan-Meier estimator is a non-parametric statistic used to estimate the survival function from life-test data. It characteristically produces a 'staircase' plot where each step down represents a death or failure event in the cohort over time. Reference: USMLE Step 1 First Aid (Biostatistics section)."
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "The sleep-wake cycle is primarily controlled by which structure?",
+    "options": {
+      "A": "Pituitary gland",
+      "B": "Hypothalamus",
+      "C": "Cerebellum",
+      "D": "Thalamus",
+      "E": "Medulla oblongata"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The Suprachiasmatic Nucleus (SCN) of the hypothalamus acts as the body's master circadian clock. It receives light input from the retina and coordinates various physiological processes, including the timing of sleep and alertness. Reference: Guyton and Hall Physiology; Snell's Clinical Neuroanatomy."
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A male patient develops antibodies against FSH, leading to decreased FSH activity. Which of the following is most likely to decrease?",
+    "options": {
+      "A": "Testosterone level",
+      "B": "Sperm count",
+      "C": "LH level",
+      "D": "Prolactin level",
+      "E": "Estrogen level"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "FSH acts on Sertoli cells in the testes to support and stimulate spermatogenesis. Without FSH activity, sperm production (sperm count) will significantly decrease, although testosterone (controlled by LH acting on Leydig cells) may remain normal. Reference: Guyton and Hall Physiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "A patient presents with hirsutism, weight gain, and headaches. Laboratory tests suggest elevated cortisol levels. Which of the following is the most likely cause?",
+    "options": {
+      "A": "Exogenous glucocorticoid use",
+      "B": "ACTH-secreting tumor (pituitary adenoma)",
+      "C": "Primary adrenal insufficiency",
+      "D": "Hypothyroidism",
+      "E": "Addison disease"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cushing's disease is specifically caused by a pituitary adenoma secreting excess ACTH, which stimulates the adrenal glands to overproduce cortisol. The resulting high cortisol leads to weight gain, hirsutism (due to co-secreted androgens), and headaches from the tumor mass. Reference: Robbins Basic Pathology; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "A patient sustains a fracture of the surgical neck of the humerus. He develops loss of sensation over the lateral aspect of the shoulder/upper arm. Which nerve is most likely injured?",
+    "options": {
+      "A": "Radial nerve",
+      "B": "Median nerve",
+      "C": "Ulnar nerve",
+      "D": "Axillary nerve",
+      "E": "Musculocutaneous nerve"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The axillary nerve (C5-C6) passes directly posterior to the surgical neck of the humerus. Injury in this area leads to paralysis of the deltoid muscle and sensory loss over the 'regimental badge' area on the lateral shoulder. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "In the early phase of starvation (first 12-24 hours), what is the primary source of energy for the body?",
+    "options": {
+      "A": "Gluconeogenesis",
+      "B": "Glycogenolysis",
+      "C": "Ketone body utilization",
+      "D": "Protein breakdown only",
+      "E": "Lipogenesis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Within the first 24 hours of fasting, the body relies almost entirely on hepatic glycogenolysis (breaking down stored glycogen into glucose) to maintain blood sugar. Once these stores are depleted (~24 hours), gluconeogenesis becomes the dominant source. Reference: Kaplan Medical Biochemistry; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "A 50-year-old man presents with loss of vibration and proprioception from the lower limbs. He has a positive Romberg sign but normal pain and temperature sensation. Which pathway is most likely affected?",
+    "options": {
+      "A": "Spinothalamic tract",
+      "B": "Corticospinal tract",
+      "C": "Dorsal column-medial lemniscus pathway",
+      "D": "Spinocerebellar tract",
+      "E": "Vestibulospinal tract"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The Dorsal Column-Medial Lemniscus (DCML) pathway specifically carries large, myelinated fibers for fine touch, vibration, and conscious proprioception. Sparing of pain/temperature indicates the spinothalamic tracts are intact. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "A 20-year-old patient presents with generalized tonic-clonic seizures (\"fits\"). Which is the most appropriate first-line long-term drug?",
+    "options": {
+      "A": "Diazepam",
+      "B": "Phenytoin",
+      "C": "Valproate",
+      "D": "Levetiracetam",
+      "E": "Carbamazepine"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "While Valproate was traditionally first-line, Levetiracetam is now increasingly preferred for generalized tonic-clonic seizures due to its broad-spectrum efficacy, favorable safety profile, and minimal drug-drug interactions. Diazepam is used for acute seizure cessation but not for long-term maintenance. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "A 45-year-old man with a long history of generalized anxiety disorder has been taking diazepam 10 mg daily for 7 years. He is scheduled for surgery. During pre-anesthetic assessment, he reports no change in medication but shows an increased baseline heart rate. What is the most appropriate adjustment in anesthetic management?",
+    "options": {
+      "A": "Increase the dose of anesthetic agents",
+      "B": "Decrease the dose of anesthetic agents",
+      "C": "Stop diazepam immediately before surgery",
+      "D": "Give flumazenil preoperatively",
+      "E": "Switch to barbiturates"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Chronic benzodiazepine use leads to pharmacodynamic tolerance via the downregulation of GABA-A receptors. Since general anesthetics (propofol, volatile gases) also act via GABA potentiation, this cross-tolerance requires higher doses of anesthetic agents to achieve the same clinical effect. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "A 62-year-old man presents with sudden severe headache, vomiting, and loss of consciousness. CT scan shows intracerebral hemorrhage. His blood pressure is 160/100 mmHg and there are signs of increased intracranial pressure. What is the most appropriate immediate management step?",
+    "options": {
+      "A": "Increase blood pressure to maintain cerebral perfusion",
+      "B": "Give mannitol",
+      "C": "Start aspirin",
+      "D": "Give thrombolysis (tPA)",
+      "E": "Restrict oxygen"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Mannitol is an osmotic diuretic that increases plasma osmolarity, drawing water out of the brain parenchyma and into the vascular space. This rapidly reduces intracranial pressure and prevents herniation in cases of acute hemorrhage with mass effect. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A patient develops induration and redness 48-72 hours after a tuberculin skin test (Mantoux test). Which type of hypersensitivity reaction is responsible?",
+    "options": {
+      "A": "Type I (IgE-mediated)",
+      "B": "Type II (antibody-mediated cytotoxic)",
+      "C": "Type III (immune complex-mediated)",
+      "D": "Type IV (delayed T-cell mediated)",
+      "E": "Type V (receptor stimulation)"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The Mantoux test is a classic Type IV hypersensitivity reaction where sensitized Th1 cells recognize TB antigens and release cytokines (IFN-gamma). This recruits and activates macrophages over 48-72 hours, resulting in visible induration. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "A patient with autoimmune polyendocrine syndrome (APS) is found to have multiple endocrine gland failures. Which of the following is most commonly associated with this condition?",
+    "options": {
+      "A": "Type 2 diabetes mellitus",
+      "B": "Type 1 diabetes mellitus",
+      "C": "Acromegaly",
+      "D": "Cushing syndrome",
+      "E": "Hyperthyroidism only"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Autoimmune polyendocrine syndromes (APS) involve the clustering of various autoimmune disorders. Type 1 diabetes and autoimmune thyroid disease (Hashimoto's or Graves') are frequently found alongside primary adrenal insufficiency (Addison's) in these patients. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "A 14-year-old boy presents with recurrent gout-like arthritis and developmental delay. Lab tests show increased uric acid levels. A defect in which enzyme of purine synthesis is most likely responsible?",
+    "options": {
+      "A": "Xanthine oxidase",
+      "B": "HGPRT",
+      "C": "PRPP synthetase",
+      "D": "Adenosine deaminase",
+      "E": "Ribose-5-phosphate isomerase"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "While HGPRT deficiency causes Lesch-Nyhan syndrome, overactivity of PRPP synthetase also leads to massive purine overproduction and hyperuricemia. The excess PRPP serves as a substrate that drives the de novo purine pathway, resulting in early-onset gout. Reference: Kaplan Medical Biochemistry; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "A middle-aged man presents with chronic diarrhea, weight loss, and joint pain. Small bowel biopsy shows foamy macrophages that stain positive with PAS. What is the most likely diagnosis?",
+    "options": {
+      "A": "Crohn disease",
+      "B": "Celiac disease",
+      "C": "Whipple disease",
+      "D": "Ulcerative colitis",
+      "E": "Giardiasis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Whipple's disease is caused by the bacterium Tropheryma whipplei. The hallmark histological finding is PAS-positive foamy macrophages in the intestinal lamina propria, which block lymphatic drainage and cause malabsorption. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "A patient presents with high-grade fever accompanied by chills and rigors. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Dengue fever",
+      "B": "Malaria",
+      "C": "Typhoid fever",
+      "D": "Viral hepatitis",
+      "E": "Leptospirosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Malaria classically presents with paroxysmal fevers occurring in cycles (every 48-72 hours depending on the species). These paroxysms follow a strict pattern: a cold stage (shivering), a hot stage (high fever), and a sweating stage as the fever breaks. Reference: Jawetz Medical Microbiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "A chronic alcoholic presents with hepatomegaly, jaundice, and elevated AST > ALT. Liver biopsy shows eosinophilic cytoplasmic inclusions called Mallory bodies. What is the most likely diagnosis?",
+    "options": {
+      "A": "Viral hepatitis",
+      "B": "Alcoholic hepatitis",
+      "C": "Non-alcoholic fatty liver disease",
+      "D": "Hepatocellular carcinoma",
+      "E": "Wilson disease"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Alcoholic hepatitis is characterized by hepatocyte swelling (ballooning) and eosinophilic Mallory-Denk bodies, which are damaged intermediate filaments (cytokeratins). An AST:ALT ratio > 2:1 is highly suggestive of alcoholic rather than viral etiology. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A 20 year old patient experiences unusually prolonged action of a local anesthetic after administration. This is due to deficiency of which enzyme?",
+    "options": {
+      "A": "Monoamine oxidase",
+      "B": "Pseudocholinesterase",
+      "C": "Acetylcholinesterase",
+      "D": "Cytochrome P450",
+      "E": "Carboxypeptidase"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Ester-type local anesthetics (like procaine) and neuromuscular blockers like succinylcholine are metabolized by plasma pseudocholinesterase. A genetic deficiency in this enzyme results in significantly delayed clearance and prolonged drug effects. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "A 45-year-old man presents with fatigue, weight loss, and abdominal fullness. Examination reveals massive splenomegaly. Blood smear shows markedly elevated WBC count with all stages of myeloid maturation. Cytogenetic analysis reveals a Philadelphia chromosome. What is the most likely diagnosis?",
+    "options": {
+      "A": "Acute lymphoblastic leukemia (ALL)",
+      "B": "Chronic lymphocytic leukemia (CLL)",
+      "C": "Chronic myeloid leukemia (CML)",
+      "D": "Acute myeloid leukemia (AML)",
+      "E": "Myelodysplastic syndrome"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "CML is a myeloproliferative disorder defined by the t(9;22) translocation (Philadelphia chromosome), which creates the BCR-ABL fusion gene. This results in constitutive tyrosine kinase activity, leading to massive expansion of all myeloid cell lines and classic splenomegaly. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "A patient develops urticaria, itching, and bronchospasm immediately after exposure to an allergen (e.g., peanuts or bee sting). Which type of hypersensitivity reaction is this?",
+    "options": {
+      "A": "Type I",
+      "B": "Type II",
+      "C": "Type III",
+      "D": "Type IV",
+      "E": "Type V"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Type I hypersensitivity is an immediate IgE-mediated reaction. Upon re-exposure, the allergen binds to pre-formed IgE on mast cells, triggering rapid degranulation and the release of histamine, leukotrienes, and other vasoactive mediators. Reference: USMLE Step 1 First Aid; Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "In Parkinson disease, which neurotransmitter imbalance is primarily responsible for the clinical features?",
+    "options": {
+      "A": "Increased acetylcholine and increased dopamine",
+      "B": "Decreased acetylcholine and increased dopamine",
+      "C": "Decreased dopamine and relative increase in acetylcholine",
+      "D": "Increased dopamine and decreased serotonin",
+      "E": "Decreased GABA and increased glutamate"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Parkinson's results from the loss of dopaminergic neurons in the substantia nigra. This loss leads to a lack of inhibition on cholinergic interneurons in the striatum, creating a relative excess of acetylcholine that drives the characteristic motor symptoms like tremors. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "A 62-year-old man with a long-standing smoking history presents with hematuria and flank pain. Imaging shows a renal mass producing excess erythropoietin. Which tumor is most likely?",
+    "options": {
+      "A": "Wilms tumor",
+      "B": "Renal cell carcinoma",
+      "C": "Transitional cell carcinoma",
+      "D": "Oncocytoma",
+      "E": "Angiomyolipoma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Renal Cell Carcinoma (RCC) is a highly vascular tumor that commonly causes paraneoplastic syndromes. Ectopic erythropoietin production by the tumor cells leads to secondary polycythemia (elevated RBC count). Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "A newborn develops vomiting and abdominal distension shortly after first feeding. Failure to pass meconium is noted. Contrast study shows a narrowed distal colon. What is the diagnosis?",
+    "options": {
+      "A": "Intussusception",
+      "B": "Hirschsprung disease",
+      "C": "Pyloric stenosis",
+      "D": "Meckel diverticulum",
+      "E": "Volvulus"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hirschsprung disease is caused by the failure of neural crest cells to migrate, resulting in an aganglionic segment in the distal colon. This segment cannot relax, leading to functional obstruction and proximal colon dilation (megacolon). Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A 62-year-old woman presents with pressure-like chest pain for 30 minutes that improves with rest. ECG shows horizontal ST segment depression in leads V4-V6. Cardiac enzymes are still normal. What is the most likely interpretation of this ECG finding?",
+    "options": {
+      "A": "Transmural myocardial infarction",
+      "B": "Pericarditis",
+      "C": "Subendocardial ischemia causing ST segment depression",
+      "D": "Early repolarization (normal variant)",
+      "E": "Ventricular aneurysm"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Horizontal or down-sloping ST segment depression represents subendocardial ischemia, where only the inner layer of the myocardium is deprived of oxygen. Unlike transmural infarction (ST elevation), this does not involve the full thickness of the heart wall. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "A 42-year-old man presents with recurrent burning epigastric pain and chronic diarrhea despite prolonged treatment with proton pump inhibitors. Upper GI endoscopy shows multiple peptic ulcers extending into the distal duodenum. Laboratory testing reveals markedly elevated fasting serum gastrin levels. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "MEN 2",
+      "B": "Zollinger-Ellison syndrome",
+      "C": "Carcinoid syndrome",
+      "D": "SIADH",
+      "E": "Addison disease"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Zollinger-Ellison syndrome is caused by a gastrin-secreting tumor (gastrinoma). The resulting massive acid hypersecretion causes multiple, refractory peptic ulcers in unusual locations and inactivates pancreatic enzymes, leading to chronic diarrhea. Reference: Harrison's Principles of Internal Medicine; Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A 45-year-old man with no past medical history presents with chest pain that started 2 hours ago. ECG shows ST segment elevation in leads I, aVL, V5, and V6. Cardiac enzymes are elevated. Which coronary artery is most likely occluded?",
+    "options": {
+      "A": "Right coronary artery",
+      "B": "Left anterior descending (LAD) artery",
+      "C": "Left circumflex artery",
+      "D": "Posterior descending artery",
+      "E": "Left main coronary artery"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "ST elevation in leads I, aVL, V5, and V6 diagnosticates a lateral wall myocardial infarction. This region is typically supplied by the Left Circumflex (LCX) artery. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "A 3-year-old boy is brought to the clinic with recurrent ear infections and episodes of bloody diarrhea. His mother reports persistent itchy skin rashes since infancy. Examination shows eczema over the flexural areas and scattered petechiae on the legs. Laboratory studies reveal thrombocytopenia with small platelets. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "SCID",
+      "B": "Wiskott-Aldrich syndrome",
+      "C": "Chronic granulomatous disease",
+      "D": "CVID",
+      "E": "DiGeorge syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Wiskott-Aldrich syndrome is characterized by the triad of eczema, thrombocytopenia (with small platelets), and recurrent infections due to a defect in the WASp protein which affects the actin cytoskeleton. This leads to impaired T-cell and B-cell function and poor platelet formation. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "A 58-year-old man presents to the emergency department with severe central chest pain radiating to his left arm for 1 hour. ECG shows ST segment elevation in leads II, III, and aVF. Troponin levels are elevated. Which of the following best explains the significance of the ST segment elevation?",
+    "options": {
+      "A": "Delayed ventricular repolarization due to atrial fibrillation",
+      "B": "Early repolarization of the atria",
+      "C": "Myocardial Ischemia causing ST segment elevation",
+      "D": "Increased AV node conduction",
+      "E": "Bundle branch block only"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "ST segment elevation signifies transmural (full-thickness) myocardial injury, where the damaged tissue creates an 'injury current' that shifts the baseline. This is a medical emergency requiring immediate reperfusion to salvage cardiac muscle. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "A 62-year-old man with long-standing hypertension suddenly develops a severe headache followed by vomiting and loss of consciousness while at home. On arrival at the emergency department, his blood pressure is 210/120 mmHg. Neurological examination shows right-sided weakness and a decreased level of consciousness. CT brain shows an intracerebral bleed. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Ischemic Stroke",
+      "B": "Hemorrhagic Stroke",
+      "C": "Transient ischemic attack",
+      "D": "Subdural hematoma",
+      "E": "Brain tumor"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Chronic hypertension causes hyaline arteriolosclerosis and Charcot-Bouchard microaneurysms, which can rupture to cause spontaneous intraparenchymal (hemorrhagic) stroke. The sudden onset of 'thunderclap' symptoms accompanied by focal deficits in a hypertensive patient is highly suggestive. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A 67-year-old man presents with recurrent episodes of dizziness and transient right-sided weakness lasting a few minutes. On examination, a bruit is heard at the upper border of the thyroid cartilage. Imaging shows atherosclerotic narrowing at the point where the common carotid artery divides. Which of the following structures is located at the site of this bifurcation?",
+    "options": {
+      "A": "Carotid sinus and carotid body",
+      "B": "Jugular vein and vagus nerve",
+      "C": "Thyroid gland and trachea",
+      "D": "Hypoglossal nerve only",
+      "E": "Sympathetic chain ganglia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The common carotid artery bifurcates at the level of the upper thyroid cartilage (C4), a site containing the carotid sinus (baroreceptor) and carotid body (chemoreceptor). These structures are vital for regulating blood pressure and sensing blood gases via CN IX. Reference: Snell's Clinical Anatomy; Guyton and Hall Physiology."
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "A 45-year-old man falls on his outstretched hand. After the injury, he has difficulty initiating shoulder abduction. On examination, he is unable to start lifting his arm away from the body for the first 15 degrees, but once assisted, he can continue abduction normally. There is also pain over the lateral shoulder. Which structure is most likely injured?",
+    "options": {
+      "A": "Deltoid muscle",
+      "B": "Supraspinatus muscle",
+      "C": "Infraspinatus muscle",
+      "D": "Teres minor muscle",
+      "E": "Subscapularis muscle"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The supraspinatus muscle is responsible for the first 0-15 degrees of shoulder abduction, after which the deltoid takes over. Injury to the supraspinatus tendon is common in rotator cuff tears, resulting in an inability to initiate the movement. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "A 68-year-old man with a long history of smoking is brought to the emergency department because of confusion, lethargy, and nausea. His family reports reduced appetite and recent weight loss. On examination, he is euvolemic with no peripheral edema or signs of dehydration. Laboratory studies show serum sodium 118 mEq/L, low serum osmolality, and inappropriately concentrated urine with high urine sodium. Chest imaging reveals a hilar lung mass. Which of the following is the most likely underlying cause of his hyponatremia?",
+    "options": {
+      "A": "Diabetes insipidus",
+      "B": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH)",
+      "C": "Primary polydipsia",
+      "D": "Adrenal insufficiency",
+      "E": "Congestive heart failure"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Small Cell Lung Carcinoma can produce ectopic Antidiuretic Hormone (ADH), causing SIADH. This leads to excessive water reabsorption, euvolemic hyponatremia, and inappropriately concentrated urine despite low serum osmolality. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A 24-year-old man is brought to the emergency department after a fall from a motorcycle. He reports severe shoulder pain and is unable to lift his right arm away from his body. On examination, there is loss of sensation over the \"regimental badge\" area of the lateral shoulder and weakness in shoulder abduction from 15° to 90°. X-ray shows an anterior shoulder dislocation. Which of the following nerves is most likely injured?",
+    "options": {
+      "A": "Suprascapular nerve",
+      "B": "Axillary nerve",
+      "C": "Radial nerve",
+      "D": "Musculocutaneous nerve",
+      "E": "Long thoracic nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The axillary nerve (C5-C6) travels around the surgical neck of the humerus and is frequently injured in anterior shoulder dislocations. Damage leads to deltoid muscle weakness (impaired abduction from 15-90°) and sensory loss over the lateral shoulder. Reference: Snell's Clinical Anatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A 62-year-old man with a known history of severe COPD presents to the emergency department with sudden onset sharp, right-sided chest pain and severe shortness of breath while at rest. On examination, he is tachycardic, hypotensive, and in obvious respiratory distress. Trachea is deviated to the left, and there are markedly reduced breath sounds on the right side with hyperresonance on percussion. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Pleural effusion",
+      "B": "Tension pneumothorax",
+      "C": "Pneumonia",
+      "D": "Myocardial infarction",
+      "E": "Pulmonary edema"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A tension pneumothorax occurs when air enters the pleural space but cannot escape, causing lung collapse and mediastinal shift (tracheal deviation). This increases intrathoracic pressure, which decreases venous return and leads to life-threatening hypotension. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A 46-year-old man is brought to the emergency department after suddenly developing a severe \"worst-ever\" headache while watching TV. Within minutes, he developed neck stiffness and vomiting. On arrival, he is drowsy but intermittently responsive, and his neurological exam shows no focal deficits. The temperature is 37.2°C. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Bacterial Meningitis",
+      "B": "Subarachnoid Hemorrhage",
+      "C": "Viral meningitis",
+      "D": "Brain tumor",
+      "E": "Migraine headache"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The 'thunderclap' headache is the classic presentation of a subarachnoid hemorrhage (SAH), often due to a ruptured berry aneurysm. Unlike meningitis, SAH presents suddenly and often lacks fever initially, though it causes meningeal irritation (neck stiffness). Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A 67-year-old man presents with progressive shortness of breath on exertion and dry cough over the past several months. He worked in shipbuilding for 30 years, frequently handling insulation materials without respiratory protection. On examination, there are bilateral fine inspiratory crackles at the lung bases. Pulmonary function tests show a restrictive pattern with reduced total lung capacity. Chest imaging reveals interstitial fibrosis with pleural plaques. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Silicosis",
+      "B": "Asbestosis",
+      "C": "Coal worker's pneumoconiosis",
+      "D": "Sarcoidosis",
+      "E": "COPD"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Asbestosis is a restrictive lung disease caused by the inhalation of asbestos fibers, common in shipbuilding or construction. Pathognomonic findings include ivory-white pleural plaques and interstitial fibrosis predominantly in the lower lobes. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "A 34-year-old woman is brought to the clinic after several episodes of dizziness, sweating, tremors, and confusion, especially in the early morning before breakfast. Her symptoms improve rapidly after drinking sugary drinks. During a supervised fast test, she develops hypoglycemia with inappropriately high insulin and C-peptide levels. Abdominal imaging reveals a small mass in the pancreas. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Glucagonoma",
+      "B": "Insulinoma",
+      "C": "Gastrinoma",
+      "D": "VIPoma",
+      "E": "Somatostatinoma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "An insulinoma is a pancreatic beta-cell tumor that secretes excess insulin, leading to fasting hypoglycemia (Whipple's triad). Elevated C-peptide levels confirm that the high insulin is endogenous rather than from exogenous administration. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "A 7-year-old boy is brought to the clinic with swelling around the eyes and reduced urine output. His mother reports that he had a sore throat about 2-3 weeks ago that resolved without antibiotics. On examination, there is periorbital edema and mild hypertension. Urinalysis shows red blood cell casts and proteinuria, and the urine appears dark brown (\"cola-colored\"). Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Minimal change disease",
+      "B": "Post-streptococcal glomerulonephritis (PSGN)",
+      "C": "IgA nephropathy",
+      "D": "Nephrotic syndrome",
+      "E": "Hemolytic uremic syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "PSGN is a Type III hypersensitivity reaction occurring 1-3 weeks after Group A Streptococcal pharyngitis or skin infection. It presents with the classic nephritic syndrome: hematuria (cola-colored urine), periorbital edema, and hypertension. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "A 29-year-old man presents with fatigue, right upper quadrant discomfort, and mild jaundice. He reports a history of unprotected sexual contact and intravenous drug use. Laboratory tests show elevated ALT and AST levels. Serology reveals positive hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc). The physician explains that the infecting organism belongs to a unique group of hepatotropic viruses with a partially double-stranded DNA genome and uses reverse transcriptase in its replication cycle. Which of the following is the causative virus?",
+    "options": {
+      "A": "Hepatitis A virus (HAV)",
+      "B": "Hepatitis B virus (HBV)",
+      "C": "Hepatitis C virus (HCV)",
+      "D": "Hepatitis D virus (HDV)",
+      "E": "Hepatitis E virus (HEV)"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hepatitis B is the only DNA virus among the hepatitis group and is partially double-stranded. It uniquely utilizes reverse transcriptase to replicate its genome from an RNA intermediate. Reference: Jawetz Medical Microbiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A 50-year-old man presents to the clinic with a 3-month history of worsening difficulty swallowing. He first noticed trouble swallowing solid foods, but over time the difficulty progressed to include liquids as well. He also reports unintended weight loss, fatigue, and reduced appetite. He has a long history of smoking and occasional alcohol use. On evaluation, there are no signs of heartburn relief with antacids. Which of the following is the most concerning diagnosis?",
+    "options": {
+      "A": "Achalasia",
+      "B": "Esophageal carcinoma",
+      "C": "Gastroesophageal reflux disease (GERD)",
+      "D": "Esophageal spasm",
+      "E": "Hiatal hernia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Progressive dysphagia (solids then liquids) in an older male smoker/drinker with weight loss is highly suggestive of esophageal carcinoma. Achalasia typically presents with simultaneous solid and liquid dysphagia and a different age profile. Reference: Robbins Basic Pathology; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "A 45-year-old man with a long history of chronic alcohol use is brought to the emergency department by his family because of confusion, unsteady gait, and abnormal eye movements. On examination, he is disoriented to time and place, has horizontal nystagmus, and shows marked ataxia while trying to walk. His blood glucose is 68 mg/dL. The clinician prepares to correct his metabolic status but recognizes that giving glucose alone may worsen his neurological condition. What is the most appropriate immediate management step?",
+    "options": {
+      "A": "Administer intravenous glucose only",
+      "B": "Start insulin infusion",
+      "C": "Give intravenous thiamine before glucose",
+      "D": "Administer folate only",
+      "E": "Give naloxone"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Wernicke encephalopathy is caused by thiamine (Vitamin B1) deficiency, common in alcoholics. Administering glucose without thiamine can precipitate or worsen the condition because thiamine is a required cofactor for glucose metabolism. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A 22-year-old woman is given an injection of penicillin for tonsillitis. Within minutes, she develops wheezing, facial swelling, urticaria, and hypotension. She becomes confused and collapses. What type of hypersensitivity reaction is this most consistent with?",
+    "options": {
+      "A": "Type I hypersensitivity (IgE-mediated)",
+      "B": "Type II hypersensitivity (cytotoxic)",
+      "C": "Type III hypersensitivity (immune complex)",
+      "D": "Type IV hypersensitivity (delayed, T-cell mediated)",
+      "E": "Idiosyncratic drug reaction"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Anaphylaxis to penicillin is a classic Type I hypersensitivity reaction. Penicillin acts as a hapten, binding to proteins to trigger IgE-mediated mast cell degranulation and the systemic release of histamine. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "A patient develops right-sided weakness (face, arm, leg) with mouth deviated to the left. Which vascular territory is most likely involved?",
+    "options": {
+      "A": "Posterior cerebral circulation",
+      "B": "Cerebellar circulation",
+      "C": "Left middle cerebral artery territory",
+      "D": "Vertebrobasilar artery",
+      "E": "Posterior inferior cerebellar artery"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "A stroke in the left Middle Cerebral Artery (MCA) territory typically causes contralateral (right-sided) motor deficits involving the face and upper limb more than the leg. Mouth deviation away from the lesion occurs due to paralysis of the contralateral lower facial muscles. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "A 67-year-old man with a 45-pack-year smoking history presents to the clinic with a 2-week history of blood in his urine. He describes the urine as uniformly red but denies any pain, burning, fever, or flank discomfort. He has no history of kidney stones. Urinalysis confirms the presence of red blood cells without casts or signs of infection. Given his risk factors and clinical presentation, which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Renal cell carcinoma",
+      "B": "Bladder carcinoma",
+      "C": "Nephritic syndrome",
+      "D": "Ureteric stone",
+      "E": "Pyelonephritis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Painless hematuria in an older smoker is highly suggestive of bladder cancer (specifically transitional cell carcinoma). Cigarette smoke contains naphthylamine and other carcinogens that are excreted in the urine, irritating the bladder lining. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "A 34-year-old man with untreated HIV/AIDS presents with progressive shortness of breath, dry cough, and fever for 2 weeks. Chest examination is unremarkable, but oxygen saturation is low. Chest X-ray shows bilateral diffuse interstitial infiltrates. Which of the following is the most likely causative organism?",
+    "options": {
+      "A": "Pneumocystis jirovecii Pneumonia",
+      "B": "Tuberculosis",
+      "C": "Histoplasmosis",
+      "D": "Legionnaires' disease",
+      "E": "Cytomegalovirus infection"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Pneumocystis jirovecii pneumonia (PCP) is a defining opportunistic infection in AIDS patients with CD4 counts <200. It classically presents with a dry cough, exercise-induced hypoxemia, and diffuse 'ground-glass' infiltrates on imaging. Reference: Jawetz Medical Microbiology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "A 58-year-old man with long-standing hypertension suddenly develops tearing chest pain radiating to the back. Blood pressure is higher in the right arm than the left. Chest X-ray shows widened mediastinum. What is the most likely diagnosis?",
+    "options": {
+      "A": "Myocardial infarction",
+      "B": "Pulmonary embolism",
+      "C": "Aortic dissection",
+      "D": "Cardiac tamponade",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Aortic dissection involves a tear in the tunica intima, allowing blood to flow between layers of the aortic wall. The 'tearing' pain and blood pressure discrepancy between arms are classic signs of a proximal (Stanford Type A) dissection. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "A 66-year-old man with long-standing hypertension suddenly develops weakness of the right face, arm, and leg. Sensation, vision, language, and coordination are normal. Which of the following is the most likely cause of this pure motor stroke?",
+    "options": {
+      "A": "Infarction of the internal capsule due to lacunar stroke",
+      "B": "Occlusion of posterior cerebral artery",
+      "C": "Cerebellar hemisphere infarction",
+      "D": "Temporal lobe hemorrhage",
+      "E": "Parietal cortex infarction"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "A pure motor stroke is a classic lacunar infarct typically involving the posterior limb of the internal capsule. These are small (microatheroma-related) strokes in deep brain structures often caused by chronic hypertension. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "A 35-year-old man presents with recurrent pneumonia, oral thrush, chronic diarrhea, and marked weight loss. He is found to have an acquired defect in immune function. Which of the following is the best description of secondary immunodeficiency?",
+    "options": {
+      "A": "Recurrent opportunistic infections due to a weakened immune system acquired later in life",
+      "B": "Inherited immune defect present since birth due to genetic mutation",
+      "C": "Excessive immune response causing allergies and asthma only",
+      "D": "Autoimmune destruction of self tissues with otherwise normal immunity",
+      "E": "Severe immune disease caused only by overproduction of antibodies"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Secondary immunodeficiency refers to an acquired loss of immune function caused by external factors such as malnutrition, chemotherapy, or HIV infection. This differs from primary (congenital) immunodeficiencies which are present from birth due to genetic defects. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "A 70-year-old man presents with exertional chest pain, shortness of breath, and episodes of syncope. On examination, there is a harsh crescendo-decrescendo systolic murmur best heard at the right second intercostal space and radiating to the carotids. Which valvular lesion is the most likely cause of his angina?",
+    "options": {
+      "A": "Mitral regurgitation",
+      "B": "Aortic stenosis",
+      "C": "Mitral stenosis",
+      "D": "Tricuspid regurgitation",
+      "E": "Pulmonary stenosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Aortic stenosis classically presents with the triad of Angina, Syncope, and Dyspnea ('SAD'). The harsh systolic murmur at the right upper sternal border reflects high-velocity blood flow across a narrowed valve. Reference: USMLE Step 1 First Aid; Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "A 55-year-old man presents with progressive yellowing of the eyes over the past month. He reports unintentional weight loss, loss of appetite, and generalized fatigue. On examination, he is deeply jaundiced. His abdomen is soft and non-tender, but a firm, enlarged, non-painful gallbladder is palpable in the right upper quadrant. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Gallstones",
+      "B": "Pancreatic head carcinoma",
+      "C": "Hepatitis",
+      "D": "Cholangiocarcinoma",
+      "E": "Hepatocellular carcinoma"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Courvoisier's sign (painless jaundice and a palpable gallbladder) strongly suggests a malignant obstruction of the common bile duct, most frequently from pancreatic head carcinoma. In contrast, gallstone disease usually causes painful gallbladder distension. Reference: Harrison's Principles of Internal Medicine; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "A 29-year-old man presents to the emergency department with progressive muscle weakness and blurred vision. He reports eating home-canned vegetables from an improperly sealed jar the previous day. On examination, he has diplopia, dysphagia, dry mouth, and descending symmetrical flaccid paralysis. He is alert and febrile. Which of the following is the most likely causative organism?",
+    "options": {
+      "A": "Clostridium tetani",
+      "B": "Clostridium botulinum",
+      "C": "Staphylococcus aureus",
+      "D": "Escherichia coli",
+      "E": "Listeria monocytogenes"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Botulism, caused by the preformed toxin of Clostridium botulinum, prevents the release of acetylcholine at the neuromuscular junction. This leads to the characteristic '4 D's': Diplopia, Dysphagia, Dysarthria, and Descending flaccid paralysis. Reference: USMLE Step 1 First Aid; Jawetz Medical Microbiology."
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "A 68-year-old man with Atrial Fibrillation and systolic Heart Failure presents with palpitations and a ventricular rate of 140/min. Which of the following medications is especially useful for controlling heart rate in this patient while also being safe in heart failure?",
+    "options": {
+      "A": "Verapamil",
+      "B": "Diltiazem",
+      "C": "Digoxin",
+      "D": "Flecainide",
+      "E": "Adenosine"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Digoxin is useful for rate control in atrial fibrillation because it increases vagal tone to slow AV node conduction. It is preferred in patients with co-existing systolic heart failure because it also provides a mild positive inotropic effect. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "A 52-year-old man presents with chronic diarrhea, weight loss, abdominal bloating, and migratory joint pains. Examination shows pallor. Small intestinal biopsy reveals macrophages in the lamina propria that stain positive with PAS. Which of the following is the most likely causative organism?",
+    "options": {
+      "A": "Tropheryma whipplei",
+      "B": "Giardia lamblia",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Clostridioides difficile",
+      "E": "Entamoeba histolytica"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Whipple's disease is systemic infection by Tropheryma whipplei, classically affecting the intestine, joints, and nervous system. The diagnostic finding is PAS-positive foamy macrophages in the intestinal mucosa. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "A 58-year-old man has had Chronic Kidney Disease for 20 years. He now presents with bone pain and pruritus. Laboratory studies show hypocalcemia, hyperphosphatemia, and elevated parathyroid hormone levels. Which organ is most likely to show hyperplasia in this patient?",
+    "options": {
+      "A": "Thyroid gland",
+      "B": "Adrenal cortex",
+      "C": "Parathyroid glands",
+      "D": "Pituitary gland",
+      "E": "Pancreas"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Secondary hyperparathyroidism in CKD results from phosphate retention and low calcitriol levels, which chronically stimulate the parathyroid glands. Over time, this leads to chief cell hyperplasia to maintain calcium homeostasis. Reference: Robbins Basic Pathology; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "A 65-year-old man presents with resting tremor, bradykinesia, rigidity, and shuffling gait. He has reduced facial expression and a stooped posture. The underlying pathology most likely involves loss of dopamine in which structure?",
+    "options": {
+      "A": "Cerebellar cortex",
+      "B": "Substantia nigra pars compacta",
+      "C": "Thalamus",
+      "D": "Red nucleus",
+      "E": "Motor cortex"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Parkinson's disease involves the progressive loss of dopaminergic neurons in the Substantia nigra pars compacta. This disrupts the balance of the basal ganglia circuit, leading to the classic 'TRAP' motor symptoms. Reference: Snell's Clinical Neuroanatomy; USMLE Step 1 First Aid."
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "A 28-year-old man presents with chronic abdominal pain, diarrhea, and blood in stool after returning from travel to an area with poor sanitation. Stool examination reveals eggs of a helminth infection. He is treated with a drug that increases calcium influx in the parasite, causing paralysis and death of the worm. Which of the following drugs is most likely being used?",
+    "options": {
+      "A": "Albendazole",
+      "B": "Mebendazole",
+      "C": "Praziquantel",
+      "D": "Ivermectin",
+      "E": "Metronidazole"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Praziquantel is the drug of choice for Schistosoma and most trematodes/cestodes. It acts by increasing the permeability of the parasite cell membrane to calcium, resulting in spastic paralysis and detachment of the worm. Reference: Katzung Pharmacology; USMLE Step 1 First Aid."
+  }
+]
