@@ -1,0 +1,2067 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Maximum lignocaine dose with adrenaline is",
+    "options": {
+      "A": "5mg/kg",
+      "B": "7mg/kg",
+      "C": "10mg/kg",
+      "D": "15mg/kg"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Adrenaline causes local vasoconstriction, which slows the systemic absorption of lidocaine, thereby reducing toxicity and allowing a higher safe dose of 7mg/kg compared to 3-5mg/kg without it. Reference: Miller's Anesthesia and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A 25-year-old male presents with a left-sided scrotal swelling described as a \"bag of worms\". What is the most likely diagnosis?",
+    "options": {
+      "A": "Left sided Hydrocele",
+      "B": "Left sided Varicocele",
+      "C": "Venous valve obstruction",
+      "D": "Testicular torsion",
+      "E": "Left renal vein thrombosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A varicocele is a dilation of the pampiniform venous plexus, characteristically described as a 'bag of worms' on palpation and more common on the left side due to the vertical drainage into the left renal vein. Reference: Bailey & Love's Short Practice of Surgery and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "A 45-year-old asthmatic patient with a history of myocardial infarction presents for fitness evaluation. ASA classification will be",
+    "options": {
+      "A": "ASA 1",
+      "B": "ASA 2",
+      "C": "ASA 3",
+      "D": "ASA 4"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "ASA 3 is assigned to patients with severe systemic disease that is not life-threatening, such as a history of myocardial infarction or stable asthma requiring regular medication. Reference: Miller’s Anesthesia."
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A patient on OT table with ASA 2, under anesthesia, has a Bispectral Index (BIS) score of 60. This indicates:",
+    "options": {
+      "A": "The patient is 60% awake",
+      "B": "The patient is likely not responding to surgical stimuli",
+      "C": "The patient is experiencing awareness",
+      "D": "BIS 50 is more useful than BIS 60"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The BIS monitor processes EEG data to provide a number between 0 and 100, where a range of 40-60 indicates an appropriate level of general anesthesia with a low probability of consciousness. Reference: Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A patient is placed in the left lateral position before surgery despite not being NPO. Why?",
+    "options": {
+      "A": "To improve ventilation in the left lung",
+      "B": "Right bronchi is more wide and vertical and has chance of aspiration",
+      "C": "To improve venous return",
+      "D": "To reduce pressure on the spine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The right main bronchus is wider, shorter, and more vertical than the left, making it the most likely site for aspirated contents; the left lateral position uses gravity to reduce this risk. Reference: Gray's Anatomy and BD Chaurasia’s Human Anatomy."
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "A 26-year-old male patient After RTA is undergoing nasogastric tube insertion. The late anatomical obstruction typically encountered during this procedure is at the:",
+    "options": {
+      "A": "Carina of trachea",
+      "B": "Esophageal hiatus",
+      "C": "Esopharyngeal junction",
+      "D": "Pylorus of stomach"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The esophageal hiatus in the diaphragm (at the level of T10) is one of the physiological constrictions of the esophagus where a tube may encounter resistance before entering the stomach. Reference: Last’s Anatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A pulse oximeter measures oxygen saturation (SpO2) it is based on which law?",
+    "options": {
+      "A": "Boyle's Law",
+      "B": "Beer-Lambert Law",
+      "C": "Fick's Law",
+      "D": "Henry's Law"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The Beer-Lambert Law states that the absorption of light is proportional to the concentration and path length of the substance, allowing the device to calculate HbO2 and Hb levels. Reference: Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A patient presents with chest pain and a pupillary muscle defect (ectopia lentis). The underlying protein defect is likely in:",
+    "options": {
+      "A": "Elastin",
+      "B": "Fibrillin-1",
+      "C": "Collagen",
+      "D": "Keratin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Marfan syndrome is caused by a mutation in the FBN1 gene on chromosome 15, which codes for Fibrillin-1, a glycoprotein essential for the integrity of elastic fibers. Reference: First Aid for the USMLE Step 1 and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A sexually active female was diagnosed with lower urinary tract infection. Her urine culture report showed growth of an organism on chocolate and MacConkey's Agar, non-lactose fermenting, strongly urease positive, gram negative rods. Which of the following can be the likely organism?",
+    "options": {
+      "A": "Pseudomonas aeruginosa",
+      "B": "E. coli",
+      "C": "Staphylococcus saprophyticus",
+      "D": "Proteus mirabilis",
+      "E": "Enterococcus faecalis"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Proteus species are non-lactose fermenting Gram-negative rods that produce urease, which converts urea to ammonia, raising urine pH and potentially leading to struvite stones. Reference: Jawetz Medical Microbiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Maple syrup urine disease is an inborn error of metabolism Which enzyme is deficient:",
+    "options": {
+      "A": "Homogentisic acid oxidase",
+      "B": "Aromatic amino acid ketolase",
+      "C": "Branched chain alpha ketoacid dehydrogenase",
+      "D": "Propyl hydroxylase"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Deficiency of the branched-chain alpha-ketoacid dehydrogenase complex leads to a build-up of leucine, isoleucine, and valine, resulting in neurotoxicity and sweet-smelling urine. Reference: Harper’s Illustrated Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "A patient undergoing surgery with low hemoglobin receives a blood transfusion, but develops sudden shortness of breath, chest pain, and allergic symptoms. The blood transfusion is stopped immediately. The next step in management is:",
+    "options": {
+      "A": "Administer IV antihistamines",
+      "B": "Give IV corticosteroids",
+      "C": "Administer IV adrenaline",
+      "D": "Restart blood transfusion once patient stabilizes"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "For life-threatening anaphylactic transfusion reactions presenting with respiratory distress, intramuscular or intravenous adrenaline is the immediate drug of choice to reverse bronchospasm and hypotension. Reference: Oxford Handbook of Clinical Medicine."
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "A 37-year-old male undergoing laparoscopic cholecystectomy having distended abdomen due to CO2, Anesthesia given. Surgeon order to give antibiotic dose. He developed shortness of breath and chills 5 minutes after administration of prophylactic antibiotics. The most likely cause is:",
+    "options": {
+      "A": "Anesthesia effect",
+      "B": "CO2 embolism",
+      "C": "Antibiotics allergy",
+      "D": "Pneumothorax"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The rapid onset of respiratory distress and systemic symptoms shortly after antibiotic administration strongly suggests an acute hypersensitivity or anaphylactic reaction. Reference: Kumar & Clark's Clinical Medicine."
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "A 45-year-old male undergoes surgery under spinal anesthesia and develops hypotension. Ephedrine is planned. On reviewing his medication history, he is found to be taking a drug for depression. Administration of ephedrine may lead to a severe hypertensive crisis. Which of the following drugs is contraindicated with ephedrine in this patient?",
+    "options": {
+      "A": "Phenelzine",
+      "B": "Fluoxetine",
+      "C": "Amitriptyline",
+      "D": "Diazepam",
+      "E": "Propranolol"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Phenelzine is a Monoamine Oxidase Inhibitor (MAOI) that increases norepinephrine stores; administering ephedrine causes a massive release of these stores, triggering a potentially fatal hypertensive crisis. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A patient with multiple limb injuries from a road traffic accident is crashing and IV access is impossible. The next best step for resuscitation is:",
+    "options": {
+      "A": "U/S guided femoral vein access",
+      "B": "U/S guided internal jugular vein access",
+      "C": "Subclavian catheterization",
+      "D": "CT guided aortic insertion"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In an emergency 'crashing' scenario where peripheral access fails, rapid central venous access via the internal jugular vein is preferred for effective volume resuscitation. Reference: ATLS (Advanced Trauma Life Support) Guidelines."
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A patient with gastric ulcer presents with arthritis and bone pain. Which medication is safest?",
+    "options": {
+      "A": "Baclofen",
+      "B": "Celecoxib",
+      "C": "Diclofenac",
+      "D": "Ibuprofen"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Celecoxib is a selective COX-2 inhibitor that provides anti-inflammatory effects with a significantly lower risk of gastric ulceration compared to non-selective NSAIDs. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Patient has history of muscle weakness and hyporeflexia diagnosed as Lambert Eaton syndrome .Which of the following best describes the pathophysiological mechanism of Lambert-Eaton Syndrome?",
+    "options": {
+      "A": "Autoantibodies against acetylcholine receptors at the neuromuscular junction",
+      "B": "Autoantibodies against voltage-gated calcium channels on presynaptic nerve terminals",
+      "C": "Destruction of motor neurons in the anterior horn of spinal cord",
+      "D": "Defective synthesis of acetylcholine in presynaptic terminals",
+      "E": "Demyelination of peripheral motor nerves"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Lambert-Eaton syndrome involves autoantibodies targeting presynaptic voltage-gated calcium channels (VGCC), which prevents calcium entry and subsequent release of acetylcholine. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "DOC for community acquired pneumonia is:",
+    "options": {
+      "A": "Cefotaxime",
+      "B": "Ceftriaxone + Clarithromycin",
+      "C": "Tetracycline + Claithromycin",
+      "D": "Ciprofloxacin -Azithromycin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Standard therapy for hospitalized CAP typically involves a beta-lactam like Ceftriaxone plus a macrolide like Clarithromycin to cover both typical and atypical pathogens. Reference: Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A patient present with difficulty elevating the soft palate and secretions are collected in the pharynx. On examination, the gag reflex is absent on the affected side. Which nerve is most likely involved carrying afferent for gag reflex?",
+    "options": {
+      "A": "Internal laryngeal nerve",
+      "B": "External laryngeal nerve",
+      "C": "Glossopharyngeal nerve",
+      "D": "Accessory nerve",
+      "E": "Hypoglossal nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The gag reflex is mediated by the glossopharyngeal nerve (CN IX) as the sensory/afferent limb and the vagus nerve (CN X) as the motor/efferent limb. Reference: BD Chaurasia’s Human Anatomy and Snell’s Clinical Anatomy."
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A patient with trauma on the ventral border of the scapula is unable to move. Which muscle is likely ruptured?",
+    "options": {
+      "A": "Trapezius",
+      "B": "Latissimus dorsi",
+      "C": "Pectoralis major",
+      "D": "Serratus anterior"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The serratus anterior muscle inserts into the medial border on the ventral (anterior) surface of the scapula; it is responsible for protraction and stabilizing the scapula against the rib cage. Reference: BD Chaurasia and Gray's Anatomy."
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which of the following is the prominent step in irreversible cell injury?",
+    "options": {
+      "A": "Cell membrane damage",
+      "B": "Massive Calcium influx",
+      "C": "Cellular Swelling",
+      "D": "Mitochondrial swelling"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Severe damage to plasma or lysosomal membranes allows the escape of vital enzymes and loss of cellular integrity, marking the irreversible transition from injury to death. Reference: Robbins Basic Pathology and Pathoma."
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "A patient presents with ulcer on the lateral side of the foot and unable to move feet and develop foot drop due to which Nerve involvement?",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Common peroneal nerve",
+      "C": "Sciatic nerve",
+      "D": "Femoral nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The common peroneal (fibular) nerve supplies the anterior compartment of the leg; its dysfunction causes 'foot drop' because the patient can no longer dorsiflex the foot. Reference: BD Chaurasia’s Human Anatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "A 52-year-old man with a history of recurrent urinary tract infections is prescribed ciprofloxacin. Which of the following best describes the mechanism of action of this drug?",
+    "options": {
+      "A": "Inhibition of dihydropteroate synthase",
+      "B": "Inhibition of DNA gyrase and topoisomerase IV",
+      "C": "Binding to the 50S ribosomal subunit",
+      "D": "Inhibition of transpeptidase enzyme",
+      "E": "Inhibits 30S unit of the ribosome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Fluoroquinolones like ciprofloxacin block bacterial DNA replication by inhibiting DNA gyrase (Topoisomerase II) and Topoisomerase IV. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Omeprazole inhibits which structure?",
+    "options": {
+      "A": "Na/k pump",
+      "B": "H+/K+ ATPase (proton pump)",
+      "C": "H atpase",
+      "D": "Na atpas"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Omeprazole is a proton pump inhibitor that irreversibly binds to the H+/K+ ATPase enzyme system on the gastric parietal cell surface, inhibiting final acid secretion. Reference: First Aid for the USMLE Step 1 and Katzung’s Pharmacology."
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "An abscess in the posterior triangle of the neck, superior to the sternocleidomastoid muscle, is likely to spread to:",
+    "options": {
+      "A": "Investing layer of deep cervical fascia",
+      "B": "Pretracheal fascia",
+      "C": "Retromandibular space",
+      "D": "Prevertebral fascia"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "The floor of the posterior triangle is formed by the prevertebral fascia, which provides a plane for the spread of infections or abscesses toward the axilla or mediastinum. Reference: BD Chaurasia and Gray's Anatomy."
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Persons heart rate is 80, ECG will show",
+    "options": {
+      "A": "R-R interval of 0.65 second",
+      "B": "R-R interval of 0.75 seconds",
+      "C": "R-R interval of 0.95 second",
+      "D": "P-R interval of 0.85 second"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The R-R interval is the time between successive heartbeats, calculated as 60 seconds divided by the heart rate in beats per minute (60/80 = 0.75 seconds). Reference: Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "A patient with an ileostomy presents with symptoms of malabsorption. Which of the following substances is most likely not being absorbed?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Bile acids",
+      "C": "Sodium",
+      "D": "Iron"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Bile acids and Vitamin B12 are primarily reabsorbed in the terminal ileum; their loss leads to malabsorption and potentially steatorrhea. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Patient underwent Gastrectomy & has now developed pernicious anemia due to deficiency of Vitamin B12. The cells required for the absorption of Vitamin B12 are:",
+    "options": {
+      "A": "Parietal Cells",
+      "B": "Mucous Cells",
+      "C": "Serous Cells",
+      "D": "Brunner cells"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Parietal cells secrete Intrinsic Factor, which is absolutely necessary for the binding and subsequent absorption of Vitamin B12 in the distal ileum. Reference: Guyton and Hall Physiology and Pathoma."
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Gastric carcinoma involving the left upper side of stomach will spread first to which lymph node?",
+    "options": {
+      "A": "Superior mesenteric nodes",
+      "B": "Celiac nodes",
+      "C": "PancreaticoSplenic nodes",
+      "D": "Inferior mesenteric nodes",
+      "E": "Gastroepiploic nodes"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Lymphatic drainage from the upper part of the greater curvature (left upper stomach) follows the short gastric and splenic arteries to the pancreaticosplenic lymph nodes. Reference: Gray's Anatomy and Last’s Anatomy."
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "A 36-week pregnant patient presents with labour and fetal bradycardia. This is a sign of:",
+    "options": {
+      "A": "Fetal hypoxia",
+      "B": "Fetal tachycardia",
+      "C": "Maternal anemia",
+      "D": "Polyhydramnios"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Fetal bradycardia is a critical clinical sign indicating fetal distress, often resulting from acute hypoxia or cord compression. Reference: Williams Obstetrics."
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "A girl did suicide by gun shot which Fractured and cause Pterion hemorrhage due to involvement of which artery?",
+    "options": {
+      "A": "Middle Meningeal Artery",
+      "B": "Middle Cerebral Artery",
+      "C": "Posterior Cerebral Artery",
+      "D": "Anterior Cerebral Artery"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The pterion is the thinnest part of the skull where the frontal, parietal, temporal, and sphenoid bones meet; a fracture here commonly ruptures the underlying middle meningeal artery, leading to an epidural hematoma. Reference: BD Chaurasia and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "A 45-year-old male patient is admitted to the ICU after a craniotomy for a right frontal tumor. Which of the following interventions is most effective in preventing an increase in intracranial pressure (ICP) in the postoperative period?",
+    "options": {
+      "A": "Elevating the head of the bed to 30 degrees",
+      "B": "Administering prophylactic mannitol routinely in all patients",
+      "C": "Keeping the patient NPO (nil per os) for 48 hours",
+      "D": "Routine hyperventilation to PaCO2 of 25 mmHg",
+      "E": "Maintaining patient in strict supine position"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Elevating the head to 30-45 degrees facilitates venous drainage from the brain via the jugular veins, thereby decreasing intracranial pressure through gravity. Reference: Morgan & Mikhail’s Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "A patient presents with right homonymous hemianopia, positive Babinski sign, and hyperreflexia. What is the likely site of the lesion?",
+    "options": {
+      "A": "Internal capsule",
+      "B": "Superior colliculus",
+      "C": "Inferior colliculus",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The internal capsule contains both optic radiations (causing hemianopia) and corticospinal fibers (causing UMN signs like Babinski), so a single lesion here explains both deficits. Reference: Snell’s Clinical Neuroanatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Patient having xerostomia and speech difficulties likely nucleus involved is:",
+    "options": {
+      "A": "Superior Colliculus",
+      "B": "Inferior Colliculus",
+      "C": "Superior Salivatory nucleus",
+      "D": "Inferior Salivatory nucleus"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The superior salivatory nucleus (CN VII) provides parasympathetic fibers for the submandibular and sublingual glands; loss of saliva (xerostomia) leads to difficulty with speech articulation. Reference: BD Chaurasia and Snell’s Clinical Neuroanatomy."
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A 28-year-old male requires induction for a minor surgical procedure. The anesthetist wants to induce dissociative anesthesia, characterized by analgesia, amnesia, and preserved airway reflexes. Which of the following drugs is most likely to produce this effect?",
+    "options": {
+      "A": "Propofol",
+      "B": "Ketamine",
+      "C": "Thiopental",
+      "D": "Midazolam",
+      "E": "Fentanyl"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Ketamine produces 'dissociative anesthesia' by antagonizing NMDA receptors, resulting in a state where the patient is detached from surroundings but maintains airway reflexes and hemodynamics. Reference: Katzung’s Pharmacology and Morgan & Mikhail."
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "End product of glycolysis in absence of mitochondria?",
+    "options": {
+      "A": "Lactic acid",
+      "B": "1 molecule of Pyruvic acid",
+      "C": "2 mol of Pyruvic acid",
+      "D": "3 molecules of pyruvic acid"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "In anaerobic conditions or cells lacking mitochondria (like RBCs), pyruvate is reduced to lactic acid to regenerate NAD+ so that glycolysis can continue. Reference: Harper’s Illustrated Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "A patient with a fracture of the radius requires an axillary brachial plexus block for surgery. Which of the following nerves is usually spared by this block?",
+    "options": {
+      "A": "Median nerve",
+      "B": "Ulnar nerve",
+      "C": "Musculocutaneous nerve",
+      "D": "Radial nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The musculocutaneous nerve often leaves the brachial plexus sheath high in the axilla to pierce the coracobrachialis, frequently making it unreachable by a standard axillary block. Reference: Morgan & Mikhail’s Clinical Anesthesiology and Gray's Anatomy."
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "A neonate presents with failure to thrive, vomiting, musty body odor, fair skin, blue eyes, developmental delays, and a positive Ferric Chloride test in urine. What is the likely diagnosis?",
+    "options": {
+      "A": "Alkaptonuria",
+      "B": "Phenylketonuria",
+      "C": "Homocystinuria",
+      "D": "Tropoaminase 1",
+      "E": "Tropoaminase 2"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Phenylketonuria (PKU) is a deficiency of phenylalanine hydroxylase, leading to the accumulation of phenylacetic acid (musty odor) and decreased melanin production (fair skin). Reference: First Aid for the USMLE Step 1 and Harper’s Biochemistry."
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A 3 years old child died. His autopsy report shows multiple cysts in row in kidney what is inheritance pattern",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked dominant",
+      "D": "X linked recessive"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Autosomal Recessive Polycystic Kidney Disease (ARPKD) typically manifests in infancy or early childhood with bilateral cystic kidney enlargement and hepatic fibrosis. Reference: Robbins Basic Pathology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A patient with Delayed puberty having small testis with Large legs and Gynecomastia and Karyotype is 47 XXY. Cause?",
+    "options": {
+      "A": "Non-disjunction",
+      "B": "Disjunction",
+      "C": "Microdeletion",
+      "D": "Mosaicism"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Klinefelter syndrome (47, XXY) is primarily caused by meiotic non-disjunction of sex chromosomes during parental gametogenesis, leading to an extra X chromosome. Reference: First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "P53 is known as the \"guardian of the genome\". It is primarily activated by:",
+    "options": {
+      "A": "Damage to RNA",
+      "B": "Damage to DNA",
+      "C": "Cell injury",
+      "D": "Protein malfunction"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "p53 protein senses DNA damage and triggers either cell cycle arrest (to allow repair) or apoptosis (if damage is irreparable) to prevent tumor formation. Reference: Robbins Basic Pathology and Pathoma."
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Pyruvate carboxylase requires which coenzyme for its activity?",
+    "options": {
+      "A": "Thiamine",
+      "B": "Biotin",
+      "C": "Riboflavin",
+      "D": "Pyridoxine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pyruvate carboxylase, the enzyme that converts pyruvate to oxaloacetate for gluconeogenesis, requires Biotin (Vitamin B7) for carboxylation. Reference: Harper’s Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Crumpled tissue Paper like macrophages. Gaucher disease is caused by deficiency of which enzyme.",
+    "options": {
+      "A": "Hexosaminidase-A",
+      "B": "Glucocerebrosidase",
+      "C": "Sphingomyelinase",
+      "D": "Hexosaminidase",
+      "E": "Glucokinase"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Deficiency of beta-glucocerebrosidase leads to the accumulation of glucocerebroside in macrophages, giving them the characteristic 'crinkled paper' appearance. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A patient presents with mental retardation and urine that has a burnt sugar-like smell. The likely diagnosis is:",
+    "options": {
+      "A": "Maple syrup urine disease",
+      "B": "Alkaptonuria",
+      "C": "Phenylketonuria",
+      "D": "Homocystinuria"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The characteristic 'burnt sugar' smell is due to the presence of alpha-ketoacids in the urine, caused by a defect in branched-chain amino acid metabolism. Reference: First Aid for the USMLE Step 1 and Harper’s Biochemistry."
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Type 1 hyperlipidemia with increased VLDL & TG is due to:",
+    "options": {
+      "A": "Deficiency of Lipoprotein lipase",
+      "B": "Apo C1 mutation",
+      "C": "Apo E deficiency",
+      "D": "LDL receptor deficiency",
+      "E": "Deficiency of Apo B"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Type I hyperchylomicronemia results from a deficiency of lipoprotein lipase or its activator, ApoC-II, leading to severely elevated triglycerides and chylomicrons. Reference: First Aid for the USMLE Step 1 and Harper’s Biochemistry."
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A 60-year-old diabetic patient on oral antidiabetic medication skips breakfast and presents in a semi-conscious state with a blood glucose level of 45 mg/dL. Which of the following medications is most likely responsible for this episode?",
+    "options": {
+      "A": "Metformin",
+      "B": "Glimpiride",
+      "C": "Pioglitazone",
+      "D": "Sitagliptin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Sulfonylureas like glimepiride stimulate insulin secretion from the pancreas regardless of blood sugar, making them high risk for causing severe hypoglycemia if a meal is missed. Reference: Katzung’s Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "A patient on dabigatran presents with prolonged PT and requires surgery. When should dabigatran be stopped before surgery?",
+    "options": {
+      "A": "72 hours before",
+      "B": "24 hours before",
+      "C": "48 hours before",
+      "D": "Repeat PT before surgery and then stop"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Dabigatran is a direct thrombin inhibitor with a half-life of 12-17 hours; stopping it 48 hours prior to surgery allows for nearly complete clearance in patients with normal renal function. Reference: Morgan & Mikhail’s Clinical Anesthesiology and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Glomerular filtration rate (GFR) is increased by:",
+    "options": {
+      "A": "Constriction of glomerulus",
+      "B": "Constriction of afferent arteriole",
+      "C": "Dilation of afferent arteriole",
+      "D": "Dilation of efferent arteriole"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Dilating the afferent arteriole increases both renal blood flow and the hydrostatic pressure within the glomerular capillaries, directly elevating GFR. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A patient undergoing laparoscopic cholecystectomy with normal anatomy received rocuronium for rapid intubation. What is the ED95 of rocuronium?",
+    "options": {
+      "A": "0.1 mg/kg",
+      "B": "0.3 mg/kg",
+      "C": "0.5 mg/kg",
+      "D": "1 mg/kg"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "ED95 refers to the dose required to produce 95% suppression of a twitch response; for rocuronium, this is 0.3 mg/kg, with standard intubation doses being twice that (0.6 mg/kg). Reference: Miller’s Anesthesia."
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A hypertensive patient with a history of hyperkalemia. Which of the following drugs is contraindicated?",
+    "options": {
+      "A": "Spironolactone",
+      "B": "Loop diuretics",
+      "C": "Thiazide diuretics",
+      "D": "ACE inhibitors"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Spironolactone is a potassium-sparing diuretic that blocks aldosterone receptors, significantly increasing the risk of life-threatening hyperkalemia. Reference: First Aid for the USMLE Step 1 and Katzung’s Pharmacology."
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Local anesthetics primarily act on:",
+    "options": {
+      "A": "Voltage-gated Na channels",
+      "B": "Calcium channels",
+      "C": "Na/K pump",
+      "D": "GABA receptors"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Local anesthetics bind to and block voltage-gated sodium channels from the inside of the cell membrane, preventing the influx of sodium required for nerve signal propagation. Reference: Katzung’s Basic & Clinical Pharmacology and Miller’s Anesthesia."
+  }
+,
+  {
+    "mcq_number": 51,
+    "question_text": "A patient with restrictive lung disease will have a decrease in:",
+    "options": {
+      "A": "TLC (Total Lung Capacity)",
+      "B": "FVC (Forced Vital Capacity)",
+      "C": "FEV1 (Forced Expiratory Volume in 1 sec)",
+      "D": "Residual volume"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "In restrictive lung disease, the lung's ability to expand is limited, leading to a proportional decrease in all lung volumes, including TLC and FVC. This is distinguished by a normal or increased FEV1/FVC ratio. Reference: First Aid for the USMLE Step 1 and West's Respiratory Physiology."
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "In the third trimester of pregnancy, which of the following lung volumes is decreased?",
+    "options": {
+      "A": "Residual Volume",
+      "B": "Vital Capacity",
+      "C": "Inspiratory Capacity",
+      "D": "Respiratory rate"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "During pregnancy, the enlarging uterus displaces the diaphragm upward, reducing the Functional Residual Capacity (FRC) and Residual Volume (RV). Vital capacity typically remains unchanged due to compensatory increases in chest diameter. Reference: Morgan & Mikhail's Clinical Anesthesiology and Williams Obstetrics."
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Patient is known case of asthma what will be decrease",
+    "options": {
+      "A": "FEV1",
+      "B": "FEV1/FVC",
+      "C": "Vital capacity",
+      "D": "FVC"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Asthma is an obstructive lung disease where airway resistance limits airflow, causing the FEV1 to drop significantly more than the FVC, thus decreasing the FEV1/FVC ratio. Reference: First Aid for the USMLE Step 1 and Harrison's Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "You are working in a DHQ, there is no central gases supply and people rely on E. cylinders. You are using oxygen at the rate of 5L, how long will it last?",
+    "options": {
+      "A": "80-90 minutes",
+      "B": "90-110 minutes",
+      "C": "130-140 minutes",
+      "D": "140-160 minutes"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A full E-cylinder contains roughly 660 liters of oxygen; at a flow rate of 5 L/min, it lasts approximately 132 minutes, though practical safety margins often suggest ~110 minutes. Reference: Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "A patient with chest injury develops severe pneumothorax and undergoes urgent tube thoracotomy. The volume of air in the chest increases with decreased pressure. Which gas law is applicable?",
+    "options": {
+      "A": "Boyle's Law",
+      "B": "Charles' Law",
+      "C": "Henry's Law",
+      "D": "Dalton's Law"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Boyle's Law states that at a constant temperature, the volume of a gas is inversely proportional to its pressure (P1V1 = P2V2). This explains why gas expands as pressure drops, such as air entering the pleural space. Reference: Guyton and Hall Physiology and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Molecules used during adhesion:",
+    "options": {
+      "A": "ICAM AND PECAM",
+      "B": "Selectin",
+      "C": "Integrin",
+      "D": "CD 18"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Firm adhesion of leukocytes to the endothelium is mediated by the binding of leukocyte integrins (like CD18) to endothelial ICAM-1. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Patient having Vesicular rash on palms soles with Blistering lesions on Tongue & Gums. Which of the following is true about virus causing this disease?",
+    "options": {
+      "A": "Enveloped Positive Sense RNA with reverse transcriptase",
+      "B": "Naked Positive Sense RNA",
+      "C": "Enveloped Single stranded DNA",
+      "D": "Enveloped Positive Sense RNA"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hand-foot-and-mouth disease is caused by Coxsackievirus A, a member of the Picornavirus family, which are naked, icosahedral, positive-sense single-stranded RNA viruses. Reference: Jawetz Medical Microbiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Which of the following is an antagonist for benzodiazepine?",
+    "options": {
+      "A": "Naloxone",
+      "B": "Flumazenil",
+      "C": "Carbamazepine",
+      "D": "Diazepam"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Flumazenil is a competitive antagonist at the benzodiazepine binding site on the GABA-A receptor, used to reverse sedation or overdose. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Which of following cause compliment fixation?",
+    "options": {
+      "A": "IgG1",
+      "B": "IgG2",
+      "C": "IgG3",
+      "D": "IgG4"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The classical complement pathway is most effectively activated by IgM, followed by IgG subclasses in the order: IgG3 > IgG1 > IgG2. Reference: Levinson’s Medical Microbiology & Immunology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Most common cause of pan systolic murmur:",
+    "options": {
+      "A": "ASD",
+      "B": "TOF",
+      "C": "VSD",
+      "D": "PDA"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "A holosystolic (pansystolic) murmur is characteristic of Ventricular Septal Defect (VSD), Mitral Regurgitation, and Tricuspid Regurgitation. VSD is the most common congenital heart defect. Reference: First Aid for the USMLE Step 1 and Pathoma."
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Which of the following molecules plays a key role in leukocyte transmigration through the endothelium during inflammation?",
+    "options": {
+      "A": "ICAM-1",
+      "B": "PECAM-1 (CD31)",
+      "C": "VCAM-1",
+      "D": "Selectin L"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "PECAM-1 (Platelet Endothelial Cell Adhesion Molecule) is primarily involved in diapedesis, the process where leukocytes squeeze between endothelial cells to enter tissues. Reference: Pathoma and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "What is the mode of action of ipratropium?",
+    "options": {
+      "A": "Prevents antigen-antibody reaction",
+      "B": "Acts on muscarinic receptors and prevents vasodilation in inflammation",
+      "C": "Acts on muscarinic receptors and prevents bronchoconstriction",
+      "D": "Acts as a beta-agonist to relax bronchial smooth muscle"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Ipratropium is a short-acting muscarinic antagonist (SAMA) that blocks M3 receptors on bronchial smooth muscle, inhibiting parasympathetic-mediated bronchoconstriction. Reference: Katzung’s Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A patient after RTA underwent blood transfusion then develop prolonged QT interval and ST-T segment changes on ECG. What's the likely cause?",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypokalemia",
+      "C": "Hyperkalemia",
+      "D": "Hypercalcemia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Massive blood transfusions can lead to hypocalcemia because the citrate used as an anticoagulant in stored blood binds to the patient's ionized calcium. Reference: Miller's Anesthesia and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A field worker develop toxicity having pinpoint pupil due to Organophosphate posioning, which drug should be given to antagonize symptoms:",
+    "options": {
+      "A": "Pralidoxime",
+      "B": "Atropine",
+      "C": "Epinephrine",
+      "D": "Norepinephrine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Atropine is a competitive muscarinic antagonist that reverses life-threatening 'DUMBBELS' symptoms like bradycardia and bronchospasm, while pralidoxime regenerates the enzyme. Reference: Katzung’s Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "During spinal anesthesia, a patient experiences sharp sudden pain in the leg as the needle is inserted, and it's immediately removed. What's the next step?",
+    "options": {
+      "A": "Give general anesthesia",
+      "B": "Insert needle laterally",
+      "C": "Insert needle medially",
+      "D": "Abort the procedure"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Sudden sharp pain indicates the needle has contacted a nerve root (paresthesia); the needle should be withdrawn and redirected slightly to avoid nerve injury. Reference: Morgan & Mikhail’s Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A patient is having Bleeding Problem lab Shows PT increase, APTT normal Bleeding time normal and defect in which of following Pathway?",
+    "options": {
+      "A": "Extrinsic pathway",
+      "B": "Intrinsic pathway",
+      "C": "Platelet function",
+      "D": "Clot Retraction",
+      "E": "Blood Propagation"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Prothrombin Time (PT) specifically measures the extrinsic and common pathways; an isolated prolonged PT with a normal APTT usually indicates a Factor VII deficiency or early Vitamin K deficiency. Reference: Pathoma and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "In Vitamin K deficiency PT is prolonged which of following factors deficiency occur?",
+    "options": {
+      "A": "1,2,5,7,10",
+      "B": "2,3,8,9,10,11",
+      "C": "3,9,10",
+      "D": "2,7,9,10"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Vitamin K is a cofactor for the gamma-carboxylation of clotting factors II, VII, IX, and X, as well as proteins C and S. Reference: First Aid for the USMLE Step 1 and Pathoma."
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "A patient develops tPA toxicity with increased ICP after stroke treatment. Best reversal method:",
+    "options": {
+      "A": "Cryoprecipitate",
+      "B": "Fresh frozen plasma",
+      "C": "Vitamin K",
+      "D": "Protamine sulfate"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Tissue plasminogen activator (tPA) depletes fibrinogen and Factor VIII; cryoprecipitate is the preferred reversal agent as it is highly concentrated in these factors. Reference: Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Pregnant lady with complain of DVT at 8 weeks which drug can be given safely?",
+    "options": {
+      "A": "IV Warfarin",
+      "B": "Oral Warfarin",
+      "C": "Enoxaparin",
+      "D": "IV Heparin"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Warfarin is teratogenic; therefore, Heparin (either UFH or LMWH like Enoxaparin) is used in pregnancy as it does not cross the placenta. Reference: Williams Obstetrics and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "A cirrhosis patient with ascites and pulmonary edema is about to receive medication. What should we think before giving drug?",
+    "options": {
+      "A": "Elimination increased",
+      "B": "Protein binding decreased",
+      "C": "Absorption increased",
+      "D": "Metabolism increased"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Cirrhosis leads to hypoalbuminemia; since many drugs are highly protein-bound, a decrease in albumin increases the free (active) fraction of the drug, potentially causing toxicity. Reference: Katzung’s Pharmacology and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "An obese patient with hypertension and fatty liver is counselled on lifestyle modifications. What's the recommended dietary change?",
+    "options": {
+      "A": "Low diet fat and Saturated fatty acid",
+      "B": "High carbohydrate diet",
+      "C": "High protein diet",
+      "D": "Increase saturated fats"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Reducing saturated fat intake is essential in managing both hypertension and Non-Alcoholic Fatty Liver Disease (NAFLD) to improve lipid profiles and insulin sensitivity. Reference: Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A patient develops high blood pressure during surgery, and nitroglycerin is ineffective. What's the next option?",
+    "options": {
+      "A": "Hydralazine",
+      "B": "Adenosine",
+      "C": "Esmolol",
+      "D": "Nicardipine"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Hydralazine is a direct vasodilator that primarily acts on arterioles, making it an effective second-line choice for acute intraoperative hypertension. Reference: Katzung’s Pharmacology and Morgan & Mikhail."
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Patient taking medication for arrhythmias develop weight gain and cold intolerance. Thyroid profile showing hypothyroidism. Which drug is responsible?",
+    "options": {
+      "A": "Lidocaine",
+      "B": "Amiodarone",
+      "C": "Adenosine",
+      "D": "Fleicanide"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Amiodarone contains high levels of iodine and can cause both hypothyroidism (Wolff-Chaikoff effect) and hyperthyroidism (Jod-Basedow effect). Reference: First Aid for the USMLE Step 1 and Katzung’s Pharmacology."
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "A patient has an irregular atrial rhythm with no relation between P waves and QRS complexes. What's the likely diagnosis?",
+    "options": {
+      "A": "3rd degree heart block",
+      "B": "Mobitz 2 block",
+      "C": "Mobitz 1 block",
+      "D": "Atrial fibrillation"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Third-degree (complete) heart block is characterized by AV dissociation, where the atria and ventricles beat independently, resulting in no constant PR interval. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Councilman bodies occur in process of:",
+    "options": {
+      "A": "Hypertrophy",
+      "B": "Apoptosis",
+      "C": "Atrophy",
+      "D": "Yellow fever"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Councilman bodies are acidophilic (eosinophilic) apoptotic globules of hepatocytes often seen in viral hepatitis and yellow fever. Reference: Robbins Basic Pathology and Pathoma."
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "A patient is diagnosed with a malignant neoplasm, and histopathological examination reveals abnormal cellular architecture with a high mitotic rate. The grading of this tumor primarily depends on:",
+    "options": {
+      "A": "Degree of differentiation",
+      "B": "Cell number",
+      "C": "Invasion",
+      "D": "All of the above"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Tumor grade is a measure of the degree of cellular differentiation and mitotic activity, reflecting how much the cells resemble their normal tissue of origin. Reference: Robbins Basic Pathology and Pathoma."
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A person had a penetrating injury in the axilla. Later, he presented with weakness of shoulder abduction and loss of sensation over the lateral aspect of the upper arm. Which nerve is most likely injured?",
+    "options": {
+      "A": "Radial nerve",
+      "B": "Axillary nerve",
+      "C": "Musculocutaneous nerve",
+      "D": "Ulnar nerve",
+      "E": "Suprascapular nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The axillary nerve (C5-C6) innervates the deltoid and teres minor muscles and provides sensation to the skin over the lower deltoid ('sergeant's patch'). Reference: BD Chaurasia and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "A patient develops malignant hyperthermia after succinylcholine administration, presenting with fever, shivering, and muscle rigidity. What's the immediate treatment?",
+    "options": {
+      "A": "Dantrolene",
+      "B": "Adrenaline",
+      "C": "Beta blockers",
+      "D": "Antihistamines"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Dantrolene treats malignant hyperthermia by binding to the ryanodine receptor (RYR1), preventing the excessive release of calcium from the sarcoplasmic reticulum. Reference: Katzung’s Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "A psychiatric patient on long-term antipsychotics presents with abnormal involuntary movements (torticollis, oculogyric crisis). What's the management?",
+    "options": {
+      "A": "Stop antipsychotics immediately",
+      "B": "Add anticholinergic medication",
+      "C": "Increase antipsychotic dose",
+      "D": "Divide dose into multiple adjustable doses"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "These are signs of acute dystonia, an extrapyramidal side effect caused by dopamine blockade; it is treated with anticholinergics like benztropine to restore the dopamine-acetylcholine balance. Reference: First Aid for the USMLE Step 1 and Katzung’s Pharmacology."
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "A systolic BP of 150 with a difference of 50 suggests a wide pulse pressure. Which measure best describes the central tendency of blood pressure data in a non-normal distribution?",
+    "options": {
+      "A": "Mean",
+      "B": "Median"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In statistics, the median is the preferred measure of central tendency for skewed or non-normally distributed data, as it is less affected by extreme outliers than the mean. Reference: High-Yield Biostatistics."
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "An 18-month-child presents to ER with sudden onset SOB, mild cyanosis, and inability to speak. The child was playing with small toys earlier. What's the likely diagnosis?",
+    "options": {
+      "A": "Foreign body aspiration",
+      "B": "Asthma exacerbation",
+      "C": "Pneumonia",
+      "D": "Croup"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Sudden onset respiratory distress in a toddler playing with toys is foreign body aspiration until proven otherwise; it often lodges in the right main bronchus. Reference: Nelson Textbook of Pediatrics."
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Pyruvate carboxylase deficiency is associated with a deficiency of which vitamin?",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Riboflavin",
+      "C": "Niacin",
+      "D": "Biotin"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Biotin (Vitamin B7) acts as a carrier for CO2 in carboxylation reactions, including the conversion of pyruvate to oxaloacetate. Reference: Harper’s Illustrated Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Diastolic cardiac arrest is caused by which electrolyte abnormality?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hyponatremia",
+      "D": "Hypernatremia",
+      "E": "Hypocalcemia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hyperkalemia decreases the resting membrane potential, leading to persistent depolarization that prevents the heart from repolarizing and re-exciting, causing arrest in diastole. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "What does ED95 of a muscle relaxant represent?",
+    "options": {
+      "A": "Dose effective in 50% of patients",
+      "B": "Dose causing 95% receptor block",
+      "C": "Dose lethal in 95% of patients",
+      "D": "Maximum safe dose"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In neuromuscular blockade, the ED95 is the median dose required to achieve 95% suppression of the twitch response (usually measured at the adductor pollicis). Reference: Miller’s Anesthesia."
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Rats are reservoir of bubonic plague but it is primarily spread by which of the following vectors?",
+    "options": {
+      "A": "Mosquitoes",
+      "B": "Ticks",
+      "C": "Fleas",
+      "D": "Lice"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The oriental rat flea (Xenopsylla cheopis) transmits Yersinia pestis from infected rodents to humans through bites. Reference: Jawetz Medical Microbiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "55-Year-old patient with generalized lymphadenopathy. Platelets and TLC count was raised. Peripheral smear showed mature lymphocytes. What is the diagnosis?",
+    "options": {
+      "A": "CML",
+      "B": "Hairy cell leukemia",
+      "C": "Burkitt lymphoma",
+      "D": "Hodgkin lymphoma",
+      "E": "CLL"
+    },
+    "correct_answer": "E",
+    "high_yield_explanation": "Chronic Lymphocytic Leukemia (CLL) characteristically presents in older adults with persistent lymphocytosis involving small, mature-appearing lymphocytes and 'smudge cells' on the blood smear. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A CKD patient develops bleeding after nephrostomy. What is the most appropriate blood product to administer?",
+    "options": {
+      "A": "Packed RBCs",
+      "B": "Platelets",
+      "C": "Fresh Frozen Plasma (FFP)",
+      "D": "Cryoprecipitate",
+      "E": "Whole blood"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Bleeding in uremia is primarily due to platelet dysfunction; Cryoprecipitate provides Factor VIII, vWF, and fibrinogen, which can help stabilize the clot. Reference: Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "On microscopy, nephrotic syndrome shows changes on basement membrane:",
+    "options": {
+      "A": "Increased mesangial deposition",
+      "B": "Effacement of podocyte foot processes",
+      "C": "Sclerosis of glomerular capillaries",
+      "D": "Increased deposition in GBM"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In Minimal Change Disease (the prototype nephrotic syndrome), electron microscopy reveals the hallmark flattening or effacement of the podocyte foot processes. Reference: Pathoma and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "How long before surgery should dabigatran be stopped?",
+    "options": {
+      "A": "8 hours",
+      "B": "14 hours",
+      "C": "75 hours",
+      "D": "Two days",
+      "E": "5 days"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "For patients with normal renal function undergoing procedures with standard bleeding risk, dabigatran is typically stopped 48 hours (two days) beforehand. Reference: Miller’s Anesthesia."
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Drug of choice for Clostridium Perfringens infection:",
+    "options": {
+      "A": "Clindamycin",
+      "B": "Tetracycline",
+      "C": "Ciprofloxacin",
+      "D": "Azithromycin",
+      "E": "Amoxicillin"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Penicillin G is the primary agent, but Clindamycin is often added because it inhibits the production of bacterial alpha-toxins. Reference: Mandell’s Principles and Practice of Infectious Diseases."
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A 60-year-old man presents with anemia, glossitis, paresthesias, and positive anti-parietal cell antibodies. The primary pathogenic deficiency responsible for this condition is:",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Intrinsic factor",
+      "C": "Iron",
+      "D": "Folate"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Pernicious anemia is an autoimmune destruction of parietal cells, causing a deficiency of Intrinsic Factor, which is essential for B12 absorption. Reference: First Aid for the USMLE Step 1 and Pathoma."
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "A neonate develops a generalized vesicular rash. The lesions are present in different stages and appear as clear vesicles on an erythematous base ('dew drops on rose petals'). Causative organism:",
+    "options": {
+      "A": "Measles virus",
+      "B": "Varicella-zoster virus",
+      "C": "HSV 2",
+      "D": "Streptococcus pyogenes",
+      "E": "Human herpesvirus-6"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The 'dew drops on a rose petal' appearance and asynchronous evolution of lesions (all stages present at once) are classic for Chickenpox (Varicella). Reference: First Aid for the USMLE Step 1 and Nelson Textbook of Pediatrics."
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Posterior cranial fossa contents include:",
+    "options": {
+      "A": "Cerebellum, medulla and pons",
+      "B": "Cerebellum",
+      "C": "Cerebral aqueduct",
+      "D": "Cerebrum and pons"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The posterior cranial fossa is the largest and deepest fossa, housing the cerebellum, pons, and medulla oblongata. Reference: BD Chaurasia and Snell’s Clinical Anatomy."
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Co factor for pyruvate carboxylase is:",
+    "options": {
+      "A": "Riboflavin",
+      "B": "Niacin",
+      "C": "Folate",
+      "D": "Biotin",
+      "E": "Methylcobalamin"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Carboxylase enzymes (Pyruvate, Acetyl-CoA, Propionyl-CoA) require Biotin as a cofactor to transfer carbon dioxide. Reference: Harper’s Illustrated Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A patient undergoing carotid endarterectomy needs second-by-second BP monitoring. What's the ideal method?",
+    "options": {
+      "A": "Non-invasive BP cuff",
+      "B": "Invasive arterial line",
+      "C": "Pulse oximeter",
+      "D": "CVP line"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Invasive arterial monitoring provides beat-to-beat blood pressure readings, which is crucial during high-risk vascular surgeries where rapid hemodynamics shifts occur. Reference: Morgan & Mikhail’s Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "In oscillometric BP measurement, the first oscillation is typically felt at:",
+    "options": {
+      "A": "Diastolic BP",
+      "B": "Systolic BP",
+      "C": "Mean Arterial Pressure",
+      "D": "Pulse Pressure"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "As the cuff deflates, the first detected oscillations correlate with the systolic blood pressure when blood first begins to pulse through the artery. Reference: Morgan & Mikhail’s Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A Man was sitting in cold bath, developed chest pain diagnosed as stable angina, which medicine should be given for long term management:",
+    "options": {
+      "A": "Nitroglycerin",
+      "B": "Calcium channel blockers",
+      "C": "Beta blockers",
+      "D": "ACEI",
+      "E": "ARBS"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Beta-blockers are the first-line therapy for stable angina because they decrease myocardial oxygen demand by lowering heart rate and contractility. Reference: First Aid for the USMLE Step 1 and Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Nutmeg liver cause is:",
+    "options": {
+      "A": "Peri portal congestion",
+      "B": "Centri lobular congestion",
+      "C": "Peripheral congestion",
+      "D": "Chronic Passive congestion"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Chronic passive congestion, often due to right-sided heart failure, leads to congestion and necrosis in the centrilobular areas, giving the liver a mottled 'nutmeg' appearance. Reference: Pathoma and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "A person develops muscle pain and hypertension (MAP 110) after working in hot day, with normal cardiac output. The likely cause of hypertension is:",
+    "options": {
+      "A": "Increased cardiac output",
+      "B": "Increased peripheral resistance",
+      "C": "Renal vasodilation",
+      "D": "Vasopressin release"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Dehydration from working in heat can trigger sympathetic-mediated vasoconstriction, which increases Total Peripheral Resistance (TPR) to maintain blood pressure despite lower volume. Reference: Guyton and Hall Physiology."
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Boy after football match in hot day c/o Muscle pain due to:",
+    "options": {
+      "A": "Transcellular K+ movement",
+      "B": "Increase intracellular cl",
+      "C": "K excretion in sweat",
+      "D": "cl loss"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Heat-related muscle cramps are primarily caused by significant electrolyte imbalances (specifically sodium and chloride loss) leading to altered membrane excitability. Reference: Nelson Textbook of Pediatrics."
+  }
+,
+  {
+    "mcq_number": 101,
+    "question_text": "A pregnant woman takes high doses of Vitamin A for acne. The developing fetus is at risk of abnormalities in which system?",
+    "options": {
+      "A": "Cardiovascular system",
+      "B": "Central nervous system",
+      "C": "Gastrointestinal system",
+      "D": "Respiratory system"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Excessive Vitamin A (Retinol) is highly teratogenic, interfering with neural crest cell migration and Hox gene expression, leading to severe CNS and craniofacial malformations. It is crucial to avoid retinoids like isotretinoin during pregnancy to prevent 'retinoic acid embryopathy.' Reference: First Aid for the USMLE Step 1 and Langman's Medical Embryology."
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "A patient loses big toe dorsiflexion after an injury. The likely nerve root damage is at:",
+    "options": {
+      "A": "L4",
+      "B": "L5",
+      "C": "S1",
+      "D": "S2"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Dorsiflexion of the great toe is primarily mediated by the Extensor Hallucis Longus, which is supplied by the L5 nerve root via the deep peroneal nerve. Loss of this function is a classic clinical marker for L4-L5 disc herniation. Reference: BD Chaurasia’s Human Anatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A patient undergoing ORIF of ankle fracture under saphenous nerve block. Which nerve is at risk of damage?",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Saphenous nerve",
+      "C": "Peroneal nerve"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Direct needle trauma or local anesthetic toxicity during a nerve block can cause mechanical or chemical damage to the targeted saphenous nerve itself. The saphenous nerve is a purely sensory branch of the femoral nerve that provides sensation to the medial leg and ankle. Reference: Miller's Anesthesia and Snell’s Clinical Anatomy."
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A 3-month-old infant presents with small head, flat facial profile, upward slanting palpebral fissures, protruding tongue, and small, low-set ears. Which genetic disorder is most likely?",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Down syndrome",
+      "C": "Edwards syndrome",
+      "D": "Patau syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Down syndrome (Trisomy 21) is characterized by a flattened facies, epicanthal folds, and macroglossia, often accompanied by cardiac defects and intellectual disability. These dysmorphic features result from the gene dosage effect of the extra chromosome 21. Reference: First Aid for the USMLE Step 1 and Nelson Textbook of Pediatrics."
+  },
+  {
+    "mcq_number": "104b",
+    "question_text": "In Down syndrome, phenotypic effects occur due to:",
+    "options": {
+      "A": "Gene mutation",
+      "B": "Over expression of genes",
+      "C": "Under expression",
+      "D": "Epistasis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The clinical features of Trisomy 21 arise from 'gene dosage' imbalance, where the presence of a third chromosome 21 leads to the over-expression of critical genes such as DYRK1A and APP. This excess protein production disrupts normal metabolic and developmental pathways. Reference: Robbins Basic Pathology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "A female patient presents with short stature and absence of menstruation, raising suspicion of Turner syndrome. Laboratory findings reveal the presence of a barr body; what is the most likely explanation",
+    "options": {
+      "A": "Faulty test",
+      "B": "Turner mosaicism",
+      "C": "Patient is male",
+      "D": "Klinfter syndrome"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Classical Turner syndrome (45,X) has no Barr bodies, so the presence of one in a symptomatic patient suggests mosaicism (e.g., 45,X/46,XX), where some cells contain two X chromosomes. A Barr body is an inactivated X chromosome found in cells with more than one X. Reference: Robbins Basic Pathology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Female presented with complaints of severe headache & uncontrolled hypertension. Labs show K 3.4mEq/L. Most probable cause is",
+    "options": {
+      "A": "Conn Syndrome",
+      "B": "Pheochromocytoma",
+      "C": "Addison disease",
+      "D": "Cushing Syndrome"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Conn Syndrome (Primary Hyperaldosteronism) features the triad of hypertension, hypokalemia, and metabolic alkalosis due to excessive aldosterone-mediated sodium retention and potassium excretion. This distinguishes it from Pheochromocytoma, which typically lacks the consistent hypokalemia. Reference: Harrison’s Principles of Internal Medicine and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "During diathermy, the return electrode (grounding pad) is used to:",
+    "options": {
+      "A": "Focus current on tissue",
+      "B": "Disperse electrical current safely",
+      "C": "Increase cutting precision",
+      "D": "Monitor impedance"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The large surface area of the grounding pad (dispersive electrode) ensures that the high-frequency current exits the body with a low current density, preventing thermal burns at the exit site. This completes the circuit back to the electrosurgical unit safely. Reference: Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Diathermy return electrode is best applied over:",
+    "options": {
+      "A": "Bony prominence",
+      "B": "Subcutaneous tissue",
+      "C": "Fleshy part of muscle",
+      "D": "Skin graft"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Muscular areas have high vascularity and better conductivity, which minimizes electrical resistance and heat buildup under the dispersive pad. Applying it over bone or scar tissue increases the risk of burns due to poor conductivity. Reference: Miller's Anesthesia and Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "The intrinsic muscle of the larynx injured near the greater horn of the hyoid bone is the:",
+    "options": {
+      "A": "Vocalis",
+      "B": "Cricothyroid",
+      "C": "Interarytenoid",
+      "D": "Lateral cricoarytenoid"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The external laryngeal nerve travels near the superior thyroid artery and the greater horn of the hyoid to innervate the cricothyroid muscle. Injury leads to an inability to tense the vocal cords, resulting in a hoarse voice or loss of high-pitch range. Reference: Gray's Anatomy and BD Chaurasia’s Human Anatomy."
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "The posterior wall of the subclavian vein is formed by:",
+    "options": {
+      "A": "Clavicle",
+      "B": "Subclavian artery",
+      "C": "1st rib",
+      "D": "Stylohoid muscles"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The subclavian vein passes anterior to the scalenus anterior muscle and the 1st rib, while the subclavian artery lies posterior to the muscle. This anatomical relationship is critical when performing subclavian vein catheterization. Reference: BD Chaurasia’s Human Anatomy and Snell’s Clinical Anatomy."
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "At which of the following level of potassium ECG will show the Tall T waves and wide QRS complexes",
+    "options": {
+      "A": "4",
+      "B": "3.5",
+      "C": "4.5",
+      "D": "6",
+      "E": "5"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Hyperkalemia (K > 5.5 mEq/L) initially causes 'peaked' or tall T waves; as levels reach 6-7 mEq/L, QRS widening and loss of P waves occur due to slowed myocardial conduction. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Pressure at 10cm of water by PEEP for 24 hrs would cause:",
+    "options": {
+      "A": "Spontaneous Pneumothorax",
+      "B": "Pulmonary embolism",
+      "C": "Raised O2 saturation",
+      "D": "Raised PCO2",
+      "E": "Alveolar damage"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Positive End-Expiratory Pressure (PEEP) increases functional residual capacity and prevents alveolar collapse (atelectasis), which improves V/Q matching and oxygenation (SpO2). Reference: West’s Respiratory Physiology and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Hypothermia in a trauma patient leads to:",
+    "options": {
+      "A": "Increased platelet aggregation",
+      "B": "Decreased platelet function",
+      "C": "No effect on platelets",
+      "D": "Thrombocytosis"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Hypothermia inhibits platelet adhesion and activation, directly impairing the coagulation cascade and contributing to the 'lethal triad' of trauma (acidosis, hypothermia, coagulopathy). Reference: ATLS Guidelines and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "In HIV patient surgery done then which antiseptic to use after surgery to clean floor?",
+    "options": {
+      "A": "1% hypochlorite",
+      "B": "4% hypochlorite",
+      "C": "Glutaraldehyde",
+      "D": "Soap & water",
+      "E": "Water"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Sodium hypochlorite (bleach) at a 1:100 dilution (approx. 1%) is the gold standard for disinfecting environmental surfaces contaminated with blood-borne pathogens like HIV and HBV. Reference: CDC Guidelines for Disinfection and Levinson’s Microbiology."
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "In HIV patient surgery done then which antiseptic to use after surgery to clean floor and walls",
+    "options": {
+      "A": "Hypochlorite",
+      "B": "Glutaraldehyde",
+      "C": "Soap & water",
+      "D": "Water"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Hypochlorite is a potent oxidizing agent that destroys the viral envelope of HIV, making it highly effective for large-scale decontamination of non-critical surfaces. Reference: Levinson’s Medical Microbiology & Immunology."
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "During GA patient develop SVT, BP 100/60, HR 130. What's the management?",
+    "options": {
+      "A": "Vagal maneuver",
+      "B": "Adenosine",
+      "C": "DC Cardioversion",
+      "D": "Verapamil"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "In an anesthetized patient, the presence of supraventricular tachycardia (SVT) with hemodynamic instability or potential for rapid deterioration often necessitates immediate synchronized DC cardioversion. Reference: ACLS Guidelines and Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A patient with urine osmolality 700 mOsm/kg and plasma osmolality 250 mOsm/kg presents with seizures and sodium 112 mEq/L. The likely cause is:",
+    "options": {
+      "A": "SIADH",
+      "B": "NDI (Nephrogenic Diabetes Insipidus)",
+      "C": "Central DI",
+      "D": "Primary Polydipsia"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "SIADH involves excessive ADH release, leading to inappropriately concentrated urine (high osmolality) despite low plasma osmolality and severe dilutional hyponatremia. Reference: First Aid for the USMLE Step 1 and Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A 15 year old girl presented to ER with persistent projectile vomiting for past three days her initial investigations were done along with ABGs which of the following is present in this patient?",
+    "options": {
+      "A": "hyperchloremic metabolic alkalosis",
+      "B": "Hypochloremic metabolic alkalosis.",
+      "C": "Hypochloremic metabolic acidosis.",
+      "D": "hyperchloremic metabolic acidosis",
+      "E": "mixed acid base"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Prolonged vomiting causes loss of gastric HCl, leading to metabolic alkalosis; as chloride is lost, the kidneys retain bicarbonate to maintain electrical neutrality. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "The best spinal level for a patient undergoing orchidectomy is:",
+    "options": {
+      "A": "T4-T6",
+      "B": "T10",
+      "C": "L2",
+      "D": "L3"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The sensory innervation of the testes originates from the T10 level (as they descend from the abdominal cavity); therefore, a spinal block reaching T10 is required for surgical anesthesia. Reference: Morgan & Mikhail’s Clinical Anesthesiology and Gray's Anatomy."
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A patient can't be palpated for spinal site at bedside. What's the imaging guidance for spinal anesthesia?",
+    "options": {
+      "A": "CT guided",
+      "B": "MRI guided",
+      "C": "X-ray guided",
+      "D": "Fluoroscopy guided"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Fluoroscopy provides real-time visualization of the vertebral anatomy, allowing precise needle placement in patients with difficult landmarks or spinal deformities. Reference: Miller’s Anesthesia."
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "A 35-year-old patient develops hypotension (BP 80/50 mmHg) during general anesthesia for an elective surgery. The patient is on mechanical ventilation. What's the most appropriate initial management?",
+    "options": {
+      "A": "Administer 100% O2 and give IV fluid bolus (500 ml crystalloid)",
+      "B": "Give IV Ephedrine 5-10 mg bolus only",
+      "C": "Administer IV fluid bolus + Ephedrine 5-10 mg",
+      "D": "Start Noradrenaline infusion immediately"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Initial management of intraoperative hypotension should focus on ensuring adequate oxygenation and addressing potential hypovolemia or vasodilation with fluid resuscitation. Reference: Morgan & Mikhail’s Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A patient is receiving treatment from a psychiatrist voluntarily but now wants to stop the medication. The doctor threatens that they must continue taking it. The doctor is not following which component of medical ethics:",
+    "options": {
+      "A": "Justice",
+      "B": "Autonomy",
+      "C": "Beneficence",
+      "D": "Non-maleficence?"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Autonomy is the ethical principle that respects a competent patient's right to self-determination and to make decisions about their own healthcare, including refusing treatment. Reference: Oxford Handbook of Medical Ethics."
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "A 5-year-old child presents with a typical viral upper respiratory infection. The mother insists on antibiotics, but the pediatrician refuses, explaining that antibiotics are unnecessary and could harm the child. Which ethical principle is the doctor following?",
+    "options": {
+      "A": "Non-maleficence",
+      "B": "Autonomy",
+      "C": "Justice",
+      "D": "Beneficence"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Non-maleficence means 'do no harm'; prescribing unnecessary antibiotics exposes the child to potential side effects and allergic reactions without clinical benefit. Reference: Oxford Handbook of Medical Ethics."
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A patient presents with left nasal field defect and right temporal field defect. Where is the likely location of the lesion?",
+    "options": {
+      "A": "Left optic nerve",
+      "B": "Right optic nerve",
+      "C": "Optic chiasm",
+      "D": "Right optic tract"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "A right optic tract lesion results in left homonymous hemianopia (loss of the left temporal and right nasal visual fields) because it carries fibers from both eyes for the left side of the world. Reference: Snell’s Clinical Neuroanatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Which of the following control motor function",
+    "options": {
+      "A": "Thalamus",
+      "B": "Hypothalamus",
+      "C": "Cerebellum",
+      "D": "Hippocampus"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The cerebellum coordinates voluntary motor movements, maintains posture, and ensures balance through constant feedback from muscles and joints. Reference: Guyton and Hall Physiology and Snell’s Neuroanatomy."
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A 5-year-old child with neuroblastoma is on chemotherapy, developed generalized pain in the upper and lower limbs. Which of the following is the most likely causative agent?",
+    "options": {
+      "A": "Vincristine",
+      "B": "Cyclophosphamide",
+      "C": "Doxorubicin",
+      "D": "Etoposide"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Vincristine acts by inhibiting microtubule formation, which is essential for axonal transport; this disruption frequently leads to peripheral neuropathy and limb pain. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Which protein inhibits P53 activity?",
+    "options": {
+      "A": "BCL2",
+      "B": "MDM2",
+      "C": "BAX",
+      "D": "P21"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "MDM2 acts as an E3 ubiquitin ligase that binds to and promotes the degradation of p53, keeping its levels low in unstressed cells. Reference: Robbins Basic Pathology and Pathoma."
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A patient feels a slow, burning pain after a hand burn. Which type of nerve fiber is involved?",
+    "options": {
+      "A": "A-alpha",
+      "B": "A-delta",
+      "C": "C fibers",
+      "D": "A-beta"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Slow, burning, and poorly localized 'second pain' is transmitted by unmyelinated, small-diameter C fibers, which have slow conduction velocities. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Right shift of Oxygen dissociation curve is due to",
+    "options": {
+      "A": "Decrease 2,3 DPG",
+      "B": "Increase 2,3 DPG",
+      "C": "Increase PH",
+      "D": "Decrease temperature"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "An increase in 2,3-DPG, CO2, temperature, or H+ (Bohr effect) decreases hemoglobin's affinity for oxygen, shifting the curve to the right to facilitate oxygen unloading in tissues. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Factor related to coronary arterydisease and inhibits fibrinolysis?",
+    "options": {
+      "A": "HDL-C",
+      "B": "LDL-C",
+      "C": "Chylomicrons",
+      "D": "VLDL",
+      "E": "IDL"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "VLDL-rich states are associated with increased levels of Plasminogen Activator Inhibitor-1 (PAI-1), which inhibits the conversion of plasminogen to plasmin, thereby suppressing fibrinolysis. Reference: Harper’s Illustrated Biochemistry."
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Which muscle keeps the scapula attached to the chest wall anteriorly?",
+    "options": {
+      "A": "Pectoralis major",
+      "B": "Pectoralis minor",
+      "C": "Serratus anterior",
+      "D": "Subclavius"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The serratus anterior pulls the scapula forward (protraction) and holds its medial border firmly against the rib cage; injury results in 'winging' of the scapula. Reference: BD Chaurasia’s Human Anatomy."
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Increased hydrostatic pressure in kidney and decrease renal plasma flow by",
+    "options": {
+      "A": "Peritubular capillary secretion",
+      "B": "Afferent arteriole constriction",
+      "C": "Efferent arteriole constriction",
+      "D": "H ion secretion"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Constricting the efferent arteriole increases the 'back-up' pressure in the glomerulus (raising hydrostatic pressure and GFR) while reducing the total blood volume leaving the kidney (decreasing RPF). Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "H ion secretion in kidney at pct cause",
+    "options": {
+      "A": "HCO3 reabsorption",
+      "B": "K excretion",
+      "C": "K absorption",
+      "D": "Cl excretion"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "In the proximal convoluted tubule, secreted H+ ions combine with filtered bicarbonate to form carbonic acid, which is ultimately reabsorbed as CO2 and water, regenerating plasma bicarbonate. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "A 30-year-old woman presents with weight gain, cold intolerance, and constipation. Thyroid function tests show elevated TSH and low T4 levels. Which drug is the treatment of choice?",
+    "options": {
+      "A": "Methimazole",
+      "B": "Propranolol",
+      "C": "Levothyroxine",
+      "D": "Liothyronine"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Levothyroxine (synthetic T4) is the treatment of choice for hypothyroidism due to its long half-life and its consistent peripheral conversion into the more active T3. Reference: First Aid for the USMLE Step 1 and Katzung’s Pharmacology."
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Degeneration of substantia nigra is seen in which disease",
+    "options": {
+      "A": "Cerebellar disease",
+      "B": "Multisystem atrophy",
+      "C": "Parkinson disease",
+      "D": "ALS"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Parkinson's disease is defined by the loss of dopaminergic neurons in the substantia nigra pars compacta, leading to characteristic resting tremor and bradykinesia. Reference: Pathoma and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "G protein phospholipase C increases intracellular concentration of:",
+    "options": {
+      "A": "Calcium ions",
+      "B": "Chloride ions",
+      "C": "Potassium ions",
+      "D": "Magnesium ions"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Activation of phospholipase C (PLC) cleaves PIP2 into IP3 and DAG; IP3 then binds to receptors on the sarcoplasmic reticulum to release stored calcium into the cytoplasm. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Which of the following base pair mutation occurs in sickle cell disease:",
+    "options": {
+      "A": "Adenine to thymine",
+      "B": "Thymine to adenine",
+      "C": "Cytosine to guanine",
+      "D": "Guanine to adenine",
+      "E": "Adenine to cytosine"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Sickle cell anemia is caused by a point mutation (GAG to GTG) in the beta-globin gene, where a single adenine is replaced by thymine, resulting in Valine instead of Glutamate. Reference: First Aid for the USMLE Step 1 and Pathoma."
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "A 25 year old adult develops painful crisis due to narrowing of vessels and reshape cells due to",
+    "options": {
+      "A": "Thalassemia",
+      "B": "Sickle cell anemia",
+      "C": "Hereditary spherocytosis",
+      "D": "G6PD",
+      "E": "Hemolytic anemia"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "In deoxygenated states, HbS polymerizes, causing RBCs to 'sickle' and obstruct microvessels, leading to vaso-occlusive pain crises and tissue infarction. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Patient present with painful arm swelling which is red hot and tender and also has fever. What is mediator of fever",
+    "options": {
+      "A": "IL-2, TNF-α, Histamine",
+      "B": "interleukin 1",
+      "C": "Complement C3, C4",
+      "D": "CRP only"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Interleukin-1 (IL-1) is a primary endogenous pyrogen that stimulates the hypothalamus to increase the thermostatic set point via prostaglandin E2 (PGE2) synthesis. Reference: Robbins Basic Pathology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "A 35-year-old male presents after a road traffic accident with pain, hypotension, and signs of intra-abdominal bleeding. X-ray shows fractures of the left 9th and 10th ribs. Which organ is most likely the source of bleeding?",
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Stomach",
+      "D": "Left kidney"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The spleen is located in the left upper quadrant, protected by ribs 9-11; fractures in this region frequently cause splenic laceration and massive hemoperitoneum. Reference: Bailey & Love's Short Practice of Surgery and BD Chaurasia."
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Tumor marker of astrocytes injury:",
+    "options": {
+      "A": "GFAP",
+      "B": "CEA",
+      "C": "CA-125",
+      "D": "CA-19-9",
+      "E": "FAP"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Glial Fibrillary Acidic Protein (GFAP) is an intermediate filament protein expressed by astrocytes; it serves as a sensitive marker for astrocyte injury and gliosis. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A 10-year-old child presents with aortic root aneurysmal dilation. Which condition is most likely associated?",
+    "options": {
+      "A": "Marfan syndrome",
+      "B": "Kawasaki disease",
+      "C": "Ehlers-Danlos syndrome",
+      "D": "Hypertension"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Cystic medial necrosis in Marfan syndrome leads to weakness in the aortic root, significantly increasing the risk of aneurysm and dissection at a young age. Reference: First Aid for the USMLE Step 1 and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "In Post-valvular aortic stenosis What protein defect responsible?",
+    "options": {
+      "A": "Collagen",
+      "B": "Elastin",
+      "C": "Myosin",
+      "D": "Fibrillin"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Supravalvular aortic stenosis is often associated with Williams syndrome, which is caused by a deletion involving the elastin gene on chromosome 7. Reference: First Aid for the USMLE Step 1 and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "A patient presents with sudden body weakness and slurring of speech, but symptoms resolve within hours. Likely diagnosis?",
+    "options": {
+      "A": "Stroke",
+      "B": "TIA",
+      "C": "Seizure",
+      "D": "Migraine"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "A Transient Ischemic Attack (TIA) is a temporary episode of neurological dysfunction caused by focal ischemia without permanent infarction, typically resolving within 24 hours. Reference: Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "After marathon race a person lost 2 liters of sweating he drinks 2 liters of water what will happen?",
+    "options": {
+      "A": "Decrease ECF Volume",
+      "B": "Decrease ICF volume",
+      "C": "Increase Osmolarity of ICF",
+      "D": "Decrease Osmolarity of ECF",
+      "E": "No change"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "Sweat is hypotonic, so replacing purely salt-rich sweat with pure water causes dilutional hyponatremia, decreasing the osmolarity of the extracellular fluid. Reference: Guyton and Hall Physiology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Fluid of choice in paradoxical aciduria?",
+    "options": {
+      "A": "10% Dextrose",
+      "B": "Normal saline",
+      "C": "Ringer lactate",
+      "D": "5% dextrose"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Paradoxical aciduria occurs in hypovolemic metabolic alkalosis; providing normal saline corrects the volume deficit and chloride depletion, allowing the kidneys to stop 'exchanging' H+ for Na+ and stop wasting acid. Reference: Guyton and Hall Physiology and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "A patient after RTA has knee injury. Synovial fluid has type 2 collagen it is coming from",
+    "options": {
+      "A": "Bone",
+      "B": "Cartilage",
+      "C": "Muscle",
+      "D": "Tissue"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Type II collagen is the primary structural protein found in hyaline and elastic cartilage, providing resistance to pressure. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A 70 kg patient requires a drug with a target concentration of 2.5 mg/L. If the volume of distribution (Vd) is 0.5 L/kg, what's the loading dose?",
+    "options": {
+      "A": "43.75 mg",
+      "B": "87.5 mg",
+      "C": "175 mg",
+      "D": "350 mg"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The loading dose is calculated as Target Concentration × Vd × Body Weight (2.5 mg/L × 0.5 L/kg × 70 kg = 87.5 mg). Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Which anesthetic agent is considered relatively safe and cause least malignant hyperthermia",
+    "options": {
+      "A": "Halothane",
+      "B": "Succinylcholine",
+      "C": "Propofol",
+      "D": "Sevoflurane"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Malignant hyperthermia is triggered specifically by volatile anesthetics (e.g., halothane) and succinylcholine; non-triggering agents like Propofol are safe alternatives. Reference: Miller’s Anesthesia and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A 12 Years Old Child presents in OPD with complain of Photosensitivity on Exposure to Sunlight. Uroporphyrin in Urine, Feces & RBCs.",
+    "options": {
+      "A": "Congenital Erythropoietic porphyria",
+      "B": "Acute Intermittent Porphyria",
+      "C": "Alkaptonuria",
+      "D": "Protoporphyria"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Congenital Erythropoietic Porphyria (Gunther disease) results from uroporphyrinogen III synthase deficiency, causing severe photosensitivity and high levels of uroporphyrin I. Reference: First Aid for the USMLE Step 1 and Harper’s Biochemistry."
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "50-years-old female, diabetic for 20 years, abdominal distension after meals due to diabetic gastroparesis, which of the following is most suitable drug for treatment?",
+    "options": {
+      "A": "Metoclopramide",
+      "B": "Omeprazole",
+      "C": "Sucralfate",
+      "D": "Ondansetron",
+      "E": "Bismuth"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Metoclopramide is a D2 receptor antagonist that increases resting tone and contractility of the upper GI tract, effectively speeding up gastric emptying in patients with autonomic neuropathy. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "A patient is treated with naloxone for opioid overdose. After 45 minutes, opioid toxicity symptoms recur. What is the most likely explanation?",
+    "options": {
+      "A": "Patient took a second opioid dose",
+      "B": "Short half-life of naloxone",
+      "C": "Renal failure",
+      "D": "Opioid tolerance"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Naloxone has a significantly shorter half-life (approx. 30–90 minutes) than most opioids; as the antagonist is metabolized, the remaining opioid can re-bind to receptors, causing 're-narcotization.' Reference: First Aid for the USMLE Step 1 and Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Patient came with high B.P. Management of pheochromocytoma is",
+    "options": {
+      "A": "Catecholamine",
+      "B": "Esmolol",
+      "C": "Phentolamine",
+      "D": "Dopamine"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Phentolamine is a non-selective alpha-adrenergic antagonist used to manage hypertensive crises in pheochromocytoma by blocking the effects of catecholamine surges. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A patient visits the clinic and is otherwise healthy. His father died at 60 and his uncle at 49 from cardiovascular disease (CVD). Lab values show: LDL = 148, HDL = 35. Along with lifestyle modifications and statin therapy, what else should be assessed for health promotion?",
+    "options": {
+      "A": "HDL"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Low HDL (< 40 mg/dL) is an independent risk factor for coronary artery disease, especially in patients with a strong family history of premature atherosclerosis. Reference: Harrison’s Principles of Internal Medicine."
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Corpus striatum contains:",
+    "options": {
+      "A": "Caudate+putamen",
+      "B": "Caudate+lentiform",
+      "C": "Caudate+globus pallidus externa",
+      "D": "Caudate+globus pallidus intern",
+      "E": "Globus pallidus externa+lentiform"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "The corpus striatum consists of the caudate nucleus and the lentiform nucleus; however, technically 'striatum' refers specifically to the caudate and putamen due to their shared embryological origin and histological appearance. Reference: Snell’s Clinical Neuroanatomy and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "A patient is found to have a significant increase in peritubular capillary hydrostatic pressure. Which of the following is the most likely physiological consequence of this change?",
+    "options": {
+      "A": "Increased secretion of solutes into the renal interstitium",
+      "B": "Increased secretion of solutes into the renal tubules",
+      "C": "Increased filtration fraction at the Bowman's capsule",
+      "D": "Decreased net reabsorption of fluid and solutes",
+      "E": "Increased peritubular capillary oncotic pressure"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "An increase in peritubular capillary hydrostatic pressure opposes the starling forces that drive reabsorption, leading to decreased uptake of water and solutes from the renal interstitium into the blood. Reference: Guyton and Hall Textbook of Medical Physiology."
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A 10-year-old child presents with corneal opacities and mild anemia. Lab investigations show increased free cholesterol, decreased cholesterol esters and HDL levels. Further evaluation reveals that free cholesterol cannot be processed in the plasma due to an enzymatic defect. Which enzyme is most likely deficient?",
+    "options": {
+      "A": "Lecithin-cholesterol acyltransferase (LCAT)",
+      "B": "Acyl-CoA: cholesterol acyltransferase (ACAT)",
+      "C": "HMG-CoA reductase",
+      "D": "Apolipoprotein A-I",
+      "E": "Cholesterol esterase"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "LCAT is responsible for converting free cholesterol into cholesterol esters in the plasma (associated with HDL); its deficiency results in the clinical triad of corneal opacities, anemia, and renal failure. Reference: Harper’s Illustrated Biochemistry and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A patient develops sudden lordosis after weight-bearing. What's the initial step?",
+    "options": {
+      "A": "Physiotherapy",
+      "B": "NSAID",
+      "C": "NSAID and physiotherapy",
+      "D": "Operation"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Initial management for postural changes or minor mechanical back strain involves conservative measures like physiotherapy to strengthen core muscles and correct alignment. Reference: Bailey & Love's Short Practice of Surgery."
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A patient After RTA develops bilateral pneumothorax and ETT in place. How do you assess tube placement?",
+    "options": {
+      "A": "Bilateral chest rise",
+      "B": "Auscultation for breath sounds",
+      "C": "CT scan",
+      "D": "Chest X-ray"
+    },
+    "correct_answer": "D",
+    "high_yield_explanation": "While clinical auscultation confirms tracheal intubation, a chest X-ray is the gold standard for verifying the correct position of the tube tip above the carina and evaluating associated trauma like pneumothorax. Reference: Miller's Anesthesia and ATLS Guidelines."
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A person took some medicine after which he developed high grade fever, tachycardia and muscle fatigue. Which receptors or ions are involved in this mechanism?",
+    "options": {
+      "A": "Na/k pump",
+      "B": "Ca sarcoplasm",
+      "C": "Abnormal Ryanodine receptors",
+      "D": "Dihydropyridine receptors",
+      "E": "Abnormal pseudocholinesterase"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "Malignant Hyperthermia is triggered by certain anesthetics in genetically susceptible individuals with abnormal Ryanodine receptors (RYR1), leading to massive calcium release from the sarcoplasmic reticulum. Reference: Miller's Anesthesia and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "To deliver a precise 25% oxygen concentration, which device is used?",
+    "options": {
+      "A": "Simple mask",
+      "B": "Venturi mask",
+      "C": "Nasal cannula",
+      "D": "Non-rebreather mask"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Venturi masks use the Bernoulli principle to mix a specific flow of oxygen with a fixed amount of room air, providing a highly accurate and constant FiO2. Reference: Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Sudden fling movements in a male; father had similar issue. Which area is involved?",
+    "options": {
+      "A": "Putamen",
+      "B": "Caudate",
+      "C": "Dentate nucleus",
+      "D": "Substantia nigra",
+      "E": "Cerebellum"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "The question describes chorea, often associated with Huntington's disease, which is characterized by the degeneration of GABAergic neurons in the caudate nucleus. Hemiballismus (flinging) specifically involves the subthalamic nucleus, but given the choices and hereditary hint, caudate is the classic exam link for involuntary movements. Reference: Pathoma and First Aid for the USMLE Step 1."
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "The process of apoptosis is loss during the carcinogenic activity the following factor has anti apoptotic activity is:",
+    "options": {
+      "A": "BCL2",
+      "B": "BCL1",
+      "C": "BAX",
+      "D": "PKL",
+      "E": "BAK"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "BCL-2 is a proto-oncogene that encodes an anti-apoptotic protein; its overexpression (e.g., in follicular lymphoma) prevents programmed cell death, promoting tumor growth. Reference: Pathoma and Robbins Basic Pathology."
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "In an axillary nerve block, which nerve is often spared?",
+    "options": {
+      "A": "Axillary nerve",
+      "B": "Radial nerve",
+      "C": "Musculocutaneous nerve",
+      "D": "Ulnar nerve"
+    },
+    "correct_answer": "C",
+    "high_yield_explanation": "The musculocutaneous nerve exits the brachial plexus sheath proximal to the axillary block site, often necessitating a separate injection into the coracobrachialis muscle to ensure blockade. Reference: Morgan & Mikhail's Clinical Anesthesiology."
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "A patient presents with jaw claudication, temporal headache, and visual disturbances. The most likely diagnosis is:",
+    "options": {
+      "A": "Giant cell arteritis",
+      "B": "Polyarteritis nodosa",
+      "C": "Takayasu arteritis",
+      "D": "Wegener granulomatosis"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Giant cell (Temporal) arteritis is a large-vessel vasculitis that typically affects the ophthalmic artery, leading to irreversible blindness if not treated promptly with steroids. Reference: First Aid for the USMLE Step 1 and Pathoma."
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A 25-year-old trauma patient is being prepared for emergency surgery. The anesthesiologist is selecting an inhalational anesthetic agent. Based on the blood gas coefficient, which agent has a higher risk of overdose due to its high solubility in tissues and slower elimination, making it more likely to cause prolonged effects and potential toxicity?",
+    "options": {
+      "A": "N2O",
+      "B": "Halothane",
+      "C": "Desflurane",
+      "D": "Isoflurane"
+    },
+    "correct_answer": "B",
+    "high_yield_explanation": "Halothane has a high blood-gas partition coefficient (2.4), meaning it is highly soluble in blood and tissues, leading to a slower onset/offset and a higher potential for accumulation and toxicity (overdose). Reference: Morgan & Mikhail's Clinical Anesthesiology and Miller's Anesthesia."
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Which antibiotic is known to cause arthropathy?",
+    "options": {
+      "A": "Ciprofloxacin",
+      "B": "Doxycycline",
+      "C": "Tetracycline",
+      "D": "Gentamicin",
+      "E": "Amoxicillin"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Fluoroquinolones like ciprofloxacin are associated with cartilage toxicity and tendon rupture, particularly in the elderly and pediatric populations. Reference: Katzung’s Basic & Clinical Pharmacology and First Aid USMLE Step 1."
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Narrowest point in pediatric airway:",
+    "options": {
+      "A": "cricoid",
+      "B": "thyroid",
+      "C": "trachea",
+      "D": "false vocal cord",
+      "E": "true vocal cords"
+    },
+    "correct_answer": "A",
+    "high_yield_explanation": "Traditionally, the cricoid cartilage is considered the narrowest portion of the pediatric airway, giving it a funnel shape compared to the adult cylindrical airway. Reference: Miller's Anesthesia and Morgan & Mikhail's Clinical Anesthesiology."
+  }
+]

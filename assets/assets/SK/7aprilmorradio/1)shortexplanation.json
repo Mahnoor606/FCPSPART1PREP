@@ -1,0 +1,2071 @@
+[
+{
+"mcq_number": 1,
+"question_text": "Cartilage damage in children is caused by which drug?",
+"options": {
+"A": "Metronidazole",
+"B": "Ciprofloxacin",
+"C": "Azithromycin",
+"D": "Erythromycin"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Fluoroquinolones like ciprofloxacin inhibit DNA gyrase but are chondrotoxic in weight-bearing joints of children, potentially causing permanent arthropathy. This occurs because the drug interferes with collagen synthesis and promotes chondrocyte apoptosis in developing growth plates. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 2,
+"question_text": "Degeneration of substantia nigra is seen in which disease?",
+"options": {
+"A": "Cerebellar disease",
+"B": "Multisystem atrophy",
+"C": "Parkinson disease",
+"D": "ALS"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Parkinson's disease is characterized by the loss of dopaminergic neurons in the substantia nigra pars compacta, leading to the formation of Lewy bodies. This depletion reduces dopamine levels in the striatum, disrupting the basal ganglia motor circuit and causing bradykinesia and tremors. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 3,
+"question_text": "Which of the following is the prominent step in irreversible cell injury?",
+"options": {
+"A": "Cell membrane damage",
+"B": "Massive Calcium influx",
+"C": "Cellular Swelling",
+"D": "Mitochondrial swelling"
+},
+"correct_answer": "A",
+"high_yield_explanation": "While swelling is reversible, the definitive transition to irreversible injury occurs when plasma and lysosomal membranes lose integrity, leading to the leakage of intracellular enzymes. This breakdown allows a massive influx of calcium, which further activates destructive proteases and phospholipases. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 4,
+"question_text": "Most prominent feature of reversible cell injury?",
+"options": {
+"A": "Myline figure",
+"B": "Cellular swelling",
+"C": "Mitochondrial dysfunction",
+"D": "Atrophy"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Cellular swelling, or hydropic change, is the earliest and most common manifestation of reversible injury, resulting from the failure of ATP-dependent Na+/K+ pumps. This leads to sodium accumulation inside the cell, causing water to move inward by osmosis. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 5,
+"question_text": "ECG of patient shows no association between P-R wave and and had history of fainting due to",
+"options": {
+"A": "1st degree Heart block",
+"B": "2nd degree Heart block",
+"C": "3rd degree Heart block",
+"D": "Mobitz block"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Third-degree or complete heart block is defined by total AV dissociation where the atria and ventricles beat independently, resulting in no correlation between P waves and QRS complexes. This often causes severe bradycardia and syncope (Stokes-Adams attacks) due to inadequate cardiac output. Reference: USMLE Step 1, Cardiovascular Section."
+},
+{
+"mcq_number": 6,
+"question_text": "Most common site of subdural hematoma?",
+"options": {
+"A": "Occipital lobe",
+"B": "Parietal and frontal lobes",
+"C": "Temporal lobe",
+"D": "Premotor cortex"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Subdural hematomas typically occur over the lateral convexities of the brain, specifically the frontal and parietal regions, due to the tearing of bridging veins. These veins are vulnerable as they cross the subdural space to drain into the superior sagittal sinus. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 7,
+"question_text": "A patient with Flat facies, microcephaly, small eyes is associated with which syndrome?",
+"options": {
+"A": "Fragile X syndrome",
+"B": "Edward syndrome",
+"C": "Patau syndrome",
+"D": "Noon syndrome"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Patau syndrome (Trisomy 13) presents with midline defects including holoprosencephaly, microphthalmia, and cleft lip/palate, often resulting in a flattened facial profile. These severe developmental anomalies arise from defective induction of the prechordal mesoderm. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 8,
+"question_text": "Early Adolescents with a prominent forehead, everted looking ears and long longitudinal mandible and hypergonadism is clinically diagnostic of:",
+"options": {
+"A": "Down syndrome",
+"B": "Turner syndrome",
+"C": "Fragile X syndrome",
+"D": "Klinfilter syndrome",
+"E": "Patau syndrome"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Fragile X syndrome is the most common inherited cause of intellectual disability, characterized by CGG repeats in the FMR1 gene leading to hypermethylation. Physical hallmarks include a long face, large everted ears, and post-pubertal macroorchidism (enlarged testes). Reference: Robbins & Cotran Pathologic Basis of Disease."
+},
+{
+"mcq_number": 9,
+"question_text": "Grading of tumor depends on",
+"options": {
+"A": "Degree of differentiation",
+"B": "Cell number",
+"C": "Invasion",
+"D": "All of the above"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Tumor grading assesses the degree of cellular differentiation and the number of mitoses, reflecting how much the neoplastic cells resemble their normal counterparts. In contrast, 'staging' refers to the extent of anatomical spread (size and metastasis). Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 10,
+"question_text": "Spared reflexes occur in?",
+"options": {
+"A": "UMN lesions",
+"B": "LMN lesions",
+"C": "Early ALS",
+"D": "Parkinson"
+},
+"correct_answer": "C",
+"high_yield_explanation": "In early Amyotrophic Lateral Sclerosis (ALS), specific spinal tracts may remain unaffected initially, leading to the preservation of certain reflexes while other areas show UMN or LMN signs. Eventually, both motor neuron systems degenerate, but sensation and autonomic functions are classically spared. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 11,
+"question_text": "Omeprazole inhibits which structure?",
+"options": {
+"A": "Na/k pump",
+"B": "H+/K+ ATPase (proton pump)",
+"C": "H atpase",
+"D": "Na atpas"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Omeprazole is a proton pump inhibitor (PPI) that irreversibly binds to the H+/K+ ATPase pump on the apical membrane of parietal cells. This action blocks the final common pathway of gastric acid secretion, effectively reducing acidity regardless of the stimulus. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 12,
+"question_text": "Gastric carcinoma involving the left upper side of stomach will spread first to which lymph node?",
+"options": {
+"A": "Superior mesenteric nodes",
+"B": "Celiac nodes",
+"C": "Pancreaticosplenic nodes",
+"D": "Inferior mesenteric nodes",
+"E": "Gastroepiploic nodes"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The lymphatic drainage of the upper left portion of the stomach (greater curvature and fundus) follows the short gastric and splenic arteries to the pancreaticosplenic lymph nodes. These nodes eventually drain into the celiac nodes, which serve as the primary collecting center for the foregut. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 13,
+"question_text": "End product of glycolysis in absence of mitochondria?",
+"options": {
+"A": "Lactic acid",
+"B": "1 molecule of Pyruvic acid",
+"C": "2 mol of Pyruvic acid",
+"D": "3 molecules of pyruvic acid"
+},
+"correct_answer": "A",
+"high_yield_explanation": "In cells lacking mitochondria, such as mature erythrocytes, anaerobic glycolysis is the only energy source, converting glucose into lactate. This process regenerates NAD+ from NADH via lactate dehydrogenase, allowing glycolysis to continue in the absence of oxidative phosphorylation. Reference: Harper’s Illustrated Biochemistry."
+},
+{
+"mcq_number": 14,
+"question_text": "A 10-year-old child presents with corneal opacities and mild anemia. Lab investigations show increased free cholesterol, decreased cholesterol esters and HDL levels. Which enzyme is most likely deficient?",
+"options": {
+"A": "Lecithin-cholesterol acyltransferase (LCAT)",
+"B": "Acyl-CoA cholesterol acyltransferase (ACAT)",
+"C": "HMG-CoA reductase",
+"D": "Apolipoprotein A I",
+"E": "Cholesterol esterase"
+},
+"correct_answer": "A",
+"high_yield_explanation": "LCAT is responsible for esterifying free cholesterol on HDL particles; its deficiency leads to the accumulation of free cholesterol in tissues, causing corneal opacities and target cell anemia. Without LCAT, HDL cannot mature, leading to its rapid clearance and low plasma levels. Reference: Harper’s Illustrated Biochemistry."
+},
+{
+"mcq_number": 15,
+"question_text": "65-year-old patient presents with episodes of dizziness. ECG findings reveal a regular RR interval, visible P waves, and a 2:1 AV conduction pattern. What is the most likely diagnosis?",
+"options": {
+"A": "Mobitz Type 1",
+"B": "Mobitz Type 2",
+"C": "Third degree (Complete) Heart Block",
+"D": "First-degree Heart Block"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Mobitz Type II is characterized by intermittent dropped QRS complexes with a constant PR interval; a fixed 2:1 ratio is a classic high-grade variant. Unlike Type I, this block occurs below the AV node (Bundle of His) and carries a high risk of progression to complete heart block. Reference: USMLE Step 1, Cardiovascular Section."
+},
+{
+"mcq_number": 16,
+"question_text": "True Regarding “Primary motor cortex”:",
+"options": {
+"A": "Doesnot receive sensory input",
+"B": "Receives sensory input and gives motor response accordingly",
+"C": "Is present only in Frontal lobe",
+"D": "Doesnot Control Fine Motor movements",
+"E": "Is involved in coordination of the Motor response for smoother Response"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The primary motor cortex (Brodmann area 4) receives extensive sensory feedback from the somatosensory cortex and thalamus to refine motor commands. This integration ensures that voluntary movements are adjusted in real-time based on proprioceptive and tactile information. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 17,
+"question_text": "What is the formula for calculating the loading dose of a drug?",
+"options": {
+"A": "(Target concentration x Volume of distribution) / Bioavailability",
+"B": "Clearance x Target concentration",
+"C": "Volume of distribution / Target concentration",
+"D": "Target concentration / (Volume of distribution x Bioavailability)",
+"E": "(Clearance x Bioavailability) / Target concentration"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Loading dose is designed to reach the steady-state plasma concentration rapidly and depends primarily on the volume of distribution (Vd). The calculation accounts for bioavailability (F) to ensure the total amount of drug reaching the systemic circulation meets the target. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 18,
+"question_text": "Central cord syndrome typically presents with:",
+"options": {
+"A": "Upper limbs affected more than lower limbs",
+"B": "Lower limbs affected more than upper limbs",
+"C": "Equal involvement of upper and lower limbs",
+"D": "Only sensory loss without motor involvement",
+"E": "Complete quadriplegia"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Central cord syndrome occurs due to hyperextension injuries, affecting the central gray matter where the cervical motor fibers (supplying the arms) are located medially. This results in characteristically greater motor weakness in the upper extremities compared to the lower extremities. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 19,
+"question_text": "Old age diabetic patient having multiple abscesses. Supportive inflammatory cells reach inflammation area by:",
+"options": {
+"A": "Post capillary venules",
+"B": "Capillaries",
+"C": "Veins",
+"D": "Arteries"
+},
+"correct_answer": "A",
+"high_yield_explanation": "During acute inflammation, leucocytes exit the circulation via post-capillary venules because the slower blood flow and lower shear stress allow for effective rolling and adhesion. Endothelial cells in these venules are also more responsive to inflammatory mediators like histamine, which increases permeability. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 20,
+"question_text": "4-year-old child is brought to the pediatric clinic for developmental assessment. He has a distinctive \"elfin\" facial appearance, is extremely friendly with strangers, and shows relatively strong verbal skills but poor visuospatial abilities. On cardiovascular exam, a systolic murmur is heard and echocardiography reveals supravalvular aortic stenosis. Serum calcium is elevated. Which of the following proteins is most likely affected in this patient?",
+"options": {
+"A": "Fibrillin",
+"B": "Dystrophin",
+"C": "Collagen type I",
+"D": "Elastin",
+"E": "Laminin"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Williams syndrome is caused by a microdeletion of the elastin gene on chromosome 7, leading to connective tissue abnormalities like supravalvular aortic stenosis. The clinical triad includes 'elfin' facies, hypercalcemia, and a 'cocktail party' personality with high verbal but low spatial intelligence. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 21,
+"question_text": "A patient is having Bleeding Problem lab Shows PT increase, APTT normal Bleeding time normal and defect in which of following Pathway?",
+"options": {
+"A": "Extrinsic pathway",
+"B": "Intrinsic pathway",
+"C": "Platelet function",
+"D": "Clot Retraction",
+"E": "Blood Propagation"
+},
+"correct_answer": "A",
+"high_yield_explanation": "An isolated prolongation of Prothrombin Time (PT) indicates a defect in the extrinsic pathway, specifically Factor VII. This is commonly seen in early Vitamin K deficiency or early liver disease, as Factor VII has the shortest half-life of all clotting factors. Reference: USMLE Step 1, Hematology Section."
+},
+{
+"mcq_number": 22,
+"question_text": "Nutmeg liver cause is:",
+"options": {
+"A": "Peri portal congestion",
+"B": "Centri lobular congestion",
+"C": "Peripheral congestion",
+"D": "Chronic Passive congestion"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Nutmeg liver is the gross pathological appearance caused by chronic passive congestion, usually due to right-sided heart failure. The central veins and sinusoids become distended with blood, appearing dark red against the surrounding tan-colored healthy hepatocytes. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 23,
+"question_text": "Which organ is most likely to \"escape\" ischemic damage due to vascular obstruction?",
+"options": {
+"A": "Spleen",
+"B": "Liver",
+"C": "Kidney",
+"D": "Brain",
+"E": "Heart"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The liver is highly resistant to infarction because it has a dual blood supply from both the hepatic artery and the portal vein. This collateral circulation provides a safety net; if one vessel is obstructed, the other can usually maintain sufficient oxygenation to the tissue. Reference: Robbins & Cotran Pathologic Basis of Disease."
+},
+{
+"mcq_number": 24,
+"question_text": "A 3-month-old infant presents with difficulty feeding and a pan-systolic murmur. What is the most likely diagnosis?",
+"options": {
+"A": "Atrial Septal Defect (ASD)",
+"B": "Ventricular Septal Defect (VSD)",
+"C": "Patent Ductus Arteriosus (PDA)",
+"D": "Pulmonary Stenosis",
+"E": "Aortic Stenosis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "A pansystolic (holosystolic) murmur in an infant is the classic presentation of a Ventricular Septal Defect (VSD), the most common congenital heart lesion. The murmur is caused by high-pressure blood shunting from the left ventricle to the right ventricle throughout the entire duration of systole. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 25,
+"question_text": "Fecal continence is maintained by which spinal segments?",
+"options": {
+"A": "L4, L5",
+"B": "S1, S2",
+"C": "S2, S3, S4",
+"D": "T10, T11, T12",
+"E": "L2, L3"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The S2-S4 spinal segments provide parasympathetic innervation to the distal colon and rectum via pelvic splanchnic nerves, and somatic innervation to the external anal sphincter via the pudendal nerve. Damage to these segments (as in Cauda Equina Syndrome) leads to fecal incontinence and loss of the 'anal wink' reflex. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 26,
+"question_text": "A 3 years old child died. His autopsy report shows multiple cysts in row in kidney what is inheritance pattern",
+"options": {
+"A": "Autosomal recessive",
+"B": "Autosomal dominant",
+"C": "X linked dominant",
+"D": "X linked recessive"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Autosomal Recessive Polycystic Kidney Disease (ARPKD) typically presents in infancy or early childhood with multiple cysts that are arranged in a radiating/row-like pattern. In contrast, the Autosomal Dominant form (ADPKD) usually remains asymptomatic until adulthood and presents with larger, haphazardly distributed cysts. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 27,
+"question_text": "A 26-year-old male patient After RTA is undergoing nasogastric tube insertion. The late anatomical obstruction typically encountered during this procedure is at the:",
+"options": {
+"A": "Carina of trachea",
+"B": "Esophageal hiatus",
+"C": "Esopharyngeal junction",
+"D": "Pylorus of stomach"
+},
+"correct_answer": "B",
+"high_yield_explanation": "During NG tube insertion, the three physiological constrictions of the esophagus are the cricopharyngeus muscle, the crossing of the aorta/left bronchus, and the esophageal hiatus (diaphragm). The hiatus is the most distal (late) point of resistance before the tube enters the stomach. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 28,
+"question_text": "Patient underwent Gastrectomy & has now developed pernicious anemia due to deficiency of Vitamin B12. The cells required for the absorption of Vitamin B12 are:",
+"options": {
+"A": "Parietal Cells",
+"B": "Mucous Cells",
+"C": "Serous Cells",
+"D": "Brunner Cells"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Parietal cells in the stomach secrete Intrinsic Factor (IF), which is essential for the binding and subsequent absorption of Vitamin B12 in the terminal ileum. Gastrectomy removes these cells, leading to a total loss of IF and resulting in megaloblastic (pernicious) anemia. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 29,
+"question_text": "A neonate brought from the nursery develops a generalized vesicular rash. The lesions are present in different stages and appear as clear vesicles on an erythematous base, described as “dew drops on rose petals.” The most likely causative organism is:",
+"options": {
+"A": "Measles virus",
+"B": "Varicella zoster virus",
+"C": "Rubella virus",
+"D": "Streptococcus pyogenes",
+"E": "Human herpesvirus-6"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The 'dew drop on a rose petal' appearance is pathognomonic for Varicella (Chickenpox), characterized by vesicles at various stages of evolution (papules, vesicles, and crusts) appearing simultaneously. This asynchrony of lesions helps distinguish it from smallpox, where all lesions are at the same stage. Reference: USMLE Step 1, Microbiology."
+},
+{
+"mcq_number": 30,
+"question_text": "A 35 year old male patient with HIV presents with 2 week history of fever, non-productive cough and shortness of breath .he is cachectic and reports night sweats and weight loss. his CD4 cell count is <200 and chest x-ray Reveals bilateral diffuse infiltrates what is most likely causative organism for this patient:",
+"options": {
+"A": "Streptococcus pneumoniae",
+"B": "Mycobacterium tuberculosis",
+"C": "Pneumocystis jirovecii",
+"D": "Staphylococcus aureus",
+"E": "Cryptococcus"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Pneumocystis jirovecii pneumonia (PCP) is the classic opportunistic infection in AIDS patients with CD4 counts below 200, presenting with a non-productive cough and diffuse interstitial infiltrates. The 'aha!' moment is the high LDH levels often found in these patients and the prophylactic use of TMP-SMX. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 31,
+"question_text": "A person had a penetrating injury in the axilla. Later, he presented with weakness of shoulder abduction and loss of sensation over the lateral aspect of the upper arm. Which nerve is most likely injured? Upper limb",
+"options": {
+"A": "Radial nerve",
+"B": "Axillary nerve",
+"C": "Musculocutaneous nerve",
+"D": "Ulnar nerve",
+"E": "Suprascapular nerve"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The axillary nerve (C5-C6) innervates the deltoid and teres minor muscles, which are responsible for shoulder abduction beyond 15 degrees. Injury to this nerve, often from axillary trauma or surgical neck fractures, also results in sensory loss in the 'sergeant’s patch' area over the lateral shoulder. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 32,
+"question_text": "A CKD patient develops bleeding after nephrostomy. What is the most appropriate blood product to administer?",
+"options": {
+"A": "Packed RBCs",
+"B": "Platelets",
+"C": "Fresh Frozen Plasma (FFP)",
+"D": "Cryoprecipitate",
+"E": "Whole blood"
+},
+"correct_answer": "D",
+"high_yield_explanation": "In Chronic Kidney Disease (CKD), uremia causes platelet dysfunction rather than low platelet counts, often leading to prolonged bleeding times. Cryoprecipitate is used because it contains Factor VIII, fibrinogen, and von Willebrand factor, which help improve platelet adhesion and stabilize clots. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 33,
+"question_text": "Inspiratory ramp signals are produced from dorsal respiratory neurons their rate increases in response to impulses from:",
+"options": {
+"A": "Stretch receptors in lung",
+"B": "Pneumotaxic centre in pons",
+"C": "Apneustic centre",
+"D": "Mid brain",
+"E": "Pons"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The apneustic center in the lower pons promotes inspiration by stimulating the dorsal respiratory group (DRG), effectively prolonging the inspiratory ramp signal. This is counteracted by the pneumotaxic center, which inhibits the DRG to terminate inspiration and regulate breathing rate. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 34,
+"question_text": "What is the protein defect associated with supravalvular aortic stenosis?",
+"options": {
+"A": "Collagen",
+"B": "Elastin",
+"C": "Fibrillin",
+"D": "Myosin",
+"E": "Troponin"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Supravalvular aortic stenosis is the hallmark cardiovascular lesion of Williams syndrome, caused by a mutation or deletion in the elastin gene. Elastin is crucial for the structural integrity and elasticity of large arterial walls, and its deficiency leads to obstructive narrowing. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 35,
+"question_text": "Which of the following organism is responsible for rheumatic fever?",
+"options": {
+"A": "Group A Streptococcus",
+"B": "Group B Streptococcus",
+"C": "Group C Streptococcus",
+"D": "Staph Aureus"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Acute Rheumatic Fever is an autoimmune reaction triggered by Group A Streptococcus (Streptococcus pyogenes) infections, specifically following untreated pharyngitis. It occurs due to molecular mimicry, where antibodies against the bacterial M protein cross-react with cardiac myosin. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 36,
+"question_text": "A male with history of travel to Bangkok, presented with painless penile ulcer with localized lymphadenopathy that were found to be rubbery & painless upon examination, additionally he had rash on his palms & soles due to",
+"options": {
+"A": "Primary Syphilis",
+"B": "Secondary Syphilis",
+"C": "Tertiary Syphilis",
+"D": "Latent Syphilis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "While a painless ulcer (chancre) represents primary syphilis, the presence of a maculopapular rash on the palms and soles is the classic sign of secondary syphilis (disseminated stage). This stage involves systemic spread of Treponema pallidum and often includes generalized lymphadenopathy. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 37,
+"question_text": "A stone in the parotid gland typically blocks which structure?",
+"options": {
+"A": "Wharton's duct",
+"B": "Stensen's duct",
+"C": "Submandibular duct",
+"D": "Bartholin's duct",
+"E": "Lacrimal duct"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Stensen’s duct (parotid duct) carries saliva from the parotid gland and opens into the oral cavity opposite the second upper molar. Wharton’s duct, conversely, drains the submandibular gland and opens at the sublingual caruncle. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 38,
+"question_text": "What is the initial test commonly used to differentiate between Cushing and Cushing's syndrome?",
+"options": {
+"A": "Serum glucose tolerance test",
+"B": "24 hour urinary cortisol test",
+"C": "Serum cortisol levels",
+"D": "Low dose Dexamethasone suppression test"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The Low-Dose Dexamethasone Suppression Test (LDDST) is used to confirm the diagnosis of Cushing's syndrome by demonstrating a lack of cortisol suppression. Once hypercortisolism is confirmed, high-dose dexamethasone or ACTH levels are used to differentiate the specific cause (e.g., Pituitary vs. Ectopic). Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 39,
+"question_text": "Diastolic cardiac arrest is caused by which electrolyte abnormality?",
+"options": {
+"A": "Hypokalemia",
+"B": "Hyperkalemia",
+"C": "Hyponatremia",
+"D": "Hypernatremia",
+"E": "Hypocalcemia"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Hyperkalemia causes diastolic cardiac arrest because high extracellular potassium prevents the myocardial cells from repolarizing, keeping them in a persistent state of partial depolarization. This inactivates sodium channels, leading to loss of excitability and electrical standstill. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 40,
+"question_text": "A 50-year-old patient presents with diplopia, ptosis, weakness in chewing after prolonged effort, normal pupils, dryness of mouth, proximal muscle weakness, and loss of deep tendon reflexes. What is the most likely diagnosis?",
+"options": {
+"A": "Myasthenia Gravis",
+"B": "Lambert-Eaton Syndrome",
+"C": "Multiple Sclerosis",
+"D": "Botulism"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Lambert-Eaton Myasthenic Syndrome (LEMS) is characterized by proximal muscle weakness and autonomic dysfunction (dry mouth) with classically diminished reflexes that improve with exercise. Unlike Myasthenia Gravis, it is a presynaptic disorder caused by antibodies against voltage-gated calcium channels. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 41,
+"question_text": "For the treatment of diabetic gastroparesis, which drug is most useful?",
+"options": {
+"A": "Prokinetics",
+"B": "Anti diarrheals",
+"C": "Octreotide",
+"D": "PPIs"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Prokinetic agents like Metoclopramide or Erythromycin are used in diabetic gastroparesis to stimulate gastric motility and accelerate emptying. Metoclopramide acts as a D2 receptor antagonist, enhancing the response to acetylcholine in the GI tract. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 42,
+"question_text": "A patient present with recurrent oral and genital ulcer associated with HLA B. 5 cause is",
+"options": {
+"A": "Reactive Arthritis",
+"B": "Ankylosing Spondylitis",
+"C": "Bechet disease",
+"D": "Genital ulcer",
+"E": "Uveatitis"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Behçet's disease is a systemic vasculitis classically presenting with a triad of recurrent oral aphthous ulcers, genital ulcers, and uveitis. It is strongly associated with the HLA-B51 allele and is characterized by a positive pathergy test (skin hypersensitivity to needle pricks). Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 43,
+"question_text": "A patient presented with bilateral ptosis with muscle wasting on mastication and decrease voice until no voice uttered diagnosed as myasthenia gravis. Best test for it",
+"options": {
+"A": "Anti calcium antibodies",
+"B": "EMG",
+"C": "Edrophonium",
+"D": "Ach receptors antibodies",
+"E": "Tension test"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The most specific and definitive diagnostic test for Myasthenia Gravis is the detection of Acetylcholine receptor (AChR) antibodies in the serum. While Edrophonium (Tensilon) provides a rapid temporary assessment of symptoms, AChR antibodies confirm the underlying autoimmune mechanism. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 44,
+"question_text": "Which of following cause compliment fixation?",
+"options": {
+"A": "IgA",
+"B": "IgM",
+"C": "IgG2",
+"D": "IgGD"
+},
+"correct_answer": "B",
+"high_yield_explanation": "IgM is the most potent activator of the classical complement pathway because its pentameric structure allows it to bind multiple C1 molecules simultaneously upon antigen contact. IgG (especially IgG1 and IgG3) can also fix complement, but requires higher concentrations to be effective. Reference: Levinson's Review of Medical Microbiology and Immunology."
+},
+{
+"mcq_number": 45,
+"question_text": "A farmer presents with hyperkeratosis, parakeratosis, atypical cells and brown color lesion on face and cheek most likely is",
+"options": {
+"A": "Actinic keratosis",
+"B": "Seborrheic dermatitis",
+"C": "Squamous cell carcinoma",
+"D": "Basal cell carcinoma"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Actinic keratosis is a premalignant skin lesion caused by chronic sun exposure, common in farmers, showing parakeratosis and cellular atypia in the lower epidermis. It is a precursor to squamous cell carcinoma and often presents as a rough, 'sandpaper' texture on sun-damaged skin. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 46,
+"question_text": "Patient with bone pain having normal Ca level increase alkaline phosphatase cause is:",
+"options": {
+"A": "Osteoarthritis",
+"B": "Paget disease",
+"C": "Osteomalacia",
+"D": "Hyperparathyroidism"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Paget’s disease of the bone is characterized by an isolated elevation of alkaline phosphatase with normal calcium and phosphate levels, reflecting localized high bone turnover. This 'aha!' biochemical profile distinguishes it from Vitamin D deficiency (osteomalacia), where calcium is typically low. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 47,
+"question_text": "A patient with diabetes mellitus presents with the complaint of the worst headache of their life. CT scan shows csf area stained with blood. Which of the following treatments would be most appropriate for this condition?",
+"options": {
+"A": "Nifedipine",
+"B": "Nimodipine",
+"C": "Verapamil",
+"D": "Propranolol"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The 'worst headache of life' suggests a Subarachnoid Hemorrhage (SAH), and Nimodipine is the specific calcium channel blocker used to prevent delayed cerebral vasospasm. Vasospasm typically occurs 4-10 days after the bleed and is a major cause of secondary morbidity. Reference: USMLE Step 1, Cardiovascular Pharmacology."
+},
+{
+"mcq_number": 48,
+"question_text": "A patient has painful nodules on shin and lace, like pattern on buccal mucosa. This condition is associated with which virus?",
+"options": {
+"A": "EBV",
+"B": "Hepatitis C",
+"C": "CMV",
+"D": "HPV"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The buccal 'lace-like' pattern (Wickham striae) is characteristic of Lichen Planus, which has a strong clinical association with chronic Hepatitis C virus infection. Painful shin nodules (Erythema Nodosum) further suggest a systemic inflammatory state often triggered by viral or drug stimuli. Reference: Robbins & Cotran Pathologic Basis of Disease."
+},
+{
+"mcq_number": 49,
+"question_text": "A patient presents with epistaxis, hematuria, and a perforated nasal septum. He also has a saddle-shaped nose and a history of frequent respiratory tract infections with nasal mucosa involvement. What is the most likely diagnosis?",
+"options": {
+"A": "Granulomatosis with polyangiitis (Wegener's)",
+"B": "HSP",
+"C": "Nasal Angiofibroma",
+"D": "Kartagener Syndrome",
+"E": "Sarcoidosis"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Granulomatosis with Polyangiitis (formerly Wegener’s) presents with a classic triad: necrotizing granulomas of the respiratory tract (nasal septum perforation), vasculitis, and glomerulonephritis (hematuria). It is highly associated with PR3-ANCA (c-ANCA) positivity. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 50,
+"question_text": "50y old patient is known case of CKD requires antibiotic therapy, which is the following, is best probable option for him?",
+"options": {
+"A": "Cefixime",
+"B": "Cefuroxime",
+"C": "Ceftriaxone",
+"D": "Cephalexin",
+"E": "Cefotaxime"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Ceftriaxone is a third-generation cephalosporin that is predominantly excreted via the biliary system rather than the kidneys. This unique pharmacodynamic property makes it the safest choice in patients with advanced renal failure as it requires no dose adjustment. Reference: Katzung's Basic & Clinical Pharmacology."
+}
+,
+{
+"mcq_number": 51,
+"question_text": "A 23-year-old male is diagnosed with gonorrhea. Which of the following is the most appropriate treatment?",
+"options": {
+"A": "Ceftriaxone only",
+"B": "Azithromycin only",
+"C": "Ceftriaxone plus azithromycin",
+"D": "Ciprofloxacin plus doxycycline"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Dual therapy with Ceftriaxone and Azithromycin is traditionally used to treat gonorrhea because of the high rate of co-infection with Chlamydia trachomatis. This strategy also helps prevent the development of antibiotic resistance in Neisseria gonorrhoeae by using two different mechanisms of action. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 52,
+"question_text": "A 38-year-old sedentary man with a BMI of 32 presents with velvety hyperpigmented plaques in the posterior neck fold that developed over months. He reports increased thirst and occasional blurred vision. Which associated finding will be present?",
+"options": {
+"A": "Serum thyroid stimulating hormone (TSH)...",
+"B": "Insulin resistance",
+"C": "Serum cortisol...",
+"D": "Complete blood count (CBC)...",
+"E": "Anti-nuclear antibody (ANA)..."
+},
+"correct_answer": "B",
+"high_yield_explanation": "Acanthosis nigricans is a cutaneous marker of hyperinsulinemia, where high levels of insulin cross-react with IGF-1 receptors on keratinocytes and fibroblasts, causing epidermal hyperplasia. This condition is most commonly associated with insulin resistance, obesity, and Type 2 Diabetes. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 53,
+"question_text": "Patient presented with history of Arthritis & Urinary problem that was found to be HLA-B27 +Ve & associated with ocular problems:",
+"options": {
+"A": "Reactive arthritis",
+"B": "Ankylosing Spondylitis",
+"C": "UTI",
+"D": "Rheumatoid Arthritis"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Reactive arthritis is a classic seronegative spondyloarthropathy characterized by the triad of 'can't see, can't pee, can't climb a tree' (uveitis, urethritis, and arthritis). It typically follows a GI or GU infection and is strongly linked to the HLA-B27 genotype. Reference: USMLE Step 1, Musculoskeletal Section."
+},
+{
+"mcq_number": 54,
+"question_text": "Which of the following is an antagonist for benzodiazepine?",
+"options": {
+"A": "Naloxone",
+"B": "Flumazenil",
+"C": "Carbamazepine",
+"D": "Diazepam"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Flumazenil is a competitive antagonist at the benzodiazepine binding site on the GABA-A receptor, used to reverse sedative effects in overdose cases. However, it can precipitate acute withdrawal seizures in chronic users or those co-ingesting TCAs. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 55,
+"question_text": "What forms the posteromedial boundary of the knee joint?",
+"options": {
+"A": "Semimembranosus",
+"B": "Semitendinosus",
+"C": "Gracilis",
+"D": "Sartorius",
+"E": "Popliteus"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The semimembranosus muscle forms the superior-medial boundary of the popliteal fossa and contributes to the posterior joint capsule via the oblique popliteal ligament. Its insertion on the medial condyle of the tibia anchors the posteromedial corner of the knee. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 56,
+"question_text": "What lies posterior to the first part of the duodenum?",
+"options": {
+"A": "Inferior vena cava (IVC)",
+"B": "Superior mesenteric artery",
+"C": "Common bile duct",
+"D": "Aorta",
+"E": "Transverse mesocolon"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The first part of the duodenum (D1) is horizontal and has several vital structures behind it, including the gastroduodenal artery, common bile duct, and portal vein. Perforation of a posterior duodenal ulcer can erode into the gastroduodenal artery, leading to massive hemorrhage. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 57,
+"question_text": "A person presented with right hypochondrial pain and progressive abdominal distension. Now, diffuse ascites is clinically evident, and a diagnostic paracentesis is planned. Which is the most appropriate site for ascitic fluid tap that minimizes risk of injury to inferior epigastric vessels?",
+"options": {
+"A": "Right side, below costal margin, midclavicular line...",
+"B": "Right upper quadrant, 2 cm below and medial to anterior superior iliac spine (ASIS)...",
+"C": "Left lower quadrant, 2 cm below and medial to ASIS...",
+"D": "Periumbilical region...",
+"E": "Midline above the umbilicus"
+},
+"correct_answer": "E",
+"high_yield_explanation": "Paracentesis is safest in the midline (linea alba) 2 cm below the umbilicus because this area is relatively avascular compared to the lateral abdominal wall. Avoiding the lateral borders of the rectus sheath prevents injury to the inferior epigastric arteries. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 58,
+"question_text": "Pericardiocentesis location for strawcolored fluid is which of following?",
+"options": {
+"A": "5th/6th intercostal space, left parasternal",
+"B": "Left parasternal 3rd intercostal space",
+"C": "Midclavicular line",
+"D": "Midaxial line",
+"E": "Right parasternal 2nd Intercostal space"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Pericardiocentesis is typically performed at the 5th or 6th intercostal space near the left sternal border to avoid the lungs and internal thoracic artery. Alternatively, the subxiphoid approach is used, angling the needle toward the left shoulder to reach the pericardial sac. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 59,
+"question_text": "During tonsillectomy, increased bleeding may be due to damage to which vessel?",
+"options": {
+"A": "Inferior thyroid artery",
+"B": "Sphenopalatine artery",
+"C": "Brachiocephalic vein",
+"D": "Tonsillar artery"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The tonsillar artery, a branch of the facial artery, is the primary source of arterial supply to the palatine tonsil and the most common cause of primary post-tonsillectomy hemorrhage. It enters the tonsil at its lower pole through the superior constrictor muscle. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 60,
+"question_text": "A patient after fall on outstretched hand with trauma on wrist develops dislocation of lower portion of radius joint posteriorly and medially, most probably he has?",
+"options": {
+"A": "Fracture of neck of scaphoid bone",
+"B": "Fracture of lunate",
+"C": "Colle’s Fracture",
+"D": "Fracture of ulna",
+"E": "Fracture of metacarpal bone"
+},
+"correct_answer": "C",
+"high_yield_explanation": "A Colles' fracture is a distal radius fracture with dorsal (posterior) displacement, often resulting from a fall on an outstretched hand (FOOSH), giving the 'dinner fork' deformity. This occurs when the fracture line is proximal to the wrist joint, causing the distal fragment to tilt posteriorly. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 61,
+"question_text": "A patient has some heart condition for which he was taking Antiarrhythmic which is causing muscle weakness, sleepiness most likely drug is",
+"options": {
+"A": "Lidocain",
+"B": "Fleicanide",
+"C": "Amiodarone",
+"D": "Quinidine"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Amiodarone is a Class III antiarrhythmic that contains high iodine content, which can cause drug-induced hypothyroidism (Wolf-Chaikoff effect), manifesting as fatigue and weakness. It is notorious for its wide side-effect profile, including pulmonary fibrosis, blue-skin discoloration, and liver toxicity. Reference: USMLE Step 1, Cardiovascular Pharmacology."
+},
+{
+"mcq_number": 62,
+"question_text": "A patient present with difficulty elevating the soft palate and secretions are collected in the pharynx. On examination, the gag reflex is absent on the affected side. Which nerve is most likely involved carrying afferent for gag reflex",
+"options": {
+"A": "Internal laryngeal nerve",
+"B": "External laryngeal nerve",
+"C": "Glossopharyngeal nerve",
+"D": "Accessory nerve",
+"E": "Hypoglossal nerve"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The glossopharyngeal nerve (CN IX) provides the afferent (sensory) limb of the gag reflex by sensing stimuli on the posterior third of the tongue and oropharynx. The Vagus nerve (CN X) provides the efferent (motor) limb, responsible for the elevation of the palate and pharyngeal contraction. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 63,
+"question_text": "A 25-year-old male presents with a left-sided scrotal swelling described as a “bag of worms” What is the most likely diagnosis?",
+"options": {
+"A": "Left sided Hydrocele",
+"B": "Left sided Varicocele",
+"C": "Venous valve obstruction",
+"D": "Testicular torsion",
+"E": "Left renal vein thrombosis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "A varicocele is a dilation of the pampiniform plexus of veins, classically described as a 'bag of worms' on palpation. It is much more common on the left side because the left testicular vein drains into the left renal vein at a 90-degree angle, increasing hydrostatic pressure. Reference: USMLE Step 1, Reproductive Section."
+},
+{
+"mcq_number": 64,
+"question_text": "A girl did suicide by gun shot which Fractured and cause Pterion hemorrhage due to involvement of which artery?",
+"options": {
+"A": "Middle Meningeal Artery",
+"B": "Middle Cerebral Artery",
+"C": "Posterior Cerebral Artery",
+"D": "Anterior Cerebral Artery"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The pterion is the junction of four cranial bones (frontal, parietal, temporal, and sphenoid) where the skull is thinnest. The middle meningeal artery runs directly deep to it; trauma here causes an epidural hematoma, often seen as a 'lucid interval' followed by rapid decline. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 65,
+"question_text": "Which artery arises from the anterior aortic sinus, near the right auricle?",
+"options": {
+"A": "Left coronary artery",
+"B": "Right coronary artery",
+"C": "Pulmonary artery",
+"D": "Circumflex artery",
+"E": "Anterior interventricular artery"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The right coronary artery (RCA) classically originates from the anterior (right) aortic sinus of the ascending aorta. It then travels through the coronary sulcus, supplying the right atrium, right ventricle, and in most people, the SA and AV nodes. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 66,
+"question_text": "Which antibiotic is generally NOT preferred/ contraindicated in community-acquired pneumonia?",
+"options": {
+"A": "Azithromycin",
+"B": "Penicillin",
+"C": "Ciprofloxacin",
+"D": "Doxycycline"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Ciprofloxacin is not a 'respiratory quinolone' because it has poor activity against Streptococcus pneumoniae, the most common cause of community-acquired pneumonia. Levofloxacin or Moxifloxacin are preferred quinolones for CAP because they provide much better Gram-positive coverage. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 67,
+"question_text": "A 65-year-old man presents with fluent speech, but he cannot understand what others are saying. His speech often contains nonsensical words and incorrect substitutions, and he is unaware of his errors. Which type of aphasia does this presentation most likely indicate?",
+"options": {
+"A": "Receptive aphasia",
+"B": "Expressive aphasia",
+"C": "Global aphasia",
+"D": "Conduction aphasia",
+"E": "Anomic aphasia"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Receptive (Wernicke's) aphasia results from damage to the superior temporal gyrus, leading to 'word salad' where speech is fluent but lacks meaning. Patients typically lack awareness of their deficit (anosognosia) and cannot comprehend spoken or written language. Reference: USMLE Step 1, Neurology Section."
+},
+{
+"mcq_number": 68,
+"question_text": "Broca's Aphasia due to blockage of:",
+"options": {
+"A": "MCA",
+"B": "ACA",
+"C": "PCA",
+"D": "Basilar Artery"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Broca's area is located in the inferior frontal gyrus and is supplied by the superior division of the middle cerebral artery (MCA). A stroke here results in non-fluent, effortful speech ('broken' speech) while comprehension remains largely intact. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 69,
+"question_text": "A patient has runny nose from few days. Which antihistamine is less likely to cause sedation for allergic rhinitis?",
+"options": {
+"A": "Diphenhydramine",
+"B": "Loratadine",
+"C": "Chlorpheniramine",
+"D": "Promethazine",
+"E": "Hydroxyzine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Loratadine is a second-generation H1 antagonist that does not easily cross the blood-brain barrier, making it much less sedating than first-generation agents like diphenhydramine. These newer drugs have a higher affinity for peripheral rather than central histamine receptors. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 70,
+"question_text": "A 25-year-old female on long-term thyroxine for hypothyroidism develops atrial fibrillation and is treated with a drug. Later, she develops fatigue, lethargy, and cold intolerance. Which drug is most likely responsible?",
+"options": {
+"A": "Propranolol",
+"B": "Amiodarone",
+"C": "Digoxin",
+"D": "Warfarin",
+"E": "Aspirin"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Amiodarone contains iodine and can induce hypothyroidism by inhibiting the peripheral conversion of T4 to T3 and directly damaging thyroid follicles. This is the 'aha!' explanation for why a patient on thyroxine would suddenly develop symptoms of low thyroid function after starting an antiarrhythmic. Reference: USMLE Step 1, Cardiovascular Section."
+},
+{
+"mcq_number": 71,
+"question_text": "Which of the following molecules plays a key role in leukocyte trans-migration through the endothelium during inflammation?",
+"options": {
+"A": "ICAM-1",
+"B": "PECAM-1 (CD31)",
+"C": "VCAM-1",
+"D": "Selectin L"
+},
+"correct_answer": "B",
+"high_yield_explanation": "PECAM-1 (CD31) is expressed on both the junctions of endothelial cells and on leukocytes, facilitating 'diapedesis' or the squeeze through the vessel wall. While selectins handle rolling and integrins handle firm adhesion, CD31 is the essential molecule for the actual transmigration step. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 72,
+"question_text": "A child with disorder in which leukocyte adhesion to endothelium is impaired. WBC attach to Endothelium by:",
+"options": {
+"A": "Selectin",
+"B": "Integrins",
+"C": "ICAM",
+"D": "VCAM"
+},
+"correct_answer": "C",
+"high_yield_explanation": "In Leukocyte Adhesion Deficiency (LAD) Type 1, there is a defect in CD18 (integrin beta-2), which normally binds to ICAM-1 on the endothelial surface. This prevents the white blood cells from achieving firm adhesion, leading to recurrent infections and neutrophilia without pus formation. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 73,
+"question_text": "A 12 years old boy presented with diarrhea not responding to routine anti diarrheal treatment. Jejunal biopsy showed partial villous atrophy with mansy PAS positive macrophages. Most likely diagnosis is",
+"options": {
+"A": "Carcinoid syndrome",
+"B": "Celiac disease",
+"C": "Giardiasis",
+"D": "Immunoproliferative disease",
+"E": "Whipple disease"
+},
+"correct_answer": "E",
+"high_yield_explanation": "Whipple’s disease is caused by Tropheryma whipplei and is identified by PAS-positive, diastase-resistant macrophages in the intestinal lamina propria. These macrophages contain the remains of the bacilli, leading to malabsorption, villous atrophy, and systemic symptoms like arthralgia. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 74,
+"question_text": "How many bands are associated with the lateral meniscus?",
+"options": {
+"A": "1",
+"B": "2",
+"C": "3",
+"D": "5"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The lateral meniscus is associated with two meniscofemoral ligaments: the anterior ligament of Humphrey and the posterior ligament of Wrisberg. These 'bands' connect the posterior horn of the lateral meniscus to the medial femoral condyle, stabilizing the joint during rotation. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 75,
+"question_text": "Resting Membrane potential achieved by:",
+"options": {
+"A": "Na K pump",
+"B": "NA Influx",
+"C": "K efflux",
+"D": "K influx"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The resting membrane potential is primarily determined by the high permeability of the cell membrane to potassium (K+) relative to other ions. The constant 'leak' or efflux of K+ out of the cell through non-gated leak channels leaves a net negative charge inside the cell. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 76,
+"question_text": "Pyruvate carboxylase requires which coenzyme for its activity?",
+"options": {
+"A": "Thiamine",
+"B": "Biotin",
+"C": "Riboflavin",
+"D": "Pyridoxine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Biotin (Vitamin B7) acts as a CO2 carrier for carboxylase enzymes, including pyruvate carboxylase, which converts pyruvate to oxaloacetate for gluconeogenesis. Biotin deficiency, often caused by raw egg white consumption (avidin), impairs this critical 'anaplerotic' step. Reference: Harper’s Illustrated Biochemistry."
+},
+{
+"mcq_number": 77,
+"question_text": "A neonate with delayed passage of meconium, abdominal distension, and constipation undergoes contrast enema demonstrating a transition zone. To confirm the diagnosis of congenital aganglionic megacolon, which investigation is considered diagnostic?",
+"options": {
+"A": "Anorectal manometry showing absent rectoanal inhibitory reflex",
+"B": "Barium enema alone",
+"C": "Full-thickness rectal biopsy",
+"D": "Stool culture",
+"E": "Pelvic MRI"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The gold standard for diagnosing Hirschsprung disease is a rectal suction or full-thickness biopsy demonstrating the absence of ganglion cells in the Myenteric (Auerbach) and Submucosal (Meissner) plexuses. This failure of neural crest cell migration results in a chronically contracted aganglionic segment and proximal dilation. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 78,
+"question_text": "Councilman bodies occur in process of:",
+"options": {
+"A": "Hypertrophy",
+"B": "Apoptosis",
+"C": "Atrophy",
+"D": "Yellow fever"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Councilman bodies are eosinophilic, rounded globules found in the liver, representing hepatocytes that have undergone programmed cell death (apoptosis). They are classically associated with viral hepatitis and Yellow Fever, where CD8+ T cells induce cellular suicide. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 79,
+"question_text": "A patient is receiving treatment from a psychiatrist voluntarily but now wants to stop the medication. The doctor threatens that they must continue taking it. The doctor is not following which component of medical ethics:",
+"options": {
+"A": "Justice",
+"B": "Autonomy",
+"C": "Beneficence",
+"D": "Non-maleficence?"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Autonomy is the ethical principle that respects a patient's right to self-determination and informed refusal of medical treatment. By threatening the patient to continue medication against their will, the doctor violates the patient's right to make their own healthcare decisions. Reference: First Aid for the USMLE Step 1, Ethics Section."
+},
+{
+"mcq_number": 80,
+"question_text": "A 5-year-old child presents with a typical viral upper respiratory infection. The mother insists on antibiotics, but the pediatrician refuses, explaining that antibiotics are unnecessary and could harm the child. Which ethical principle is the doctor following?",
+"options": {
+"A": "Non-maleficence",
+"B": "Autonomy",
+"C": "Justice",
+"D": "Beneficence"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Beneficence requires physicians to act in the best interest of the patient to promote their health and well-being. By refusing unnecessary antibiotics that could lead to side effects or resistance, the doctor is prioritizing the child's actual health over the parent's request. Reference: USMLE Step 1, Ethics Section."
+},
+{
+"mcq_number": 81,
+"question_text": "Patient having Vesicular rash on palms soles With Blistering lesions on Tongue & Gums. Which of the following is true about virus causing this disease?",
+"options": {
+"A": "Enveloped Positive Sense RNA with reverse transcriptase",
+"B": "Naked Positive Sense RNA",
+"C": "Enveloped Single stranded DNA",
+"D": "Enveloped Positive Sense RNA"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Hand-Foot-and-Mouth Disease is caused by Coxsackievirus A16, which is a Picornavirus. Picornaviruses are characterized as being 'PERCH' (Poliovirus, Echovirus, Rhinovirus, Coxsackievirus, HAV), which are all naked, icosahedral, positive-sense single-stranded RNA viruses. Reference: Levinson's Review of Medical Microbiology and Immunology."
+},
+{
+"mcq_number": 82,
+"question_text": "At sea level, hypoxia occurs which decreases oxygen blood supply. Which factor is affected?",
+"options": {
+"A": "2,3-BPG decrease",
+"B": "2,3-BPG increase",
+"C": "Temp decrease",
+"D": "PH increase"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Hypoxia stimulates an increase in 2,3-bisphosphoglycerate (2,3-BPG), which binds to the beta chains of deoxyhemoglobin and stabilizes the T (taut) state. This shifts the oxygen dissociation curve to the right, facilitating the release of oxygen to oxygen-deprived tissues. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 83,
+"question_text": "In rheumatic fever, autoantibodies are formed against proteins of:",
+"options": {
+"A": "Group A Beta Hemolytic Streptococcus",
+"B": "Group B Streptococcus",
+"C": "Staphylococcus aureus",
+"D": "Ecoli",
+"E": "Klebsiella pneumoniae"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Rheumatic fever is caused by molecular mimicry, where the immune system produces antibodies against the M protein of Group A Beta-Hemolytic Streptococcus (GAS). These antibodies cross-react with glycoproteins in human heart tissue, joints, and brain, leading to systemic inflammation. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 84,
+"question_text": "What is the function of NK cells?",
+"options": {
+"A": "Kill virus infected cells",
+"B": "Complement Stimulation",
+"C": "Destroy normal cells",
+"D": "Antigen presenting cells",
+"E": "Kill bacteria"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Natural Killer (NK) cells kill host cells (normal cells) that have lost Expression of MHC Class I molecules, which often happens during viral infection or malignant transformation. They induce apoptosis in these 'distressed' cells via the perforin-granzyme pathway. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 85,
+"question_text": "40 year female presented with C/O Flushing diarrhea, Facial flushing, right sided heart murmur due to involvement of Tricuspid valve and raised jvp Most probable diagnosis?",
+"options": {
+"A": "Colorectal CA",
+"B": "Kruckenberg tumor",
+"C": "Post menopausal syndrome",
+"D": "Carcinoid syndrome"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Carcinoid syndrome occurs when neuroendocrine tumors (typically from the ileum) metastasize to the liver, releasing serotonin into the systemic circulation. Serotonin causes episodic flushing, diarrhea, and fibrous plaque formation on the right-sided heart valves (tricuspid/pulmonary). Reference: USMLE Step 1, Pathology Section."
+},
+{
+"mcq_number": 86,
+"question_text": "A patient presented with neck rigidity Fever and Alter state for lumbar puncture which of the following is ideal site?",
+"options": {
+"A": "Above the spinous process of L4",
+"B": "Below the spinous process of L5",
+"C": "Conus medullaris",
+"D": "Below spinous process of L2"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Lumbar puncture is ideally performed at the L3-L4 or L4-L5 interspace, which corresponds to the level of the iliac crests (Tuffier's line). This site is chosen because the spinal cord typically ends at L1-L2 in adults, ensuring the needle enters the subarachnoid space without risking cord injury. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 87,
+"question_text": "A patient has lost general sensation on the anterior 2/3rd of the tongue after submandibular gland surgery due to injury to which nerve?",
+"options": {
+"A": "Facial",
+"B": "Glossophgel",
+"C": "Maxilry",
+"D": "Trigeminal",
+"E": "Lingual"
+},
+"correct_answer": "E",
+"high_yield_explanation": "The lingual nerve, a branch of the mandibular division of the trigeminal nerve (CN V3), provides general somatic sensation (touch, pain, temp) to the anterior two-thirds of the tongue. It is anatomically vulnerable during submandibular gland surgery because it loops under the submandibular duct. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 88,
+"question_text": "A patient with Delayed puberty having small testis with Large legs and Gynecomastia and Karyotype is 47 XXY. Cause?",
+"options": {
+"A": "Non-disjunction",
+"B": "Disjunction",
+"C": "Microdeletion",
+"D": "Mosaicism"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Klinefelter syndrome (47, XXY) is primarily caused by meiotic non-disjunction of the sex chromosomes during gametogenesis. The extra X chromosome leads to dysgenesis of seminiferous tubules and Leydig cell dysfunction, resulting in hypergonadotropic hypogonadism. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 89,
+"question_text": "What is the most common cytogenetic mechanism that leads to Klinefelter syndrome (47, XXY karyotype)?",
+"options": {
+"A": "Chromosomal deletion",
+"B": "Non-disjunction during meiosis",
+"C": "Balanced reciprocal translocation",
+"D": "Mosaicism due to mitotic error"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Meiotic non-disjunction, usually in the first meiotic division, accounts for the vast majority of Klinefelter syndrome cases. This failure of homologous chromosomes to separate leads to a gamete with two X chromosomes, which when fertilized by a Y-bearing sperm, results in the 47, XXY genotype. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 90,
+"question_text": "Known patient of arthritis using drugs for 8 to 9 months presents with Hbllg/dl, MCV 101fl, MCH = 30, bone marrow biopsy shows hyper cellular:",
+"options": {
+"A": "Aplastic anemia",
+"B": "Megaloblastic anemia",
+"C": "Leukemia",
+"D": "Lymphoma",
+"E": "Sideroblastic anemia"
+},
+"correct_answer": "B",
+"high_yield_explanation": "An MCV > 100 fl defines macrocytosis, and hypercellular marrow with megaloblasts suggests megaloblastic anemia, likely due to folate or B12 deficiency. Medications like Para-aminosalicylic acid (used for TB) or methotrexate can interfere with DNA synthesis, leading to these characteristic changes. Reference: USMLE Step 1, Hematology Section."
+},
+{
+"mcq_number": 91,
+"question_text": "30 years old male treated for meningitis 1 month ago came with morning headache having B/L papilledema cause is:",
+"options": {
+"A": "Blockage of Dural sinus",
+"B": "Hydrocephalus",
+"C": "Involvement of cerebral vessels",
+"D": "Involvement of meninges",
+"E": "Subdural collection"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Communicating hydrocephalus is a common complication of meningitis, as the prior inflammation can lead to scarring and obstruction of the arachnoid granulations. This impairs CSF reabsorption, leading to increased intracranial pressure (ICP), morning headaches, and papilledema. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 92,
+"question_text": "A 3 months old baby presented with respiratory difficulty ABGs showing low pH, pCO2 60 and HC03 20. What is the metabolic disorder?",
+"options": {
+"A": "Addison disease",
+"B": "Acute respiratory acidosis",
+"C": "Metabolic alkalosis",
+"D": "DKA",
+"E": "Lactic acidosis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "A pH < 7.35 with a high pCO2 (>40 mmHg) indicates respiratory acidosis, reflecting hypoventilation and CO2 retention. In the acute phase, the bicarbonate (HCO3) levels do not have time to rise significantly as renal compensation takes several days to manifest. Reference: USMLE Step 1, Renal/Respiratory Sections."
+},
+{
+"mcq_number": 93,
+"question_text": "A patient after taking some drug went unconscious and also have increase salivation and Bradycardia and which drug should be given to antagonize symptoms:",
+"options": {
+"A": "Pralidoxime",
+"B": "Atropine",
+"C": "Epinephrine",
+"D": "Norepinephrine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The symptoms of excess salivation and bradycardia suggest a 'cholinergic crisis' (DUMBELS), often from organophosphate poisoning or cholinergic drugs. Atropine is the drug of choice because it competitively blocks muscarinic receptors, reversing the life-threatening bradycardia and excessive secretions. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 94,
+"question_text": "Uncoupling oxidative phosphorylation:",
+"options": {
+"A": "Thyroxin",
+"B": "Epinephrine",
+"C": "Dopamine",
+"D": "N.epinephrine",
+"E": "Serotinine"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Norepinephrine stimulates thermogenin (UCP1) in brown adipose tissue, which allows protons to bypass the ATP synthase and leak back into the mitochondrial matrix. This 'uncoupling' of the proton gradient from ATP production dissipates the energy as heat, a vital process for non-shivering thermogenesis. Reference: Harper’s Illustrated Biochemistry."
+},
+{
+"mcq_number": 95,
+"question_text": "Which hormone causes protein,carbohydrate and fats storage in the body :",
+"options": {
+"A": "Insulin",
+"B": "Growth hormone",
+"C": "TSH",
+"D": "ACTH"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Insulin is the primary anabolic hormone that promotes the uptake and storage of nutrients: it stimulates glycogenesis in the liver/muscle, lipogenesis in adipocytes, and protein synthesis. It 'locks away' fuel when blood glucose is high to maintain metabolic balance. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 96,
+"question_text": "G protein phospholipase C increases intracellular concentration of:",
+"options": {
+"A": "Calcium ions",
+"B": "Chloride ions",
+"C": "Potassium ions",
+"D": "Magnesium ions"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The Gq protein pathway activates phospholipase C, which cleaves PIP2 into IP3 and DAG; IP3 then binds to receptors on the endoplasmic reticulum to trigger the release of stored calcium. Increased cytosolic calcium then activates various protein kinases to mediate the cellular response. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 97,
+"question_text": "The larynx is composed of:",
+"options": {
+"A": "3 paired cartilages",
+"B": "3 paired and 3 unpaired cartilages",
+"C": "Muscles and ligaments only",
+"D": "2 paired and 1 unpaired cartilage"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The laryngeal skeleton consists of nine cartilages: three unpaired (epiglottis, thyroid, and cricoid) and three paired (arytenoid, corniculate, and cuneiform). This structural framework protects the airway and facilitates vocalization. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 98,
+"question_text": "Which of the following is an unpaired artery of the abdominal aorta?",
+"options": {
+"A": "Inferior phrenic artery",
+"B": "Celiac artery",
+"C": "Renal artery",
+"D": "Gonadal artery"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The abdominal aorta gives off three major unpaired visceral branches: the celiac trunk, the superior mesenteric artery, and the inferior mesenteric artery. These arteries supply the foregut, midgut, and hindgut, respectively. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 99,
+"question_text": "Which muscles' tendons form the pes anserinus?",
+"options": {
+"A": "Sartorius, gracilis, semimembranosus",
+"B": "Sartorius, gracilis, semitendinosus",
+"C": "Biceps femoris, semitendinosus, semimembranosus",
+"D": "None of the above"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The pes anserinus ('goose foot') is formed by the conjoined tendons of the Sartorius, Gracilis, and Semitendinosus muscles as they insert on the anteromedial surface of the proximal tibia. These three muscles are supplied by different nerves (Femoral, Obturator, and Sciatic), representing all three compartments of the thigh. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 100,
+"question_text": "A Baker's cyst is typically located between:",
+"options": {
+"A": "Medial head of gastrocnemius and semimembranosus",
+"B": "Lateral head of gastrocnemius and semimembranosus",
+"C": "Medial and lateral heads of gastrocnemius",
+"D": "Semitendinosus and biceps femoris"
+},
+"correct_answer": "A",
+"high_yield_explanation": "A Baker’s (popliteal) cyst is a synovial fluid collection that herniates into the popliteal fossa, usually between the medial head of the gastrocnemius and the semimembranosus tendon. It is frequently associated with intra-articular pathology like osteoarthritis or meniscal tears. Reference: USMLE Step 1, Musculoskeletal Section."
+}
+,
+{
+"mcq_number": 101,
+"question_text": "A 60-year-old diabetic patient on oral antidiabetic medication skips breakfast and presents in a semi-conscious state with a blood glucose level of 45 mg/dL. Which of the following medications is most likely responsible for this episode?",
+"options": {
+"A": "Metformin",
+"B": "Glimpiride",
+"C": "Pioglitazone",
+"D": "Sitagliptin"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Sulfonylureas like glimepiride stimulate insulin release by closing ATP-sensitive K+ channels in pancreatic beta cells, which can cause severe hypoglycemia even when fasting. Metformin and pioglitazone do not typically cause hypoglycemia as they do not increase insulin secretion. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 102,
+"question_text": "Which nerve is at risk of damage during venesection in a newborn?",
+"options": {
+"A": "Femoral nerve",
+"B": "Lateral cutaneous nerve of thigh",
+"C": "Saphenous nerve",
+"D": "Obturator nerve"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The saphenous nerve, the longest branch of the femoral nerve, accompanies the great saphenous vein in the leg. During venous cutdown (venesection) at the medial malleolus, this nerve is highly vulnerable to injury, potentially leading to sensory loss along the medial leg. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 103,
+"question_text": "A patient with cervical spine trauma shows anterior displacement of C6 on C7. What is the likely thing associated with this?",
+"options": {
+"A": "Normal neurology",
+"B": "C7 nerve root compression",
+"C": "Scotty dog sign",
+"D": "Spial shock",
+"E": "Step sign of cervical spine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "In the cervical spine, the nerve roots exit above their corresponding vertebrae; however, the C7 nerve root exits specifically between C6 and C7. Anterior subluxation of C6 on C7 will typically compress the C7 root as it passes through the intervertebral foramen. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 104,
+"question_text": "Which condition is most likely associated with the \"string sign\" on imaging?",
+"options": {
+"A": "Ulcerative Colitis",
+"B": "Crohn's Disease",
+"C": "Appendicitis",
+"D": "Diverticulitis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The 'string sign' refers to the narrow, thread-like appearance of the bowel lumen on barium studies, caused by the transmural inflammation and subsequent scarring characteristic of Crohn's disease. This most commonly occurs in the terminal ileum where chronic inflammation leads to significant luminal stenosis. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 105,
+"question_text": "Most common side effect of IUCD:",
+"options": {
+"A": "PID",
+"B": "Purulent discharge",
+"C": "Irregular vaginal bleeding",
+"D": "Infections"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Menorrhagia (heavy bleeding) and intermenstrual spotting are the most frequent reasons for the discontinuation of copper Intrauterine Contraceptive Devices (IUCDs). These side effects occur due to a localized inflammatory response and increased prostaglandin production in the endometrium. Reference: Ten Teachers, Obstetrics & Gynaecology."
+},
+{
+"mcq_number": 106,
+"question_text": "Increase height and puberty is due to:",
+"options": {
+"A": "Increased estrogen receptor on ovary",
+"B": "Increased sensitivity of hypothalamus to estrogen",
+"C": "Pulsatile GNRH from pituitary",
+"D": "Increased progesterone"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Puberty begins when the hypothalamus becomes less sensitive to the negative feedback of sex steroids (like estrogen), allowing for an increase in pulsatile GnRH release. This 'reset' of the gonadostat leads to the activation of the pituitary-gonadal axis and the subsequent growth spurt. Reference: Guyton and Hall Textbook of Medical Physiology."
+},
+{
+"mcq_number": 107,
+"question_text": "A 52-year-old man with a history of recurrent urinary tract infections is prescribed ciprofloxacin. Which of the following best describes the mechanism of action of this drug?",
+"options": {
+"A": "Inhibition of dihydrofolate synthase",
+"B": "Inhibition of DNA gyrase and topoisomerase IV",
+"C": "Binding to the 50S ribosomal subunit",
+"D": "Inhibition of transpeptidase enzyme",
+"E": "Inhibits 30S unit of the ribosome"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Fluoroquinolones like ciprofloxacin kill bacteria by inhibiting DNA gyrase (topoisomerase II) in Gram-negative organisms and topoisomerase IV in Gram-positive organisms. This prevents the relaxation of supercoiled DNA, which is essential for bacterial DNA replication and transcription. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 108,
+"question_text": "Opening of mouth done by:",
+"options": {
+"A": "Medial pterygoid",
+"B": "Masseter",
+"C": "Anterior fibers of temporalis",
+"D": "Lateral pterygoid"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The lateral pterygoid is the only muscle of mastication that assists in depressing (opening) the mandible. It works by pulling the mandibular condyle and articular disc forward (protrusion), allowing the jaw to drop open under gravity. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 109,
+"question_text": "A child presents with retarded growth, low calcium, and high phosphate levels. Which hormone is most likely elevated?",
+"options": {
+"A": "Calcitonin",
+"B": "Parathyroid Hormone (PTH)",
+"C": "Thyroxine",
+"D": "Growth Hormone"
+},
+"correct_answer": "B",
+"high_yield_explanation": "This biochemical profile (low Ca, high PO4) is diagnostic of Pseudohypoparathyroidism, where the body is resistant to PTH action. In response to the persistent hypocalcemia, the parathyroid glands hypersecrete PTH, leading to high circulating levels despite the tissue resistance. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 110,
+"question_text": "A 19-year-old sprinter suddenly stops during a race after feeling a \"pop\" in the back of his thigh. On examination, there is tenderness over the ischial tuberosity and weakness of knee flexion. Which injury is most likely?",
+"options": {
+"A": "Avulsion fracture of femoral neck",
+"B": "Rupture of quadriceps tendon",
+"C": "Avulsion fracture of ischial tuberosity",
+"D": "Tear of the adductor longus tendon",
+"E": "Rupture of popliteus tendon"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The hamstrings (biceps femoris, semitendinosus, and semimembranosus) originate from the ischial tuberosity and are primarily responsible for knee flexion. A sudden, violent contraction can cause an avulsion fracture of the tuberosity at their origin point, especially in young athletes. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 111,
+"question_text": "Athlete playing high jump now presented with pain in gluteal region. On examination he cannot flex hip and extend knee at same time. Damage to which of the following?",
+"options": {
+"A": "Avulsion of anterior inferior iliac spine",
+"B": "Ischial tuberosity fracture",
+"C": "Pubic symphysis fracture",
+"D": "Neck of femur fracture"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The ischial tuberosity serves as the attachment point for the hamstring muscles, which flex the knee and extend the hip. A fracture here disrupts these actions, making simultaneous hip extension and knee flexion impossible or extremely painful. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 112,
+"question_text": "A patient presents with fatigue, pallor, and jaundice. Peripheral blood smear shows schistocytes. What is the most likely diagnosis?",
+"options": {
+"A": "Hemolytic anemia",
+"B": "Iron deficiency anemia",
+"C": "Megaloblastic anemia",
+"D": "Aplastic anemia"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Schistocytes are fragmented red blood cells that indicate microangiopathic hemolytic anemia (MAHA) or mechanical destruction of RBCs. The clinical triad of jaundice, anemia, and schistocytes points toward intravascular hemolysis where RBCs are sheared as they pass through fibrin clots. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 113,
+"question_text": "During thoracic surgery, internal thoracic artery is ligated. To perfuse rectus abdominis, Flow increases to which artery?",
+"options": {
+"A": "Superior epigastric",
+"B": "Superficial epigastric",
+"C": "External iliac",
+"D": "Superior mesenteric",
+"E": "Inferior mesenteric"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The internal thoracic artery terminates by dividing into the superior epigastric and musculophrenic arteries. The superior epigastric artery enters the rectus sheath to supply the rectus abdominis, where it anastomoses with the inferior epigastric artery (from the external iliac). Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 114,
+"question_text": "The right hepatic artery is most likely to arise aberrantly from which of the following vessels?",
+"options": {
+"A": "Gastroduodenal artery",
+"B": "Superior Mesenteric Artery (SMA)",
+"C": "Celiac artery",
+"D": "Inferior Mesenteric Artery (IMA)"
+},
+"correct_answer": "B",
+"high_yield_explanation": "In approximately 17% of individuals, a 'replaced' right hepatic artery arises from the superior mesenteric artery instead of the proper hepatic artery. This anatomical variation is clinically significant during pancreaticoduodenectomy (Whipple procedure) or liver transplantation. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 115,
+"question_text": "Bacillus anthrax grows in which medium:",
+"options": {
+"A": "Sudan black",
+"B": "Lofflers medium",
+"C": "MacConkeys agar",
+"D": "Blood agar"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Bacillus anthracis grows well on ordinary laboratory media like blood agar, where it typically produces large, non-hemolytic, 'Medusa head' colonies. Unlike other Bacillus species, B. anthracis is classically non-hemolytic on sheep blood agar. Reference: Levinson's Review of Medical Microbiology and Immunology."
+},
+{
+"mcq_number": 116,
+"question_text": "Patient is having rhinosinusitis and nasal polyp with the fungus invading lamina papyracea, excessive endothelial damage and having non-septate hyphae organism involved is:",
+"options": {
+"A": "Candida",
+"B": "Histoplasmosis",
+"C": "Aspergillus",
+"D": "Mucor",
+"E": "Rhizopus"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Mucormycosis, caused by Mucor or Rhizopus, is a highly invasive fungal infection characterized by broad, non-septate hyphae with 90-degree branching. These fungi are angioinvasive, leading to vessel thrombosis and tissue necrosis, especially in diabetic patients (rhinocerebral mucormycosis). Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 117,
+"question_text": "An individual was hit on dorsum surface of wrist joint which tendon might get damage while passing through second compartment?",
+"options": {
+"A": "Abductor pollicis brevis",
+"B": "Extensor carpi radialis longus",
+"C": "Flexor carpi radialis brevis",
+"D": "Extensor pollicis brevis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The second extensor compartment of the wrist contains the tendons of the extensor carpi radialis longus and extensor carpi radialis brevis. These tendons are at risk during dorsal wrist trauma near the radial styloid process. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 118,
+"question_text": "The medial cord of the brachial plexus continues as which nerve?",
+"options": {
+"A": "Median nerve",
+"B": "Ulnar nerve",
+"C": "Musculocutaneous nerve",
+"D": "Axillary nerve"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The medial cord of the brachial plexus (C8-T1) continues directly as the ulnar nerve after giving off its contribution to the median nerve. This cord is responsible for supplying the intrinsic muscles of the hand via the ulnar nerve. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 119,
+"question_text": "A young man presents with chronic inflammatory back pain and episodes of eye redness. While the definitive diagnosis is Ankylosing Spondylitis, which laboratory marker is most sensitive for early diagnosis or is strongly associated with the disease?",
+"options": {
+"A": "Elevated C Reactive Protein",
+"B": "X-ray sacroiliac joint",
+"C": "MRI spine",
+"D": "Rheumatoid Factor positivity",
+"E": "HLA B27"
+},
+"correct_answer": "C",
+"high_yield_explanation": "While HLA-B27 is strongly associated with the disease, MRI is the most sensitive imaging modality for detecting early inflammatory changes (bone marrow edema) in the sacroiliac joints before they are visible on X-ray. This is critical for the diagnosis of non-radiographic axial spondyloarthritis. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 120,
+"question_text": "Nerve compression between C5 and C6 compress which of following?",
+"options": {
+"A": "C4",
+"B": "C6",
+"C": "C7",
+"D": "E. C3"
+},
+"correct_answer": "B",
+"high_yield_explanation": "In the cervical spine, the nerve roots exit above their corresponding vertebrae (e.g., the C1 root exits above C1). Therefore, a disc herniation or compression between the C5 and C6 vertebrae will compress the C6 nerve root. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 121,
+"question_text": "Medial attachment of flexor retinaculum",
+"options": {
+"A": "Pisiform bone",
+"B": "Trapezoid",
+"C": "Ulnar distal end",
+"D": "Sphenoid"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The flexor retinaculum (transverse carpal ligament) is attached medially to the pisiform bone and the hook of the hamate. Laterally, it attaches to the scaphoid tubercle and the ridge of the trapezium, forming the roof of the carpal tunnel. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 122,
+"question_text": "Syncope with change in posture due to:",
+"options": {
+"A": "Aortic stenosis",
+"B": "Subclavian steal syndrome",
+"C": "HOCM",
+"D": "Dilated cardiomyopathy"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Hypertrophic Obstructive Cardiomyopathy (HOCM) involves dynamic outflow obstruction that worsens with decreased preload (e.g., standing up). This sudden drop in stroke volume during postural changes leads to transient cerebral hypoperfusion and syncope. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 123,
+"question_text": "A young man presented with recurrent episodes of Syncope. These syncope episodes are related to reduce cerebral perfusion when the arm ipsilateral to the subclavian stenosis is exercised. subclavian steal phenomenon (SSP) occurs when there is stenosis or occlusion of the subclavian artery. In SSP which artery is stealing blood and shunting this to arms?",
+"options": {
+"A": "External carotid",
+"B": "Internal carotid",
+"C": "Thyrocervical trunk",
+"D": "Vertebral artery"
+},
+"correct_answer": "D",
+"high_yield_explanation": "In subclavian steal syndrome, proximal stenosis of the subclavian artery causes blood to flow retrograde down the ipsilateral vertebral artery to supply the exercising arm. This 'steals' blood from the cerebral circulation (Circle of Willis), leading to vertebrobasilar insufficiency and syncope. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 124,
+"question_text": "A 25-year-old man is tackled during a football match, receiving a blow to the lateral side of his knee. He complains of pain on the medial aspect of the knee and difficulty walking. Which of the following structures is most likely injured along with the medial collateral ligament (MCL)?",
+"options": {
+"A": "Medial meniscus",
+"B": "Lateral meniscus",
+"C": "Tibial artery",
+"D": "Anterior cruciate ligament (ACL)"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The 'unhappy triad' of knee injuries often results from a lateral blow and includes the MCL, ACL, and medial meniscus. The medial meniscus is frequently injured because it is firmly attached to the medial collateral ligament, making them vulnerable together during valgus stress. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 125,
+"question_text": "Failure of fusion of the medial ventricular walls leads to which type of Ventricular Septal Defect (VSD)?",
+"options": {
+"A": "Membranous VSD",
+"B": "Muscular VSD",
+"C": "Inlet VSD",
+"D": "Outlet VSD"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The membranous portion of the interventricular septum is formed by the fusion of the muscular septum, the aorticopulmonary septum, and the endocardial cushions. Failure of these components to fuse results in a membranous VSD, the most common congenital cardiac defect. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 126,
+"question_text": "A patient with type 2 diabetes is prescribed a drug that delays carbohydrate absorption in the intestine, lowering postprandial blood glucose. Which drug is this?",
+"options": {
+"A": "Metformin",
+"B": "Glibenclamide",
+"C": "Acarbose",
+"D": "Pioglitazone"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Acarbose is an alpha-glucosidase inhibitor that competitively inhibits enzymes in the intestinal brush border that break down complex carbohydrates into glucose. By slowing carbohydrate digestion, it flattens the postprandial glucose peak without causing hypoglycemia. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 127,
+"question_text": "55 year old male present to the clinic with complaint of increasing fatigue, SOB, and palpitation over the past six months he reports occasional chest discomfort and difficulty breathing when lying down on examination Water hammer pulse and wide pulse pressure was present on auscultation high pitched blowing diastolic murmur was heard this is characteristic finding of which of the following condition:",
+"options": {
+"A": "Aortic stenosis",
+"B": "Aortic regurgitation",
+"C": "Mitral stenosis",
+"D": "Mitral regurgitation",
+"E": "Mitral Valve prolapse"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Aortic Regurgitation (AR) presents with a wide pulse pressure and a 'water hammer' (Corrigan) pulse due to backflow into the LV. The characteristic high-pitched blowing diastolic murmur is best heard at the left sternal border with the patient leaning forward. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 128,
+"question_text": "What is a likely side effect of consuming 2g of Phenacetin?",
+"options": {
+"A": "Hypertension",
+"B": "Methemoglobinemia",
+"C": "Hyperglycemia",
+"D": "Bradycardia"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Phenacetin is metabolized to compounds that can oxidize the ferrous iron (Fe2+) in hemoglobin to ferric iron (Fe3+), forming methemoglobin. This reduces the oxygen-carrying capacity of the blood, leading to tissue hypoxia and a characteristic chocolate-colored blood appearance. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 129,
+"question_text": "Pioglitazone's mechanism of action involves agonism of which receptor?",
+"options": {
+"A": "PPAR-alpha",
+"B": "PPAR-gamma",
+"C": "GLP-1 receptor",
+"D": "SGLT2"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Thiazolidinediones like pioglitazone are agonists of the Peroxisome Proliferator-Activated Receptor gamma (PPAR-gamma), which regulates genes involved in lipid and glucose metabolism. Activation increases insulin sensitivity in peripheral tissues and increases the levels of adiponectin. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 130,
+"question_text": "65-year-old patient with a history of stroke, AFib, and CKD is on stable hemodialysis. Which anticoagulant is most suitable?",
+"options": {
+"A": "Dabigatran",
+"B": "Apixaban",
+"C": "Rivaroxaban",
+"D": "Warfarin"
+},
+"correct_answer": "D",
+"high_yield_explanation": "In patients with end-stage renal disease (ESRD) on dialysis, warfarin remains a preferred anticoagulant because its metabolism is largely hepatic rather than renal. Most Direct Oral Anticoagulants (DOACs) are renally excreted and have historically lacked robust safety data in the dialysis population. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 131,
+"question_text": "Cheilosis and corneal vascularization is due to deficiency of which of the following vitamin?",
+"options": {
+"A": "Thiamine",
+"B": "Biotin",
+"C": "Riboflavin",
+"D": "Folate",
+"E": "Vitamin C"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Riboflavin (Vitamin B2) deficiency classically presents with the '2 Cs': Cheilosis (inflammation of lips/cracks at corners of mouth) and Corneal vascularization. It is a precursor to FAD and FMN, which are vital cofactors in the electron transport chain. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 132,
+"question_text": "Which protein is a key component of neurofibrillary tangles in Alzheimer's disease?",
+"options": {
+"A": "GFAP",
+"B": "Tau protein",
+"C": "Amyloid beta",
+"D": "Alpha synuclein"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Neurofibrillary tangles consist of hyperphosphorylated tau protein, which normally stabilizes microtubules. When tau becomes hyperphosphorylated, it aggregates into insoluble filaments that disrupt neuronal transport and lead to cell death. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 133,
+"question_text": "Hirschsprung's disease primarily affects which part of the large intestine?",
+"options": {
+"A": "Ascending colon",
+"B": "Sigmoid colon",
+"C": "Cecum",
+"D": "Rectum"
+},
+"correct_answer": "D",
+"high_yield_explanation": "Hirschsprung's disease is caused by the failure of neural crest cells to migrate to the distal bowel; since migration occurs cranially to caudally, the rectum is always involved. This absence of ganglion cells results in a narrow, non-peristaltic segment that causes proximal intestinal obstruction. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 134,
+"question_text": "Most common cause of pan systolic murmur",
+"options": {
+"A": "ASD",
+"B": "TOF",
+"C": "VSD",
+"D": "PDA"
+},
+"correct_answer": "C",
+"high_yield_explanation": "A pansystolic (holosystolic) murmur is most commonly caused by a Ventricular Septal Defect (VSD), Mitral Regurgitation, or Tricuspid Regurgitation. In a VSD, the murmur is loudest at the left lower sternal border and persists throughout the entirety of systole. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 135,
+"question_text": "Maple syrup urine disease is an inborn error of metabolism Which enzyme is deficient",
+"options": {
+"A": "Homogentisic acid oxidase",
+"B": "Aromatic amino acid ketolase",
+"C": "Branched chain alpha ketoacid dehydrogenase",
+"D": "Propyl hydroxylase"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Maple Syrup Urine Disease is caused by a deficiency in the branched-chain alpha-ketoacid dehydrogenase complex, which is required to break down Leucine, Isoleucine, and Valine. The accumulation of these alpha-ketoacids gives the urine a sweet, maple syrup odor and leads to severe neurotoxicity. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 136,
+"question_text": "Crumpled tissue Paper like macrophages. Gaucher disease is caused by deficiency of which enzyme.",
+"options": {
+"A": "Hexosaminidase A",
+"B": "Glucocerebrosidase",
+"C": "Sphingomyelinase",
+"D": "Hexosaminidase",
+"E": "Glucokinase"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Gaucher disease is a lysosomal storage disorder caused by a deficiency in glucocerebrosidase (acid beta-glucosidase). This leads to the accumulation of glucocerebroside in macrophages, giving them the characteristic 'crumpled tissue paper' appearance. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 137,
+"question_text": "Type 1 hyperlipidemia with increased VLDL & TG is due to:",
+"options": {
+"A": "Deficiency of Lipoprotein lipase",
+"B": "Apo C1 mutation",
+"C": "Apo E deficiency",
+"D": "LDL receptor deficiency",
+"E": "Deficiency of Apo B"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Type 1 Familial Hyperchylomicronemia is caused by a deficiency in Lipoprotein Lipase (LPL) or its cofactor, ApoC-II. This prevents the clearance of chylomicrons and VLDL, leading to extremely high triglyceride levels and a risk of acute pancreatitis. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 138,
+"question_text": "Security guard had history of fall and remain unconscious for 30 sec. His neurological examination is unremarkable. He is having irregular pulse what is cause is",
+"options": {
+"A": "Syncope",
+"B": "MI"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Syncope is a transient loss of consciousness due to global cerebral hypoperfusion, often followed by rapid and complete recovery. An irregular pulse suggests a cardiac arrhythmia as the underlying trigger for the syncopal event. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 139,
+"question_text": "A neonate presents with failure to thrive, vomiting, musty body odor, fair skin, blue eyes, developmental delays, and a positive Ferric Chloride test in urine. What is the likely diagnosis?",
+"options": {
+"A": "Alkaptonuria",
+"B": "Phenylketonuria",
+"C": "Homocystinuria",
+"D": "Tropoaminase 1",
+"E": "Tropoaminase 2"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Phenylketonuria (PKU) results from a deficiency in phenylalanine hydroxylase, leading to the accumulation of phenylalanine and its 'musty' metabolites. The ferric chloride test turns green in the presence of phenylpyruvic acid, confirming the metabolic defect. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 140,
+"question_text": "A female is found with an empty benzodiazepine bottle after a fight, BP 90/60. What can be given at home",
+"options": {
+"A": "Flumazenil",
+"B": "Morphine",
+"C": "Activated charcoal",
+"D": "Naloxone",
+"E": "None"
+},
+"correct_answer": "C",
+"high_yield_explanation": "While Flumazenil is the hospital antidote, activated charcoal can be administered early after ingestion to adsorb the drug and prevent systemic absorption. However, maintaining the airway is the top priority in any sedative-hypnotic overdose. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 141,
+"question_text": "Patient was having bronchiolar inflammation and increased productive cough. What is the progenitor cell of the structure damaged in this condition?",
+"options": {
+"A": "Basal cell",
+"B": "Granular cell",
+"C": "Clara cell",
+"D": "Goblet Cell"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Clara cells (also known as Club cells) are the non-ciliated, secretory progenitor cells of the terminal bronchioles. They secrete surfactant-like components and detoxify inhaled toxins, as well as proliferate to replace damaged ciliated cells in the airway. Reference: Junqueira's Basic Histology."
+},
+{
+"mcq_number": 142,
+"question_text": "Tumor marker of astrocytes",
+"options": {
+"A": "GFAP",
+"B": "CEA",
+"C": "CA 125",
+"D": "CA 19-9",
+"E": "FAP"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Glial Fibrillary Acidic Protein (GFAP) is an intermediate filament specifically found in astrocytes and is used as a sensitive immunohistochemical marker for tumors of astrocytic origin, such as glioblastoma multiforme. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 143,
+"question_text": "A child previously having TB comes to you with the complain of fever and cough along with noisy breathing and difficulty in swallowing, now diagnosed as retropharyngeal abscess, which structure it will invade first?",
+"options": {
+"A": "Pre cervical fascia",
+"B": "Prevertebral fascia",
+"C": "Carotid sheath",
+"D": "Buccopharyngeal fascia"
+},
+"correct_answer": "B",
+"high_yield_explanation": "A retropharyngeal abscess is located in the potential space between the buccopharyngeal fascia (anterior) and the prevertebral fascia (posterior). Because the prevertebral fascia is the posterior boundary, an enlarging abscess is most likely to invade or press against it first. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 144,
+"question_text": "An abscess in the posterior triangle of the neck, superior to the sternocleidomastoid muscle, is likely to spread to:",
+"options": {
+"A": "Investing layer of deep cervical fascia",
+"B": "Pretracheal fascia",
+"C": "Retromandibular space",
+"D": "Prevertebral fascia"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The floor of the posterior triangle of the neck is formed by the prevertebral fascia, which covers the scalene muscles. Deep infections in this area are constrained by or follow the path along this fascial layer into the axilla or mediastinum. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 145,
+"question_text": "A patient with head injury: urine output 500 ml/h, urine osmolality 800, serum osmolality 250, serum potassium 3.5. Diagnosis?",
+"options": {
+"A": "SIADH",
+"B": "Diabetes Insipidus",
+"C": "Cerebral Salt Wasting",
+"D": "Addison's Crisis"
+},
+"correct_answer": "A",
+"high_yield_explanation": "SIADH is characterized by inappropriately concentrated urine (osmolality >100 mOsm/kg) in the presence of serum hyponatremia and low serum osmolality. This results from excessive ADH secretion, often triggered by head trauma, leading to water retention and dilutional hyponatremia. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 146,
+"question_text": "A 32-year-old man sustains a blow to the head in a road traffic accident. Examination reveals ptosis, a dilated pupil, and the eye deviated “down and out” on the left side. Injury to which of the following skull structures most likely caused his symptoms?",
+"options": {
+"A": "Greater wing of sphenoid",
+"B": "Lesser wing of sphenoid",
+"C": "Superior orbital fissure",
+"D": "Ethmoid bone",
+"E": "Frontal bone"
+},
+"correct_answer": "C",
+"high_yield_explanation": "A 'down and out' eye with ptosis and mydriasis indicates a Cranial Nerve III (Oculomotor) lesion. CN III enters the orbit through the superior orbital fissure; trauma or compression here disrupts its motor and parasympathetic functions. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 147,
+"question_text": "The supraorbital artery is a branch of:",
+"options": {
+"A": "Ophthalmic Artery",
+"B": "Maxillary Artery",
+"C": "Facial Artery",
+"D": "Superficial Temporal Artery"
+},
+"correct_answer": "A",
+"high_yield_explanation": "The supraorbital artery is a major branch of the ophthalmic artery, which is itself the first branch of the internal carotid artery. It exits the orbit via the supraorbital notch to supply the forehead and scalp. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": 148,
+"question_text": "A patient presented with signs of hypovolemic shock and received treatment for this very cause What indicator should be assessed for initial recovery in him?",
+"options": {
+"A": "Increase CO",
+"B": "Increase HR",
+"C": "Increase Urine output",
+"D": "Edema"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Urine output is the most reliable clinical indicator of adequate end-organ perfusion and resuscitation in a shock patient. A return to a output of 0.5 mL/kg/hr indicates that the kidneys, and thus the rest of the body, are receiving sufficient cardiac output. Reference: Bailey & Love's Short Practice of Surgery."
+},
+{
+"mcq_number": 149,
+"question_text": "Chloramphenicol's mechanism of action is:",
+"options": {
+"A": "Inhibit Protein synthesis",
+"B": "Inhibit Cell wall synthesis",
+"C": "Inhibit DNA replication",
+"D": "Inhibit RNA synthesis"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Chloramphenicol acts by binding to the 50S subunit of the bacterial ribosome and inhibiting the enzyme peptidyltransferase. This action blocks the formation of peptide bonds during protein synthesis, effectively stopping bacterial growth. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": 150,
+"question_text": "A 45-year-old asthmatic patient with a history of myocardial infarction presents for fitness evaluation. ASA classification will be",
+"options": {
+"A": "ASA 1",
+"B": "ASA 2",
+"C": "ASA 3",
+"D": "ASA 4"
+},
+"correct_answer": "C",
+"high_yield_explanation": "ASA Class 3 is assigned to patients with severe systemic disease that is not life-threatening. A history of myocardial infarction combined with active respiratory disease like asthma qualifies as a severe systemic condition requiring careful perioperative management. Reference: Miller's Anesthesia."
+}
+,
+{
+"mcq_number": 151,
+"question_text": "A patient is placed in the left lateral position before surgery despite not being NPO. Why?",
+"options": {
+"A": "To improve ventilation in the left lung",
+"B": "Right bronchi is more wide and vertical and has chance of aspiration",
+"C": "To improve venous return",
+"D": "To reduce pressure on the spine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "The right main bronchus is shorter, wider, and more vertically oriented than the left, making it the most likely path for aspirated stomach contents. The left lateral position utilizes gravity to keep gastric contents in the stomach and, if emesis occurs, redirects the flow away from the high-risk right bronchial tree. Reference: First Aid for the USMLE Step 1 (Anatomy Section)."
+},
+{
+"mcq_number": 152,
+"question_text": "A 36-week pregnant patient presents with labour and fetal bradycardia. This is a sign of:",
+"options": {
+"A": "Fetal hypoxia",
+"B": "Fetal tachycardia",
+"C": "Maternal anemia",
+"D": "Polyhydramnios"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Fetal bradycardia (baseline < 110 bpm) is often a critical sign of acute fetal hypoxia or acidosis, resulting from decreased oxygen delivery to the fetal myocardium. This can be caused by cord compression, placental abruption, or maternal hypotension. Reference: Ten Teachers, Obstetrics & Gynaecology."
+},
+{
+"mcq_number": 153,
+"question_text": "A patient with trauma on the ventral border of the scapula is unable to move. Which muscle is likely ruptured?",
+"options": {
+"A": "Trapezius",
+"B": "Latissimus dorsi",
+"C": "Pectoralis major",
+"D": "Serratus anterior"
+},
+"correct_answer": "D",
+"high_yield_explanation": "The serratus anterior muscle originates from the upper eight ribs and inserts on the entire medial (ventral) border of the scapula. Rupture or paralysis of this muscle (via the long thoracic nerve) results in 'winging' of the scapula and the inability to protract or rotate the scapula for arm elevation. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": 154,
+"question_text": "A patient develops tPA toxicity with increased ICP after stroke treatment. Best reversal method:",
+"options": {
+"A": "Cryoprecipitate",
+"B": "Fresh frozen plasma",
+"C": "Vitamin K",
+"D": "Protamine sulfate"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Cryoprecipitate is the treatment of choice for tissue plasminogen activator (tPA) reversal because it is concentrated in Fibrinogen, Factor VIII, and von Willebrand factor, which are depleted during thrombolytic-induced coagulopathy. Restoring fibrinogen levels is the most rapid way to stabilize clot formation and stop intracranial bleeding. Reference: Harrison's Principles of Internal Medicine."
+},
+{
+"mcq_number": 155,
+"question_text": "Local anesthetics primarily act on:",
+"options": {
+"A": "Voltage gated Na channels",
+"B": "Calcium channels",
+"C": "Na/K pump",
+"D": "GABA receptors"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Local anesthetics bind to the intracellular portion of voltage-gated sodium channels, preventing the influx of sodium ions and halting the initiation and conduction of action potentials. They preferentially bind to channels in the activated or inactivated states (use-dependence). Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": 156,
+"question_text": "A 45-year-old male patient is admitted to the ICU after a craniotomy for a right frontal tumor. Which of the following interventions is most effective in preventing an increase in intracranial pressure (ICP) in the postoperative period?",
+"options": {
+"A": "Elevating the head of the bed to 30 degrees",
+"B": "Administering prophylactic mannitol routinely in all patients",
+"C": "Keeping the patient NPO (nil per os) for 48 hours",
+"D": "Routine hyperventilation to PaCO2 of 25 mmHg",
+"E": "Maintaining patient in strict supine position"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Elevating the head of the bed (HOB) to 30-45 degrees is the most effective immediate non-invasive measure to lower ICP by facilitating venous drainage through the jugular veins. This utilizes gravity to decrease cerebral blood volume without compromising mean arterial pressure. Reference: First Aid for the USMLE Step 1 (Neurology Section)."
+},
+{
+"mcq_number": 157,
+"question_text": "A patient with Familial Adenomatous Polyposis (FAP) develops a fibrous central abdominal tumor. The likely diagnosis is:",
+"options": {
+"A": "Desmoid tumor",
+"B": "Lipoma",
+"C": "Leiomyoma",
+"D": "Gastrointestinal stromal tumor"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Desmoid tumors are locally aggressive fibroblastic proliferations that are strongly associated with Gardner Syndrome, a clinical variant of FAP. These tumors often occur in the abdominal wall or mesentery following surgery due to aberrant Wnt/beta-catenin signaling. Reference: Robbins Basic Pathology."
+},
+{
+"mcq_number": 158,
+"question_text": "A patient with a history of appendectomy for mucinous cystadenoma presents with ascites, altered bowel habits, and a \"sticky\" abdomen on examination. Likely diagnosis?",
+"options": {
+"A": "Peritoneal carcinomatosis",
+"B": "Pseudomyxoma peritonei",
+"C": "Tuberculous peritonitis",
+"D": "Mesenteric panniculitis"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Pseudomyxoma peritonei occurs when a mucinous tumor (classically from the appendix) ruptures and seeds the peritoneal cavity with mucus-secreting cells. This leads to the massive accumulation of gelatinous ascites, commonly known as 'jelly belly,' which can cause bowel obstruction. Reference: Robbins & Cotran Pathologic Basis of Disease."
+},
+{
+"mcq_number": 159,
+"question_text": "A patient merely eats vegetables, he will be deficient in:",
+"options": {
+"A": "Folic Acid",
+"B": "Vitamin B12",
+"C": "Calcium",
+"D": "Iron"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Vitamin B12 is synthesized exclusively by microorganisms and is found naturally only in animal-derived foods (meat, dairy, eggs). While vegetables are rich in folic acid, a strict vegan or plant-based diet will eventually lead to B12 deficiency as body stores are depleted over 3-5 years. Reference: First Aid for the USMLE Step 1 (Biochemistry Section)."
+},
+{
+"mcq_number": 160,
+"question_text": "A lactating mother presents with a breast mass. FNAC shows white creamy material. Likely diagnosis?",
+"options": {
+"A": "Breast abscess",
+"B": "Galactocele",
+"C": "Fibroadenoma",
+"D": "Breast carcinoma"
+},
+"correct_answer": "B",
+"high_yield_explanation": "A galactocele is a milk-filled retention cyst caused by an obstructed lactiferous duct during lactation or shortly after weaning. Fine-needle aspiration is both diagnostic and therapeutic, yielding the characteristic 'creamy' or milky fluid. Reference: Bailey & Love's Short Practice of Surgery."
+},
+{
+"mcq_number": 161,
+"question_text": "A 45-year-old patient undergoing laparoscopic cholecystectomy for symptomatic gallstones develops significant bleeding near Calot's triangle, which is controlled with difficulty. The bleeding vessel is located near to the common bile duct and duodenum. The structure most likely injured is:",
+"options": {
+"A": "Cystic artery",
+"B": "Right hepatic artery",
+"C": "Accessory hepatic duct",
+"D": "Posterior superior pancreaticoduodenal artery"
+},
+"correct_answer": "A",
+"high_yield_explanation": "Calot's triangle (cystohepatic triangle) is bounded by the cystic duct, common hepatic duct, and the inferior border of the liver. The cystic artery, which is the primary vessel supply to the gallbladder, typically traverses this triangle and is the most common source of arterial bleeding during cholecystectomy. Reference: Snell's Clinical Anatomy."
+},
+{
+"mcq_number": "8-Apr-01",
+"question_text": "Which of the following chemotherapy drugs acts by inhibiting microtubule assembly?",
+"options": {
+"A": "Cyclophosphamide",
+"B": "Methotrexate",
+"C": "Vinblastine",
+"D": "Cisplatin",
+"E": "Paclitaxel"
+},
+"correct_answer": "C",
+"high_yield_explanation": "Vinblastine is a vinca alkaloid that binds to tubulin and prevents its polymerization into microtubules, thereby arresting cells in mitosis (M-phase). Conversely, taxanes like paclitaxel inhibit microtubule disassembly (stabilize them), but both prevent proper spindle formation. Reference: Katzung's Basic & Clinical Pharmacology."
+},
+{
+"mcq_number": "8-Apr-02",
+"question_text": "To study the relationship between blood pressure and height in a sample of 200 people, the most appropriate graphical method to present the data is:",
+"options": {
+"A": "Bar chart",
+"B": "Histogram",
+"C": "Pie chart",
+"D": "Scatter plot",
+"E": "Box and whisker plot"
+},
+"correct_answer": "D",
+"high_yield_explanation": "A scatter plot is the standard tool used to visualize the correlation and potential relationship between two continuous variables (like height and blood pressure). Each point represents an individual, allowing for the immediate detection of trends, clusters, or outliers. Reference: USMLE Step 1 (Behavioral Science/Biostatistics Section)."
+},
+{
+"mcq_number": "8-Apr-03",
+"question_text": "A young child presents with recurrent respiratory infections, chronic sinusitis, bronchiectasis and dextrocardia. What is the most likely diagnosis?",
+"options": {
+"A": "Cystic Fibrosis",
+"B": "Kartagener syndrome",
+"C": "Alpha-1 antitrypsin deficiency",
+"D": "Laryngomalacia",
+"E": "Immotile cilia syndrome"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Kartagener syndrome is a subset of primary ciliary dyskinesia characterized by the triad of situs inversus (dextrocardia), chronic sinusitis, and bronchiectasis. It results from a dynein arm defect that renders cilia immotile, preventing normal clearance of mucus and allowing bacteria to colonize the airways. Reference: First Aid for the USMLE Step 1."
+},
+{
+"mcq_number": "8-Apr-04",
+"question_text": "A patient presents with cheilosis and corneal vascularization. Which vitamin deficiencies is most likely?",
+"options": {
+"A": "Thiamine",
+"B": "Riboflavin",
+"C": "Niacin",
+"D": "Pyridoxine"
+},
+"correct_answer": "B",
+"high_yield_explanation": "Riboflavin (B2) deficiency classically causes a 'magenta tongue,' cheilosis, and corneal neovascularization as it is essential for redox reactions in the form of FMN and FAD. Without it, the body cannot effectively maintain epithelial integrity and mitochondrial function. Reference: Harper’s Illustrated Biochemistry."
+},
+{
+"mcq_number": "8-Apr-05",
+"question_text": "What is formed by the fusion of the spinous processes of the sacrum?",
+"options": {
+"A": "Lateral sacral crest",
+"B": "Medial sacral crest",
+"C": "Median sacral crest",
+"D": "Sacral hiatus",
+"E": "Sacral promontory"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The median sacral crest is the midline ridge on the posterior surface of the sacrum formed by the fusion of the first three or four sacral spinous processes. The lateral sacral crests, by contrast, are formed by the fusion of the transverse processes. Reference: Gray's Anatomy."
+},
+{
+"mcq_number": "8-Apr-06",
+"question_text": "A patient with a suspected rotator cuff injury undergoes a shoulder arthrogram. After the injection of contrast dye into the glenohumeral joint cavity, the dye is seen extending into a bursa situated between the neck of the scapula and the tendon of the subscapularis muscle. Which of the following normally communicates with the shoulder joint?",
+"options": {
+"A": "Subacromial bursa",
+"B": "Subdeltoid bursa",
+"C": "Subscapularis bursa",
+"D": "Infraspinatus bursa",
+"E": "Subcoracoid bursa"
+},
+"correct_answer": "C",
+"high_yield_explanation": "The subscapularis bursa (subtendinous bursa of the subscapularis) is unique because it consistently communicates with the glenohumeral joint cavity via an opening in the anterior fibrous capsule. Contrast seen in this bursa during an arthrogram is a normal finding, whereas contrast in the subacromial bursa indicates a rotator cuff tear. Reference: Snell's Clinical Anatomy."
+}
+]
