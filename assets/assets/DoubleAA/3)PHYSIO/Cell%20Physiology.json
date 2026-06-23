@@ -1,0 +1,3377 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "IGGO dome receptors collections are:",
+    "options": {
+      "A": "Pacini",
+      "B": "Ruffini",
+      "C": "Merkels",
+      "D": "Meissners",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Plateau phase in the action potential is due to:",
+    "options": {
+      "A": "Influx of sodium",
+      "B": "Influx of calcium and efflux of potassium",
+      "C": "Efflux of calcium and influx of potassium",
+      "D": "Efflux of potassium only",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "All or none action potential is initiated at:",
+    "options": {
+      "A": "Axon hillock",
+      "B": "Node of renvier",
+      "C": "Axon terminal",
+      "D": "Soma",
+      "E": "Dendrite"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Factor for exercising muscle blood supply by:",
+    "options": {
+      "A": "Local metabolite",
+      "B": "Sympathetic cholinergic",
+      "C": "Parasympathetic",
+      "D": "Oxygen",
+      "E": "A(BRS)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Which one is controlled by sympathetic rather than local metabolites?",
+    "options": {
+      "A": "Muscle",
+      "B": "Skin",
+      "C": "Brain",
+      "D": "Liver",
+      "E": "Heart"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Glucose transport in intestine is:",
+    "options": {
+      "A": "Na-Glucose Co transport",
+      "B": "Na-K Co transport",
+      "C": "Na-Uran Co transport",
+      "D": "None",
+      "E": "Facilitated diffusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Inactivation gates of Na are closed during:",
+    "options": {
+      "A": "Depolarized state",
+      "B": "Repolarized state",
+      "C": "Hyperpolarized state",
+      "D": "Partially depolarized state",
+      "E": "Resting state"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Permeability of the molecule across cell membrane depends on its size following has relatively higher permeability across cell membrane:",
+    "options": {
+      "A": "Glucose",
+      "B": "Insulin",
+      "C": "Urea",
+      "D": "Albumin",
+      "E": "Water"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Secondary active transport requires:",
+    "options": {
+      "A": "Pump",
+      "B": "Carrier",
+      "C": "Down hill",
+      "D": "Energy",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Oxidase enzyme and H2O2 present in:",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Mitochondria",
+      "C": "Peroxisomes",
+      "D": "SER",
+      "E": "RER"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Diffusion depends on size of particles which one has relatively high diffusion capacity?",
+    "options": {
+      "A": "Water",
+      "B": "Glucose",
+      "C": "Sodium",
+      "D": "Potassium",
+      "E": "Chloride"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "When sodium channels are completely blocked by drugs, what will happen?",
+    "options": {
+      "A": "Decreased action potential",
+      "B": "No action potential",
+      "C": "Increased action potential",
+      "D": "No change in action potential",
+      "E": "Hyperpolarization"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Main function of cell membrane:",
+    "options": {
+      "A": "Synthesis of cholesterol",
+      "B": "Synthesis of protein",
+      "C": "Selective permeability",
+      "D": "Maintain electrolytes imbalance",
+      "E": "Energy production"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Nissle substance related to:",
+    "options": {
+      "A": "RER",
+      "B": "SER",
+      "C": "Peroxisome",
+      "D": "Ribosome",
+      "E": "Golgi body"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Resting Membrane potential achieved by:",
+    "options": {
+      "A": "Na K pump",
+      "B": "NA Influx",
+      "C": "K efflux",
+      "D": "K influx",
+      "E": "Cl efflux"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "RER is involved in the formation of:",
+    "options": {
+      "A": "Steroids",
+      "B": "Lipids",
+      "C": "Proteins",
+      "D": "Enzymes",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Transport of solute in active transport:",
+    "options": {
+      "A": "Passive Diffusion",
+      "B": "Down hill",
+      "C": "Require energy",
+      "D": "No energy needed",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Glucose Transport to fetus through:",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Facilitated diffusion",
+      "C": "Active transport",
+      "D": "Osmosis",
+      "E": "Endocytosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Local anesthesia cross placenta through:",
+    "options": {
+      "A": "Active transport",
+      "B": "Bulk flow",
+      "C": "Facilitated diffusion",
+      "D": "Simple diffusion",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Nerve fibers placed in sodium free solution, what will happen to action potential?",
+    "options": {
+      "A": "No action potential",
+      "B": "Increase Threshold of potential",
+      "C": "Depolarization",
+      "D": "Repolarization",
+      "E": "Hyperpolarization"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Action potential in neuron originates at:",
+    "options": {
+      "A": "Proximal Dendrites",
+      "B": "Axon Hillock",
+      "C": "Stroma",
+      "D": "Distal Dendrites",
+      "E": "Soma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Regarding smooth muscle which is true?",
+    "options": {
+      "A": "Each fiber is innervated by nerve",
+      "B": "Has slow and sustained contraction",
+      "C": "Multiple cells joined together",
+      "D": "Get Fatigue",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Which of the following substances must be further digested before it can be absorbed by specific carriers in intestinal cells?",
+    "options": {
+      "A": "Fructose",
+      "B": "Sucrose",
+      "C": "Alanine",
+      "D": "Dipeptides",
+      "E": "Tripeptides"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Other than nucleus DNA exist in:",
+    "options": {
+      "A": "Golgi",
+      "B": "Ribosomes",
+      "C": "Mitochondria",
+      "D": "Lysosomes",
+      "E": "Peroxisomes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Which structure connects 2 epithelial cells?",
+    "options": {
+      "A": "Integrins",
+      "B": "Gap junctions",
+      "C": "Tight junctions",
+      "D": "Desmosome",
+      "E": "Hemi desmosomes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Distribution of pain receptors on fingertips involve:",
+    "options": {
+      "A": "Pacinian",
+      "B": "Merkels disc",
+      "C": "Meissners",
+      "D": "Free nerve endings",
+      "E": "Krause"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Cardiolipin Phospholipid is present in which of the following?",
+    "options": {
+      "A": "RER",
+      "B": "Mitochondria",
+      "C": "SER",
+      "D": "Plasma membrane",
+      "E": "Golgi bodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Sympathetic cholinergic stimulation causes which effect?",
+    "options": {
+      "A": "Vasodilation in skeletal muscle",
+      "B": "Relaxation of ciliary muscle",
+      "C": "Pupillary Constriction",
+      "D": "Accommodation reflex for near vision",
+      "E": "Increase GIT motility"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Hydrolytic enzymes are found in which of following?",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Mitochondria",
+      "C": "Golgi bodies",
+      "D": "Peroxisomes",
+      "E": "Centriole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "During exercise blood flow to which of the following decreases?",
+    "options": {
+      "A": "Skin",
+      "B": "Splanchnic",
+      "C": "Skeletal muscle",
+      "D": "Heart",
+      "E": "Lung"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Transport depends on thickness is:",
+    "options": {
+      "A": "Diffusion",
+      "B": "Osmosis",
+      "C": "Endocytosis",
+      "D": "Exocytosis",
+      "E": "Active transport"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Very long chain fatty acids are catalyzed in:",
+    "options": {
+      "A": "Peroxisomes",
+      "B": "Mitochondria",
+      "C": "ER",
+      "D": "Lysosomes",
+      "E": "Golgi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Which of following has transport maximum?",
+    "options": {
+      "A": "Urate",
+      "B": "Lactate",
+      "C": "Phosphate",
+      "D": "Ammonia",
+      "E": "Glucose"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Type of endocytosis that occur in lysosome:",
+    "options": {
+      "A": "Phagocytosis",
+      "B": "Pinocytosis",
+      "C": "Apoptosis",
+      "D": "Cell lysis",
+      "E": "Pseudopod mediated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "In cell membranes bond between integral protein and lipid is:",
+    "options": {
+      "A": "Hydrophobic and covalent bond",
+      "B": "Covalent bonds",
+      "C": "Hydrogen bonding",
+      "D": "Ionic bonds",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Cell organelle containing double membrane:",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Nucleus",
+      "C": "Golgi apparatus",
+      "D": "Peroxisomes",
+      "E": "Ribosomes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Regarding skeletal muscles what is true?",
+    "options": {
+      "A": "Fleshy belly throughout",
+      "B": "Aponeurosis is fibrous",
+      "C": "Distal insertion is fixed",
+      "D": "Origin causes movement",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Student examining a slide, visualize a tumor of muscle of GIT, a protein which connect cells together is missing. Protein is?",
+    "options": {
+      "A": "Titin",
+      "B": "Collagen",
+      "C": "Fibronectin",
+      "D": "Actinin",
+      "E": "Cadherin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Hyper excitability of neurons is due to decrease level of:",
+    "options": {
+      "A": "Chloride",
+      "B": "Potassium",
+      "C": "Sodium",
+      "D": "Calcium",
+      "E": "Magnesium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "During prolong surgery of 8 hours the temperature of patient is monitored by:",
+    "options": {
+      "A": "Probe in Axilla",
+      "B": "Probe in Rectum",
+      "C": "Probe in Esophagus",
+      "D": "Probe in Tympanic membrane",
+      "E": "By Hamstring muscle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Body metabolic response to trauma: Skeletal muscle responds by:",
+    "options": {
+      "A": "Decreased proteolysis",
+      "B": "Increase glucose loss",
+      "C": "Increase proteolysis",
+      "D": "No metabolic change",
+      "E": "Decrease Protein loss"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Which of the following is the communication between cells which prevented unwanted materials from passing through them?",
+    "options": {
+      "A": "Gap junctions",
+      "B": "Tight junctions",
+      "C": "Desmosomes",
+      "D": "Hemidesmosomes",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Hyperpolarization of nerve fibers is due to:",
+    "options": {
+      "A": "Efflux of potassium",
+      "B": "Influx of potassium",
+      "C": "Low Na/K ATPase",
+      "D": "Efflux of Sodium",
+      "E": "Efflux of Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "In normal healthy person, sympathetic activity is increased to increase blood flow to:",
+    "options": {
+      "A": "Heart",
+      "B": "Skin",
+      "C": "Muscle",
+      "D": "Lungs",
+      "E": "Brain"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A naked person in AC room with temperature 21, humidity 80%, heat loss will be through:",
+    "options": {
+      "A": "Increase loss by perspiration",
+      "B": "Radiation and conduction",
+      "C": "Radiation",
+      "D": "Conduction",
+      "E": "Evaporation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Increase no. of mitochondria is present in apical layers of which cells?",
+    "options": {
+      "A": "Cardiac muscle",
+      "B": "Skeletal muscle",
+      "C": "Smooth muscles",
+      "D": "Ciliated cells",
+      "E": "Neuron"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "The concept of conduction of one sensation modality in sensor nerve fibers at a time is called:",
+    "options": {
+      "A": "Dales law",
+      "B": "Powers law",
+      "C": "Weber Fechner law",
+      "D": "All or none",
+      "E": "Labelled line principle"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "In axonal membrane constant membrane depolarization depends on:",
+    "options": {
+      "A": "Membrane capacitance",
+      "B": "Axonal transport",
+      "C": "Resistance",
+      "D": "Velocity",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Actin is bound to Z line by:",
+    "options": {
+      "A": "Myosinin",
+      "B": "Laminin",
+      "C": "Capsinin",
+      "D": "Actinin",
+      "E": "Nebulin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "2/3rd of Body fluid:",
+    "options": {
+      "A": "ICF",
+      "B": "ECF",
+      "C": "Plasma",
+      "D": "Interstitial Fluid",
+      "E": "Transcellular fluid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Cytokeratin is made up of:",
+    "options": {
+      "A": "Glycoproteins",
+      "B": "Intermediate filaments",
+      "C": "Microfilaments",
+      "D": "Microtubules",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Secretory vesicles are formed by:",
+    "options": {
+      "A": "Golgi",
+      "B": "ER",
+      "C": "Lysosomes",
+      "D": "Mitochondria",
+      "E": "Nucleus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Statement true about cell is:",
+    "options": {
+      "A": "Nucleolus is floating in cytoplasm",
+      "B": "Hematoxylin stains nucleus blue",
+      "C": "Golgi bodies forms proteins",
+      "D": "Ribosome is powerhouse of cell",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Regarding phospholipids:",
+    "options": {
+      "A": "Insoluble in Water",
+      "B": "Soluble in Water",
+      "C": "Backbone is made by Lipids",
+      "D": "Backbone is made by Chloride",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Statement true about gap junctions:",
+    "options": {
+      "A": "Absent in cardiac muscles",
+      "B": "Present in cardiac muscles",
+      "C": "Absent in smooth muscles",
+      "D": "Present in skeletal muscles",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "True regarding action potential:",
+    "options": {
+      "A": "Subsequent action potential can Summate",
+      "B": "With more stimulation action potential can occur above threshold",
+      "C": "More amplitude of stimulus can increase amplitude of action potential",
+      "D": "None of the above",
+      "E": "Follows all or none law"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Drug receptors are:",
+    "options": {
+      "A": "Protein in nature",
+      "B": "Fixed in number",
+      "C": "Decreased in old age",
+      "D": "Variable",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "CO2 passes through which of the following:",
+    "options": {
+      "A": "Passive diffusion",
+      "B": "Active Transport",
+      "C": "Secondary Transport",
+      "D": "Facilitated",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "On H & E staining a student sees the hallow structure around the nucleus. What it could be?",
+    "options": {
+      "A": "Golgi Apparatus",
+      "B": "Lysosome",
+      "C": "Ribosome",
+      "D": "Endoplasmic Reticulum",
+      "E": "Mitochondria"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Phospholipid is an important component of cell membrane due to:",
+    "options": {
+      "A": "It is insoluble in water",
+      "B": "It has both polar & non polar ends",
+      "C": "It is covalently bond to protein",
+      "D": "It only has polar ends",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Connected to desmosomes are",
+    "options": {
+      "A": "Tubulin",
+      "B": "Microfilaments",
+      "C": "Microtubules",
+      "D": "Intermediate filaments",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "What is an Anion gap?",
+    "options": {
+      "A": "Measured cations and measured anions",
+      "B": "Unmeasured cations and unmeasured anions",
+      "C": "Unmeasured cations and measures anions",
+      "D": "Measured cations and unmeasured anions",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Most important component of lipid:",
+    "options": {
+      "A": "Phosphorus",
+      "B": "Carbon",
+      "C": "Potassium",
+      "D": "Sodium",
+      "E": "Hydrogen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Osmosis depends on:",
+    "options": {
+      "A": "Number of solute particles",
+      "B": "Osmoreceptors",
+      "C": "Concentration gradient",
+      "D": "Electrical gradient",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Which of the following muscles do not tetanize?",
+    "options": {
+      "A": "Skeletal muscles",
+      "B": "Smooth muscles",
+      "C": "Both skeletal and smooth muscles",
+      "D": "Cardiac muscles",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "The fluidity of the cell membrane is caused by:",
+    "options": {
+      "A": "Integrins",
+      "B": "Lipopolysaccharide",
+      "C": "Glucose",
+      "D": "Cholesterol",
+      "E": "Proteins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "True about euchromatin:",
+    "options": {
+      "A": "Densely condensed",
+      "B": "Lightly condensed",
+      "C": "Contains histone protein only",
+      "D": "8% of the human genome",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Most growth factors have receptors on which organelle?",
+    "options": {
+      "A": "Plasma membrane",
+      "B": "Cytoplasm",
+      "C": "Lysosomes",
+      "D": "Golgi complex",
+      "E": "Nucleus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "The intracellular structure composed of microtubules:",
+    "options": {
+      "A": "Centromere",
+      "B": "Centrioles",
+      "C": "Golgi Apparatus",
+      "D": "Endoplasmic reticulum",
+      "E": "Nucleus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "The facilitated diffusion in intestine suits with which one of the following?",
+    "options": {
+      "A": "Glucose",
+      "B": "Galactose",
+      "C": "Sucrose",
+      "D": "Fructose",
+      "E": "Lactose"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Striated muscle that rhythmically myogenically contract is synchronized fashion:",
+    "options": {
+      "A": "Skeletal muscles",
+      "B": "Smooth muscles",
+      "C": "Cardiac muscle",
+      "D": "Ciliary body",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Cell swelling that occurs in reversible injury is owing to:",
+    "options": {
+      "A": "Fat accumulation",
+      "B": "Inward water flow",
+      "C": "Calcium entrance to cells",
+      "D": "Na-K pump malfunctioning",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Transfer of O2 from alveoli to capillaries involves which mechanism?",
+    "options": {
+      "A": "Active transport",
+      "B": "Passive diffusion",
+      "C": "Facilitated diffusion",
+      "D": "Secondary diffusion",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Regarding sarcomere of muscle fiber it's between:",
+    "options": {
+      "A": "Two Z-lines",
+      "B": "Transverse tubules",
+      "C": "H-Band",
+      "D": "A-Band",
+      "E": "I-Band"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Most common phospholipid in cell membrane:",
+    "options": {
+      "A": "Sphingomyelin",
+      "B": "Phosphotidicholine",
+      "C": "Cephalic",
+      "D": "Glycerol",
+      "E": "Lecithin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Albumin does not pass basement membrane due to:",
+    "options": {
+      "A": "Negative charge",
+      "B": "Large size",
+      "C": "Positive charge",
+      "D": "Medium size",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Structure produced by basal bodies:",
+    "options": {
+      "A": "Cilia",
+      "B": "Microtubules",
+      "C": "Microfilaments",
+      "D": "Cell wall",
+      "E": "Cell membrane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Lipid bilayer of cell membrane have cholesterol in its structure. Function of this cholesterol in membrane is:",
+    "options": {
+      "A": "Intercellular attachment",
+      "B": "Permits Ion movement",
+      "C": "Solubility",
+      "D": "Phagocytosis",
+      "E": "Fluidity"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Basement membrane possess negative charge due to:",
+    "options": {
+      "A": "Cadherin",
+      "B": "Desmosomes",
+      "C": "Elastin",
+      "D": "Laminin",
+      "E": "Heparan sulphate"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "O2 and CO2 diffuse through cell membrane because:",
+    "options": {
+      "A": "Their size is small",
+      "B": "They are lipid soluble",
+      "C": "They are water soluble",
+      "D": "Do not cross cell membrane",
+      "E": "Carrier mediated movement across cell membrane"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Skeletal muscles seen on light microscopy. What is likely to appear?",
+    "options": {
+      "A": "Mononuclear",
+      "B": "Have branching fibers",
+      "C": "Light and dark stripes",
+      "D": "No light and dark stripes",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Initiation of action potential in skeletal muscle by stimulating its motor nerve:",
+    "options": {
+      "A": "Require the release of acetylcholine",
+      "B": "Require temporal facilitation",
+      "C": "Require spatial facilitation",
+      "D": "Require the release of NE",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "During exercise blood flow to which organ increases?",
+    "options": {
+      "A": "Skeletal muscle",
+      "B": "Kidney",
+      "C": "Heart",
+      "D": "Brain",
+      "E": "Lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Calcium in skeletal muscle ER is bound with:",
+    "options": {
+      "A": "Desmin",
+      "B": "Myosin",
+      "C": "Calmodulin",
+      "D": "Calsequestrin",
+      "E": "Troponin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Out of the following characteristics the most similar between pulmonary & skeletal muscle capillaries is:",
+    "options": {
+      "A": "Capillary hydrostatic pressure",
+      "B": "Capillary oncotic pressure",
+      "C": "Capillary permeability",
+      "D": "Interstitial hydrostatic pressure",
+      "E": "Interstitial protein concentration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Energy house of cell:",
+    "options": {
+      "A": "SER",
+      "B": "RER",
+      "C": "Mitochondria",
+      "D": "Golgi bodies",
+      "E": "Nucleus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Maximum no. of sodium channels are present in:",
+    "options": {
+      "A": "Nodes of ranvier",
+      "B": "Axon",
+      "C": "Dendrites",
+      "D": "Myelin sheath",
+      "E": "Soma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Equalization of gases on both side of membrane:",
+    "options": {
+      "A": "Active transport",
+      "B": "Simple diffusion",
+      "C": "Pinocytosis",
+      "D": "Facilitated diffusion",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Actively dividing cells have:",
+    "options": {
+      "A": "Prominent Nuclei",
+      "B": "Pale nuclei",
+      "C": "Prominent Cytoplasm",
+      "D": "Prominent Cell membrane",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A cell that has no potential for division is:",
+    "options": {
+      "A": "Liver cells",
+      "B": "Heart",
+      "C": "Gastric mucosa",
+      "D": "Kidney",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "How the number of mitochondria is increased?",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Self-replication",
+      "C": "Protein synthesis",
+      "D": "Lipid synthesis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Drugs detoxification done by:",
+    "options": {
+      "A": "SER",
+      "B": "RER",
+      "C": "Golgi",
+      "D": "Mitochondria",
+      "E": "Cell membrane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Cells that do not regenerate:",
+    "options": {
+      "A": "Stable cells",
+      "B": "Permanent cells",
+      "C": "Labile cells",
+      "D": "Germ cells",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Chromosomes are paired in:",
+    "options": {
+      "A": "Prophase",
+      "B": "Telophase",
+      "C": "Metaphase",
+      "D": "Anaphase",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Cell organelle which can replicate on i own?",
+    "options": {
+      "A": "Golgi apparatus",
+      "B": "Lysosomes",
+      "C": "Mitochondria",
+      "D": "Peroxisome",
+      "E": "ER"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Potential recorded after stimulating nerve trunk depolarization is:",
+    "options": {
+      "A": "Peak potential",
+      "B": "After depolarization",
+      "C": "Spike potential",
+      "D": "Compound potential",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Fastest speed of conduction:",
+    "options": {
+      "A": "Alpha",
+      "B": "Delta",
+      "C": "Beta",
+      "D": "Gamma",
+      "E": "C"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Axoneme of cilia contains how many microtubules:",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30",
+      "E": "18"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Absorption of glucose in kidney:",
+    "options": {
+      "A": "Passive transport",
+      "B": "Primary active",
+      "C": "Facilitated",
+      "D": "Secondary active transport",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "A band in sarcomere consists of:",
+    "options": {
+      "A": "Myosin only",
+      "B": "Actin only",
+      "C": "Myosin and some actin",
+      "D": "Actin and some myosin",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 101,
+    "question_text": "Eaten Lambert syndrome autoantibodies are present against:",
+    "options": {
+      "A": "Voltage gated Na channels",
+      "B": "Voltage gated Ca channels (presynaptic)",
+      "C": "Nicotinic receptors",
+      "D": "Voltage gated K channel",
+      "E": "Muscarinic receptors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Similarity between Cardiac and skeletal muscles:",
+    "options": {
+      "A": "Transverse striations",
+      "B": "Mononucleated",
+      "C": "Intercalated disc",
+      "D": "Lacks T tubules",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A girl holding books, 4th book added upon causing falling of books. Reflex involved is:",
+    "options": {
+      "A": "Inverse stretch reflex",
+      "B": "Flexor reflex",
+      "C": "Extensor reflex",
+      "D": "Crosses extensor reflex",
+      "E": "Withdrawal reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Which of the following is true?",
+    "options": {
+      "A": "Heterochromatin is transcriptionally active to form mRNA",
+      "B": "Nucleolus helps in the formation of ribosomal RNA",
+      "C": "Nucleolus form DNA",
+      "D": "None",
+      "E": "Euchromatin is inactive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Similarity between Cardiac and smooth muscles:",
+    "options": {
+      "A": "Transverse striations",
+      "B": "Mononucleated",
+      "C": "Contains T tubules",
+      "D": "Shows rapid contractions",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "RPE and sensory retina bound together by:",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Proteins",
+      "C": "Lipids",
+      "D": "GAG's",
+      "E": "Tight junctions"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Which of the following muscles have highest no. of Mitochondria?",
+    "options": {
+      "A": "Cardiac muscle",
+      "B": "Skeletal muscle",
+      "C": "Smooth muscle",
+      "D": "None",
+      "E": "Slow twitch skeletal muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "True regarding smooth muscle:",
+    "options": {
+      "A": "They Are Striated",
+      "B": "They Are Multi Nucleated",
+      "C": "They Are Mononucleated",
+      "D": "Contains T tubules",
+      "E": "voluntary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Which of following decreases the neuronal excitability in RMP?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypocalcemia",
+      "D": "Hyponatremia",
+      "E": "Hypernatremia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Patient with vomiting developed hypokalemia with some gastric problems, patient has given IV potassium. How will it enter intracellularly?",
+    "options": {
+      "A": "H-K pump",
+      "B": "Na-K pump",
+      "C": "Leaky channels",
+      "D": "Na-cl pump",
+      "E": "Simple diffusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Which of following increases the neuronal excitability in RMP?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypocalcemia",
+      "D": "Hyponatremia",
+      "E": "Acidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "G protein phospholipase C increases intracellular concentration of:",
+    "options": {
+      "A": "Calcium ions",
+      "B": "Chloride ions",
+      "C": "Potassium ions",
+      "D": "Magnesium ions",
+      "E": "Sodium ions"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Which intracellular junction is like a spot weld between 2 cell?",
+    "options": {
+      "A": "Hemidesmosome",
+      "B": "Adhering junction",
+      "C": "Desmosome",
+      "D": "Gap junction",
+      "E": "Tight junction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Which of the following is responsible for actin and myosin bridging?",
+    "options": {
+      "A": "Ca",
+      "B": "K",
+      "C": "Na & K",
+      "D": "Mg",
+      "E": "Cl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A weight lifter was lifting weight in a competition. Suddenly his arms gave up and he dropped the weight. What is responsible for that?",
+    "options": {
+      "A": "Golgi tendon organs",
+      "B": "Muscle spindles",
+      "C": "Ruffini corpuscle",
+      "D": "None",
+      "E": "Alpha motor neuron"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Alcohol detoxification occurs through:",
+    "options": {
+      "A": "Endoplasmic reticulum (SER)",
+      "B": "Mitochondria",
+      "C": "Nucleus",
+      "D": "Peroxisomes",
+      "E": "Lysosomes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Hyperexcitability of neuron due to deficiency of which of the following in ECF:",
+    "options": {
+      "A": "Na",
+      "B": "Mg",
+      "C": "Ca",
+      "D": "K",
+      "E": "Cl"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Action potential transfer from one cell to another through:",
+    "options": {
+      "A": "Desmosomes",
+      "B": "Tight junction",
+      "C": "Gap junction",
+      "D": "Intercalated disc",
+      "E": "Synapse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Clearance of defective protein is the function of:",
+    "options": {
+      "A": "Proteasome",
+      "B": "Endoplasmic reticulum",
+      "C": "Golgi bodies",
+      "D": "Nucleus",
+      "E": "Cell membrane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Rigor mortis is due to:",
+    "options": {
+      "A": "Decrease ATP",
+      "B": "Decrease phosphocreatine",
+      "C": "Increase ATP",
+      "D": "Increase intracellular calcium",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Which of the following cell has no nucleus?",
+    "options": {
+      "A": "RBC",
+      "B": "Lymphocytes",
+      "C": "Monocytes",
+      "D": "Plasma cells",
+      "E": "Neutrophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "If a drug is absorbed by simple diffusion then?",
+    "options": {
+      "A": "Requires energy",
+      "B": "Requires carrier",
+      "C": "Lipid soluble",
+      "D": "Against concentration gradient",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Cross bridges in skeletal muscles formed by:",
+    "options": {
+      "A": "Actin",
+      "B": "Myosin",
+      "C": "Troponin",
+      "D": "Tropomyosin",
+      "E": "Calsequestrin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Feature of Glycocalyx:",
+    "options": {
+      "A": "Glucose containing",
+      "B": "Protein rich",
+      "C": "Fatty coat",
+      "D": "All of the above",
+      "E": "Lipid rich"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Longest phase:",
+    "options": {
+      "A": "G1",
+      "B": "M phase",
+      "C": "G2 phase",
+      "D": "S phase",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Sarcomere is present between which of the following?",
+    "options": {
+      "A": "Two A lines",
+      "B": "Two M lines",
+      "C": "Two Z lines",
+      "D": "Two I lines",
+      "E": "Two H lines"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Which adhesion belongs to CAM family responsible for adhesion during embryonic development?",
+    "options": {
+      "A": "Nerve cell adhesion",
+      "B": "Cadherin",
+      "C": "Integrin",
+      "D": "Selectin",
+      "E": "Adhesion cell of subclass of IgG family"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Cell producing Granulomatous and fibrous tissue is",
+    "options": {
+      "A": "Collagen",
+      "B": "Elastin",
+      "C": "Glial cells",
+      "D": "Fibroblast",
+      "E": "Macrophages"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which one is phagocytic",
+    "options": {
+      "A": "Juxtaglomerular cell",
+      "B": "Erythropoietin",
+      "C": "Mesangial cell",
+      "D": "Peritubular cell",
+      "E": "Kupffer cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Characteristic feature of platelets",
+    "options": {
+      "A": "Non nucleated",
+      "B": "Aggregate when bound to collagen fiber",
+      "C": "Granulated",
+      "D": "Derived from bone marrow",
+      "E": "Lifespan 120 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Diffusion of gas directly proportional to",
+    "options": {
+      "A": "Available surface area",
+      "B": "Thickness",
+      "C": "Decrease surface area",
+      "D": "Sarcoidosis",
+      "E": "Decrease temperature"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "A patient with severe diarrhea. What infusion will be given to increase ECF and decrease ICF causing plasma expansion after osmotic equilibrium?",
+    "options": {
+      "A": "1 liter of 3 percent Nacl",
+      "B": "1 liter of 5 percent dextrose water",
+      "C": "1 liter Ringer lactate",
+      "D": "1 liter of 0.45 Nacl",
+      "E": "Normal saline (0.9% NaCl)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Mutation is defined as",
+    "options": {
+      "A": "Permanent change in DNA",
+      "B": "Change in mitochondria",
+      "C": "Temporary Change in DNA",
+      "D": "Permanent Change in RNA",
+      "E": "Damage peroxisome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Which play active part in phagocytosis",
+    "options": {
+      "A": "Monocytes",
+      "B": "Neutrophils",
+      "C": "Lymphocytes",
+      "D": "Basophil",
+      "E": "Plasma cell"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Negative charge of basement membrane is due to:",
+    "options": {
+      "A": "Elastin",
+      "B": "Laminin",
+      "C": "Cadherin",
+      "D": "Heparan sulphate",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "In healthy adult the amount of ICF is:",
+    "options": {
+      "A": "42L",
+      "B": "28L",
+      "C": "11L",
+      "D": "14L",
+      "E": "5L"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Peroxisomes produced by",
+    "options": {
+      "A": "Lysosome",
+      "B": "Golgi body",
+      "C": "Mitochondria",
+      "D": "SER",
+      "E": "RER"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Flow through Orifice depends on",
+    "options": {
+      "A": "Viscosity",
+      "B": "Length",
+      "C": "Density",
+      "D": "Pressure",
+      "E": "Radius"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Basal bodies are formed by:",
+    "options": {
+      "A": "Centrioles",
+      "B": "Centrosome",
+      "C": "Precentrioles",
+      "D": "Lysosomes",
+      "E": "Peroxisomes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Extracellular and intracellular potassium maintenance",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Na/K Pump",
+      "C": "Cortisol",
+      "D": "GH",
+      "E": "Insulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Transport of D-and L-glucose proceeds at the same rate down an electrochemical gradient by which of the following processes?",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Facilitated diffusion",
+      "C": "Primary active transport",
+      "D": "Cotransport",
+      "E": "Counter transport"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Patient with 3rd degree burn lost so much of water and electrolytes; he will have low voltage action potential due to deficiency of which electrolytes?",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypocalcemia",
+      "C": "Hypomagnesemia",
+      "D": "Hyperkalemia",
+      "E": "Hypernatremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "0.5 gram of albumin/100 ml is present in which fluid?",
+    "options": {
+      "A": "Lymph",
+      "B": "Blood",
+      "C": "Urine",
+      "D": "Serum",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Man uncovered lying in room at 28 temp heat loss by:",
+    "options": {
+      "A": "Conduction",
+      "B": "Convection",
+      "C": "Radiation",
+      "D": "Convection",
+      "E": "Evaporation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Posture maintenance by muscle spindle is done by:",
+    "options": {
+      "A": "Increase in muscle spindle length",
+      "B": "Muscle stretch by alpha motor neurons",
+      "C": "Muscle stretch by gamma motor neurons",
+      "D": "Progressive lengthening and shortening of Muscle fiber",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Normal fluid loss in 24 hours through perspiration is:",
+    "options": {
+      "A": "200-400ml",
+      "B": "400-500ml",
+      "C": "500-600ml",
+      "D": "600-800ml",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Mean transportation rate of mucus in Nasal Mucosa?",
+    "options": {
+      "A": "6mm/min",
+      "B": "12mm/min",
+      "C": "14 mm/min",
+      "D": "20 mm/min",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "What is quick way to lose heat?",
+    "options": {
+      "A": "Cutaneous vasodilation",
+      "B": "Vasoconstriction",
+      "C": "Shivering",
+      "D": "Catecholamines",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Sarcomere is seen on H zone , What will be seen on relaxed muscle",
+    "options": {
+      "A": "Thin filaments",
+      "B": "Thick filaments",
+      "C": "Thin filaments arranged on array",
+      "D": "Thick filaments arranged in array",
+      "E": "Thin filaments surrounded by thick filaments"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "In which condition permeability of the membrane increase?",
+    "options": {
+      "A": "Polycythemia",
+      "B": "Increase size particle",
+      "C": "Decrease temperature",
+      "D": "Increase solubility in fat",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Nuclear membrane differ from plasma membrane because it is:",
+    "options": {
+      "A": "Associated with SER",
+      "B": "Has Large pores",
+      "C": "Continue with mitochondria",
+      "D": "Derived from golgi",
+      "E": "Continuous with RER"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Which part of intermediate filaments involve in cell repair?",
+    "options": {
+      "A": "Desmin",
+      "B": "Vimentin",
+      "C": "Cytokeratin",
+      "D": "Microtubulin",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Action potential in cardiac cells increase in extracellular by?",
+    "options": {
+      "A": "Na and calcium",
+      "B": "K and calcium",
+      "C": "Na and K",
+      "D": "Mg and K",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Function of macrophages include",
+    "options": {
+      "A": "Produce cytokine",
+      "B": "Activate T cell",
+      "C": "Present antigen to CD4 T cell",
+      "D": "Produce antibodies",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "A girl doing exercise heavily to maintain fitness there will be decrease In",
+    "options": {
+      "A": "HR",
+      "B": "Skeletal muscle Vascular resistance",
+      "C": "Blood pressure",
+      "D": "N2O",
+      "E": "Cardiac Output"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Contraction of skeletal muscle involve activity of large number of proteins. Protein required for relaxation of muscle is:",
+    "options": {
+      "A": "Calciequesterin",
+      "B": "Actin",
+      "C": "Mysoin",
+      "D": "Tropomyosin",
+      "E": "Calsequestrin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Ribosome composition is Feb --",
+    "options": {
+      "A": "DNA",
+      "B": "RNA +Proteins",
+      "C": "Lipids",
+      "D": "Fats",
+      "E": "Glycogen phosphorylase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Transport of glucose across cell membrane occurs by --",
+    "options": {
+      "A": "Active transport",
+      "B": "Facilitated diffusion",
+      "C": "Simple diffusion",
+      "D": "Passive transport",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Microtubules are present in--",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Centrioles",
+      "C": "Golgi body",
+      "D": "Lysosomes",
+      "E": "Peroxisomes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Pregnant lady delivered a baby after parturition regression of enlarged uterus & breast is --done by which of these? -",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Lysosomes",
+      "C": "Golgi apparatus",
+      "D": "Ribosomes",
+      "E": "Endoplasmic reticulum",
+      "F": "Proteasomes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Nissle granule present in:",
+    "options": {
+      "A": "Granular endoplasmic reticulum",
+      "B": "Smooth endoplasmic reticulum",
+      "C": "Golgi bodies",
+      "D": "Lysosomes",
+      "E": "Nucleus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Students are asked to observe dead body after 10h of death; dead body is in rigor mortis it is due to:",
+    "options": {
+      "A": "Increase phosphate",
+      "B": "Separation of Actin-Myosin bridges fails",
+      "C": "Failure of separation actin myosin crosses bridge",
+      "D": "Failure to contract troponin",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Soon after excitation there will be coupling of:",
+    "options": {
+      "A": "Break of actin and myosin",
+      "B": "Cross linkage of actin and myosin",
+      "C": "Cross linkage of tropomyosin and myosin",
+      "D": "Cross linkage of actin and tropomyosin",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Positive feedback results in?",
+    "options": {
+      "A": "Harmone regulation",
+      "B": "Blood clotting",
+      "C": "CO2 transport",
+      "D": "O2 transport",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "In 60% of body fluid how much of it will be present in interstitial fluid?",
+    "options": {
+      "A": "11L",
+      "B": "42L",
+      "C": "28L",
+      "D": "14L",
+      "E": "3L"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Most Abundant ion in ICF is:",
+    "options": {
+      "A": "Cl ions",
+      "B": "Na ions",
+      "C": "K ions",
+      "D": "Phosphorus ions",
+      "E": "Ca ions"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Ion present in large amount in ECF is:",
+    "options": {
+      "A": "Na",
+      "B": "Cl",
+      "C": "K",
+      "D": "Ca",
+      "E": "Mg"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Laminar flow relationship",
+    "options": {
+      "A": "Directly to length",
+      "B": "Inverse to Viscosity",
+      "C": "Directly to radius",
+      "D": "Direct to volume",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Which ion is required for secretory substance through exocytosis?",
+    "options": {
+      "A": "Cl",
+      "B": "Mg",
+      "C": "Ca",
+      "D": "Na",
+      "E": "K"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Neurophysiologist while stimulating a nerve is unable to generate action potential due to",
+    "options": {
+      "A": "Hypernatremia",
+      "B": "Hyponatremia",
+      "C": "Hyperchloremia",
+      "D": "Hypokalemia",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Percentage of Plasma in ECF is:",
+    "options": {
+      "A": "40%",
+      "B": "30%",
+      "C": "15%",
+      "D": "20%",
+      "E": "25%"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Local response to action potential is:",
+    "options": {
+      "A": "All or none",
+      "B": "Increase amplitude with increase stimulus",
+      "C": "No amplitude with stimulus",
+      "D": "Decrease amplitude with increase stimulus",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Which substance when exposed to cell membrane form phospholipase C?",
+    "options": {
+      "A": "Camp",
+      "B": "Cgmp",
+      "C": "Tyrosine receptor",
+      "D": "ANP",
+      "E": "Hormone-receptor complex"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Calcium reabsorbed from sarcomere via:",
+    "options": {
+      "A": "Facilitated diffusion",
+      "B": "Active transport",
+      "C": "Passive diffusion",
+      "D": "Osmosis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Cell arrested in diplotene which is phase of?",
+    "options": {
+      "A": "Metaphase",
+      "B": "Telophase",
+      "C": "Anaphase",
+      "D": "Prophase",
+      "E": "Interphase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Which of the following is a direct consequence of the malfunction or inhibition of the Na+/K+ pump in cells?",
+    "options": {
+      "A": "Increased intracellular potassium (K+) concentration",
+      "B": "Decreased intracellular sodium (Na+) concentration",
+      "C": "Increased intracellular calcium (Ca2+) concentration",
+      "D": "Hyperpolarization of the cell membrane",
+      "E": "Inhibition of action potential propagation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "The size of the drug is more than 1000, so the drug will move into cells via:",
+    "options": {
+      "A": "Osmotic pressure",
+      "B": "Carrier protein",
+      "C": "Simple diffusion",
+      "D": "Pinocytosis",
+      "E": "Active transport"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Basophilic staining of cell is due to:",
+    "options": {
+      "A": "Nucleus",
+      "B": "SER",
+      "C": "Ribosomes and HB",
+      "D": "Mitochondria",
+      "E": "Peroxisomes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "What is seen in A band when muscle is relaxed?",
+    "options": {
+      "A": "Thin filament",
+      "B": "Thick filament",
+      "C": "Thick with few thin filament",
+      "D": "No filament",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Which one is required to initiate muscle contraction?",
+    "options": {
+      "A": "ATP",
+      "B": "Calcium released from Sarcoplasmic reticulum",
+      "C": "Stimulus in the form of Action potential",
+      "D": "Tropomyosin",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "When a firm stroke with a pointed object is applied on the skin, there is spreading redness due to arteriolar dilatation (flare), the response is due to?",
+    "options": {
+      "A": "Axon reflex",
+      "B": "Mechanical stimulation",
+      "C": "Tissue injury",
+      "D": "Nerve block",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Which of following is essential for skeletal muscle contraction?",
+    "options": {
+      "A": "Tropomyosin",
+      "B": "Depolarization of membrane",
+      "C": "Repolarization of membrane",
+      "D": "Na ions",
+      "E": "Calcium ions"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Internal homeostasis is maintained by:",
+    "options": {
+      "A": "Positive Feed back",
+      "B": "Negative Feed back",
+      "C": "Passive",
+      "D": "Immune response",
+      "E": "Primary inhibition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Increased Amplitude and increased frequency of potential energy causes:",
+    "options": {
+      "A": "Increased refractory period of action potential",
+      "B": "Decrease refractory period of action potential",
+      "C": "No effect on action potential",
+      "D": "High voltage complexes",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Facilitated diffusion of glucose in PCT is increased by:",
+    "options": {
+      "A": "Decrease level of Na+/K+ ATPase",
+      "B": "Increased levels of Na+/K+ ATPase",
+      "C": "Increase Na+/CA ATPase",
+      "D": "Increase Intracellular Na",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A patient having temperature of 99F, cold clammy skin, sweating profusely, and working on a hot day, brought to the hospital in semiconscious state is most likely due to:",
+    "options": {
+      "A": "Heat Stroke",
+      "B": "Heat Exhaustion",
+      "C": "Excessive Sweating",
+      "D": "Normal Phenomenon",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "In mitochondria proteins generated by:",
+    "options": {
+      "A": "Golgi apparatus",
+      "B": "Nucleus genes",
+      "C": "Na k ATPase",
+      "D": "Endoplasmic reticulum",
+      "E": "Mitochondrial DNA"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Excess normal saline infused this will lead to:",
+    "options": {
+      "A": "Increase blood volume",
+      "B": "Increase osmolarity",
+      "C": "Decrease Na excretion",
+      "D": "Increase renin",
+      "E": "Increase angiotensin",
+      "F": "Increase urine output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Mitochondrial can generate energy because it:",
+    "options": {
+      "A": "Has RNA",
+      "B": "Has self-replication",
+      "C": "Double stranded",
+      "D": "Can't generate energy",
+      "E": "Has enzymes for oxidative phosphorylation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Exosecretion is caused by which ion:",
+    "options": {
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Potassium",
+      "D": "Chloride",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "ECF is measured by following:",
+    "options": {
+      "A": "Mannitol & Inulin",
+      "B": "Antipyrene",
+      "C": "Evan blue",
+      "D": "PAH",
+      "E": "RISA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Regarding cilia consist of:",
+    "options": {
+      "A": "9 doublets microtubules plus 2 singlets.",
+      "B": "9 doublets only",
+      "C": "9 triplets only",
+      "D": "9 triplets plus 2 singlets",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "No action potential occur in:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypocalcemia",
+      "C": "Absolute refractory period",
+      "D": "Hypernatremia",
+      "E": "Partial refractory period"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Regarding Facilitated diffusion & cotransport:",
+    "options": {
+      "A": "No ATP needed",
+      "B": "Carrier independent",
+      "C": "Carried dependent",
+      "D": "Down gradient",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "If temperature of set point increase, then there will be decrease in:",
+    "options": {
+      "A": "Shivering",
+      "B": "Sweating",
+      "C": "BP",
+      "D": "Vasoconstriction",
+      "E": "Permeability"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "ICF as compared to ECF has:",
+    "options": {
+      "A": "Increase glucose",
+      "B": "Increase bicarbonates",
+      "C": "Increase chloride",
+      "D": "1/3rd of volume",
+      "E": "Increase amino acids"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "NA channel inactivation occurs in:",
+    "options": {
+      "A": "Depolarization",
+      "B": "Repolarization",
+      "C": "Absolute refractory period",
+      "D": "Partial refractory period",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Primary active transport use:",
+    "options": {
+      "A": "Na/K ATPase",
+      "B": "H/K ATPase in parietal cell",
+      "C": "Need no energy",
+      "D": "Down the electrochemical gradient",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "From Lower to higher gradient by carrier mediator is:",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Passive diffusion",
+      "C": "Osmosis",
+      "D": "Facilitated diffusion",
+      "E": "Active transport"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Man waiting for the bus from 60 minutes in moderate hot environment. How body will regulate temperature:",
+    "options": {
+      "A": "Shivering",
+      "B": "Erection of erector pili",
+      "C": "Posterior hypothalamus activation",
+      "D": "Cutaneous Hyperemia",
+      "E": "Vasoconstriction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "With rapidly repeated stimulus to a skeletal muscle activation of contractile mechanism occur repeatedly before any relaxation has occurred (Continuous contraction without relaxation) and individual response run into one another such response is called:",
+    "options": {
+      "A": "Tetanic contraction",
+      "B": "Tetanus",
+      "C": "Tetany",
+      "D": "Spasm",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Feature common in simple and facilitated diffusion of glucose?",
+    "options": {
+      "A": "Occurs against gradient",
+      "B": "Occurs Down an electrochemical gradient",
+      "C": "They need energy",
+      "D": "Simple diffusion use carrier and facilitated without carrier",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Flexor reflex is carried by:",
+    "options": {
+      "A": "Monosynaptic",
+      "B": "Muscle spindle",
+      "C": "Noxious stimulus",
+      "D": "By tapping with hammer",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "ATP synthesis occurs in:",
+    "options": {
+      "A": "Mitochondria",
+      "B": "Cytoplasm",
+      "C": "Nucleus",
+      "D": "SER",
+      "E": "RER"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Humidity in air is measured by?",
+    "options": {
+      "A": "Hygrometer",
+      "B": "Monometer",
+      "C": "Sphygmomanometer",
+      "D": "Heliometer",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Infrared Thermometer uses:",
+    "options": {
+      "A": "Thermopile",
+      "B": "Thermocouple",
+      "C": "Thermistor",
+      "D": "Resistance Thermometer",
+      "E": "Bourdon Tube"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "In healthy man metabolic requirements may exceed the oxygen supply in which?",
+    "options": {
+      "A": "Brain",
+      "B": "Kidney",
+      "C": "Heart",
+      "D": "Skeletal muscle",
+      "E": "Liver"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Hyperpolarization of neuron due to increase influx of",
+    "options": {
+      "A": "Potassium",
+      "B": "Sodium",
+      "C": "Chloride",
+      "D": "Magnesium",
+      "E": "Calcium"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Mechanism of chloride reabsorption in later segment of PCT is?",
+    "options": {
+      "A": "Passively due to concentration gradient",
+      "B": "Active transport",
+      "C": "Passively due to electric gradient",
+      "D": "Facilitated diffusion",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Resting Membrane potential due to",
+    "options": {
+      "A": "Ca influx",
+      "B": "K efflux",
+      "C": "Na influx",
+      "D": "Mg influx",
+      "E": "Cl influx"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "What is required for muscle contraction?",
+    "options": {
+      "A": "Tropomyosin",
+      "B": "Irritant",
+      "C": "Stretch",
+      "D": "J receptor",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "In enzymology, the term max refers to the maximum rate of reaction achieved by an enzyme when it is satura with substrate. Which of the following mechanisms of transport is most analogous to Vmax?",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Facilitated diffusion",
+      "C": "Active transport",
+      "D": "Endocytosis",
+      "E": "Exocytosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "cAMP second messenger system acts through:",
+    "options": {
+      "A": "Protein change",
+      "B": "Receptors",
+      "C": "Signals",
+      "D": "Clearance",
+      "E": "Enzymes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "What is necessary in G1 for next phase to occur",
+    "options": {
+      "A": "RNA synthesis",
+      "B": "DNA synthesis",
+      "C": "Protein synthesis",
+      "D": "Chromosome duplication",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "In case of healing and repair, ATP regeneration and Creatinine kinase synthesis occurs in which phase?",
+    "options": {
+      "A": "Initial heat",
+      "B": "Heat of relaxation",
+      "C": "Active phase",
+      "D": "Passive heat",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Second polar body is formed in which of the following?",
+    "options": {
+      "A": "Meiosis 1",
+      "B": "Mitosis",
+      "C": "Meiosis 2",
+      "D": "Asexual reproduction",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "During protein synthesis which of the following features is seen?",
+    "options": {
+      "A": "Pale nuclei",
+      "B": "Prominent Cytoplasm",
+      "C": "Prominent Cell membrane",
+      "D": "Cell has prominent nucleoli",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Regarding action potential in nerve fibers is",
+    "options": {
+      "A": "Decrease after travelling few distance along axon",
+      "B": "Caused by Na efflux",
+      "C": "K efflux",
+      "D": "Influx reverses conc. gradient across membrane",
+      "E": "Terminated by efflux of K"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Cardiac muscle can't be tetanized due to",
+    "options": {
+      "A": "Long refractory period",
+      "B": "Gap junction",
+      "C": "Short refractory period",
+      "D": "All or none",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Proerythrocyte have basophilia due to",
+    "options": {
+      "A": "Polyribosomes",
+      "B": "Heparin & Histamine",
+      "C": "Mitochondria",
+      "D": "SER",
+      "E": "RER"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "Excitable Cells property is:",
+    "options": {
+      "A": "All or none action potential",
+      "B": "Short refractory period",
+      "C": "More amplitude of stimulus can increase amplitude of action potential",
+      "D": "With more stimulation action potential can occur above threshold",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Bond btw Actin and Myosin covered by tropomyosin is between:",
+    "options": {
+      "A": "Actin-tropomyosin",
+      "B": "Trop I- trop C",
+      "C": "Actin-I band",
+      "D": "Actin-Myosin",
+      "E": "Actin-Troponin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Steroid synthesis occur in",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Golgi apparatus",
+      "C": "SER",
+      "D": "RER",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Na/K pump activity is associated with which hormone?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Epinephrine",
+      "D": "Histamine",
+      "E": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Excitation Contraction coupling in muscle by:",
+    "options": {
+      "A": "Actin+Myosin Cross bridges",
+      "B": "Hydrolysis of ATP into ADP",
+      "C": "Ach Release",
+      "D": "Calcium-Troponin C coupling",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Patient laying uncovered in OT table heat loss will be by",
+    "options": {
+      "A": "Radiation",
+      "B": "Convection",
+      "C": "Conduction",
+      "D": "Evaporation",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Negative charge of basement membrane is due to:",
+    "options": {
+      "A": "Elastin",
+      "B": "Laminin",
+      "C": "Cadherin",
+      "D": "Proteoglycan",
+      "E": "Heparan Sulphate"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Increased Potassium levels can cause which of the following?",
+    "options": {
+      "A": "Tachycardia",
+      "B": "Convection",
+      "C": "Flaccidity",
+      "D": "Spasticity",
+      "E": "Rigidity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Patient with ETT heat loss is by",
+    "options": {
+      "A": "Conduction",
+      "B": "Convection",
+      "C": "Radiation",
+      "D": "Evaporation",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Maximum number of Na+ channels are present in:",
+    "options": {
+      "A": "Internodes",
+      "B": "Axon Hillock",
+      "C": "Dendrites",
+      "D": "Cell body of neuron",
+      "E": "Axons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Fatty acids & glycerol combine to form neutral fats in:",
+    "options": {
+      "A": "Golgi body",
+      "B": "Lysosome",
+      "C": "SER",
+      "D": "Peroxisome",
+      "E": "Mitochondria"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Which Filament Joins Intercellular Structures?",
+    "options": {
+      "A": "Fibronectin",
+      "B": "Elastin",
+      "C": "Titin",
+      "D": "Elastases",
+      "E": "Cadherin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Cell Repolarization occur due to outward movement of",
+    "options": {
+      "A": "Sodium",
+      "B": "Potassium",
+      "C": "Chloride",
+      "D": "Magnesium",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Cell produce abnormal proteins and fragments degraded by?",
+    "options": {
+      "A": "Peroxisome",
+      "B": "Lysosome",
+      "C": "Phagolysosome",
+      "D": "Proteasome",
+      "E": "Nucleosome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Receptors act as transducers:",
+    "options": {
+      "A": "By increasing response to repeated stimulus",
+      "B": "Augment the stimuli",
+      "C": "Locally depolarize channels",
+      "D": "All or none potential",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Glucose transported through placenta by:",
+    "options": {
+      "A": "Facilitated diffusion",
+      "B": "Simple diffusion",
+      "C": "Co transport",
+      "D": "Triporter",
+      "E": "Uniporter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Gate theory of pain",
+    "options": {
+      "A": "Comminaton of different sensory stimuli",
+      "B": "Specific stimuli from nociceptors",
+      "C": "Sensory Noxious Receptors",
+      "D": "Sensory Non-Noxious Stimulus",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Cells with high steroids synthesis activity have abundant:",
+    "options": {
+      "A": "Mitochondria",
+      "B": "RER",
+      "C": "SER",
+      "D": "Peroxisome",
+      "E": "Ribosome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Two scientists were doing experiment Nerve conduction. Response changes everytime with same stimulation. Which one of the following is correct?",
+    "options": {
+      "A": "Increase Action potential",
+      "B": "Conduction velocity",
+      "C": "Directly proportional to Axon diameter",
+      "D": "Direct to pressure",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Excitation Contraction Coupling in Muscle by:",
+    "options": {
+      "A": "Actin+Myosin Cross bridges",
+      "B": "Hydrolysis of ATP into ADP",
+      "C": "AcetylCholine Release",
+      "D": "Calcium-Troponin C Coupling",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Polychromasia in Erythrocytes due to?",
+    "options": {
+      "A": "Hb ribosomes",
+      "B": "Mast cells",
+      "C": "Microtubules and filaments",
+      "D": "Basophils",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Which structure decreases in length during muscle contraction?",
+    "options": {
+      "A": "Actin",
+      "B": "Myosin",
+      "C": "A band",
+      "D": "I band",
+      "E": "H zone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Gaseous exchange in the lungs primarily occurs via which of the following mechanisms?",
+    "options": {
+      "A": "Passive diffusion",
+      "B": "Osmosis",
+      "C": "Active transport",
+      "D": "Facilitated diffusion",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Where are ribosomes primarily located in the cell?",
+    "options": {
+      "A": "Smooth Endoplasmic Reticulum",
+      "B": "Granular Endoplasmic Reticulum",
+      "C": "Golgi Bodies",
+      "D": "Mitochondria",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Which structure helps prevent excessive muscle contraction?",
+    "options": {
+      "A": "Muscle spindle",
+      "B": "Golgi Tendon Organ (GTO)",
+      "C": "Alpha motor neurons",
+      "D": "Neuromuscular junction",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "When skeletal muscle movement stops, which of the following processes is crucial for this cessation?",
+    "options": {
+      "A": "Removal of Ca2+ from troponin",
+      "B": "Removal of Ca2+ from the sarcoplasmic reticulum (SR)",
+      "C": "Removal of nicotine from the neuromuscular junction (NMJ)",
+      "D": "Inhibition of the postsynaptic neuron",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Glucose transport in primary convoluted tubule occurs via:",
+    "options": {
+      "A": "Primary Active Transport",
+      "B": "Simple diffusion",
+      "C": "Facilitated Diffusion",
+      "D": "Secondary active transport",
+      "E": "Counter transport"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "In burn patient the excitability of cell is reduced with decrease action potential slope due to:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hyponatremia",
+      "C": "Hypokalemia",
+      "D": "Hypernatremia",
+      "E": "Hyperkalemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Which of the following is false regarding the transmission of the action potential?",
+    "options": {
+      "A": "There are potassium channels located at each Node of Ranvier",
+      "B": "Myelination increases the speed of transmission exponentially",
+      "C": "Dendrites are important contributors to the action potential",
+      "D": "The axon hillock is a Nissl free area",
+      "E": "Each segment of the myelin sheath is interrupted by a Node of Ranvier"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Regarding osmosis",
+    "options": {
+      "A": "It is a passive process",
+      "B": "It is an energy dependent process",
+      "C": "It occurs through protein channel",
+      "D": "Osmolality represent number of solute particles.",
+      "E": "Osmotic pressure is exerted by water molecule"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Cyclic Amp Pathway is started by which of the following?",
+    "options": {
+      "A": "Receptors",
+      "B": "Enzyme",
+      "C": "Carrier Proteins",
+      "D": "Outer Cell Membrane",
+      "E": "Inner Cell Membrane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Complete termination of single skeletal muscle contraction by:",
+    "options": {
+      "A": "Calcium back into Sarcolemma",
+      "B": "Calcium back into Neuromuscular Junction",
+      "C": "Ach degradation by Acetylcholinesterase",
+      "D": "Blockage of Neuromuscular Junction",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Oxygen exchange in alveolar membrane occurs through process of",
+    "options": {
+      "A": "Active transport",
+      "B": "Na/K atpase pump",
+      "C": "Simple diffusion",
+      "D": "Facilitated diffusion",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Responsible for closure of inactivated sodium channels in nerve cells?",
+    "options": {
+      "A": "Refractory period",
+      "B": "Hyperpolarization",
+      "C": "Depolarization",
+      "D": "Post Hyperpolarization",
+      "E": "Repolarization"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Similarity between co-transport and facilitated diffusion?",
+    "options": {
+      "A": "Down concentration gradient",
+      "B": "Carrier-mediated",
+      "C": "No ATP needed",
+      "D": "Carrier Independent",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Person drinks 600ml fluid, how much fluid will be in plasma:",
+    "options": {
+      "A": "100ml",
+      "B": "500ml",
+      "C": "50ml",
+      "D": "250ml",
+      "E": "200ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "A substance with Tmax means:",
+    "options": {
+      "A": "All of the substance below a threshold level will be absorbed",
+      "B": "Requires max ATP for absorption",
+      "C": "Transport across gradient",
+      "D": "Transport due to concentration gradient",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Abundant SER in liver at which area?",
+    "options": {
+      "A": "Center",
+      "B": "Peripheral hiatus",
+      "C": "Peripheral lobule",
+      "D": "Central lobule",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "A person is lying on the ground at a temperature of 25°C. What is the primary mode of heat loss between the person and the ground?",
+    "options": {
+      "A": "Convection",
+      "B": "Conduction",
+      "C": "Radiation",
+      "D": "Evaporation",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Resting membrane potential is achieved by",
+    "options": {
+      "A": "Passive potassium channels",
+      "B": "positive gated potassium channels",
+      "C": "passive sodium channels",
+      "D": "positive gated sodium channels",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Why do Nerve endings in dendrites far away from cell body generate action potential",
+    "options": {
+      "A": "Causes hyperpolarization",
+      "B": "Both Na and k Channels opening",
+      "C": "Generate action potential that travel from backward to axon hillock",
+      "D": "Inhibition of action potential generation",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Responsible for closure of inactivated sodium channels in nerve cells?",
+    "options": {
+      "A": "Refractory period",
+      "B": "Hyperpolarization",
+      "C": "Depolarization",
+      "D": "Post Hyperpolarization",
+      "E": "Repolarization"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Which of the following factor will help to stimulate the muscular contraction",
+    "options": {
+      "A": "Threshold stimulus",
+      "B": "Opening of voltage gated sodium channels",
+      "C": "Stretch",
+      "D": "Intracytoplasmic increase in calcium from sarcoplasm reticulum",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Leptin acts on its receptor to mediate its effects. What is the mechanism of action, and what type of receptor changes occur?",
+    "options": {
+      "A": "Opens ion channels",
+      "B": "Closes ion channels",
+      "C": "Enzyme-linked receptor",
+      "D": "Gs protein-coupled receptor",
+      "E": "Gi protein-coupled receptor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Trained Athlete exercising in Humid Environment. Heat loss will be through?",
+    "options": {
+      "A": "Sensible Perspiration",
+      "B": "Convection",
+      "C": "Radiation",
+      "D": "Conduction",
+      "E": "Sweating through Evaporation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "The difference of osmolarity b/w ICF and ECF:",
+    "options": {
+      "A": "1mosm/l",
+      "B": "1.5mosm/l",
+      "C": "2mosm/l",
+      "D": "5 mosm/l",
+      "E": "No difference"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Enzyme for Calcium enhancement?",
+    "options": {
+      "A": "Dynenin",
+      "B": "Tubulin",
+      "C": "Desmin",
+      "D": "Myosin",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "How facilitated diffusion is different from simple diffusion?",
+    "options": {
+      "A": "It occurs Along the concentration gradient",
+      "B": "It occurs Along the electrochemical gradient",
+      "C": "It is a passive process",
+      "D": "Energy is not used.",
+      "E": "It has Vmax"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Example of positive feedback mechanism:",
+    "options": {
+      "A": "Hormonal Regulation",
+      "B": "Vicious cycle leading to death",
+      "C": "CO2 transport",
+      "D": "Pathway to bring cellular environment back to normal",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Calsequestrin holds the calcium in:",
+    "options": {
+      "A": "Sarcoplasmic reticulum",
+      "B": "Transverse tubules",
+      "C": "Mitochondria",
+      "D": "Ribosomes",
+      "E": "Nucleus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Ip3 mechanism in cellular signaling:",
+    "options": {
+      "A": "Increase calcium",
+      "B": "Increase c-AMPlevels",
+      "C": "Activates protein kinase A",
+      "D": "Stimulates NO production",
+      "E": "Inhibits phosphodiestrase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "In which phase ATP and CPK regenerates",
+    "options": {
+      "A": "Resting phase",
+      "B": "Rapid contraction phase",
+      "C": "Aerobic exercise phase",
+      "D": "Recovery phase",
+      "E": "Anaerobic exercise phase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Protoplasm is primarily composed of water. The second most common constituent is:",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Nucleic acids",
+      "C": "Proteins",
+      "D": "Lipids",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Which type of system is most effective in maintaining homeostasis?",
+    "options": {
+      "A": "Positive feedback systems",
+      "B": "High gain systems",
+      "C": "Negative feedback systems",
+      "D": "Low gain systems",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Which molecule has the highest permeability across the cell membrane?",
+    "options": {
+      "A": "CO2",
+      "B": "K+",
+      "C": "Na+",
+      "D": "H2O",
+      "E": "O2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "When perfume is sprayed in a room, its scent spreads throughout the space. What is the primary mechanism responsible for this phenomenon?",
+    "options": {
+      "A": "Osmosis",
+      "B": "Diffusion",
+      "C": "Active transport",
+      "D": "Filtration",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "In the human body, carbohydrates are the most abundant organic compounds. Which of the following is the second most abundant?",
+    "options": {
+      "A": "Fiber",
+      "B": "Nucleic acids",
+      "C": "Protein",
+      "D": "Fats",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Which of the following causes an increase in extracellular potassium?",
+    "options": {
+      "A": "Beta-2 agonist",
+      "B": "Severe exercise",
+      "C": "Excess aldosterone",
+      "D": "Insulin deficiency",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Calcium is released from which organelle?",
+    "options": {
+      "A": "mitochondria",
+      "B": "lysosomes",
+      "C": "peroxisomes",
+      "D": "SER",
+      "E": "RER"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Flow through Orifice depends on:",
+    "options": {
+      "A": "Viscosity",
+      "B": "Length",
+      "C": "Density",
+      "D": "Pressure",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "A Patient presented with vague symptoms of Cushing Syndrome. The doctor thought that problem is at the level of receptor. Where is the receptor of cortisol located?",
+    "options": {
+      "A": "Plasma membrane",
+      "B": "Nucleus",
+      "C": "DNA",
+      "D": "Cytoplasm",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  }
+]

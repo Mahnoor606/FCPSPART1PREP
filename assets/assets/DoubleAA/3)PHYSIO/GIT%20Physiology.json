@@ -1,0 +1,1948 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "During pharyngeal phase of swallowing what is true?",
+    "options": {
+      "A": "Vocal cords abducted",
+      "B": "Vocal cords adducted",
+      "C": "Larynx moves upward and forward",
+      "D": "Larynx moves downward",
+      "E": "Closure of Epiglottis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Increase pancreatic secretions and Calcium level is by which of?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Secretin",
+      "C": "CCK",
+      "D": "Somatostatin",
+      "E": "Somatomedian"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Gastric fundus secretes which of?",
+    "options": {
+      "A": "HCL and pepsin",
+      "B": "HCL and intrinsic factor",
+      "C": "Mucous and HCL",
+      "D": "Aspirin",
+      "E": "Mucous cells only"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Which of the following neurotransmitter decreases contraction of stomach & gallbladder?",
+    "options": {
+      "A": "Substance P",
+      "B": "VIP",
+      "C": "CCK",
+      "D": "Secretin",
+      "E": "Motilin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Which hormone is responsible for delayed gastric emptying?",
+    "options": {
+      "A": "Glucagon",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Somatostatin",
+      "E": "CCK"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Na+ Bile ACID transporter is present in:",
+    "options": {
+      "A": "Ileum",
+      "B": "Jejunum",
+      "C": "Colon",
+      "D": "Duodenum",
+      "E": "Sigmoid Colon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Most important reflex for defecation:",
+    "options": {
+      "A": "Rectoanal",
+      "B": "Mass movement",
+      "C": "Parasympathetic",
+      "D": "Defecation reflex - Recto anal",
+      "E": "Anorectal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Secretion of HCl by gastric parietal cells is needed for:",
+    "options": {
+      "A": "Activation of pancreatic lipase",
+      "B": "Activation of salivary lipase",
+      "C": "Activation of intrinsic factor",
+      "D": "Activation of pepsinogen to pepsin",
+      "E": "The formation of micelle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Enzyme in saliva that prevents iron utilization by bacteria:",
+    "options": {
+      "A": "Lactoferrin",
+      "B": "IgA protease",
+      "C": "Lactoperoxidase",
+      "D": "Lysozyme",
+      "E": "Oxidase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Oral glucose load will increase which hormone?",
+    "options": {
+      "A": "Secretin",
+      "B": "Glucagon",
+      "C": "Gastrin",
+      "D": "GIP",
+      "E": "Somatostatin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Which of the following is characteristic of saliva as compared to plasma?",
+    "options": {
+      "A": "Hypotonicity in relation to plasma",
+      "B": "Lower bicarbonate",
+      "C": "Duct change composition by HCO3 K reabsorption",
+      "D": "Secretion rate increased by Vagotomy",
+      "E": "Low Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Patient is suspected of pancreatitis with pain in the epigastrium. Histological examination of pancreas shows the cells which are not normally present in the pancreas:",
+    "options": {
+      "A": "Alpha cells",
+      "B": "Beta cells",
+      "C": "D cells",
+      "D": "Mucous cells",
+      "E": "Serous cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "While eating dry fruit saliva becomes?",
+    "options": {
+      "A": "Mucinous",
+      "B": "Serous",
+      "C": "More HCO3",
+      "D": "Less Cl"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "TPN is contraindicated in which of the following condition?",
+    "options": {
+      "A": "Liver Disease",
+      "B": "Bone disease",
+      "C": "DM",
+      "D": "Renal Disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Decreased acid in stomach will result in:",
+    "options": {
+      "A": "Pernicious anemia",
+      "B": "Inhibition of gastric acid secretions",
+      "C": "Abnormal proteins digestion",
+      "D": "Decreased stomach emptying",
+      "E": "Diarrhea"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "The unconjugated bilirubin transported in the blood in combination with:",
+    "options": {
+      "A": "Albumin",
+      "B": "Alpha globulin",
+      "C": "Beta globulin",
+      "D": "Fibrinogen",
+      "E": "Pre-albumin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "After hepatectomy how many days for liver regeneration:",
+    "options": {
+      "A": "10days",
+      "B": "16 to 25 days",
+      "C": "5 weeks",
+      "D": "25 Weeks"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Intrinsic factor secreted by which of the following?",
+    "options": {
+      "A": "Pylorus",
+      "B": "Fundus of stomach",
+      "C": "Antrum",
+      "D": "Gastric",
+      "E": "Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Which hormone is responsible for increased intestinal motility?",
+    "options": {
+      "A": "Glucagon",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Somatostatin",
+      "E": "CCK"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Surgical removal of the duodenum will enhance:",
+    "options": {
+      "A": "Secretin secretion",
+      "B": "Gastric emptying",
+      "C": "Absorption of lipid",
+      "D": "Contraction of gall bladder"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Sodium is actively absorbed in which part of GIT?",
+    "options": {
+      "A": "Stomach",
+      "B": "Jejunum",
+      "C": "Ileum",
+      "D": "Colon",
+      "E": "Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Regarding enterokinase true is:",
+    "options": {
+      "A": "Secreted in small intestine & converts trypsinogen to trypsin",
+      "B": "Secreted in large intestine & converts trypsinogen to trypsin",
+      "C": "Convert papsinogen to papsin",
+      "D": "Convert pepsin to pepsinogen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Intrinsic factor is released by:",
+    "options": {
+      "A": "Chief cell of stomach",
+      "B": "Parietal cell of stomach antrum",
+      "C": "Parietal cell of stomach fundus",
+      "D": "Mucous cells",
+      "E": "G cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Pancreatic secretion do not produce which enzyme?",
+    "options": {
+      "A": "Trypsin",
+      "B": "Chymotrypsin",
+      "C": "Elastase",
+      "D": "Carboxypeptidase",
+      "E": "Aminopeptidase"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Which hormone is responsible for increased gastric emptying?",
+    "options": {
+      "A": "Glucagon",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Somatostatin",
+      "E": "CCK"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Most potent stimulator of gastric acid (HCl):",
+    "options": {
+      "A": "Protein",
+      "B": "Ethanol",
+      "C": "Fat",
+      "D": "Histamine"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Liver is the only organ involved in synthesis of?",
+    "options": {
+      "A": "Urea formation",
+      "B": "Nucleotide",
+      "C": "Glycogenosis",
+      "D": "Middle chain fatty acid catabolism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Highest alkaline PH is present in:",
+    "options": {
+      "A": "Saliva",
+      "B": "Gastric secretions",
+      "C": "Pancreatic secretions",
+      "D": "Prostae"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Gastrin is produced by:",
+    "options": {
+      "A": "Pyloric antrum",
+      "B": "Fundus",
+      "C": "Pancreas",
+      "D": "Jejunum",
+      "E": "Ileum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Secretin produced by:",
+    "options": {
+      "A": "S cells",
+      "B": "K cells",
+      "C": "I cells",
+      "D": "D cells",
+      "E": "G cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Substance which relaxes the muscles in lower esophagus, stomach, gallbladder, intestine?",
+    "options": {
+      "A": "VIP",
+      "B": "Somatostatin",
+      "C": "Motilin",
+      "D": "Gastri"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Salivary gland secretion increased by:",
+    "options": {
+      "A": "Substance P",
+      "B": "VIP",
+      "C": "Epinephrine",
+      "D": "Serotonin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Decrease in gastric secretion by:",
+    "options": {
+      "A": "Somatostatin",
+      "B": "Secretin",
+      "C": "Histamine",
+      "D": "HCL"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Parasympathetic function is:",
+    "options": {
+      "A": "Increase HR",
+      "B": "Increase GIT contraction",
+      "C": "Relaxes GIT Sphincter",
+      "D": "Inhibit Sweat Gland Secretion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Contraction in GIT smooth muscle is due to:",
+    "options": {
+      "A": "Spontaneous Na Channel",
+      "B": "Spontaneous Ca Channel",
+      "C": "Hormones and Slow Waves",
+      "D": "Neuronal and Slow Waves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "In GIT three layers of muscle on histology:",
+    "options": {
+      "A": "Fundus of stomach",
+      "B": "Esophagus",
+      "C": "Colon",
+      "D": "Jejunum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Function of somatostatin:",
+    "options": {
+      "A": "Increase GH secretion",
+      "B": "Decrease GH secretion",
+      "C": "Increase secretion of various GI hormones",
+      "D": "Is necessary for the function of GH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Gastric pylorus consists of:",
+    "options": {
+      "A": "Mucous cells",
+      "B": "Zymogen cells",
+      "C": "Parietal cells",
+      "D": "Chromaffin cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Slow waves in small intestine smooth muscles are:",
+    "options": {
+      "A": "Action potential",
+      "B": "Phasic contraction",
+      "C": "Tonic contractions",
+      "D": "Oscillating resting membrane potential"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Duodenum acidification will lead to:",
+    "options": {
+      "A": "Decrease gastric emptying",
+      "B": "Increase gastric secretion",
+      "C": "Increase HCO3 secretion",
+      "D": "Gall bladder contract",
+      "E": "Sphincter of edi contraction increase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Which pancreatic enzyme causes fat digestion?",
+    "options": {
+      "A": "Amylase",
+      "B": "Lipase",
+      "C": "Protease",
+      "D": "Trypsinogen",
+      "E": "All of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Activity which pushes the food forward in esophagus?",
+    "options": {
+      "A": "Esophagus myoelectric activity",
+      "B": "Haustruation",
+      "C": "Primary peristalsis",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Fat Digestion is done by:",
+    "options": {
+      "A": "Emulsification, Bile Salt, HCO3 & Lipase",
+      "B": "Emulsification & Bile Salt",
+      "C": "Amylase & Lipase",
+      "D": "Lipase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Atropine inhibits which of the following?",
+    "options": {
+      "A": "Constriction of GIT Sphincters",
+      "B": "Bronchodilation",
+      "C": "Pupillary Constriction",
+      "D": "Sweat Gland Secretion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Parasympathetic Action:",
+    "options": {
+      "A": "Opens GIT Sphincters",
+      "B": "Closes GIT Sphincters",
+      "C": "Bronchodilation",
+      "D": "Increase HR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Which GI Hormone stimulates HCO3 and water secretion from liver & bile production?",
+    "options": {
+      "A": "CCK",
+      "B": "Somatostatin",
+      "C": "Secretin",
+      "D": "Histamine",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Which of the following antacid decreases gastric emptying?",
+    "options": {
+      "A": "Magnesium hydroxide",
+      "B": "Aluminum hydroxide",
+      "C": "Chloride hydroxide",
+      "D": "Cadmium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Loss of parietal cells due to damage to which of the following area?",
+    "options": {
+      "A": "Fundus",
+      "B": "Antrum",
+      "C": "Duodenum",
+      "D": "Lesser curvature"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Which of the following decreases stomach motility and increases intestinal motility?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Secretin",
+      "C": "CCK",
+      "D": "Glucagon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Enterokinase acts for conversion of:",
+    "options": {
+      "A": "Trypsin",
+      "B": "Trypsinogen",
+      "C": "Amylase",
+      "D": "Chymotrypsinogen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "A patient present with anemia post-gastrectomy. Which cells of the stomach are liked involved?",
+    "options": {
+      "A": "G cells",
+      "B": "S cells",
+      "C": "Parietal cells",
+      "D": "Mucous cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Production of saliva mainly increased by:",
+    "options": {
+      "A": "Anti-cholinergic drug",
+      "B": "Parasympathetic simulation",
+      "C": "Sympathetic stimulation",
+      "D": "Somatostatin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Which of the following increases absorption of iron in the gut?",
+    "options": {
+      "A": "Green vegetables",
+      "B": "Citrus fruit",
+      "C": "Chocolates",
+      "D": "Apple"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Cobalamin transported in blood by:",
+    "options": {
+      "A": "Albumin",
+      "B": "Transcobalamin 1",
+      "C": "Transcobalamin 2",
+      "D": "Heptoglobin",
+      "E": "Transferrin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Brunner glands are present in:",
+    "options": {
+      "A": "Cecum",
+      "B": "Jejunum",
+      "C": "Sigmoid colon",
+      "D": "Pylorus",
+      "E": "Duodenum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Most potent stimulus for Gallbladder contraction?",
+    "options": {
+      "A": "CCK",
+      "B": "Fatty meal in duodenum",
+      "C": "Gastrin",
+      "D": "Secretin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Pancreatic secretion compromised. What will happen in relation to absorption and digestion?",
+    "options": {
+      "A": "Failure to digest triglycerides",
+      "B": "Failure to form micelles in the intestine",
+      "C": "Lactose intolerance",
+      "D": "Secretory diarrhea"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Deficiency of brush border enzyme that causes carbohydrates malabsorption?",
+    "options": {
+      "A": "Intestinal amylase",
+      "B": "Intestinal Lactase",
+      "C": "Enterokinase",
+      "D": "Peptidase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Intestinal basic electric rhythm: Alters in response to the hormones circulation?",
+    "options": {
+      "A": "Constant in duodenum and and alters in other segments",
+      "B": "Diminshes during mechanical digestive movements",
+      "C": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "CCK when secreted by Duodenum causes:",
+    "options": {
+      "A": "Decreases gastric emptying in response to fatty meal",
+      "B": "Secretes bile in response to fatty meal",
+      "C": "Decrease sphincter of oddi relaxation",
+      "D": "Decrease pancreatic secretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Resection of ileum more than 100cm will cause:",
+    "options": {
+      "A": "Dec. absorption of bile salts",
+      "B": "Dec. absorption of water",
+      "C": "Dec. absorption of monosaccharides",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Intestinal motility is due to:",
+    "options": {
+      "A": "Na+ influx due to impulses",
+      "B": "Nervous stimulation of slow wave",
+      "C": "Spontaneous stimulation of slow wave by Ca++",
+      "D": "Hormonal stimulation of slow wave",
+      "E": "Simultaneous summation potential due to Na+"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Gastric HCL from parietal cells is needed for:",
+    "options": {
+      "A": "Conversion of pepsinogen to pepsin",
+      "B": "Intrinsic factor activation",
+      "C": "Conversion of trypsinogen to trypsin",
+      "D": "Starch digestion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Highest potential difference in the wall of stomach is when:",
+    "options": {
+      "A": "Aspirin ingestion",
+      "B": "HCL is not secreted and gastric mucosa is intact",
+      "C": "HCL is secreted and gastric mucosa is damaged",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Normal waves in basic electrical rhythm of stomach:",
+    "options": {
+      "A": "12 waves/day",
+      "B": "3 waves/day",
+      "C": "15 waves / day",
+      "D": "1 wave / day",
+      "E": "8 wave / day"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Secondary peristalsis due to:",
+    "options": {
+      "A": "Esophagus dilatation",
+      "B": "Only due to achalasia",
+      "C": "Due to metaplasia",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "CCK and gastrin are similar due to:",
+    "label": "Same terminal C group",
+    "options": {
+      "A": "Same function on stomach",
+      "B": "Both releases by G cells of stomach",
+      "C": "Both cause decrease contraction of gall bladder",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "During peristalsis, lower esophageal sphincter relaxes when:",
+    "options": {
+      "A": "Before bolus reach",
+      "B": "After bolus reach",
+      "C": "During meal",
+      "D": "None of above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Secretin is secreted:",
+    "options": {
+      "A": "In response to fatty acids",
+      "B": "High pH",
+      "C": "Low pH",
+      "D": "In response to fasting state"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Vagal trunk cut what happens:",
+    "options": {
+      "A": "Incomplete gastric emptying",
+      "B": "Augmented gastrin secretion",
+      "C": "Augmented pepsin",
+      "D": "Augmented enterogastric reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Which of the following does not cause acid secretion?",
+    "options": {
+      "A": "Stretching of antrum",
+      "B": "Alcohol",
+      "C": "Acidic antrum",
+      "D": "Peptides"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Stomach circular muscle becomes thicker:",
+    "options": {
+      "A": "Fundus",
+      "B": "Antrum",
+      "C": "Cardiac",
+      "D": "Pylorus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "In pancreatic fistula somatostatin helps by:",
+    "options": {
+      "A": "Decreasing output of secretions",
+      "B": "Increasing pH of secretions",
+      "C": "Increasing blood flow of gland",
+      "D": "Inhibiting enzymes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Secretion of gastrin is inhibited by:",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Somatostatin",
+      "C": "Increase PH",
+      "D": "Stomach distention",
+      "E": "GRP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Substance which induces the flow of saliva is of food:",
+    "options": {
+      "A": "Motilin",
+      "B": "VIP",
+      "C": "Substance P",
+      "D": "Acetylcholine"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Regarding GIT motility true is:",
+    "options": {
+      "A": "Same as of stomach",
+      "B": "Is not dependent on hormones only",
+      "C": "Does not occurs in absence of food",
+      "D": "Forget about this options are mixed"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Salivation is formed by:",
+    "options": {
+      "A": "Food in mouth creates unconditioned reflex",
+      "B": "Smell of food",
+      "C": "Dec. by bilateral damage to 9th nerve",
+      "D": "Salivary center located in medulla"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Regarding exocrine pancreatic secretions:",
+    "options": {
+      "A": "It contains more Cl than plasma",
+      "B": "Secretion increased by CCK",
+      "C": "Secretion increased by gastrin",
+      "D": "Secretion increases by somatostatin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Prostaglandins function in stomach:",
+    "options": {
+      "A": "Decreased parietal cell acid secretion",
+      "B": "Decreased acetylcholine working on parietal cell",
+      "C": "When aspirin comes, it causes increased permeability",
+      "D": "Promote ulcer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Gastric acid secretion is mediated by:",
+    "options": {
+      "A": "H1",
+      "B": "H2",
+      "C": "Pepsin",
+      "D": "Presence of food in stomach"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Thick saliva involves which receptors?",
+    "options": {
+      "A": "Alpha 1",
+      "B": "Alpha 1 Beta 1",
+      "C": "Beta 1",
+      "D": "Alpha 2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Time taken by food to reach large intestine from pylorus:",
+    "options": {
+      "A": "4 hours",
+      "B": "8 hours",
+      "C": "12 hours",
+      "D": "10 hours",
+      "E": "15 hours"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Enzyme not present in pancreatic secretion?",
+    "options": {
+      "A": "Pepsin",
+      "B": "Enterokinase",
+      "C": "Lipase",
+      "D": "Elastase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Which of them is needed to be broken down before digestion?",
+    "options": {
+      "A": "Tripeptides",
+      "B": "Dipeptides",
+      "C": "Monopeptides",
+      "D": "Sucrose",
+      "E": "Fructose"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Oligosaccharide in saliva to which microbes adhere to attach to mucosa?",
+    "options": {
+      "A": "Aminopeptidase",
+      "B": "Mucin",
+      "C": "Secretory IgA",
+      "D": "Lactase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Saliva is rich in which of the following for digesting carbohydrates?",
+    "options": {
+      "A": "Aminopeptidase",
+      "B": "Oxylase",
+      "C": "Lipase",
+      "D": "Amylase",
+      "E": "Carboxypeptidase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A female presented with Dysphagia to liquid for last 6 months. Laryngoscopy shows normal histology of tract the most likely cause?",
+    "options": {
+      "A": "Glossopharyngeal nerve palsy",
+      "B": "Loss of Neuromuscular coordination",
+      "C": "Vagus nerve lesions",
+      "D": "Plummer Vinson syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Meissner plexus function is",
+    "options": {
+      "A": "Volume maintenance",
+      "B": "Motility",
+      "C": "Secretory activity",
+      "D": "Regulate reflexes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Slow waves of stomach begin from:",
+    "options": {
+      "A": "Intestinal cells of Kajal",
+      "B": "Myenteric plexus",
+      "C": "Smooth muscle in Longitudinal layer",
+      "D": "Smooth muscle in circular layer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Main function of hepatocytes is:",
+    "options": {
+      "A": "Detoxification of urea",
+      "B": "Detoxification of ammonia",
+      "C": "Accliminazation of drugs",
+      "D": "Decrease Hb formation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Child not allowed on Trip to take street food. He took food Few hrs later he developed abdominal crumps, by Activation of:",
+    "options": {
+      "A": "Splanchnic parasympathetic activation",
+      "B": "Pudenal activation",
+      "C": "Decrease parasympathetic",
+      "D": "Increase Splanchnic sympathetic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Fat digestion done by",
+    "options": {
+      "A": "Emulsification",
+      "B": "Bile salt",
+      "C": "Lipase",
+      "D": "HCO3",
+      "E": "Phospholipids"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Which one is Present in saliva that breaks Glycosidic Bond?",
+    "options": {
+      "A": "Lactoperoxidase",
+      "B": "Lactoferin",
+      "C": "Mucin",
+      "D": "Lysozyme",
+      "E": "IgA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Area in Liver containing heptic artery bile duct portal vein with Central Venules at Different angles is",
+    "options": {
+      "A": "Hepatic acinus",
+      "B": "Complex acinus",
+      "C": "Hepatic Vein",
+      "D": "Portal acinus",
+      "E": "Classical Hepatic lobule"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Gastric emptying enhances by increase in:",
+    "options": {
+      "A": "Intragastric volume",
+      "B": "Duodenal osmolarity",
+      "C": "Ileal osmolarity",
+      "D": "Secretin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Strongest stimulus for gastrin release?",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Vitamins",
+      "C": "Proteins and amino acids",
+      "D": "Acid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Intestinal motility is affected by:-",
+    "options": {
+      "A": "Gastrin",
+      "B": "Secretin",
+      "C": "Histamine",
+      "D": "Vasoactive intestinal peptide"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Migratory motor complex is triggered by",
+    "options": {
+      "A": "Motilin",
+      "B": "NO",
+      "C": "CCK",
+      "D": "Secretin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Decreased gastric secretions by:",
+    "options": {
+      "A": "Secretin",
+      "B": "Protein",
+      "C": "Gastrin",
+      "D": "Food"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "About iron absorption from gut what is correct",
+    "options": {
+      "A": "Dietary iron is more readily absorbed",
+      "B": "Ferric form more readily reabsorbed then ferrous form",
+      "C": "Free iron is more absorbed then bound form",
+      "D": "Absorbed from distal ileum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Fatty diet increases which of these",
+    "options": {
+      "A": "Glucagon",
+      "B": "Secretin",
+      "C": "CCK",
+      "D": "Insulin",
+      "E": "Somatostatin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Hypokalemia due to gastroenteritis IV potassium given how will it absorb",
+    "options": {
+      "A": "H/K pump",
+      "B": "Na/K pump",
+      "C": "Leaky channel",
+      "D": "Na channel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Which hormone responsible for increase gastric acid secretion",
+    "options": {
+      "A": "Glucagon",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Epinephrine",
+      "E": "CCK"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Fastest Regeneration occur in",
+    "options": {
+      "A": "Kidney",
+      "B": "Spleen",
+      "C": "Liver",
+      "D": "Intestine",
+      "E": "Lungs"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Saliva helps in digestion and it is secreted by? -",
+    "options": {
+      "A": "NO",
+      "B": "Vagus nerve",
+      "C": "VIP",
+      "D": "Abducent nerve",
+      "E": "Trigeminal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Gastrin secreted by which of following?",
+    "options": {
+      "A": "Pylorus",
+      "B": "Fundus of stomach",
+      "C": "Gastric Antrum",
+      "D": "Gastric",
+      "E": "Duodenum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "The H+/K+ pump in parietal cells controlled by",
+    "options": {
+      "A": "Carbonic anhydrase",
+      "B": "Na+/K+ Atpase",
+      "C": "Renin",
+      "D": "K+ Atpase",
+      "E": "Cycloxygenase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "After 100cm ileal resection following will occur:",
+    "options": {
+      "A": "Decrease Bile salt",
+      "B": "Bile salt Not absorbed properly",
+      "C": "Decrease Vitamin B12 absorption",
+      "D": "Decrease Folate absorption",
+      "E": "Decrease B6 absorption"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "CCK inhibited by:",
+    "options": {
+      "A": "Glucose",
+      "B": "Gastrin",
+      "C": "Secretin",
+      "D": "Somatostatin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "In vomiting which of following occur?",
+    "options": {
+      "A": "Constriction of LES",
+      "B": "Relaxation of LES",
+      "C": "Increase GIT motility",
+      "D": "Relaxation of Diaphragm",
+      "E": "Relaxation of abdominal muscles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Male has eaten fast food at night and has abdominal problem whole night due to:",
+    "options": {
+      "A": "Increase gastric emptying by CCK",
+      "B": "Delayed gastric emptying by CCK",
+      "C": "Delayed gastric emptying by Gastrin",
+      "D": "Increase Gastric emptying by Pepsin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Regarding prostaglandins in stomach:",
+    "options": {
+      "A": "Damage mucosa",
+      "B": "Protect mucosa by inhibiting HCL",
+      "C": "Secrete HCL",
+      "D": "Secrete Bicarbonate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Basal electrical rhythm of gut by:",
+    "options": {
+      "A": "Influx of Na+ by slow Ca+/Na+ Atpase",
+      "B": "Influx of Na+ by slow Ca+/K+ Atpase",
+      "C": "Influx of K+ by slow Ca+/K+ Atpase",
+      "D": "Influx of Cl- by slow Ca+/K+ Atpase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Pancreatic insufficiency causes steatorrhea due to:",
+    "options": {
+      "A": "Increase lipase",
+      "B": "Increase amylase",
+      "C": "Decrease lipase",
+      "D": "Decrease carbohydrates digestion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "2 month old baby cause loose motion after every feed immediately due to",
+    "options": {
+      "A": "Lactose intolerance",
+      "B": "Gastrocolic reflex",
+      "C": "IBD",
+      "D": "Psychogenic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Lowest pH in which part of GIT",
+    "options": {
+      "A": "Pancreatic juice",
+      "B": "Gastric juice",
+      "C": "Saliva",
+      "D": "Chyme"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "What happen in oesophageal sphincter when peristaltic wave comes?",
+    "options": {
+      "A": "Doesn't relax",
+      "B": "Relax ahead of wave",
+      "C": "Relax after coming of wave",
+      "D": "Contract ahead of wave",
+      "E": "Contract always"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Strongest layer of bowel is:",
+    "options": {
+      "A": "Mucosa",
+      "B": "Submucosa",
+      "C": "Lamina propria",
+      "D": "Serosa or adventitia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Rhythm and motility of GIT is maintained by:",
+    "options": {
+      "A": "Na+/ Ca",
+      "B": "Ca++/K+",
+      "C": "Na+/K",
+      "D": "Cl-/Na+"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Achalasia due to defect in:",
+    "options": {
+      "A": "Sympathetic nervous system",
+      "B": "Parasympathetic nervous system",
+      "C": "Myenteric plexuses",
+      "D": "Messiser plexuses",
+      "E": "Mucosa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "After Fatty food intake digestion required which of the following hormone:",
+    "options": {
+      "A": "GH",
+      "B": "Catecholamines",
+      "C": "Somatostatin",
+      "D": "Glucose",
+      "E": "CCK"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "During pharyngeal swallowing phase:",
+    "options": {
+      "A": "Vocal cord abduction",
+      "B": "Transient holding of breath",
+      "C": "Complete breath stoppage",
+      "D": "Vocal cord contracts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Urea forms in:",
+    "options": {
+      "A": "Kidney",
+      "B": "Lung",
+      "C": "Liver",
+      "D": "Spleen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Vitamin B12 absorption needs which one of the following:",
+    "options": {
+      "A": "TC-I",
+      "B": "TC-II",
+      "C": "TC-III",
+      "D": "Intrinsic factor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Plasma glucose level is determined by",
+    "options": {
+      "A": "Glucostatic activity of liver",
+      "B": "Rate of gluconeogenesis",
+      "C": "Serum GH level",
+      "D": "Serum Cortisol Level"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Histamine causes increase in gastric acid secretion by:",
+    "options": {
+      "A": "Stimulating Vagus nerve",
+      "B": "Through IP3 Mechanism",
+      "C": "Through Na+/K+ Atpase",
+      "D": "Through Camp mechanism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "A patient presented with complaints of burning epigastric pain on & off that improves after meals. This condition is due to persistent release of gastric acid by presence of which of the following in plasma?",
+    "options": {
+      "A": "Gastrin",
+      "B": "Histamine",
+      "C": "Pepsinogen",
+      "D": "Secretin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Initiation of interdigestive myoelectric complexes is done by which hormone?",
+    "options": {
+      "A": "Gastrin",
+      "B": "NO",
+      "C": "CCK",
+      "D": "Secretin",
+      "E": "Motilin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of following decrease stomach acids",
+    "options": {
+      "A": "Secretin",
+      "B": "Cholycystokinin",
+      "C": "Stomach distension",
+      "D": "Polypeptide chain"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "If pyloric sphincter is cut what will happen",
+    "options": {
+      "A": "Increased Gastrin release",
+      "B": "Increased acid flow",
+      "C": "Decrease gastric compliance",
+      "D": "Increased basal acid flow",
+      "E": "Increased gastric emptying"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Which of the following secretions are hypotonic , having more bicarb, and decrease after Vagotomy",
+    "options": {
+      "A": "Gastric juice",
+      "B": "Saliva",
+      "C": "Pancreatic secretions",
+      "D": "Gastric secretion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Which of the following is responsible for smooth muscles contraction of intestine",
+    "options": {
+      "A": "Neuronal signal",
+      "B": "Slow spontaneous contraction wave via Ca influx",
+      "C": "Slow waves via Na influx",
+      "D": "Hormonal signals",
+      "E": "Neuronal and slow waves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Which intestinal movement help to mix chyme with food",
+    "options": {
+      "A": "Myenteric reflex",
+      "B": "Segmentation",
+      "C": "Peristalsis",
+      "D": "Fast wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Complete denervation of the small intestine would be expected to:",
+    "options": {
+      "A": "Cause intestinal obstruction",
+      "B": "Cause peristalsis to become irregular",
+      "C": "Decrease the resting rate of intestinal peristalsis",
+      "D": "Have little effect on the resting rate of intestinal peristalsis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "In GIT, Action potential in Interstitial cells of cajal by:",
+    "options": {
+      "A": "Inc sodium by Na/Ca Pump",
+      "B": "Inc sodium by Na/K Pump",
+      "C": "Inc sodium by Ca/Na Pump",
+      "D": "Inc sodium by K/Ca Pump",
+      "E": "Inc sodium by Na/Ca Pump"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "There is a Distinct role of adrenergic receptors on digestive system they act Through?",
+    "options": {
+      "A": "Gut Musculature",
+      "B": "Pyloric Sphincter",
+      "C": "Gastric Fundus",
+      "D": "Gastro-Oesophageal Junction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "GIT is thickest at:",
+    "options": {
+      "A": "Gastroesophageal junction",
+      "B": "Pylorus",
+      "C": "Antrum",
+      "D": "Fundus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Mixing of chyme with food in small intestine through?",
+    "options": {
+      "A": "Peristaltic waves",
+      "B": "Haustrations",
+      "C": "Segmentation contractions",
+      "D": "Migratory motor complexes",
+      "E": "Appendices epiploicae"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "A hormone that increase HCO3 secretion from pancreas",
+    "options": {
+      "A": "CCK",
+      "B": "Secretin",
+      "C": "Gastrin",
+      "D": "Somatostatin",
+      "E": "Glucagon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Main function of hepatocytes is:",
+    "options": {
+      "A": "Detoxification of urea",
+      "B": "Metabolism of drugs",
+      "C": "Accliminazation of drugs",
+      "D": "Decrease Hb formation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "What is potent stimulus for gastric secretion",
+    "options": {
+      "A": "Fats",
+      "B": "Proteinization of drugs",
+      "C": "Saline",
+      "D": "Ethanol",
+      "E": "Carbohydrates"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Which intestinal movement help to mix chyme with food",
+    "options": {
+      "A": "Myenteric reflex",
+      "B": "Colonic reflex",
+      "C": "Gastric reflex",
+      "D": "Fast wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "How much time a bolus take to reach till colon",
+    "options": {
+      "A": "4 h",
+      "B": "6 h",
+      "C": "8 h",
+      "D": "10 h"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "After half of liver transplant. Remaining half of liver regeneration occurs in?",
+    "options": {
+      "A": "2 weeks",
+      "B": "6 weeks",
+      "C": "5 to 15 days",
+      "D": "16 to 25 days",
+      "E": "100 to 150 days"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Which among the following will cause increased gastric emptying?",
+    "options": {
+      "A": "Increased acidity of duodenum",
+      "B": "Increased Intragastric Volume",
+      "C": "Cholecytokinin",
+      "D": "Secretin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "At 6 months, Baby presented with continuous diarrhea for 10 days. His mother is worried- This may be due to:",
+    "options": {
+      "A": "Ractanal reflex",
+      "B": "Ano rectal reflex",
+      "C": "Gastro colic reflex",
+      "D": "Lactose intolerance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Which of the following causes secretory diarrhea when reaches colon in large quantities?",
+    "options": {
+      "A": "Sucrose",
+      "B": "Lactose",
+      "C": "Chenodeoxycholic",
+      "D": "Dipeptides"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "LES tone increased by..",
+    "options": {
+      "A": "Anti muscarinic drugs",
+      "B": "Gastrin",
+      "C": "CCK",
+      "D": "Smoking",
+      "E": "Secretin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Secondary peristalsis induced by:",
+    "options": {
+      "A": "Myenteric plexus",
+      "B": "Aurbach plexus",
+      "C": "Mass movement",
+      "D": "Anal reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "H2 blockers are given before surgery primarily to decrease which of the following?(Medicine Feb 2025)",
+    "options": {
+      "A": "Acid in the stomach",
+      "B": "Volume in the stomach",
+      "C": "Mucous in the stomach",
+      "D": "Gastric motility"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Resection of Upper part of small intestine will lead to decrease in(Medicine Feb 2025):",
+    "options": {
+      "A": "Basal acid secretion",
+      "B": "Gastric Emptying of solid food",
+      "C": "Gastric Emptying of liquid food",
+      "D": "Pancreatic secretions"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Increase in gastric emptying is by? (Medicine Feb 2025)",
+    "options": {
+      "A": "Vagotony",
+      "B": "Gastric distention",
+      "C": "Protein in duodenum",
+      "D": "Fatty Acids"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Which hormone will increase secretion of biliary duct epithelium? (Medicine Feb 2025)",
+    "options": {
+      "A": "Vagal stimulation",
+      "B": "CCK",
+      "C": "Secretin",
+      "D": "Gastrin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Patient underwent Gastrectomy & has deficiency of Vitamin B12. The cells required for the absorption of Vitamin B12 are: (Medicine Feb 2025)",
+    "options": {
+      "A": "Parietal Cells",
+      "B": "Mucous Cells",
+      "C": "Serous Cells",
+      "D": "Brunner Cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Child has decreased enterokinase. What deficiency comes along with it: (Medicine Feb 2025)",
+    "options": {
+      "A": "Trypsin",
+      "B": "Lactase",
+      "C": "Pepsin",
+      "D": "Lipase",
+      "E": "Amylase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Iron absorption occurs in(Medicine Feb 2025)",
+    "options": {
+      "A": "Proximal Jejunum",
+      "B": "Terminal Ileum",
+      "C": "Transverse Colon",
+      "D": "Proximal Duodenum",
+      "E": "Jejunum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Enzyme most important for protein degradation: (Medicine Feb 2025)",
+    "options": {
+      "A": "Trypsin",
+      "B": "Pepsin",
+      "C": "Aminopeptidase",
+      "D": "Amylase",
+      "E": "Chymotrypsin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Which of the following is the function of CCK on stomach(Surgery Feb 2025)",
+    "options": {
+      "A": "Relaxation of sphincter of Oddi",
+      "B": "Increase pyloric pump activity",
+      "C": "Decrease Intestinal motility",
+      "D": "Relaxation of fundus",
+      "E": "Hypotonic effect"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "20 year old male patient presents in emergency department with persistent vomiting which of the following contribute in vomiting process(Surgery Feb 2025)",
+    "options": {
+      "A": "Relaxation of Pyloric sphincter",
+      "B": "Relaxation of GE junction",
+      "C": "Contraction of abdominal muscles",
+      "D": "Concentration of diaphragm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Blood vessels dilatation in gut is mediated by(Surgery Feb 2025)",
+    "options": {
+      "A": "VIP",
+      "B": "CCK",
+      "C": "Gastrin",
+      "D": "GIP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Gut-brain stimulation of the myenteric plexus primarily occurs through which neurotransmitter? (Surgery Feb 2025)",
+    "options": {
+      "A": "Acetylcholine (Ach)",
+      "B": "Gamma-Aminobutyric Acid (GABA)",
+      "C": "Epinephrine",
+      "D": "NorEpinephrine",
+      "E": "Epinephirine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Which of the following pathways carries sensory afferent fibers from the GIT(Surgery Feb 2025)",
+    "options": {
+      "A": "White rami communicantes",
+      "B": "Gray rami communicantes",
+      "C": "Vagus nerve",
+      "D": "Pelvic splanchnic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Esophageal Secondary peristalsis induced by: (Surgery Feb 2025)",
+    "options": {
+      "A": "Myenteric plexus",
+      "B": "Auerbach plexus",
+      "C": "Mass movement",
+      "D": "Anal reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Parasympathetic effect on GIT is(Surgery Feb 2025)",
+    "options": {
+      "A": "Dilute secretion of git",
+      "B": "Decrease secretion of git",
+      "C": "Increase the sphincter tone of git",
+      "D": "Increase the blood flow of git",
+      "E": "Relax GIT sphincter"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Which of the following is potent stimulus for gastric secretion(Surgery Feb 2025)",
+    "options": {
+      "A": "Fats",
+      "B": "Protein",
+      "C": "Saline",
+      "D": "Ethanol",
+      "E": "Carbohydrates"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Which of the following is minimum length of intestine required for effective absorption(Gynae & Obs Feb 2025)?",
+    "options": {
+      "A": "50cm",
+      "B": "100cm",
+      "C": "150cm",
+      "D": "200cm",
+      "E": "250cm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Carbohydrate metabolism in intestine is done by: (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Sucrase",
+      "B": "Amylase",
+      "C": "Maltase",
+      "D": "Lactase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "A 2-year-old child presents with diarrhea and flattening of the brush border. Deficiency of which enzyme is most likely responsible?(Radiology Feb 2025)",
+    "options": {
+      "A": "Lipase",
+      "B": "Amylase",
+      "C": "Enterokinase",
+      "D": "Peptidase"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "The presence of acidic chyme in the duodenum stimulates the release of which hormone?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Secretin",
+      "B": "Gastrin",
+      "C": "Vasoactive intestinal peptide (VIP)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "How do antigens move through the intestinal wall? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "M cells",
+      "B": "Antigen-presenting dendritic cells",
+      "C": "Enterocytes",
+      "D": "Goblet cells",
+      "E": "Peyer's patches"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "CCK produced by: (Anesthesia Feb 2025)",
+    "options": {
+      "A": "S cells",
+      "B": "K cells",
+      "C": "I cells",
+      "D": "D cells",
+      "E": "G cells"
+    },
+    "correct_answer": "D"
+  }
+]

@@ -1,0 +1,3818 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Female with haemorrhage while standing heart rate increases due to:",
+    "options": {
+      "A": "Increase peripheral resistance",
+      "B": "Decrease in Venous Return",
+      "C": "Increase Venospasm",
+      "D": "Decrease vasospasm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Increase in stroke volume with unchanged peripheral resistance and capacitance results in:",
+    "options": {
+      "A": "Decrease in pulse pressure with increase Mean arterial pressure",
+      "B": "Increase in pulse pressure with decrease in Mean arterial pressure",
+      "C": "Increase in pulse pressure with Increase in Mean arterial pressure",
+      "D": "Decrease Heart Rate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Lady diagnosed to have Mitral stenosis on ECG there will be:",
+    "options": {
+      "A": "Variable R-R interval",
+      "B": "Irregular P-R",
+      "C": "Irregular R-R",
+      "D": "Regular R-R"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Regarding Cardiac cycle:",
+    "options": {
+      "A": "S2 at start of T wave",
+      "B": "P wave is followed by T wave",
+      "C": "1st heart sound in isovolumic ventricular contraction",
+      "D": "1st heart sound in isovolumic ventricular relaxation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Max pressure dissociation occurs at:",
+    "options": {
+      "A": "Artero-Areteriorar junction",
+      "B": "Arterioles to Capillary junction",
+      "C": "Capillary to venule",
+      "D": "Aorta to arteries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Plateau of action potential is due to:",
+    "options": {
+      "A": "Na influx",
+      "B": "Ca influx",
+      "C": "K efflux",
+      "D": "Ca efflux"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Person with haemorrhage will have:",
+    "options": {
+      "A": "Tachycardia-Hypotension-Increase CVP",
+      "B": "Tachycardia-Hypotension-Decrease CVP",
+      "C": "Bradycardia-Hypotension-Increase CVP",
+      "D": "Bradycardia-Hypotension-Decrease CVP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "ECG shows prolonged PR interval in",
+    "options": {
+      "A": "1st Degree Heart Block",
+      "B": "Bradycardia",
+      "C": "2nd degree block",
+      "D": "3rd degree block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Nerve taking afferents from baroreceptors:",
+    "options": {
+      "A": "Glossopharyngeal",
+      "B": "Facial",
+      "C": "Trigeminal",
+      "D": "Vagus",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Blood flow to tissues is maintained by:",
+    "options": {
+      "A": "Ventricular contraction",
+      "B": "Pulse pressure",
+      "C": "Systolic pressure",
+      "D": "Mean arterial pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Ventricle maximally filled in:",
+    "options": {
+      "A": "Rapid influx",
+      "B": "Atrial systole",
+      "C": "Isovolumetric relaxation",
+      "D": "Rapid ejection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Cardiac tissue is most vulnerable to ventricular fibrillation at which point:",
+    "options": {
+      "A": "At the start of action potential",
+      "B": "Just at the end of action potential",
+      "C": "When the action potential is about to end",
+      "D": "At peak of action potential"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "When AV conduction velocity is slowed down, what will be seen?",
+    "options": {
+      "A": "Increased heart rate",
+      "B": "Increased PR interval",
+      "C": "Decreased PR interval",
+      "D": "Decrease BP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "The main circulatory drive of blood flow is:",
+    "options": {
+      "A": "Ventricular contraction",
+      "B": "MAP",
+      "C": "Pulse pressure",
+      "D": "Atrial diastole"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "On ECG of a girl, you see saw tooth waves, with p waves in a ratio of 3:1. Her pulse is regularly irregular. Which of the following has occurred?",
+    "options": {
+      "A": "Atrial flutter",
+      "B": "Atrial fibrillation",
+      "C": "Ventricular tachycardia",
+      "D": "Ventricular fibrillation",
+      "E": "Ventricular flutter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "About the chambers of heart:",
+    "options": {
+      "A": "Left ventricle pressure 125/120mmHg",
+      "B": "Right ventricle pressure 25/5 mmHg",
+      "C": "Right ventricle pressure 40/10 mmHg",
+      "D": "Left ventricle pressure 100/25 mmHg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Regarding Second heart sound:",
+    "options": {
+      "A": "Low frequency than S1",
+      "B": "Less duration than S1",
+      "C": "High duration than S1",
+      "D": "High frequency than S1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "RE entry impulse in:",
+    "options": {
+      "A": "Ventricular Hypertrophy",
+      "B": "A Fib",
+      "C": "Conduction Block",
+      "D": "Paroxysmal Ventricular Arrhythmia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "ECG shows P wave is converted into small waves and QRS comes at irregular interval:",
+    "options": {
+      "A": "Atrial fibrillation",
+      "B": "Atrial flutter",
+      "C": "Ventricular fibrillation",
+      "D": "Wolf Parkinson"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "In cardiac cycle atrial fibrillation occurs:",
+    "options": {
+      "A": "At start of QRS",
+      "B": "At end of QRS",
+      "C": "At peak of QRS",
+      "D": "At the lower end of PR interval"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient after RTA losses 2 liters of blood, which of the following will occur:",
+    "options": {
+      "A": "Increase venous tone",
+      "B": "Slight stimulation of sympathetic system",
+      "C": "Increase heart rate",
+      "D": "Negative feedback compensation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Pulmonary capillary wedge pressure is measured by:",
+    "options": {
+      "A": "Rt. atrial",
+      "B": "Indirect measures of left arterial pressure",
+      "C": "Pulmonary artery",
+      "D": "All"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Cardiac index related to:",
+    "options": {
+      "A": "Maximum performance on heart",
+      "B": "CO to body surface area",
+      "C": "Less performance of heart",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Max heart rate occur during",
+    "options": {
+      "A": "Atropine infusion",
+      "B": "Exercise",
+      "C": "Increase body temp.",
+      "D": "Anxiety"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Maximum pressure in aorta during:",
+    "options": {
+      "A": "Ventricle systole",
+      "B": "At the end of diastole",
+      "C": "Slow ejection phase",
+      "D": "Isovolumetric contraction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Most potent response in hypovolemic shock:",
+    "options": {
+      "A": "Sympathetic",
+      "B": "Brain ischemic response",
+      "C": "Parasympathetic",
+      "D": "Chemoreceptor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Pulse wave velocity can be used to:",
+    "options": {
+      "A": "Detect blood pressure",
+      "B": "Detect blood flow to the extremity",
+      "C": "Above 2 were hot favorite",
+      "D": "Detect HR"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Baroreceptors detect:",
+    "options": {
+      "A": "Decreased blood pressure",
+      "B": "Increase blood pressure",
+      "C": "Change in arterial blood pressure",
+      "D": "Change in venous blood pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "If right atrial pressure is 'increased then",
+    "options": {
+      "A": "Increases cardiac output",
+      "B": "Increases intra thoracic pressure",
+      "C": "Increased heart rate",
+      "D": "Variable BP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Heart rate is 75, PR interval is 0.3. if heart rate becomes 225, what will be the PR interval:",
+    "options": {
+      "A": "0.1",
+      "B": "0.3",
+      "C": "0.05",
+      "D": "0.04"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "On ECG, QRS complex represents:",
+    "options": {
+      "A": "Ventricular systole",
+      "B": "Ventricular depolarization",
+      "C": "Ventricular diastole",
+      "D": "Atrial systole"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Bundle of HIS is supplied by:",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "Right marginal artery",
+      "D": "Phrenic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Deep inspiration leads to",
+    "options": {
+      "A": "Increase compliance in pulmonary vasculature",
+      "B": "S2 splitting",
+      "C": "Delayed closure of semilunar valves occur",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "C wave shows:",
+    "options": {
+      "A": "Closure of seminar valve",
+      "B": "Opening of semilunar valve",
+      "C": "Closure of tricuspid valve",
+      "D": "3rd heart sound produced"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Marked increase in cardiac output is due to:",
+    "options": {
+      "A": "Pregnancy",
+      "B": "Exercise",
+      "C": "Anxiety",
+      "D": "Extreme of environmental temp"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "A woman had MI. 48 hours later she died. Now, on ECG there is irregular low voltage ways. What can be the pathophysiology?",
+    "options": {
+      "A": "Decrease CO",
+      "B": "Decrease ejection fraction",
+      "C": "Inc. in absolute refractory period",
+      "D": "Reentry of impulses",
+      "E": "Increase speed of conduction of impulse"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Mean systemic filling pressure determined by:",
+    "options": {
+      "A": "CO",
+      "B": "Venous return",
+      "C": "TPR",
+      "D": "Pulse"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "S4 is produced during",
+    "options": {
+      "A": "Ventricular filling",
+      "B": "Ventricular filling during atrial systole",
+      "C": "Contraction",
+      "D": "Atrial flutter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Maximum left ventricular pressure in a young healthy individual:",
+    "options": {
+      "A": "25",
+      "B": "50",
+      "C": "80",
+      "D": "120"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Purkinje fibers are fastest in transmitting impulse because:",
+    "options": {
+      "A": "They have wider diameter",
+      "B": "They have large number of sodium channels",
+      "C": "Intercalated junction",
+      "D": "Gap junctions"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Wave of depolarization passes from endocardium to epicardium related to",
+    "options": {
+      "A": "RR interval",
+      "B": "QT interval",
+      "C": "QRS complex",
+      "D": "Ventricular activation time"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "In which condition atrial repolarization is shown on ECG?",
+    "options": {
+      "A": "Third degree complete heart block",
+      "B": "Inspiration",
+      "C": "During exercise",
+      "D": "Atropine overdose"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Patient with left ventricular hypertrophy. What is the cause of left axis deviation?",
+    "options": {
+      "A": "RBBB",
+      "B": "Damaged myocardium of right ventricle",
+      "C": "LBBB",
+      "D": "Epicardium block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "In a standing person, venous return from legs is facilitated by:",
+    "options": {
+      "A": "Contraction of skeletal muscles",
+      "B": "Valves in veins",
+      "C": "Increased contractility of heart",
+      "D": "Veins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "HR = 70, CO 5.6 L, EDV = 160ml calculate EF?",
+    "options": {
+      "A": "0.5 L",
+      "B": "0.05L",
+      "C": "1L",
+      "D": "2L"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Person standing from sitting position, Heart rate increases due to:",
+    "options": {
+      "A": "Decreased firing rate from baroreceptor",
+      "B": "Increased firing rate from baroreceptors",
+      "C": "Chemoreceptors.",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Proteins that escape into tissues from blood vessels:",
+    "options": {
+      "A": "Reabsorbed by lymphatic system",
+      "B": "Convert to be a part of defense system",
+      "C": "Involve in metabolic activity",
+      "D": "Involve arteries"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Aortic pressure lowest during:",
+    "options": {
+      "A": "Atrial systole",
+      "B": "Isovolumetric contraction",
+      "C": "Isovolumetric relaxation",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "BP drops from 100mmHg to 70mmHg, it will result in:",
+    "options": {
+      "A": "Decrease in carotid sinus nerve activity",
+      "B": "Increased sympathetic efferent effect on heart",
+      "C": "Increased sympathetic efferent effect on heart"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Calcium influx via slow channels in ventricle cells causes:",
+    "options": {
+      "A": "Ventricular ejection",
+      "B": "Atrial systole",
+      "C": "Rest was relaxation phases of cardiac cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Increased 'a' wave in JVP due to:",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Mitral regurgitation",
+      "C": "Aortic stenosis",
+      "D": "Tricuspid stenosis",
+      "E": "Aortic regurgitation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "About The measurement of cardiac output by thermo dilution",
+    "options": {
+      "A": "Is accurate and easily repeatable",
+      "B": "Involves measuring the integral of temperature change over time",
+      "C": "Involves use of the latent heat of vaporization in the calculations",
+      "D": "Is also known as the fick technique",
+      "E": "May be inaccurate due to respiratory changes in the pulmonary artery temperature"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Baroreceptor firing causes decrease in:",
+    "options": {
+      "A": "Heart rate",
+      "B": "Venous compliance",
+      "C": "Coronary blood flow",
+      "D": "Cardiac Output",
+      "E": "Total Peripheral Resistance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "In shock, most important body response:",
+    "options": {
+      "A": "CNS ischemic response",
+      "B": "Baroreceptor",
+      "C": "Chemoreceptors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "At rest actin is covered in its active site by:",
+    "options": {
+      "A": "Troponin",
+      "B": "Tropomyosin",
+      "C": "Myosin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Absent A wave due to:",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Aortic stenosis",
+      "C": "Aortic regurgitation",
+      "D": "Atrial Fibrillation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Mitral stenotic ECG changes are",
+    "options": {
+      "A": "P mitrale",
+      "B": "RR",
+      "C": "ST"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Athlete has increased which one in normal state?",
+    "options": {
+      "A": "Inc. cardiac out put",
+      "B": "Inc. HR",
+      "C": "Increased peripheral resistance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Pulse pressure:",
+    "options": {
+      "A": "Depends upon stroke volume",
+      "B": "Is the difference of MAP and TPR",
+      "C": "Is mainly due to arterial resistance",
+      "D": "Depends upon diastole only",
+      "E": "Increases as the diastolic pressure decreases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "At the time of shock what happens, what returns to normal after compensation earlier?",
+    "options": {
+      "A": "Heart rate",
+      "B": "Volume of pulse",
+      "C": "RBC volume",
+      "D": "RBC mass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "On ECG, what correlates with completely depolarized ventricle?",
+    "options": {
+      "A": "ST segment",
+      "B": "QRS complex",
+      "C": "PR interval",
+      "D": "QT interval"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Decrease in functional hemoglobin as in anemia carbon monoxide poisoning and methemoglobinemia will not causes hyperoxea because:",
+    "options": {
+      "A": "Stimulated by central receptors",
+      "B": "By carotid body",
+      "C": "Arterial po2 remains normal",
+      "D": "Arterial oxygen content is kept in normal range"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "At which point in ECG more Ca ions enter in ventricular muscle cell:",
+    "options": {
+      "A": "P wave",
+      "B": "R wave",
+      "C": "S-t segment",
+      "D": "P-r interval"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A patient presented with hypotension he is cool and tachycardiac he was asked to stand up on standing his heart rate is increases why?",
+    "options": {
+      "A": "Decrease in total peripheral resistance",
+      "B": "Decrease after load",
+      "C": "Decrease venous return",
+      "D": "Increase venous compliance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Second heart sound produced by:",
+    "options": {
+      "A": "Closure of mitral and tricuspid",
+      "B": "Closure of aortic and pulmonary",
+      "C": "Rapid filling of ventricles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Dec/shortest ventricular muscle fiber length in which one of the following?",
+    "options": {
+      "A": "Inc. venous return",
+      "B": "Contraction of peripheral muscles",
+      "C": "Dec. intra thoracic pressure",
+      "D": "Dec. intra pericardial pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "What is time period of absolute refractory resting period of heart?",
+    "options": {
+      "A": "100milli sec",
+      "B": "150 msec",
+      "C": "250 msec",
+      "D": "10 - 20msec"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Normal ECG do not record electrical activity of:",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Ventricles",
+      "D": "Left Atrium",
+      "E": "Right Atrium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Blood vessel valve present in:",
+    "options": {
+      "A": "Large size veins",
+      "B": "Medium size veins",
+      "C": "Muscular arteries",
+      "D": "Fenestrated capillaries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "True about venous return:",
+    "options": {
+      "A": "Will become zero when all circulatory responses abolish",
+      "B": "Will increase when mean systolic pressure falls",
+      "C": "Is decrease when right atrium pressure decreases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "During which phase of the cardiac cycle 2/3 of ventricular filling occurs and 3rd heart sound is produced?",
+    "options": {
+      "A": "Rapid inflow",
+      "B": "Atrial contraction",
+      "C": "Slow ejection",
+      "D": "Isovolumetric relaxation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Which heart sound is produced due vibration of the ventricles during rapid inflow?",
+    "options": {
+      "A": "3rd heart sound",
+      "B": "4th heart sound",
+      "C": "1st heart sound",
+      "D": "2nd heart sound"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Most potent response in massive haemorrhage:",
+    "options": {
+      "A": "CNS ischemic response",
+      "B": "Baroreceptors",
+      "C": "Peripheral chemoreceptors",
+      "D": "Brain bridge reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Parasympathetic effect on heart increases permeability in SA node to:",
+    "options": {
+      "A": "Sodium",
+      "B": "Potassium",
+      "C": "Calcium",
+      "D": "Potassium and sodium",
+      "E": "Sodium and calcium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Cardiac output is mainly determined by which of the following?",
+    "options": {
+      "A": "Venous Return.",
+      "B": "Stroke Volume.",
+      "C": "Heart Rate",
+      "D": "EDV in the left ventricle",
+      "E": "ESV in the left ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Best index of preload is:",
+    "options": {
+      "A": "Pulmonary artery wedge pressure",
+      "B": "Central venous (pressure/volume)",
+      "C": "EDV in left ventricle",
+      "D": "ESV in left ventricle",
+      "E": "C (LVEDV)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "During Inspiration, there is decrease in:",
+    "options": {
+      "A": "Arterial Plus volume",
+      "B": "Heart rate",
+      "C": "Negative intrapleural pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Splitting of 2nd heart sound is enhanced by:",
+    "options": {
+      "A": "Early closure of aortic valve",
+      "B": "Delayed closure of aortic valve",
+      "C": "Early closure of pulmonary valve",
+      "D": "Delayed closure of pulmonary valve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Regarding exercise tolerance test. What we need to observe?",
+    "options": {
+      "A": "Heart rate arrhythmia will happen",
+      "B": "Cardiac output will increase to the level of metabolic demand",
+      "C": "Cardiac output will decrease to the level of metabolic demand",
+      "D": "Heart rate decreases"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Veins keep more volume of blood in them:",
+    "options": {
+      "A": "Veins Have Less Compliance",
+      "B": "Veins Are Less Elastic",
+      "C": "Veins Have More Compliance",
+      "D": "Veins Have Largest Total Cross Section Area"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "How can we increase stroke volume?",
+    "options": {
+      "A": "Increase heart rate by keeping cardiac output constant",
+      "B": "Increase blood volume",
+      "C": "Increase venous capacitance",
+      "D": "Venous dilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Condition that increases pulse pressure?",
+    "options": {
+      "A": "Heart failure",
+      "B": "Thyrotoxicosis",
+      "C": "Armorrhage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Athletes heart rate is permanently 50 due to:",
+    "options": {
+      "A": "Increased Cardiac Output",
+      "B": "Increased Stroke Volume",
+      "C": "Decreased Stroke Volume",
+      "D": "Decreased Venous Return"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Myocardial oxygen demand increased by:",
+    "options": {
+      "A": "Increased heart size",
+      "B": "Increased Na influx",
+      "C": "Increased Heart Contractility",
+      "D": "Tachycardia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "During moderate exercise what decreases?",
+    "options": {
+      "A": "TPR",
+      "B": "HR",
+      "C": "CO",
+      "D": "SV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A wave represented by:",
+    "options": {
+      "A": "QT interval",
+      "B": "PR segment",
+      "C": "ST segment",
+      "D": "QRS complex",
+      "E": "PR interval"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Increase in venous blood RBCs Has",
+    "options": {
+      "A": "Chloride",
+      "B": "HCO3",
+      "C": "O2",
+      "D": "CO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Mechanism for BP less than 50:",
+    "options": {
+      "A": "Baroreceptor",
+      "B": "Peripheral Chemoreceptors",
+      "C": "Central Chemoreceptors",
+      "D": "Cerebral Ischemic Response"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Normal 200m sec ventricular plateau is showed by what in ECG?",
+    "options": {
+      "A": "Q Wave",
+      "B": "ST Segment",
+      "C": "QRS Complex",
+      "D": "P Wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Main variable controlled by baroreceptor reflex is:",
+    "options": {
+      "A": "Mean Arterial Pressure",
+      "B": "Pulse Pressure",
+      "C": "Blood Pressure",
+      "D": "Stroke Volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Highest conduction velocity in Purkinje is due to:",
+    "options": {
+      "A": "Gap Junctions",
+      "B": "Scanty Gap Junctions",
+      "C": "Less Number of Myofibrils",
+      "D": "Short Refractory Period",
+      "E": "Tight Junctions"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Exercising man will have:",
+    "options": {
+      "A": "Decreased Respiration",
+      "B": "Increased HR",
+      "C": "Increase Minute Ventilation",
+      "D": "Increase Cardiac Output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "PR interval shows:",
+    "options": {
+      "A": "Depolarization",
+      "B": "Increased HR",
+      "C": "First heart block",
+      "D": "AV node conduction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "During exercise TPR:",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remain Same"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "U wave in ECG shows:",
+    "options": {
+      "A": "Papillary Muscle Repolarization",
+      "B": "Hyperkalemia",
+      "C": "Septal Repolarization",
+      "D": "Hyponatremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Index of TPR:",
+    "options": {
+      "A": "CVP",
+      "B": "MAP",
+      "C": "Pulse Pressure",
+      "D": "Systolic BP",
+      "E": "Diastolic BP"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A patient on hypertensive drugs presents with postural hypotension. Increased heart rate while standing is mediated by:",
+    "options": {
+      "A": "Increase fire rate of baroreceptors",
+      "B": "Decrease fire rate of baroreceptors",
+      "C": "Increased vagal tone",
+      "D": "Increased vasomotor tone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "In normal healthy person the second heart sound:",
+    "options": {
+      "A": "Generates vibrations in the ventricular walls during systole",
+      "B": "Has a duration of about 0.14 second",
+      "C": "Is caused by ventricular filling",
+      "D": "Normally has low frequency",
+      "E": "Occurs during isovolumetric relaxation phase of cardiac cycle"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Mean stroke volume is:",
+    "options": {
+      "A": "Stroke Volume x Heart Rate",
+      "B": "Cardiac Output/Heart Rate",
+      "C": "Heart Rate/Stroke Volume",
+      "D": "Heart Rate/Cardiac Output"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "During exercise, blood flow decreases to:",
+    "options": {
+      "A": "Skin",
+      "B": "Muscle",
+      "C": "Kidney",
+      "D": "Heart"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "S2 heart sound is due to:",
+    "options": {
+      "A": "Rapid Ejection",
+      "B": "Slow Ejection",
+      "C": "Isovolumetric relaxation",
+      "D": "Isovolumetric contraction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Actin attachment to Z line through:",
+    "options": {
+      "A": "Myosin",
+      "B": "Troponin",
+      "C": "Actinin",
+      "D": "Titin",
+      "E": "Nebulin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A person went to floor from stairs and increase cardiac output cause of increase cardiac output:",
+    "options": {
+      "A": "Increase preload",
+      "B": "Decrease Contractility",
+      "C": "Decrease Sympathetic",
+      "D": "Increase TPR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Heart rate increase it will affect which phase of cardiac cycle effected?",
+    "options": {
+      "A": "Rapid ejection",
+      "B": "Slow ventricular filling",
+      "C": "Rapid filling",
+      "D": "Reduced ejection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Which phase of cardiac cycle will not occur in absence of p wave on ECG?",
+    "options": {
+      "A": "Atrial systole",
+      "B": "Atrial diastole",
+      "C": "Ventricular systole",
+      "D": "Ventricular diastole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Regarding coronary arteries:",
+    "options": {
+      "A": "2 coronary artery, Auricular, 1 AV nodal, 1 septal",
+      "B": "3 coronary arteries",
+      "C": "2 coronary, 2 AV nodal, 2 septal",
+      "D": "2 coronary artery, 1 AV nodal, 2 septal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "One with multiple fractures of radius femur with pulse 120 and BP 90/50 comes to ER initially:",
+    "options": {
+      "A": "Blood transfusion",
+      "B": "Fluid replacement",
+      "C": "Temp monitor",
+      "D": "Splinting of fractures",
+      "E": "Tracheostomy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "In normally functioning myocardium, C wave coincide with:",
+    "options": {
+      "A": "Closure of semilunar valves",
+      "B": "First heart sound",
+      "C": "Closure of AV valve",
+      "D": "Opening of AV valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "SA node is located:",
+    "options": {
+      "A": "Upper part of sulcus terminalis",
+      "B": "Lower part of sulcus terminalis",
+      "C": "Upper part of crista terminalis",
+      "D": "Moderator band"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "During exercise sympathetic adrenergic stimulation causes:",
+    "options": {
+      "A": "Vasoconstriction",
+      "B": "Cardiac circulation regulation",
+      "C": "Constriction of sphincter urethra",
+      "D": "Relaxation of sphincter urethra",
+      "E": "Increase cardiac activity"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Inverse relation to blood flow:",
+    "options": {
+      "A": "Resistance",
+      "B": "Radius",
+      "C": "Vessel length",
+      "D": "Diameter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "In basal condition cardiac muscles uses which of the following for energy?",
+    "options": {
+      "A": "Fats",
+      "B": "Carbohydrates",
+      "C": "Amino acids",
+      "D": "Lipids"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Diameter of Lumen of arteriole is:",
+    "options": {
+      "A": "0.03mm",
+      "B": "1.5mm",
+      "C": "2mm",
+      "D": "2.5mm",
+      "E": "3mm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Highest systolic pressure present in:",
+    "options": {
+      "A": "Bruit",
+      "B": "Femoral artery",
+      "C": "Dorsalis pedis",
+      "D": "Renal Artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Normal fluid loss in 24 hours through perspiration is:",
+    "options": {
+      "A": "200-400ml",
+      "B": "400-500ml",
+      "C": "500-600ml",
+      "D": "600-800ml"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "A patient having Tachycardia abdominal distension and hypotension after laparotomy due to which of these:",
+    "options": {
+      "A": "Hypovolumic Shock",
+      "B": "Septic Shock",
+      "C": "Cardiogenic Shock",
+      "D": "Anaphylactic Shock",
+      "E": "Neurogenic Shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "A Person taken to siachen 12000 feet from sea level develops dyspnea post 12 hours most likely due to:",
+    "options": {
+      "A": "Secondary",
+      "B": "Pulmonary edema",
+      "C": "Airway obstruction",
+      "D": "Inflammation",
+      "E": "Infection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "A Patient with localized Circumferential Lateral wall infarct which artery involved:",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "LCX",
+      "D": "Marginal",
+      "E": "Pulmonary embolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "In Auscultation 3rd intercostal space left to sternum:",
+    "options": {
+      "A": "Aortic A2",
+      "B": "Aortic A1",
+      "C": "Pulmonary valve sound",
+      "D": "Mitral valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "CVP is increased by:",
+    "options": {
+      "A": "Decrease Heart Rate",
+      "B": "Increase Total Peripheral Resistance",
+      "C": "Decrease Blood volume",
+      "D": "Increase Heart Rate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "Decrease lymphatic flow due to increase of:",
+    "options": {
+      "A": "Increase Plasma Oncotic Pressure",
+      "B": "Decrease Plasma Oncotic Pressure",
+      "C": "Increase Hydrostatic Pressure",
+      "D": "Increase Permeability"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "A patient is having high grade fever, Low BP and Shock like condition Which of the following is the site of septic shock?",
+    "options": {
+      "A": "Gastrointestinal system",
+      "B": "Cardiovascular system",
+      "C": "Urinary Track",
+      "D": "Pulmonary system",
+      "E": "Renal System"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Current flow occurs in the heart to produce waves in the ECG when the heart is:",
+    "options": {
+      "A": "Completely depolarized",
+      "B": "Partially depolarized",
+      "C": "Completely repolarized",
+      "D": "In refractory period",
+      "E": "Partially depolarized and partially polarized"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "2nd heart sound due to:",
+    "options": {
+      "A": "Isovolumetric contraction",
+      "B": "Isovolumetric relaxation",
+      "C": "Atrial systole",
+      "D": "Ventricular filling",
+      "E": "Rapid Ejection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Right ventricular pressure at which pulmonary valve opens is?",
+    "options": {
+      "A": "8mmHg",
+      "B": "30mmHg",
+      "C": "80mmHg",
+      "D": "100mmHg",
+      "E": "40mmHg"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "In Which Phenomena Increase CO2 , Decrease TPR and Increase Vasodilaton in Skeletal muscle is:",
+    "options": {
+      "A": "CO poisoning",
+      "B": "Cyanide Poisning",
+      "C": "Hypoxia",
+      "D": "Exercise"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "A patient has cardiac cycle of 0.3 seconds is increased to 225 beats/min. What will be the duration of cardiac cycle?",
+    "options": {
+      "A": "0.1 sec",
+      "B": "0.3 sec",
+      "C": "0.9 sec",
+      "D": "1 sec",
+      "E": "2 sec"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "8% blood loss in 30 min with no change in atrial pressure which of the following has maximum loss of blood",
+    "options": {
+      "A": "Aorta",
+      "B": "Arteries",
+      "C": "Arteriole",
+      "D": "Capillary",
+      "E": "Veins"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "MI occur due to thrombosis which factor is important and independent of other factors",
+    "options": {
+      "A": "Prolonged immobilization",
+      "B": "Endothelial injury",
+      "C": "Stasis",
+      "D": "Hypercoagubility",
+      "E": "Turbulence in Blood Flow"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Which following has most prominent prepotential?",
+    "options": {
+      "A": "SA node",
+      "B": "Atrial muscle cells",
+      "C": "Bundle of His",
+      "D": "Purkinje fibers",
+      "E": "Ventricular muscle cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "In Aortic aneurysm defect will be in",
+    "options": {
+      "A": "Tunica intima",
+      "B": "Tunica media",
+      "C": "Tunica spinosa",
+      "D": "Tunica Granulosa"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Fastest response to increase BP",
+    "options": {
+      "A": "CNS ischemic",
+      "B": "RAAS",
+      "C": "Baroreceptor",
+      "D": "Renin",
+      "E": "Adrenergic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "A person runing in a marathon race blood flow to non exercising muscle by",
+    "options": {
+      "A": "Sympathetic cholinergic",
+      "B": "Sympathetic adrenergic",
+      "C": "Parasympathetic",
+      "D": "Local metabolite",
+      "E": "Adenosine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "About S1 heart sound accompanied with a wave on JVP",
+    "options": {
+      "A": "Closure of aortic and pulmonic valve",
+      "B": "Decrease ventricular pressure",
+      "C": "Increase atrial pressure",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Patient loss one liter of blood in 5 mints it will cause",
+    "options": {
+      "A": "Increase heart rate",
+      "B": "Increase venous tone",
+      "C": "Decrease Heart rate",
+      "D": "Bounding pulse"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "The site of murmur for aortic regurgitation is:",
+    "options": {
+      "A": "Neck",
+      "B": "Apex of heart",
+      "C": "Left 5th ICS",
+      "D": "Right 2nd ICS",
+      "E": "Left 2nd ICS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "62 years old patient of congestive heart failure presented with dyspnea and orthopnea, the mechanism of pulmonary edema in case of CHF is which of following",
+    "options": {
+      "A": "Increased plasma colloid osmotic pressure",
+      "B": "Decreased plasma colloid osmotic pressure",
+      "C": "Decreased hydrostatic pressure",
+      "D": "Increased hydrostatic pressure",
+      "E": "Increased permeability of pulmonary vasculature"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "What is the difference between anaphylactic and hypovolemic shock?",
+    "options": {
+      "A": "Decrease Cardiac output in Anaphylactic",
+      "B": "Increase cardiac output in Anaphylactic",
+      "C": "Increase TPR",
+      "D": "Increase BP",
+      "E": "Decrease BP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "ECG of patient shows progressive prolongation of PR interval in successive beats followed by dropped heart Beat patient is suffering from?",
+    "options": {
+      "A": "Mobitz 1 AV block",
+      "B": "Mobitz 2 AV block",
+      "C": "Atrial flutter",
+      "D": "Complete AV block",
+      "E": "1st degree AV block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "If ejection fraction increase there will be decrease in:",
+    "options": {
+      "A": "Cardiac out put",
+      "B": "EDV",
+      "C": "Systolic pressure",
+      "D": "Heart rate",
+      "E": "Pulse pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "After myocardial injury what biochemical changes will be seen in hypoxia",
+    "options": {
+      "A": "Aerobic Glycolysis",
+      "B": "Oxidative Phosphorylation",
+      "C": "Anaerobic Glycolysis +Glycogenesis",
+      "D": "Gluconeogenesis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A patient has infarct of left ventricle which is sub endocardial and also infracted intra ventricular septum most likely what is the cause",
+    "options": {
+      "A": "Hypotensive shock",
+      "B": "Thrombotic occlusion of LCX",
+      "C": "Hypovolumic Shock",
+      "D": "Decrease blood suply to the wall"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "An old man died after 4 days of RTA he is having femur fracture upon autopsy he was having pulmonary infarcts and veins was occluded by hematopoietic stem cell origin cells",
+    "options": {
+      "A": "Pulmonary Embolism",
+      "B": "Air embolism",
+      "C": "Gas embolism",
+      "D": "Fat embolism",
+      "E": "Amniotic fluid embolism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "A young girl is exercising what parameter is decrease in her skeletal muscle",
+    "options": {
+      "A": "Lactate",
+      "B": "Fats",
+      "C": "Arteriolar resistance",
+      "D": "Metabolic waste"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "After RTA a patient has lost blood of 1.5 litres,He will have:",
+    "options": {
+      "A": "Tachycardia, increase CVP Increase BP",
+      "B": "Bradycardia, increase CVP, decreased BP",
+      "C": "Bradycardia decrease CVP decrease BP",
+      "D": "Tachycardia, decrease CVP, decrease BP"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Hyperkalemia occurs in acute response to",
+    "options": {
+      "A": "Fluid intake",
+      "B": "Exercise",
+      "C": "Increase fluid loss",
+      "D": "CRF",
+      "E": "CLD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Velocity of conduction increased 5-50 folds due to large diameter what will be other reason?",
+    "options": {
+      "A": "Na channel increase permeability",
+      "B": "Increase Na/K atpase pump",
+      "C": "Increase length",
+      "D": "Increase Ca channel"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Most common site of atherosclerosis:",
+    "options": {
+      "A": "Aorta",
+      "B": "SVC",
+      "C": "Aorta",
+      "D": "Femoral artery",
+      "E": "Radial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Following Vessel involved in descending order (LCP-DIC)",
+    "options": {
+      "A": "Lower Abdominal aorta",
+      "B": "Coronary artery",
+      "C": "Popliteal artery",
+      "D": "Descending thoracic aorta",
+      "E": "Internal Carotid artery",
+      "F": "Circle of Willis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Largest total cross sectional and surface area is of",
+    "options": {
+      "A": "Artery",
+      "B": "Arterioles",
+      "C": "Capillaries",
+      "D": "Venules",
+      "E": "Veins"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Patient presented in ER after RTA 1-liter blood loss what will be compensatory mechanism?",
+    "options": {
+      "A": "Decrease diastolic bp",
+      "B": "Decrease TPR",
+      "C": "Increase Venous tone",
+      "D": "Decrease BP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Heart need 60% energy from which one of these?",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Ketones",
+      "C": "Proteins",
+      "D": "Fats"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Female patient after multiple blood transfusion ECG shows tall T waves what is your diagnosis?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypercalcemia",
+      "D": "Hypocalcemia",
+      "E": "Hypomagnesemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Patient came in ER with acute chest pain ECG done what finding will suggest acute MI?",
+    "options": {
+      "A": "T wave peak",
+      "B": "U wave",
+      "C": "ST displacement",
+      "D": "Tall QRS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 85/40 what will activate now:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism",
+      "E": "Chemoreceptor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "AV Nodal Delay helps in which of following?",
+    "options": {
+      "A": "Atrial filling",
+      "B": "Ventricle filling",
+      "C": "Aorta filling",
+      "D": "Ventricle contraction",
+      "E": "Atrial contraction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 65/40 what will activate now?",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism",
+      "E": "Chemoreceptor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Detached embolus from deep veins of leg will lodge in:",
+    "options": {
+      "A": "Inferior vena cava",
+      "B": "Lung",
+      "C": "Heart",
+      "D": "Femoral veins",
+      "E": "Superior vena cava"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Ventricle pressure rises and Volume remain same in which phase of Cardiac cycle?",
+    "options": {
+      "A": "Rapid ejection",
+      "B": "Rapid ventricle filling",
+      "C": "Atrial Systole",
+      "D": "Isovolumetric contraction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Membrane potential maintained by which of following",
+    "options": {
+      "A": "Na k ATPase pump",
+      "B": "Inward sodium",
+      "C": "Outward potassium",
+      "D": "Inwards potassium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Location of SA node:",
+    "options": {
+      "A": "At the junction of right atrium and ventricle",
+      "B": "Lower side of atrial septum",
+      "C": "Top of right atrium",
+      "D": "B/w the cusps of tricuspid valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Increase extracellular potassium causes which of these?",
+    "options": {
+      "A": "Systolic arrest",
+      "B": "Diastolic arrest",
+      "C": "Both arrests",
+      "D": "No significant effect on heart"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Ventricular filling in which ECG-segment",
+    "options": {
+      "A": "TP",
+      "B": "QT",
+      "C": "ST",
+      "D": "QRS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Cardiac output measured by thermodilution method record",
+    "options": {
+      "A": "Pulse",
+      "B": "Temperature",
+      "C": "Pressure",
+      "D": "Blood flow"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "A band in sarcomere consist of",
+    "options": {
+      "A": "Myosin only",
+      "B": "Actine with some myosin",
+      "C": "Myosin only",
+      "D": "Myosin and some actin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Organ with high atriovenous oxygen difference at rest is:",
+    "options": {
+      "A": "Skeletal muscle",
+      "B": "Heart",
+      "C": "Brain",
+      "D": "Kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Action potential from cell to cell by",
+    "options": {
+      "A": "Gap junction",
+      "B": "Intercalated disc",
+      "C": "Desmin bridges",
+      "D": "Desmosomes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "In ECG ventricular depolarization shown by",
+    "options": {
+      "A": "QRS complex",
+      "B": "ST segment",
+      "C": "PR segment",
+      "D": "TP segment",
+      "E": "PR Interval"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Cardiac output measured by Thermodilution method is called",
+    "options": {
+      "A": "Ficks law",
+      "B": "Grahams law",
+      "C": "Starling law",
+      "D": "Indicator dilution technique"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Systolic phase of cardiac cycle correspond to the following component of ECG",
+    "options": {
+      "A": "QRS complex",
+      "B": "QR interval",
+      "C": "ST segment",
+      "D": "PR Segment",
+      "E": "RT Interval"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "2 persons sitting in a room, athlete & other man what former will have increase:",
+    "options": {
+      "A": "HR",
+      "B": "Blood pressure",
+      "C": "Cardiac output",
+      "D": "Ejection fraction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Parasympathetic decreases heart rate by effect on",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Na & K",
+      "D": "Ca",
+      "E": "Phosphorus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Regarding preferential thorough fare channel correct statement is",
+    "options": {
+      "A": "Small caliber",
+      "B": "Having smooth muscles",
+      "C": "Open on demand",
+      "D": "Present at origin of precapillary Sphinter",
+      "E": "Increase capillary valve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Blood vessel dilation in response to exercise by Sympathetic in which organ",
+    "options": {
+      "A": "Heart",
+      "B": "Kidney",
+      "C": "Brain",
+      "D": "Lung",
+      "E": "Stomach"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "From sitting to standing there compensation by:",
+    "options": {
+      "A": "Decreased HR",
+      "B": "Decrease heart rate",
+      "C": "Increase TPR",
+      "D": "Increase CO",
+      "E": "Increase heart rate"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Resting membrane potential reverts back to normal due to:",
+    "options": {
+      "A": "Leaky Na channel",
+      "B": "Closing of K channel",
+      "C": "Progressive opening of K channel",
+      "D": "Opening of Na channel",
+      "E": "Funny Na channel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Common muscle contraction protein for smooth and skeletal muscle -",
+    "options": {
+      "A": "Calmodulin",
+      "B": "Actin",
+      "C": "Myosin",
+      "D": "Tropomyosin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "When blood pressure in carotid sinus decrease it will cause increase of -",
+    "options": {
+      "A": "Peripheral resistance",
+      "B": "Firing of pressoreceptors",
+      "C": "Heart rate",
+      "D": "Parasympathetic drive"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Percentage of blood ejected out of end diastolic volume per contraction is",
+    "options": {
+      "A": "Stroke volume",
+      "B": "Heart rate",
+      "C": "Ejection fraction",
+      "D": "MAP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "An old man collapsed and his ECG shows atrial rate of 75 ventricular rate of 35 bpm what is the cause",
+    "options": {
+      "A": "Adam stokes",
+      "B": "AV nodal tachycardia",
+      "C": "WPW syndrome",
+      "D": "Atrial prematurity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "In moderate exercise what happen",
+    "options": {
+      "A": "Increase TPR",
+      "B": "Arterial PO2 decrease",
+      "C": "Increase PCO2",
+      "D": "Increase Stroke volume",
+      "E": "Decrease Stroke volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Distinct feature of cardiac muscle",
+    "options": {
+      "A": "Receive Blood supply from arteries directly arise from aorta",
+      "B": "Draw 70-80% oxygen from blood of arteries",
+      "C": "Have single nucleus",
+      "D": "Have triangular nucleus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Similarity between Cardiac and skeletal muscles is",
+    "options": {
+      "A": "Transverse striations",
+      "B": "Mononucleated",
+      "C": "Intercalated disc",
+      "D": "Lacks T tubules"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Increase in viscosity of blood is related to",
+    "options": {
+      "A": "Increase radius of capacitance",
+      "B": "Increase radius of resistance arteriole",
+      "C": "Increase mean arterial pressure",
+      "D": "Decrease mean arterial pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Decrease height and slope of action potential is due to",
+    "options": {
+      "A": "Hypernatremia",
+      "B": "Hyperkalemia",
+      "C": "Hypokalemia",
+      "D": "Hyponatremia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "1st heart sound is due to which of following",
+    "options": {
+      "A": "Rapid ejection",
+      "B": "Rapid filling",
+      "C": "Isovolumetric relaxation",
+      "D": "Isovolumetric contraction",
+      "E": "Slow filling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Heart works as a syncytium because of",
+    "options": {
+      "A": "Gap junctions",
+      "B": "Intercalated disc",
+      "C": "Tight Junction",
+      "D": "Desmosomes",
+      "E": "Autonomous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Striated muscle that rhythmically myogenically contract in synchronized fashion",
+    "options": {
+      "A": "Skeletal muscles",
+      "B": "Smooth muscles",
+      "C": "Cardiac muscle",
+      "D": "Ciliary body"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Baroreceptors maintaineb -",
+    "options": {
+      "A": "Mean arterial pressure",
+      "B": "Decrease TPR",
+      "C": "Venous compliance",
+      "D": "Cardiac output",
+      "E": "Oxygen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Neurophysiologist while stimulating a nerve is unable to generate action potential due to",
+    "options": {
+      "A": "Hypernatremia",
+      "B": "Hyponatremia",
+      "C": "Hyperchloremia",
+      "D": "Hypokalemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Child playing jungle lion game he got - goosebumps what is mechanism -",
+    "options": {
+      "A": "Relaxation of erector pilli muscle",
+      "B": "Constriction of erector pilli muscle",
+      "C": "Epidermis",
+      "D": "Eversion of hair follicles",
+      "E": "Follicle rupture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "ECG show normal P waves but wide QRS heart rate is 25 Pace Maker in",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Bundle of His",
+      "D": "Purkinje Fibers"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "3rd heart sound due to:",
+    "options": {
+      "A": "Rush of blood rapidly in ventricle",
+      "B": "Contraction of atria over stenotic valve",
+      "C": "Opening of Semilunar Valve",
+      "D": "Closure of Mitral Valve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "Increase right atrial pressure increase mean systemic pressure decrease venous resistance cause is",
+    "options": {
+      "A": "Sympathetic",
+      "B": "Parasympathetic",
+      "C": "Exercise",
+      "D": "Stress",
+      "E": "Fever"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Na-K ATPase inhibition in cardiac cell leads to?",
+    "options": {
+      "A": "Increased intracellular chloride",
+      "B": "Increased intracellular calcium",
+      "C": "Increased intracellular potassium",
+      "D": "Decreased intracellular calcium",
+      "E": "Decrease intracellular sodium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Neck Veins normally don't distend when right atrial pressure rises above",
+    "options": {
+      "A": "8+",
+      "B": "22+",
+      "C": "5-",
+      "D": "30-"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Patient having SVT affect of vagal maneuvers will be",
+    "options": {
+      "A": "Decrease PR interval",
+      "B": "Increase Heart rate",
+      "C": "Increase Blood pressure",
+      "D": "Increase PR interval"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Increase venous return with increase in",
+    "options": {
+      "A": "Venous compliance",
+      "B": "Vagal tone",
+      "C": "TPR",
+      "D": "Right atrial pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Beta adrenergic cause which of following effect?",
+    "options": {
+      "A": "Cardiac acceleration",
+      "B": "Cardiac deceleration",
+      "C": "Vasoconstriction",
+      "D": "Vasodilation",
+      "E": "Piloerection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "Myogenic vascular response to HTN is",
+    "options": {
+      "A": "Vasodilation",
+      "B": "Vasoconstriction",
+      "C": "Local metabolite",
+      "D": "Variable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "In vascular smooth muscle, the myogenic response is:",
+    "options": {
+      "A": "Contraction in response to increased blood pressure",
+      "B": "Contraction in response to O2",
+      "C": "Contraction in response to thromboxane, vasopressin, angiotensin II or endothelia",
+      "D": "Relaxation in response to CO2",
+      "E": "Relaxation in response to NO, histamine, prostacyclin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "A patient known case of mitral stenosis is having irregularly irregular pulse most common finding on JVP:",
+    "options": {
+      "A": "Giant a wave",
+      "B": "Absent a wave",
+      "C": "Absent c wave",
+      "D": "Gaint v wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "After passing wedge shape catheter pressure increase by 5mmHg which one will increase?",
+    "options": {
+      "A": "ANP",
+      "B": "BNP",
+      "C": "Aldosterone",
+      "D": "Potassium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Maximum aortic pressure in which phase of cardiac cycle?",
+    "options": {
+      "A": "Rapid ventricular filling",
+      "B": "Reduced ventricular filling",
+      "C": "Isovolumetric contraction",
+      "D": "Rapid ejection phase",
+      "E": "Isovolumetric relaxation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Increase In Mean arterial pressure will cause:",
+    "options": {
+      "A": "Decrease in TPR",
+      "B": "Increase venous return",
+      "C": "Increase in TPR",
+      "D": "Increase blood flow"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "Ventricles recieve impulses directly from?",
+    "options": {
+      "A": "Purkinje",
+      "B": "Bundle of his",
+      "C": "Right bundle branch",
+      "D": "Left bundle branch"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Normal beat After the extra systolic beat would produce:",
+    "options": {
+      "A": "Increase pulse pressure because contractility is increased.",
+      "B": "Increase pulse pressure because HR is increased",
+      "C": "Decrease pulse pressure because ventricular filling is increased",
+      "D": "Increase pulse pressure because SV is increased",
+      "E": "Decrease pulse pressure because the PR interval is increased"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Which of the following is responsible for preserving organism \"as a whole\" in fear and shock state??",
+    "options": {
+      "A": "Collateral circulation of CNS",
+      "B": "Sympatho adrenal discharge",
+      "C": "Pulmonary circulation",
+      "D": "CNS ischemic response"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Aortic valves open during which phase of cardiac cycle?",
+    "options": {
+      "A": "Isovolumetric contraction",
+      "B": "Isovolumetric relaxation",
+      "C": "Rapid ejection",
+      "D": "Slow ejection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "A student of final year mbbs witnessing surgery for the first time collapsed in OT due to:",
+    "options": {
+      "A": "Decrease in peripheral resistance",
+      "B": "Increase vascular permeability",
+      "C": "Decrease CO",
+      "D": "Sympathetic shock",
+      "E": "Decrease cardiac output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "In ECG complete ventricular depolarization:",
+    "options": {
+      "A": "QRS complex",
+      "B": "ST segment",
+      "C": "PT interval",
+      "D": "TP segment",
+      "E": "PR Interval"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Effect of Glucagon on heart is like",
+    "options": {
+      "A": "Dopamine",
+      "B": "Epinephrine",
+      "C": "Nor epinephrine",
+      "D": "Cortisol",
+      "E": "Acetylcholine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Atria stretch leading to tachycardia this is",
+    "options": {
+      "A": "Herring Breuer reflex",
+      "B": "Cushing reflex",
+      "C": "Bain Bridge reflex",
+      "D": "Sinus tachycardia",
+      "E": "Chemoreceptor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "Third heart sound due to:",
+    "options": {
+      "A": "Isovolumetric contraction",
+      "B": "Isovolumetric relaxation",
+      "C": "Atrial systole",
+      "D": "Rapid Ventricular filling",
+      "E": "Rapid ejection"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "5kg infant will have the blood volume:",
+    "options": {
+      "A": "420 ml",
+      "B": "500ml",
+      "C": "600ml",
+      "D": "320ml",
+      "E": "280ml"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Normal cerebral blood flow?",
+    "options": {
+      "A": "50ml/min",
+      "B": "150ml/min",
+      "C": "600ml/min",
+      "D": "750ml/min"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "In normal healthy person Sympathetic activity is increased to increase blood flow to",
+    "options": {
+      "A": "Heart",
+      "B": "Skin",
+      "C": "Muscle",
+      "D": "Lung"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "During exercise No change in blood flow to which organ",
+    "options": {
+      "A": "Heart",
+      "B": "Brain",
+      "C": "Skeletal muscles",
+      "D": "Kidneys",
+      "E": "Lung"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Patient with 15-20% blood loss,what should be given via infusion:",
+    "options": {
+      "A": "3% N/S",
+      "B": "Ringer lactate",
+      "C": "Colloid",
+      "D": "Blood"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Which of the following is the initial mechanism that stops bleeding after a cut?",
+    "options": {
+      "A": "Platelet aggregation",
+      "B": "Degranulation",
+      "C": "Vasoconstriction",
+      "D": "PGI2 release",
+      "E": "Vasodilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "A patient presents with HR 102bpm, BP 90/60 mmhg and tachypnea. On standing her HR increases to 110bpm. What is the mechanism behind this?",
+    "options": {
+      "A": "Increase venous return",
+      "B": "Increase vasoconstriction",
+      "C": "Increase contractility",
+      "D": "Decrease Venous return",
+      "E": "Increase ICP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "Action of Norepinephrine on heart",
+    "options": {
+      "A": "Decrease HR",
+      "B": "Decrease heart contractility",
+      "C": "Increase AV conduction",
+      "D": "Increase BP",
+      "E": "Decrease cutaneous blood flow"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Ventricles maximally filled at:",
+    "options": {
+      "A": "End of atrial systole",
+      "B": "Rapid ejection",
+      "C": "Slow ejection",
+      "D": "Isovolumic contraction",
+      "E": "Isovolumic relaxation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Venous return decreases in:",
+    "options": {
+      "A": "Skeletal muscle paralysis",
+      "B": "Femoral arteriovenous fistula",
+      "C": "Increased BP",
+      "D": "Increased Cardiac Output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Cardiac output of the right side of the heart is what percentage of the cardiac output of the left side of the heart:",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%",
+      "E": "125%"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Venous return is directly proportional to?",
+    "options": {
+      "A": "Intrathoracic pressure",
+      "B": "Cardiac output",
+      "C": "Stiffness of vessel",
+      "D": "Mean systemic filling pressure",
+      "E": "Intra-abdominal pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Fourth heart sound is due to which of following:",
+    "options": {
+      "A": "Rapid ejection",
+      "B": "Rapid filling",
+      "C": "Isovolumetric relaxation",
+      "D": "Atrial depolarization",
+      "E": "Slow filling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "Pacemaker of heart is",
+    "options": {
+      "A": "SA node",
+      "B": "AV node",
+      "C": "Bundle of HIS",
+      "D": "Purkinje fibers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Contraction of valve will be seen on JVP waveform as",
+    "options": {
+      "A": "V wave",
+      "B": "C wave",
+      "C": "X descent",
+      "D": "P wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "ANP is released by following mechanisms",
+    "options": {
+      "A": "Ventricular stretch",
+      "B": "Atrial relaxation",
+      "C": "Atrial stretch",
+      "D": "Purkinji fiber contraction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "A young girl in supine position with bp 80/50 and pulse 100 when she stand her pulse rate increase to reason for this increase in pulse?",
+    "options": {
+      "A": "Decrease contractility of heart",
+      "B": "Decrease venous return to heart",
+      "C": "Decrease Sympathetic",
+      "D": "Increase TPR"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "60% Ventricles filled at:",
+    "options": {
+      "A": "End of atrial systole",
+      "B": "Rapid ejection",
+      "C": "Slow ejection",
+      "D": "Isovolumic contraction",
+      "E": "Isovolumic relaxation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Persons heart rate is 80, ECG will show",
+    "options": {
+      "A": "R-R interval of 0.65 second",
+      "B": "R-R interval of 0.75 seconds",
+      "C": "R-R interval of 0.95 second",
+      "D": "P-R interval of 0.85 second"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "1 litre blood loss, which physiological parameter will decrease:",
+    "options": {
+      "A": "BP",
+      "B": "R/R",
+      "C": "Stroke volume",
+      "D": "Venous return"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "After vagal stimulation of heart, heart rate slows down, permeability of SA node increased for:",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Cl",
+      "D": "Ca",
+      "E": "Phosphorus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "Neutrophils marginalization increased in:",
+    "options": {
+      "A": "Chronic bacterial infection",
+      "B": "Cardiac infarcts",
+      "C": "Chronic lymphoma",
+      "D": "Leukemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "A group of students were studying difference between PO2 and PCO2 in different arteries of the body. They find major differences between:",
+    "options": {
+      "A": "Aorta and Pulmonary Artery",
+      "B": "Skeletal muscle arteriole and venule",
+      "C": "Aorta and Left Ventricle",
+      "D": "Right and Left Ventricle",
+      "E": "Aorta and Superior Vena cava"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Event occurring just before opening of aortic valve:",
+    "options": {
+      "A": "Beginning of diastole",
+      "B": "Beginning of systole",
+      "C": "Isovolumetric relaxation",
+      "D": "Slow ejection"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Which parameter of heart is checked during exercise:",
+    "options": {
+      "A": "Stroke volume",
+      "B": "Cardiac output",
+      "C": "Pulse pressure",
+      "D": "Ejection fraction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "Normal EDV is:",
+    "options": {
+      "A": "60 ml",
+      "B": "80 ml",
+      "C": "120 ml",
+      "D": "50ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "During hypertension in retina in grade-3 edema what will be damaged:",
+    "options": {
+      "A": "Arteriole",
+      "B": "Veins",
+      "C": "Capillaries",
+      "D": "Venules"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Hyperaemia is seen in Child speaking loudly what best describes Hyperaemia:",
+    "options": {
+      "A": "Acute infection",
+      "B": "Chronic infection",
+      "C": "Active process",
+      "D": "Passive process"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Motor bike rider falls from bike with heavy bleeding baroreceptor will diminish:",
+    "options": {
+      "A": "Venous compliance",
+      "B": "Heart rate",
+      "C": "TPR",
+      "D": "Pulse rate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "Low concentration epinephrine from medulla causes vasodilation via:",
+    "options": {
+      "A": "B1 adrenergic",
+      "B": "B2 adrenergic",
+      "C": "Cholinergic",
+      "D": "M2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "In a Person having regular exercise has HR of:",
+    "options": {
+      "A": "80 Beats/min",
+      "B": "100 Beats/min",
+      "C": "120 Beats/min",
+      "D": "140 Beats/min"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "Slowest speed of conduction velocity is present in which of following?",
+    "options": {
+      "A": "AV Node",
+      "B": "Purkinje fibers",
+      "C": "Bundle of His",
+      "D": "Ventricle",
+      "E": "Bundle of Kent"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "End systolic volume is 50ml and stroke volume is 70ml, what is the end diastolic volume?",
+    "options": {
+      "A": "140ml",
+      "B": "60ml",
+      "C": "80ml",
+      "D": "120ml"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Regarding myelinated fibres true is :",
+    "options": {
+      "A": "Low resistance",
+      "B": "Na/k conductance at node",
+      "C": "Action potential at internodes",
+      "D": "H/K conductance at internodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "A 25year old female presents with atypical chest pain, dyspnea on exertion and palpitations. Clinical examination shows pulse rate 80/min, B.P 130/80mmhg, and a grade 2 systolic murmur ay 4th sternal border. ECG was normal, chest X-RAY was normal. Which one of the following is most likely diagnosis?",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Atrial septal defect",
+      "C": "Coarctation of aorta",
+      "D": "Normal heart",
+      "E": "Pulmonary stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "Special feature of cardiac muscle is:",
+    "options": {
+      "A": "Derived 100% energy from proteins",
+      "B": "Has action potential with plateau",
+      "C": "Sustained action potential",
+      "D": "Get easily fatigued"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "During exercise coronary blood flow is maintained by",
+    "options": {
+      "A": "Sympathetic blood stimulation",
+      "B": "Local metabolites",
+      "C": "Parasympathetic output",
+      "D": "Blood pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "A patient was transfused blood after trauma. Most of the replaced blood volume goes to?",
+    "options": {
+      "A": "Veins and venules",
+      "B": "Arteries and arterioles",
+      "C": "Venules and arterioles",
+      "D": "Capillaries and veins",
+      "E": "Capillaries and arterioles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "In EKG Heart rate is 120/min it is related to",
+    "options": {
+      "A": "R-R interval will be 0.5 sec",
+      "B": "QRS complex will be less than 0.02 sec",
+      "C": "T wave will be greater than 2 mv",
+      "D": "R-R interval will be 1 sec"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "S2 Heart Sound is shown on JVP with right atrial waveform appear as",
+    "options": {
+      "A": "C Wave",
+      "B": "V Wave",
+      "C": "X Descent",
+      "D": "Y Descent",
+      "E": "A Wave"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "The action potential of SA node is caused by:",
+    "options": {
+      "A": "Entry of Na",
+      "B": "Entry of Cl",
+      "C": "K efflux",
+      "D": "Ca ions",
+      "E": "Cl efflux"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "During ventricular ejection, the minimum pressure gardient is between:",
+    "options": {
+      "A": "Sodium Channels",
+      "B": "Left atrium and ventricle",
+      "C": "Left ventricle and aorta",
+      "D": "Right atrium and ventricle",
+      "E": "Pulmonary artery and left atrium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "The semilunar valve opening is seen at which phase?",
+    "options": {
+      "A": "Reduced ejection",
+      "B": "Isovolumetric contraction",
+      "C": "Isovolumetric relaxation",
+      "D": "Slow filling phase",
+      "E": "Rapid ejection"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "Around 60% Ventricles filling occurs in",
+    "options": {
+      "A": "Aortic systole",
+      "B": "Rapid filling phase",
+      "C": "Slow filling phase",
+      "D": "Isovolumetric relaxation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 85/60 what will activate now:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "At the time of birth what will be seen in child?",
+    "options": {
+      "A": "Increase Systemic vascular resistance",
+      "B": "Increase Pulmonary vascular resistance",
+      "C": "Increase pulmonary arterial pressure",
+      "D": "Increase systemic arterial pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "Left ventricle , LBB and RBB supplied by",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "Posterior interventricular artery",
+      "D": "Right ventricular artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "In trace of jvp the wave produced by Right ventricular contraction is:",
+    "options": {
+      "A": "C wave",
+      "B": "V wave",
+      "C": "X descent",
+      "D": "Y descent",
+      "E": "A wave"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "Patient presented in shock-like condition after RTA, multiple soft tissue injuries, cause of shock in this condition is?",
+    "options": {
+      "A": "Sepsis",
+      "B": "Inadequate blood volume",
+      "C": "Peripheral vasodilation",
+      "D": "Anaphylaxis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "Main difference between Pulmonary & Systemic circulation is:",
+    "options": {
+      "A": "Decreased TPR",
+      "B": "Increased Compliance in pulmonary circulation",
+      "C": "Increased TPR",
+      "D": "Decreased Compliance in pulmonary circulation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "A student of Final year MBBS witnessing surgery for the first time collapsed in OT due to:",
+    "options": {
+      "A": "Dec peripheral resistance",
+      "B": "Dec Firing rate of baroreceptors",
+      "C": "Dec venous compliance",
+      "D": "Dec Map",
+      "E": "Vasovagal shock"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "Pericardiocentesis is best performed bypassing a needle through:",
+    "options": {
+      "A": "Subcostal with needle angle superiorly",
+      "B": "Supracostal with needle angle inferiorly",
+      "C": "Left 5th intercostal space inferiorly",
+      "D": "Subcostal with needle angle inferiorly"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "Along with thermo receptors pain receptors are also stimulated for sensation of:",
+    "options": {
+      "A": "Cold",
+      "B": "Hot",
+      "C": "Warmth",
+      "D": "Freezing cold",
+      "E": "Crude pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "After myocardial injury what biochemical changes will be seen in hypoxia:",
+    "options": {
+      "A": "Aerobic Glycolysis",
+      "B": "Oxidative Phosphorylation",
+      "C": "Anaerobic Glycolysis +Glycogenesis",
+      "D": "Gluconeogenesis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "S1 and S2 hearts sound the former has",
+    "options": {
+      "A": "More Frequency",
+      "B": "More Duration",
+      "C": "Less Dullness",
+      "D": "More Frequency",
+      "E": "No difference"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "End left ventricle Diastolic Volume depends on which one",
+    "options": {
+      "A": "Venous return",
+      "B": "Stretch of ventricle fibers",
+      "C": "TPR",
+      "D": "Stretch of Atrium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "Which one of the following wave on jvp is produced by bulging of tricuspid valve during right ventricular contraction",
+    "options": {
+      "A": "A wave",
+      "B": "Y wave",
+      "C": "C wave",
+      "D": "X wave"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "A patient presented with decrease heart rate in ER. On standing her pulse increase due to",
+    "options": {
+      "A": "Decrease in venous return",
+      "B": "Increase in venous return",
+      "C": "Increased TPR",
+      "D": "Increase pulse pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "In EKG Heart rate is 120/min it is related to",
+    "options": {
+      "A": "R-R interval will be 0.5 sec",
+      "B": "QRS complex will be less than 0.02 sec",
+      "C": "T wave will be greater than 2 mv",
+      "D": "R-R interval will be 1 sec"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "The best determinant of Preload is:",
+    "options": {
+      "A": "Left Ventricular End Diastolic Volume",
+      "B": "Left Ventricular End Diastolic Pressure",
+      "C": "Mean Arterial Pressure(MAP)",
+      "D": "Venous Return",
+      "E": "Raised Pulmonary Capillary wedge pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "In trace of jvp the wave produced by Right ventricular contraction is:",
+    "options": {
+      "A": "C wave",
+      "B": "V wave",
+      "C": "X descent",
+      "D": "Y descent",
+      "E": "A wave"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "A person does heavy exercise regularly. What will be his heart rate at rest?",
+    "options": {
+      "A": "80bpm",
+      "B": "Between 100 to 150bpm",
+      "C": "150bpm",
+      "D": "Below 60bpm",
+      "E": "Between 130 to 150"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "When you run, Venous return increases due to:",
+    "options": {
+      "A": "Increased Contraction of Calf Muscles",
+      "B": "Decreased TPR",
+      "C": "Increased contractility of heart",
+      "D": "Increased Muscle Tone",
+      "E": "Increased Breathing rate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "A Patient presented with chest pain. ECG was done which showed irregular heart beat, prominent U waves. What is the likely cause?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypernatremia",
+      "D": "Hypomagnesemia",
+      "E": "Hypocalcemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "A patient presented with irregular pulse. On Ecg, Absent P waves and irregular R- R interval. This is corresponding to increased firing from:",
+    "options": {
+      "A": "SA node",
+      "B": "AV node",
+      "C": "Purkinje Fibers",
+      "D": "Atria",
+      "E": "Bundle of His"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "Beginning of Ventricular contraction displacing the valve upward causes which wave in JVP?",
+    "options": {
+      "A": "C wave",
+      "B": "A wave",
+      "C": "X Descent",
+      "D": "V wave"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "Patient after RTA has chest pain which one will be raised",
+    "options": {
+      "A": "ALT",
+      "B": "CPK",
+      "C": "LDH",
+      "D": "AST",
+      "E": "CK MB"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "A person went to 3rd floor from stairs and increase cardiac output cause of increase cardiac output:",
+    "options": {
+      "A": "Increase preload",
+      "B": "Decrease Contractility",
+      "C": "Decrease Sympathetic",
+      "D": "Increase TPR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Apex beat is located at",
+    "options": {
+      "A": "Left 5th intercostal space",
+      "B": "Right 4th ics",
+      "C": "3rd left intercostal space",
+      "D": "5th Right intercostal space"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "Most of left ventricle, LBBB and RBB are supplied by?",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "Post descending artery",
+      "D": "RCA",
+      "E": "Marginal Artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "Two athletes are sitting in room. One is professional and other is new. Difference in former athlete?",
+    "options": {
+      "A": "Increased Heart Rate",
+      "B": "Increased Cardiac output",
+      "C": "Decreased respiratory rate",
+      "D": "Hypertension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 386,
+    "question_text": "Recurrent Syncope with change in posture due to:",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Coronary steal syndrome",
+      "C": "Vasovagal Stimulation",
+      "D": "Dilated cardiomyopathy",
+      "E": "Myxoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 387,
+    "question_text": "Lowest venous pressure in standing person at?",
+    "options": {
+      "A": "Superior sagittal sinus",
+      "B": "Internal jugular vein",
+      "C": "SVC",
+      "D": "IVC",
+      "E": "Lower leg veins"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 388,
+    "question_text": "Atrial repolarization is masked on ECG by which wave?",
+    "options": {
+      "A": "QRS complex",
+      "B": "T Wave",
+      "C": "P Wave",
+      "D": "Q wave"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 389,
+    "question_text": "A patient came to Cardiac ICU 80hrs post MI. Which investigation will u do?",
+    "options": {
+      "A": "LDH2",
+      "B": "CKMB",
+      "C": "CKMM",
+      "D": "MYOGLOBIN",
+      "E": "LDH1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 390,
+    "question_text": "Main arterial supply to interventricular septum:",
+    "options": {
+      "A": "Right coronary artery",
+      "B": "Left coronary artery",
+      "C": "LADA",
+      "D": "Post interventricular artery",
+      "E": "Anterior interventricular artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 391,
+    "question_text": "Athletes heart rate is permanently 50 due to:",
+    "options": {
+      "A": "Increased Cardiac Output",
+      "B": "Increased Stroke Volume",
+      "C": "Decreased Stroke Volume",
+      "D": "Decreased Venous Return",
+      "E": "Increased Ejection fraction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 392,
+    "question_text": "PR interval shows:",
+    "options": {
+      "A": "Atrial systole",
+      "B": "Atrial diastole",
+      "C": "Conduction from SA node to Ventricle",
+      "D": "Ventricular repolarization",
+      "E": "Atrial repolarization"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 393,
+    "question_text": "Acute left ventricular failure drug of choice will be:",
+    "options": {
+      "A": "Infusion nitrates",
+      "B": "IV Digoxin",
+      "C": "IV A minophylline",
+      "D": "IV Amiodarone",
+      "E": "IV Furosemide"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 394,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 85/40 what will be most important mechanism now:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 395,
+    "question_text": "Contraction of valve will be seen on jvp waveform as?",
+    "options": {
+      "A": "A Wave",
+      "B": "C Wave",
+      "C": "V wave",
+      "D": "P wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 396,
+    "question_text": "Which of the following is a specialized feature of cardiac muscle?",
+    "options": {
+      "A": "Never gets tetanized",
+      "B": "Due to the plateau phase",
+      "C": "Multinucleated",
+      "D": "Striated",
+      "E": "Voluntary control"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 397,
+    "question_text": "Changes in the lengths of the left atrial tracing can be due to which of the following?",
+    "options": {
+      "A": "Changes in heart rate",
+      "B": "Variations in ventricular filling",
+      "C": "Changes in left atrial pressure",
+      "D": "Alterations in cardiac output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 398,
+    "question_text": "Increase ICP and increase BP is part of?",
+    "options": {
+      "A": "Virchow's triad",
+      "B": "Cushing triad",
+      "C": "HTN crisis",
+      "D": "Beck's triad"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 399,
+    "question_text": "Ecg of pt shows progressive prolongation of PR interval in successive beats followed by dropped heartbeat. This pattern lies in which part of conducting system?",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Purkinje fibers",
+      "D": "Bundle of his",
+      "E": "Left ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 400,
+    "question_text": "53 years old Pt had chest pain presented within 4 hours which investigation will be appropriate for this patient",
+    "options": {
+      "A": "CPK",
+      "B": "CKMB",
+      "C": "Trop I",
+      "D": "Myoglobin",
+      "E": "LDH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 401,
+    "question_text": "When moving from a supine to a standing position, what is the primary compensatory change observed in cardiovascular physiology?",
+    "options": {
+      "A": "Increase HR",
+      "B": "Decrease HR",
+      "C": "Decrease CO",
+      "D": "Decrease VR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 402,
+    "question_text": "In which phase is the maximum flow of oxygen per myoglobin observed, considering its role in muscle tissue?",
+    "options": {
+      "A": "Resting phase",
+      "B": "Rapid contraction phase",
+      "C": "Aerobic exercise phase",
+      "D": "Recovery phase",
+      "E": "Anaerobic exercise phase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 403,
+    "question_text": "Cardiac muscle Unique property:",
+    "options": {
+      "A": "Never get tetanized",
+      "B": "Action potential with Plateau phase",
+      "C": "Use 70-80% Oxygen during exercise",
+      "D": "Increased Nuclei & Mitochondria",
+      "E": "Pump Oxygenated Blood to the whole body"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 404,
+    "question_text": "In normally functioning myocardium, C wave coincide with:",
+    "options": {
+      "A": "Closure of semilunar valves",
+      "B": "First heart sound",
+      "C": "Closure of AV valve",
+      "D": "Opening of AV valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 405,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 83/60 what will activate now:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 406,
+    "question_text": "ECG features of hypokalemia:",
+    "options": {
+      "A": "U waves",
+      "B": "Flattened T waves",
+      "C": "Peaked T waves",
+      "D": "Tetany",
+      "E": "Osteomalacia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 407,
+    "question_text": "Increase in right atrial pressure leads to which important Mechanism by atria ?",
+    "options": {
+      "A": "Increased cardiac output",
+      "B": "Increase in ANP release",
+      "C": "Increased Vascular Compliance",
+      "D": "Vagal motor stimulation",
+      "E": "ADH release"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 408,
+    "question_text": "\"Frank- Starling law\" states that Force of Heart Contraction depends upon:",
+    "options": {
+      "A": "† cardiac muscle fiber stretch",
+      "B": "† cardiac contractility",
+      "C": "Proportional to initial length of Myocardial Fiber",
+      "D": "Decreased Cardiac Contractility",
+      "E": "Calcium Influx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 409,
+    "question_text": "Percentage of blood pumped out per beat is:",
+    "options": {
+      "A": "Stroke Work",
+      "B": "Heart rate",
+      "C": "Ejection fraction",
+      "D": "MAP",
+      "E": "Cardiac Output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 410,
+    "question_text": "Pulse Pressure Increased by:",
+    "options": {
+      "A": "EDV",
+      "B": "Stroke Volume",
+      "C": "Systemic Vascular Resistance",
+      "D": "Decreased Heart Rate",
+      "E": "Venous Tone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 411,
+    "question_text": "An increase in inspiration will decrease which of the following in cardiovascular system:",
+    "options": {
+      "A": "Gradient from external vessels into Right atrium",
+      "B": "Right Atrial filling",
+      "C": "Right Atrial Contraction",
+      "D": "Left Ventricular Contraction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "A patient presents with mild hemorrhage and a blood pressure of 90/60 mmhg. Compensation occurs through baroreceptor activation, which induces various physiological changes to restore blood pressure. Which of the following is least likely to change during this compensation?",
+    "options": {
+      "A": "Stroke Volume (SV)",
+      "B": "Heart Rate (HR)",
+      "C": "Venous Return",
+      "D": "Ejection Fraction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 413,
+    "question_text": "Effect of Carotid massage on Parasympathetic Nervous system(Medicine Feb 2025:",
+    "options": {
+      "A": "Increased PR interval",
+      "B": "Decreased RR interval",
+      "C": "Decreased QRS complexes",
+      "D": "Increased Heart Rate",
+      "E": "Increased Blood Pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 414,
+    "question_text": "The left Circumflex artery supplies which of the following structures (Medicine Feb 2025):",
+    "options": {
+      "A": "Posterior surface of left ventricle",
+      "B": "Anterior surface of left ventricle",
+      "C": "Left and right ventricle",
+      "D": "Anterior interventricular septum",
+      "E": "Right atrium and right ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 415,
+    "question_text": "Effect of inspiration (Medicine Feb 2025):",
+    "options": {
+      "A": "Dec ventricular filling",
+      "B": "Dec right ventricular emptying",
+      "C": "Momentarily inhabited",
+      "D": "Dec left ventricular ejection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 416,
+    "question_text": "Patient sitting in room under normal environmental conditions, heat loss will be by(Medicine Feb 2025):",
+    "options": {
+      "A": "Radiation",
+      "B": "Conduction",
+      "C": "Radiation & Conduction",
+      "D": "Convection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 417,
+    "question_text": "Increase in blood viscosity causes increase in(Surgery Feb 2025)",
+    "options": {
+      "A": "Pulse pressure",
+      "B": "Increase CO",
+      "C": "Stroke volume",
+      "D": "Diastolic pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 418,
+    "question_text": "TPR is related to(Surgery Feb 2025)",
+    "options": {
+      "A": "Vascular compliance",
+      "B": "Vascular Tone",
+      "C": "Heart Rate",
+      "D": "Stroke Volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 419,
+    "question_text": "Cardiac output depends upon(Surgery Feb 2025):",
+    "options": {
+      "A": "Increased heart rate",
+      "B": "Increased stroke volume",
+      "C": "Increased Preload",
+      "D": "Increased Venous Return",
+      "E": "Increased End Diastolic Volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 420,
+    "question_text": "A 54- year-old male is seen in clinic with complaints of palpitations and light- headedness. Physical examination shows a heart rate of 200 bpm and BP of 75/40 mm Hg. The most likely adjustment that has occurred in the cardiac cycle is(Surgery Feb 2025):",
+    "options": {
+      "A": "Diastolic time decreases and systolic remain same",
+      "B": "Diastolic time increases and systolic remains the same",
+      "C": "Diastolic decreases more in proportion to systolic",
+      "D": "Diastolic decreases and systolic increases",
+      "E": "Diastolic increases and systolic decreases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 421,
+    "question_text": "The Sinuatrial Node is supplied by(Surgery Feb 2025):",
+    "options": {
+      "A": "60% from RCA",
+      "B": "40% from RCA",
+      "C": "60% from LCA",
+      "D": "80% from LCA",
+      "E": "The Circumflex Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 422,
+    "question_text": "Most important determinant of cardiac Output(Surgery Feb 2025)",
+    "options": {
+      "A": "Heart rate",
+      "B": "Stroke volume",
+      "C": "EDV",
+      "D": "Venous return",
+      "E": "Preload"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 423,
+    "question_text": "What is the action of norepinephrine on the sympathetic system in the heart?(Surgery Feb 2025)",
+    "options": {
+      "A": "Increases diastolic filling at the SA node",
+      "B": "Increases AV nodal delay",
+      "C": "Increases contraction in the atria",
+      "D": "Decreases heart rate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 424,
+    "question_text": "During exercise, blood flow remains unchanged to(Surgery Feb 2025):",
+    "options": {
+      "A": "Skin",
+      "B": "Skeletal Muscle",
+      "C": "Brain",
+      "D": "Heart"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 425,
+    "question_text": "PR interval on ECG Coincides with Which wave on JVP (Surgery Feb 2025):",
+    "options": {
+      "A": "A-C wave",
+      "B": "A wave",
+      "C": "X wave",
+      "D": "Y descent",
+      "E": "C & X"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 426,
+    "question_text": "A young healthy male 25 Years old presented with Heart rate 60 & Stroke volume of 50%.He is most likely suffering from(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Athlete",
+      "B": "Trained individual",
+      "C": "MI",
+      "D": "CHF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 427,
+    "question_text": "Left atrium supplied by(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "LAD",
+      "B": "Left circumflex artery",
+      "C": "RCA",
+      "D": "Conus artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 428,
+    "question_text": "Parasympathetic effect on heart increases permeability in SA node to(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Sodium",
+      "B": "Potassium",
+      "C": "Calcium",
+      "D": "Potassium and sodium",
+      "E": "Sodium and calcium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 429,
+    "question_text": "Digitalis effect(Gynae & Obs Feb 2025)?",
+    "options": {
+      "A": "Chronotropic",
+      "B": "Negative Inotropic",
+      "C": "Increases oxygen demand",
+      "D": "Increase the force of Contraction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 430,
+    "question_text": "Cardiac muscle cannot be tetanized because(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Action potential with plateau",
+      "B": "Pump oxygenated blood to whole body",
+      "C": "long refractory period",
+      "D": "Use 70-80% O2 at exercise",
+      "E": "Highest number of Mitochondria"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 431,
+    "question_text": "True regarding Heart muscle(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Autonomic supply",
+      "B": "Striated",
+      "C": "Get Fatigued Easily",
+      "D": "Somatic Nerve Supply"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 432,
+    "question_text": "In which of the following cardiac phase semilunar valves open(Radiology Feb 2025)",
+    "options": {
+      "A": "Slow ejection phase",
+      "B": "Rapid ejection phase",
+      "C": "Isovolumetric contraction",
+      "D": "Isovolumetric relaxation",
+      "E": "Rapid filling phase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 433,
+    "question_text": "The PR interval on the ECG corresponds to which of the following on JVP(Radiology Feb 2025)",
+    "options": {
+      "A": "A wave",
+      "B": "C wave",
+      "C": "V wave",
+      "D": "A to C wave",
+      "E": "Y decent"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 434,
+    "question_text": "If the radius of a blood vessel is reduced to half of its original size due to a pre- occlusive valve, which parameter will increase 16 times?(Radiology Feb 2025)",
+    "options": {
+      "A": "Resistance",
+      "B": "Blood flow",
+      "C": "Viscosity",
+      "D": "Capillary pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 435,
+    "question_text": "Increase viscosity of blood causes decrease in: (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Systolic BP",
+      "B": "Diastolic BP",
+      "C": "Pulse pressure",
+      "D": "Capillary Perfusion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 436,
+    "question_text": "What is the primary effect of digitalis on the heart?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Inotropic",
+      "B": "Chronotropic",
+      "C": "Bathmotropic",
+      "D": "Dromotropic"
+    },
+    "correct_answer": "A"
+  }
+]

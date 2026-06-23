@@ -1,0 +1,5944 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Which valves are most commonly involved in rheumatic heart disease?",
+    "options": {
+      "A": "Mitral and Aortic",
+      "B": "Tricuspid & Bicuspid",
+      "C": "Pulmonary valve",
+      "D": "Bicuspid valve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Nonbacterial thrombotic endocarditis is most frequently associated with",
+    "options": {
+      "A": "Congenital heart disease",
+      "B": "IHD",
+      "C": "Rheumatic endocarditis",
+      "D": "SLE",
+      "E": "Terminal neoplastic disease"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Old male patient has history of headache in temporal region thick cord like vessels in that area on biopsy giant cells are seen other findings will be",
+    "options": {
+      "A": "ESR more than 110",
+      "B": "Steroids are not effective",
+      "C": "Low Fibrinogen",
+      "D": "Low ESR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Bergers disease is associated with which of these",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Silicosis",
+      "C": "Anthracosis",
+      "D": "Smoking",
+      "E": "Berrylless"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Septic shock mainly caused by",
+    "options": {
+      "A": "Gram negative bacteria",
+      "B": "Gram positive bacteria",
+      "C": "Gonorrhea",
+      "D": "MRSA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Myxoid degeneration associated with",
+    "options": {
+      "A": "Mitral valve prolapses",
+      "B": "Libman sac endocarditis",
+      "C": "Marantic",
+      "D": "Infective endocarditis",
+      "E": "Neoplasm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Patient has pericardial friction rub with deranged RFT's What is the cause of pericarditis?",
+    "options": {
+      "A": "Serous",
+      "B": "Fibrinous",
+      "C": "Exudative",
+      "D": "Transudative",
+      "E": "Membranous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A women was watching a cricket match and develop malar rash. She has history of arthritis what is likely complications",
+    "options": {
+      "A": "Pericarditis",
+      "B": "Pulmonary fibrosis",
+      "C": "Hepatitis",
+      "D": "Gastriris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A 35 years old man die suddenly. Autopsy finding nill. Toxicology shows cocaine and its metabolite in blood Cause of death:",
+    "options": {
+      "A": "Myofibrillar dissarray",
+      "B": "Contractile band",
+      "C": "Myocarditis",
+      "D": "Pericarditis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Most significant cause of atheroma:",
+    "options": {
+      "A": "Alcohol",
+      "B": "Diastolic hypertension",
+      "C": "Type 2 personality",
+      "D": "Choleatoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "A man with chest pain from last 3-4 hours which enzyme will be raised",
+    "options": {
+      "A": "CK-MB",
+      "B": "CPK",
+      "C": "LDH",
+      "D": "CK MM",
+      "E": "CK BB"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Left ventricular failure is caused by",
+    "options": {
+      "A": "Aortic valve disease",
+      "B": "Mitral stenosis",
+      "C": "Cor pulmonale"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "In Auscultation 3rd intercostal space left to sternum of which heart area",
+    "options": {
+      "A": "Aortic A1",
+      "B": "Aortic A2",
+      "C": "Pulmonary valve sound",
+      "D": "Mitral valve",
+      "E": "Tricuspid valve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Most important clinical feature of water intoxication is",
+    "options": {
+      "A": "Slow pulse",
+      "B": "Distended neck vein",
+      "C": "Pulmonary edema",
+      "D": "Pulmonary embolism",
+      "E": "Rapid Pulse"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Child with machinery like murmur likely due to",
+    "options": {
+      "A": "AS",
+      "B": "MS",
+      "C": "MVP",
+      "D": "PDA",
+      "E": "PS"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "PaO2 is 100% seen in",
+    "options": {
+      "A": "Person who used to live in high altitude",
+      "B": "Right to left shunt",
+      "C": "Left to right shunt",
+      "D": "Eisenmenger",
+      "E": "PDA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Increased ASO titer seen in",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Endocarditis",
+      "C": "Meningitis",
+      "D": "Pericarditis",
+      "E": "Pleural effusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Last mediator of septic shock:",
+    "options": {
+      "A": "IL 6",
+      "B": "TNF",
+      "C": "IL 1",
+      "D": "IL 10",
+      "E": "IL 12"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Mitral stenosis murmur best heard at",
+    "options": {
+      "A": "Aortic area",
+      "B": "Apex",
+      "C": "Mitral valve",
+      "D": "Pulmonary area",
+      "E": "Tricuspid area"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Patient presents with vasculitis and p-anca positive, what should be the cause",
+    "options": {
+      "A": "Hepatitis B",
+      "B": "Hepatitis A",
+      "C": "Hepatitis C",
+      "D": "Hepatitis D",
+      "E": "Hepatitis G"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient with MI, on day first trop-t was positive, on 3rd day of mi, patient collapsed with blood pressure down, pericardiocentesis was done which shows hemorrhages... what cells will you find in his pericardial cavity?",
+    "options": {
+      "A": "Necrosis with neutrophils and macrophages",
+      "B": "Lymphocytic infiltrates",
+      "C": "Plasma cells",
+      "D": "Scar"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Cause of cardiogenic shock",
+    "options": {
+      "A": "Hemorrhages",
+      "B": "Septicemia",
+      "C": "MI",
+      "D": "Burn"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "There is small cystic mass in left parietal lobe with involvement of heart feature of",
+    "options": {
+      "A": "Myxoma",
+      "B": "Glioma",
+      "C": "Cardiac Hypertrophy",
+      "D": "Cardiac Hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Loud S1 is due to",
+    "options": {
+      "A": "Mitral insufficiency",
+      "B": "Aortic stenosis",
+      "C": "RBBB",
+      "D": "PR interval upper normal limit",
+      "E": "PR interval lower normal limit"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Patient who is shopkeeper suddenly collapsed with fine thread pulse of 120/min and low BP of 80/60mmHg with pale skin. Before collapse, patient experienced sudden central chest and epigastric pain. What is the reason of his collapse?",
+    "options": {
+      "A": "Cardiogenic shock",
+      "B": "Pulmonary embolism",
+      "C": "Dissecting aortic aneurysm",
+      "D": "HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "C-ANCA is positive in which of following",
+    "options": {
+      "A": "Vasculitis",
+      "B": "Sarcidosis",
+      "C": "TB",
+      "D": "Arthritis",
+      "E": "Mesothelioma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Patient taking Beta Blocker prolonged PR interval what's the cause?",
+    "options": {
+      "A": "Drug induced first degree heart block",
+      "B": "Prolonged periods of heart unable to contract",
+      "C": "Anxiety",
+      "D": "Depression"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "In the case of complete heart block what happens?",
+    "options": {
+      "A": "Atrial rate is greater than ventricle",
+      "B": "Ventricle rate doesn't correspond to atrial rate",
+      "C": "Heart Beat Fast",
+      "D": "Atrial Beat Slowly"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "What is characteristic in shock?",
+    "options": {
+      "A": "Tissue hypoperfusion",
+      "B": "Tachycardia",
+      "C": "Volume of blood decreases",
+      "D": "PCV decrease",
+      "E": "Increase blood volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "After tooth extraction cause of sub-acute endocarditis?",
+    "options": {
+      "A": "Streptococcus",
+      "B": "Viridans group of streptococci",
+      "C": "Staph aureus",
+      "D": "Influenza",
+      "E": "Epidermidis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Most common cause of sub-acute endocarditis",
+    "options": {
+      "A": "Viridans Streptococci",
+      "B": "Staphylococcus aureus",
+      "C": "Epidermidis",
+      "D": "Influenza"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Man has non-lethal MI what happens to him in few minutes",
+    "options": {
+      "A": "Tamponade",
+      "B": "Arrythmia",
+      "C": "Shock",
+      "D": "Myocarditis",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Patient died after 6 days of MI on autopsy large amount of fluid seen in pericardium",
+    "options": {
+      "A": "Tamponade",
+      "B": "Arrythmia",
+      "C": "Shock",
+      "D": "Myocarditis",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "MI Typical feature is:",
+    "options": {
+      "A": "Treated with defibrillation shock therapy",
+      "B": "Rate is so rapid above 400beats/min",
+      "C": "Heart beat between 200 and 350beats/min",
+      "D": "Heart rate 50 beats/min"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "A 35 year female having malar rash and positive anti ds dna now develops proteinuria & hematuria the most likely cause will be",
+    "options": {
+      "A": "Nephrotic syndrome",
+      "B": "Amyloidosis",
+      "C": "Cystitis",
+      "D": "Glomerulonephritis",
+      "E": "Lupus nephritis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Patient with malaise and raised BP died because of haemorrhagic stroke in basal ganglia on autopsy bilateral small kidneys with petechial haemorrhages, hyperplastic arteriolosclerosis and fibrinoid necrosis. What's the diagnosis?",
+    "options": {
+      "A": "Fibromuscular dysplasia",
+      "B": "DM type II",
+      "C": "Systemic sclerosis",
+      "D": "Nsaid induced",
+      "E": "Smoking"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "A patient undergoes tonsillectomy he became hypotensive after 2 hours why",
+    "options": {
+      "A": "Blood loss",
+      "B": "Vasovagal shock",
+      "C": "Hypovolemic shock",
+      "D": "Due to trauma",
+      "E": "Due to infection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A patient developed atrial fibrillation he was treated accordingly but same patient died due to occlusion of vessel in brain why?",
+    "options": {
+      "A": "Arrhythmia",
+      "B": "Thrombus",
+      "C": "Embolism",
+      "D": "Ischemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A patient comes to u with chest pain what question will give u maximum information?",
+    "options": {
+      "A": "Tell me about pain",
+      "B": "Any history of heart disease in your family",
+      "C": "Previous history of pain",
+      "D": "Have you ever visited doctor for heart problem in last 6 months"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "In complete heart block pacemaker is placed:",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right ventricle",
+      "C": "Right atrium",
+      "D": "SA node",
+      "E": "AV groove"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Post MI death. On 4th day findings on biopsy of left myocardium:",
+    "options": {
+      "A": "Edema, loss of striation",
+      "B": "Transmural collagen deposit",
+      "C": "Lymphocytes",
+      "D": "Necrosis, neutrophils,macrophages",
+      "E": "Perivascular and interstitial amyloid deposit"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Feature of primary shock is:",
+    "options": {
+      "A": "Hypovolemia",
+      "B": "Bradycardia",
+      "C": "Tachycardia",
+      "D": "Initial hypertension",
+      "E": "Lower peripheral vascular resistance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Physiological splitting of second heart sound Enhanced by",
+    "options": {
+      "A": "Early closure of Aortic valve",
+      "B": "Delayed closure of Aortic valve",
+      "C": "Early closure of mitral valve",
+      "D": "Early closure of pulmonary valve",
+      "E": "Delayed closure of mitral valve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Obese person working as a Clerk with sedentary life style, was routinely checking his blood pressure and blood pressure was raised. He was investigated but no cause was found, his raised blood pressure is due to?",
+    "options": {
+      "A": "Increased diastolic pressure",
+      "B": "Increase SV",
+      "C": "Increase CO",
+      "D": "Increase vascular tone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Which of the following shows an initial Left to Right shunt before reversal?",
+    "options": {
+      "A": "Eisenmenger complex",
+      "B": "Transposition of great vessels",
+      "C": "Persistent truncus arteriosis",
+      "D": "Ebstein anomaly",
+      "E": "TOF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Difference between septic and hypovolemic shock",
+    "options": {
+      "A": "Temperature",
+      "B": "Cardiac output",
+      "C": "Heart rate",
+      "D": "Blood flow"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "A 65 Year old mate patient Presented with chest pain for last 30 mins. And has ST segment elevation in leads V1 to V4. He is most likely to have:",
+    "options": {
+      "A": "Anterior infarction",
+      "B": "Anterolateral infarction",
+      "C": "Lateral infarction",
+      "D": "Inferior infarction",
+      "E": "Posterior infarction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Heart failure is commonly associated with/due to which of the following conditions:",
+    "options": {
+      "A": "Fibrinous pericarditis",
+      "B": "Hemopericardium",
+      "C": "Pericardial effusion",
+      "D": "Chylopericarditis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A 2 years old child has the history of premature birth. He is most likely to have the Following congenital anomaly",
+    "options": {
+      "A": "VSD",
+      "B": "Patent ductus venosus",
+      "C": "Patent ductus arteriosus",
+      "D": "Patent foramen ovale",
+      "E": "ASD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "A patient has irregularly irregular pulse on examination. ECG shows many abrupt P waves & the QRS completes occur irregularly. What is the diagnosis?",
+    "options": {
+      "A": "Ventricular fibrillation",
+      "B": "WPW syndrome",
+      "C": "Atrial fibrillation",
+      "D": "Atrial flutter",
+      "E": "Ventricular tachycardia"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 51,
+    "question_text": "A 50 years old man who has previous history of diabetic retinopathy & MI presented with chest pain coronary occlusion occurs commonly due to:",
+    "options": {
+      "A": "Vasospasm",
+      "B": "Embolism",
+      "C": "Stasis of blood",
+      "D": "Hypercoagulable state",
+      "E": "Thrombosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "PDA Characteristic Feature is",
+    "options": {
+      "A": "Increase arterial PO2",
+      "B": "Decrease arterial PO2",
+      "C": "Peripheral cyanosis",
+      "D": "Increase systemic pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Total peripheral resistance is determined by:",
+    "options": {
+      "A": "Venous compliance",
+      "B": "Diastolic BP",
+      "C": "Systolic BP",
+      "D": "Muscular Tone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Atherosclerotic plaque caused by:",
+    "options": {
+      "A": "Endothelial injury",
+      "B": "Hyperlipidemia",
+      "C": "Chronic inflammation",
+      "D": "Infection",
+      "E": "Embolism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Most common anomaly of great vessels found is:",
+    "options": {
+      "A": "TOF",
+      "B": "Post ductal coarctation of aorta",
+      "C": "ASD",
+      "D": "Aortic aneurysm",
+      "E": "PDA"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Patient has c/o joint pain on X-Ray large silhouette of heart seen. In childhood she has recurrent attacks of pharyngitis of Streptococcal group which will be affected by this disease:",
+    "options": {
+      "A": "Mitral and aortic valves",
+      "B": "Mitral and pulmonary valve",
+      "C": "Aortic and pulmonary",
+      "D": "Semilunar valves"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Patient having STEMI and there is elevation in Lead 2, 3 and AVF which wall MI is?",
+    "options": {
+      "A": "Lateral Wall MI",
+      "B": "Anterior Wall MI",
+      "C": "Posterior Wall MI",
+      "D": "Inferior Wall MI"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "In which condition atrial repolarization is shown on ECG in which of following",
+    "options": {
+      "A": "Third degree complete heart block",
+      "B": "Inspiration",
+      "C": "During exercise",
+      "D": "Expiration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "The pulmonary artery pressure will be higher than aortic pressure in which of following",
+    "options": {
+      "A": "Right to left shunt",
+      "B": "Left to right shunt",
+      "C": "Pulmonary embolism",
+      "D": "Aortic dissection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Cause of decreased cardiac output is",
+    "options": {
+      "A": "Thiamine deficiency",
+      "B": "Hypervolemia",
+      "C": "IVC obstruction",
+      "D": "Anemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Hypovolemic Shock, which will happens 1st?",
+    "options": {
+      "A": "Arteriolar constriction",
+      "B": "Renal absorption increases",
+      "C": "Venous & venules constrict",
+      "D": "Venous dilation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Which of the following is seen in ankylosing spondylitis?",
+    "options": {
+      "A": "Aortic insufficiency",
+      "B": "Splinter hemorrhages",
+      "C": "Mitral valve prolapse",
+      "D": "Urethritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Main difference between anaphylactic shock and hypovolemic shock:",
+    "options": {
+      "A": "Cardiac output",
+      "B": "Sepsis",
+      "C": "Blood lactate levels",
+      "D": "JVP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "True regarding carcinoid heart disease is",
+    "options": {
+      "A": "It occurs only in cancer",
+      "B": "Woman are affected more",
+      "C": "Thickening of tricuspid valve",
+      "D": "Thickening of aortic valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Patient present with chest pain On auscultation first heart sound is variable this occur due to which of following",
+    "options": {
+      "A": "Atrial flutter",
+      "B": "Atrial fibrillation",
+      "C": "Ventricular tachycardia",
+      "D": "Ventricular flutter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A patient has presented to you in ER with vasodilation and hypotension. Which type of shock is causing this",
+    "options": {
+      "A": "Septic Shock",
+      "B": "Hypovolemic",
+      "C": "Cardiogenic",
+      "D": "Vasovagal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Sodium retention is seen in which condition",
+    "options": {
+      "A": "Heart failure",
+      "B": "Vasopressin",
+      "C": "Addison's disease",
+      "D": "Water Intoxication"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Polyarteritis nodosa diagnosis by",
+    "options": {
+      "A": "Coagulative necrosis",
+      "B": "Fibrinoid necrosis",
+      "C": "Caseous necrosis",
+      "D": "Liquifactive necrosis",
+      "E": "Fatty necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "In neurogenic shock, the difference from other shocks is",
+    "options": {
+      "A": "Increased cardiac output",
+      "B": "Cold moist skin",
+      "C": "Decreased total peripheral resistance",
+      "D": "Increase urine output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "A patient presented with signs of hypovolemic shock and receiving treatment for this very cause indicator should be assessed for initial recovery in him?",
+    "options": {
+      "A": "Increase CO",
+      "B": "Increase HR",
+      "C": "Increase Urine output",
+      "D": "Edema"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Patient presented with central chest pain O/E rustling sound heard on inspiration structure involved is",
+    "options": {
+      "A": "Myocardium",
+      "B": "Pericardium",
+      "C": "Endocardium",
+      "D": "Sub endocardium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Patient known case of severe mitral stenosis came with left atrial enlargement mid diastolic murmur. Loud S1 severe pulmonary HTN and was dyspneic. What is to be expected?",
+    "options": {
+      "A": "Left Ventricular Hypertrophy",
+      "B": "Both Right and left ventricular hypertrophy",
+      "C": "Decreased end diastolic volume",
+      "D": "RVH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Child suddenly collapsed in school and died on autopsy Coronary artery aneurysm is found what is the Diagnosis is",
+    "options": {
+      "A": "Kawasaki disease",
+      "B": "Takayasu disease",
+      "C": "PAN",
+      "D": "Viral infection",
+      "E": "GB syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Bicuspid aortic valve associated with",
+    "options": {
+      "A": "Coarctation of aorta",
+      "B": "Rheumatoid arthritis",
+      "C": "Achondroplasia",
+      "D": "Osteoarthritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "After abdominal surgery patient presented with hypotension tachycardia tachypnea abdominal pain and distension cold clammy peripheries. What is diagnosis?",
+    "options": {
+      "A": "Hypovolemic shock",
+      "B": "Septic shock",
+      "C": "Cardiogenic shock",
+      "D": "Neurogenic shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "In neurogenic shock which of following occurs",
+    "options": {
+      "A": "Loss of vasomotor tone",
+      "B": "Loss of vagal tone",
+      "C": "Increase cardiac output",
+      "D": "Increase CVP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A patient presented after 3 weeks of fever lethargic on examination there is hepatosplenomegaly splinter hemorrhage murmur, which investigation appropriate?",
+    "options": {
+      "A": "Blood culture",
+      "B": "Serology",
+      "C": "Stool culture",
+      "D": "ECG"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "A patient suddenly went into respiratory distress his EKG shows S1Q3T3 pattern what is next to being done?",
+    "options": {
+      "A": "Doppler studies",
+      "B": "Echocardiography",
+      "C": "HRCT chest",
+      "D": "X ray chest",
+      "E": "CT Angiography (Pulmonary)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Plasma proteins are normalized after hemorrhage in how many days",
+    "options": {
+      "A": "1-3 days",
+      "B": "3-4 days",
+      "C": "7-10 days",
+      "D": "15 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "A middle age women with pain in temporal region and pulsation felt in temporal region cause?",
+    "options": {
+      "A": "Takayasu",
+      "B": "Kawasaki",
+      "C": "Giant cell arteritis",
+      "D": "Migraine",
+      "E": "Cocain abuse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Essential hypertension causes which of following",
+    "options": {
+      "A": "Increase cardiac work",
+      "B": "Brain injury",
+      "C": "Increase O2 consumption",
+      "D": "Vasodilation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Long standing hypertension edema occurs due to which of following",
+    "options": {
+      "A": "Increase hydrostatic pressure",
+      "B": "Endothelial injury",
+      "C": "Decrease colloidal pressure",
+      "D": "Endothelial retraction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Patient's CHF is worsening what is the cause",
+    "options": {
+      "A": "Increase hydrostatic pressure",
+      "B": "Decrease hydrostatic pressure",
+      "C": "Increase oncotic pressure",
+      "D": "Na & H2O retention"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "After reperfusion injury free radicals released by which of these",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Lymphocytes",
+      "C": "Monocytes",
+      "D": "Macrophages",
+      "E": "Plasma cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Which one is Cause of pulmonary edema",
+    "options": {
+      "A": "Right heart failure",
+      "B": "Left heart failure",
+      "C": "Pulmonary embolism",
+      "D": "Pneumonia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A patient with left ventricular hypertrophy with significantly increased end diastolic volume. Increased pulmonary wedge pressure with BP mentioned with increased systolic value 145/45 and increased aortic pressure. There was early diastolic murmur which was due to",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Aortic stenosis",
+      "C": "Aortic regurgitation",
+      "D": "Mitral regurgitation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Patient died of MI, on autopsy neutrophils with necrotic area seen after?",
+    "options": {
+      "A": "12 hours",
+      "B": "24-48 hours",
+      "C": "48 hours",
+      "D": "48 hours"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "A pregnant woman from kohistan was presented in clinic her ultrasound scan showed a normal fetus. What can still be present in fetus?",
+    "options": {
+      "A": "PDA",
+      "B": "VSD",
+      "C": "ASD",
+      "D": "Anencephaly"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Heart failure results in which of following",
+    "options": {
+      "A": "Constrictive pericarditis",
+      "B": "Chylopericardium",
+      "C": "Hemopericardium",
+      "D": "Pericardial effusion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Which of the following causes transudate production by increased hydrostatic pressure",
+    "options": {
+      "A": "MI",
+      "B": "CCF",
+      "C": "Asthma",
+      "D": "RVH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Hypertensive patient come nutritionist for her diet plan. Which among the following should not give",
+    "options": {
+      "A": "Soup",
+      "B": "Dates",
+      "C": "Egg white part",
+      "D": "Brown bread"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Type of necrosis as a result of MI",
+    "options": {
+      "A": "Caseous necrosis",
+      "B": "Liquefactive necrosis",
+      "C": "Coagulative necrosis",
+      "D": "Fibrinoid necrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Esophagus may be compressed by the enlargement of which structure",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Left ventricle",
+      "D": "Right ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Notching of rib occurs in which of following",
+    "options": {
+      "A": "Pre ductal coarctation of aorta",
+      "B": "Post ductal coarctation of aorta",
+      "C": "Co-arctation of arc of aorta",
+      "D": "PDA",
+      "E": "VSD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Coarctation of aorta features is",
+    "options": {
+      "A": "Aortic obstruction",
+      "B": "Common before subclavian division",
+      "C": "Distal to origin of subclavian",
+      "D": "Part of aorta wide"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A patient presented in OPD has a blood pressure of 175/110 taking no antihypertensive. After a few days follow up he has a blood pressure of 170/105. He has no other complains, has risk of developing",
+    "options": {
+      "A": "Tricuspid regurgitation",
+      "B": "Polyarteritis nodosa",
+      "C": "Section pulmonary passive congestion",
+      "D": "Giant cell arteritis",
+      "E": "Hyperplastic arteriolosclerosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A person come with shortness of breath he has been diagnosis with pulmonary edema last week what could be reason",
+    "options": {
+      "A": "Decrease blood flow",
+      "B": "Decrease lymphatic flow",
+      "C": "Increase intravascular pressure",
+      "D": "Increase oncotic pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Which of the following is seen in cardiac muscles after irreversible muscle injury",
+    "options": {
+      "A": "Mitochondrial rupture",
+      "B": "Nucleus rupture",
+      "C": "Contraction band necrosis",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Type A personality, vulnerable to CAD because of:",
+    "options": {
+      "A": "Alcohol overuse",
+      "B": "High Cholestrol",
+      "C": "Low Fats",
+      "D": "Physiologic stress and increased competitive drive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Patient with atrial fibrillation died shows",
+    "options": {
+      "A": "Thrombosis",
+      "B": "Embolism",
+      "C": "Hyperplasia",
+      "D": "Atrophy",
+      "E": "Hyperplasia"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 101,
+    "question_text": "A 35 years old male has hypertension for the first time and he dies his autopsy shows a ruptured aneurysm, there is deficiency of media at the site of rupture why he died",
+    "options": {
+      "A": "Berry aneurysm",
+      "B": "Marfan aneurysm",
+      "C": "Aortic dissecting",
+      "D": "Mycotic aneurysm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Investigation of choice in infective endocarditis is",
+    "options": {
+      "A": "Blood culture",
+      "B": "ASO titer",
+      "C": "Urine culture",
+      "D": "Bone marrow culture"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A known case of IHD came with chest pain diagnosed with diastolic murmur with low preload. Its due to",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Mitral stenosis",
+      "C": "Tricuspid regurgitation",
+      "D": "VSD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A patient was brought to ER with chest pain for 6 hours, suspicion of M.I Which enzyme raised earliest?",
+    "options": {
+      "A": "CPK",
+      "B": "LDH",
+      "C": "ALT",
+      "D": "AST",
+      "E": "ALP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Most common cause of death in rheumatic fever is",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Endocarditis",
+      "C": "Pericarditis",
+      "D": "Myocarditis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "The most common congenital heart defect is",
+    "options": {
+      "A": "VSD",
+      "B": "PDA",
+      "C": "Tetralogy of Fallot",
+      "D": "Bicuspid aortic valve",
+      "E": "Osteum secundum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A female presented with history of fever since last 10 days now with continuous chest pain that radiates to back and left parasternal rustling sound most likely suffers",
+    "options": {
+      "A": "Myocarditis",
+      "B": "Pericarditis",
+      "C": "Endocarditis",
+      "D": "Pleurisy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Inferior wall MI due to blockage:",
+    "options": {
+      "A": "Right marginal",
+      "B": "RCA",
+      "C": "LCA",
+      "D": "LCX"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "In lateral wall MI which artery is blocked",
+    "options": {
+      "A": "Right marginal",
+      "B": "Diagonal artery",
+      "C": "Right coronary artery",
+      "D": "Left circumflex"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Pansystolic murmur and cyanosis is noticed in a baby after 5 weeks of birth Diagnose is",
+    "options": {
+      "A": "VSD",
+      "B": "ASD",
+      "C": "PDA",
+      "D": "TOF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Patient previously had MI now he again came with same condition which marker is useful for reinfarction of myocardium:",
+    "options": {
+      "A": "Trop I",
+      "B": "Trop T",
+      "C": "LDH",
+      "D": "CKMB"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "The finding seen in cardiac tamponade is",
+    "options": {
+      "A": "Kussmaul sign is negative",
+      "B": "Pulsus paradoxus",
+      "C": "Widened mediastinum",
+      "D": "Steep Y descent absent"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Loud S1 opening snap and mid diastolic rumbling murmur at apex are characteristic finding of which among these",
+    "options": {
+      "A": "Mitral regurgitation",
+      "B": "Aortic regurgitation",
+      "C": "Mitral stenosis",
+      "D": "Tricuspid stenosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Prolong QRS complex in Lead 2 indicates",
+    "options": {
+      "A": "Ventricular dystrophy",
+      "B": "Ventricular arrhythmias",
+      "C": "Atrial hypertrophy",
+      "D": "Ventricular hypertrophy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Most common cause of infective endocarditis in IV drug abusers is",
+    "options": {
+      "A": "Strep viridans",
+      "B": "Staph aureus",
+      "C": "Strep epidermis",
+      "D": "Strep hemolyticus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Patient with anterior wall MI will most probable show",
+    "options": {
+      "A": "Lead V1-V4 and ST elevation",
+      "B": "Lead 2, 3 and AVF and ST elevation",
+      "C": "Lead 2-4 and ST elevation",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A young male presented with unequal BP reading in both the arms. On examination visible intercostal pulsation and X-ray shows notching of ribs. What is the diagnosis",
+    "options": {
+      "A": "Preductal Aortic Coarctation",
+      "B": "Postductal Aortic Coarctation",
+      "C": "Aortic Arch Aneurysm",
+      "D": "Descending Aorta Aneurysm",
+      "E": "Aortic Stenosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Systemic arterial emboli are most likely arise from which of following",
+    "options": {
+      "A": "Right atrial mural thrombosis",
+      "B": "Left atrial mural thrombosis",
+      "C": "Systemic venous thrombosis",
+      "D": "Left ventricle mural thrombosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Most common large vessel anomaly is",
+    "options": {
+      "A": "Aortic Dissection",
+      "B": "VSD",
+      "C": "PDA",
+      "D": "ASD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Patient with chronic hypertension with decreased visual acuity changes in fundoscopy is most likely in which of the following",
+    "options": {
+      "A": "Retinal nerves",
+      "B": "Vein",
+      "C": "Arteries",
+      "D": "Arterioles",
+      "E": "Pigment epithelium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "AV septum is ruptured which of following valve is affected most?",
+    "options": {
+      "A": "Bicuspid",
+      "B": "Tricuspid",
+      "C": "Aortic",
+      "D": "Pulmonary"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A cardiac patient presents to the emergency; on examination he had a collapsing radial pulse alongside diastolic murmur. What is the probable diagnosis",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Mitral stenosis",
+      "C": "Mitral Regurgitation",
+      "D": "Aortic Regurgitation",
+      "E": "Mitral Valve Prolapsed"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "A patient presented with Chest pain from 6 hr ECG findings shows U waves, inverted T Waves Seen in",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypocalcemia",
+      "D": "Hyperglycemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Acute left sided chest pain, Trop I, CKMB normal, posterior 5th 6th intercostal tenderness, what is the problem",
+    "options": {
+      "A": "MI",
+      "B": "Angina",
+      "C": "Costochondritis",
+      "D": "Pleural effusion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "44yrs female has lost weight over 12 months, she has noticed episodes where her heart beats rapidly and strongly, her pulse is 90bpm and regular, enlarged goiter and her ECG shows sinus rhythm. What is her problem",
+    "options": {
+      "A": "Ventricular tachycardia",
+      "B": "Paroxysmal atrial fibrillation",
+      "C": "Pulmonary embolism",
+      "D": "Anxiety disorder"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Patient presented with chest pain, O2 & NG given next best step is",
+    "options": {
+      "A": "Coronary Angiography",
+      "B": "Medications",
+      "C": "Trade mill exercise test",
+      "D": "Enzyme Level"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Vasculitis features with purpura on the buttocks in a child seen in which of these",
+    "options": {
+      "A": "HSP",
+      "B": "Arthritis",
+      "C": "SLE",
+      "D": "Sjogren Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Cushing triad consists of bradycardia, increase ICP and one of the following",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hypertension",
+      "C": "Malignancy",
+      "D": "Regular Respiration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Septic shock differs from hypovolemic shock in",
+    "options": {
+      "A": "Cardiac output",
+      "B": "Urinary output",
+      "C": "Blood pressure",
+      "D": "Pulse"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "The main difference between Anaphylactic shock & hypovolemic shock is",
+    "options": {
+      "A": "Decrease CO",
+      "B": "Increase CO",
+      "C": "Increase TPR",
+      "D": "Vasoconstriction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "In dilated cardiomyopathy which functions is disturbed:",
+    "options": {
+      "A": "Systolic Dysfunction",
+      "B": "Diastolic dysfunction",
+      "C": "Both",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Middle diastolic murmur, pulmonary HTN and pulmonary edema. which of the following the patient will most likely",
+    "options": {
+      "A": "Right ventricular Hypertrophy + LVH",
+      "B": "Right Ventricular Hypertrophy",
+      "C": "Right atrial hypertrophy",
+      "D": "Left atrial hypertrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Which of the following is most commonly associated with smoking",
+    "options": {
+      "A": "PAN",
+      "B": "Thromboangiitis Obliterans",
+      "C": "Kawasaki Disease",
+      "D": "Giant cell arteritis",
+      "E": "Basal cell carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Pregnant lady on hilly area which of the following cardiac defect can be seen in the baby",
+    "options": {
+      "A": "ASD",
+      "B": "VSD",
+      "C": "PDA",
+      "D": "TGA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "End arteries are present in",
+    "options": {
+      "A": "Spleen",
+      "B": "Brain",
+      "C": "Kidney",
+      "D": "Retina",
+      "E": "Heart"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A patient with History of fracture after a while developed crepitus, foul smelling discharge with low BP what is cause",
+    "options": {
+      "A": "Hypovolemic Shock",
+      "B": "Cardiogenic Shock",
+      "C": "Anaphylactic Shock",
+      "D": "Toxemic Shock"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Old man died of MI five days back, on autopsy which of the following cells will be found?",
+    "options": {
+      "A": "Macrophages",
+      "B": "Neutrophils",
+      "C": "Eosinophils",
+      "D": "Basophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Which of the following is correct sequence in Infective endocarditis?",
+    "options": {
+      "A": "Damaged valve, thrombosis, Bacteremia, Perforation.",
+      "B": "Damaged Valve, Bacteremia, thrombus & perforation",
+      "C": "Bacteremia, Perforation & thrombus",
+      "D": "Perforation & Bacteremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Anterior wall MI, Left ventricle damaged which of the following artery is involved",
+    "options": {
+      "A": "RCA",
+      "B": "LAD",
+      "C": "PAD",
+      "D": "Right marginal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Which artery leads to posterior wall MI?",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "Circumflex",
+      "D": "Marginal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "A patient alcoholic presented with Nutmeg liver with raised JVP and hepatic congestion, likely cause is",
+    "options": {
+      "A": "Chronic Alcoholism",
+      "B": "RHF",
+      "C": "Passive Congestion",
+      "D": "Periportal congestion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Diabetic, smoker, increased cholesterol with increased LDL is at a risk of",
+    "options": {
+      "A": "Atheroma",
+      "B": "Atherosclerosis",
+      "C": "Kidney Failure",
+      "D": "Liver Failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Hypertrophic cardiomyopathy typical feature is",
+    "options": {
+      "A": "Myocyte Necrosis",
+      "B": "Myocyte disarray",
+      "C": "Systolic Dysfunction",
+      "D": "Decrease TPR"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "In essential hypertension which of the following is increased",
+    "options": {
+      "A": "Increase Oxygen demand",
+      "B": "Increase size",
+      "C": "Increase Work load",
+      "D": "Increase cardiac output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "In a cardiac patient which of the following is the cause of edema?",
+    "options": {
+      "A": "Increase Plasma Oncotic pressure",
+      "B": "Decrease Hydrostatic pressure",
+      "C": "Increase Hydrostatic pressure",
+      "D": "Increase vascular permeability"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Which of the following murmur is heard in rheumatic fever?",
+    "options": {
+      "A": "Pansystolic",
+      "B": "Early diastolic",
+      "C": "Early systolic",
+      "D": "Systolic clicks"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "A 20 years old boy with rheumatic valvular heart disease has been running a low grade fever for the last two weeks. In addition to a pansystolic murmur, he is found to have splenomegaly and clubbing, the treatment should be",
+    "options": {
+      "A": "Inj. Cefotaxime + Metronidazole",
+      "B": "Inj. Ceftriaxone",
+      "C": "Inj. Penicillin",
+      "D": "Inj. Penicillin + Gentamycin",
+      "E": "Inj. Ciprofloxacin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "50 years old hypertensive patient presented with severe pain radiating towards back suddenly collapsed. On Autopsy what could be seen",
+    "options": {
+      "A": "Ischemic Necrosis",
+      "B": "Medial Necrosis",
+      "C": "Atherosclerosis",
+      "D": "Arteriosclerosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "A patient after RTA presented with low Blood pressure due to which of following",
+    "options": {
+      "A": "Hypovolemic shock",
+      "B": "Septic shock",
+      "C": "Cardiogenic shock",
+      "D": "Cardiac Tamponade"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Inflammation marker that is related to Ischemic heart disease",
+    "options": {
+      "A": "PGE1",
+      "B": "CRP",
+      "C": "C3b",
+      "D": "Integrins"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "A chronic pressure overload in the left ventricle due to aortic stenosis results in which of following",
+    "options": {
+      "A": "Altered left ventricle distensibility",
+      "B": "Decreased contractility",
+      "C": "Left ventricular dilatation",
+      "D": "Left ventricular hypertrophy",
+      "E": "No change"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "The low voltage QRS complexes commonly represent which one of the following",
+    "options": {
+      "A": "Acute MI",
+      "B": "LVH",
+      "C": "RVH",
+      "D": "Old MI"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "What takes place in neurogenic shock",
+    "options": {
+      "A": "Decrease peripheral vascular resistance",
+      "B": "Increase peripheral vascular resistance",
+      "C": "Increase Heart Rate",
+      "D": "Increase Cardiac Output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A point that distinguishes partial transection of the spinal complete transection",
+    "options": {
+      "A": "Spinal shock",
+      "B": "Bladder atonia",
+      "C": "Release reflexes",
+      "D": "Diminish reflexes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "The shock associated with pelvic fracture is owing to",
+    "options": {
+      "A": "Blood loss",
+      "B": "Fat embolism",
+      "C": "Anaphylaxis",
+      "D": "Cardiogenic shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "The infarct of the posterior septum would cause injury to which cardiac structure",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Bundle of His",
+      "D": "Purkinje fibers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Puerperal sepsis not responding to IV fluids is usually responsive to which of these",
+    "options": {
+      "A": "IV antibiotics",
+      "B": "IV steroids",
+      "C": "IV vasoactive agents",
+      "D": "IV antiviral agents"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Endotoxic shock is initiated by which among these",
+    "options": {
+      "A": "Endothelial injury",
+      "B": "Peripheral vasodilation",
+      "C": "Increase vascular permeability",
+      "D": "Cytokine action"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "High output cardiac failure is found in",
+    "options": {
+      "A": "Anemia",
+      "B": "Beri beri",
+      "C": "Hypothyroidism",
+      "D": "Low blood pressure",
+      "E": "Vitamin D deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "New born baby was alright for 6hrs after that she developed blue discoloration of lips and hands. Diagnosis is",
+    "options": {
+      "A": "Tetralogy of fallot",
+      "B": "VSD",
+      "C": "Transposition of great vessel with no shunt",
+      "D": "PDA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Omphalocele is associated with which of following cardiac anomaly",
+    "options": {
+      "A": "Transposition of vessel",
+      "B": "Coarctation of Aorta",
+      "C": "VSD",
+      "D": "ASD",
+      "E": "TOF"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "In anaphylactic shock what changes occur in patient?",
+    "options": {
+      "A": "Hyperpyrexia",
+      "B": "Arteriolar and venous vasodilation",
+      "C": "Vasoconstriction",
+      "D": "Low CO"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Common congenital heart disease is:",
+    "options": {
+      "A": "ASD",
+      "B": "VSD",
+      "C": "TOF",
+      "D": "PDA",
+      "E": "Eissenmenger"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A Young man with heart failure and B/L pleural effusion, in Pleural tap which cells are present in heart failure?",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Heart failure cells",
+      "C": "Macrophages",
+      "D": "Basophils"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "What will raise in acute myocardial infarction?",
+    "options": {
+      "A": "Myoglobin",
+      "B": "CKMM",
+      "C": "CPK",
+      "D": "LDH",
+      "E": "CKBB"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A patient having Tachycardia abdominal distension and hypotension after laparotomy due to which of these",
+    "options": {
+      "A": "Hypovolemic Shock",
+      "B": "Septic Shock",
+      "C": "Cardiogenic Shock",
+      "D": "Anaphylactic Shock",
+      "E": "Neurogenic Shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "A patient presented with chest pain, left ventricular hypertrophy, On auscultation early diastolic murmur, pulmonary edema is due to:",
+    "options": {
+      "A": "AR",
+      "B": "MR",
+      "C": "AS",
+      "D": "MS",
+      "E": "TR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "45 year old diabetic lady since 10years admitted in hospital due to pneumonia and developing shock like symptoms cause will be:",
+    "options": {
+      "A": "Increased vascular permeability",
+      "B": "Increased vasoconstriction",
+      "C": "Increased peripheral resistance",
+      "D": "Increase hydrostatic pressure",
+      "E": "Decrease permeability"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "A patient with cardiac abnormality facial anomlies thymic aplasia hypocalcemia and cleft palate all are features of",
+    "options": {
+      "A": "CATCH 22",
+      "B": "IgA Deficiency",
+      "C": "Edward Syndrome",
+      "D": "Cri du chat syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "A Person taken to siachen 12000 feet from sea level develops dyspnea post 12 hours most likely due to:",
+    "options": {
+      "A": "Secondary polycythemia",
+      "B": "Pulmonary edema",
+      "C": "Airway obstruction",
+      "D": "Inflammation",
+      "E": "Infection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Most common cause of thoracic aortic dissection in hypertensive patients?",
+    "options": {
+      "A": "Atherosclerosis",
+      "B": "Increase Vascular Resistance",
+      "C": "Atherosclerosis",
+      "D": "Medial degeneration"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "A patient on ECG there is absent P wave but normal QRS complex where is the pacemaker located?",
+    "options": {
+      "A": "SA node",
+      "B": "AV node",
+      "C": "Parkine fibers",
+      "D": "Bundle of His"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Vasculitis that involves same vessel or different vessels with lesion of different ages is which among these",
+    "options": {
+      "A": "Kawasaki disease",
+      "B": "PAN",
+      "C": "Giant cell arteritis",
+      "D": "Temporal Cell arteritis",
+      "E": "Polyangitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Right ventricular pressure at which pulmonary valve open is?",
+    "options": {
+      "A": "0.5mmHg",
+      "B": "30mmHg",
+      "C": "8mmHg",
+      "D": "10mmHg",
+      "E": "40mmHg"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "After a road traffic accident massive blood loss patient undergoes shock BP 85/40 what will activate now:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS Ischemic response",
+      "C": "Release of Renin",
+      "D": "Baroreceptor reflex mechanism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "1 year old child presents to you with failure to thrive, progressive cyanosis, tachypnea and left ventricular hypertrophy, which of the following defects are you suspecting?",
+    "options": {
+      "A": "TOF",
+      "B": "Ebstein's anomaly",
+      "C": "TAPVR",
+      "D": "ASD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Infective Endocarditis occur commonly in:",
+    "options": {
+      "A": "Immunocompetent",
+      "B": "Diabetics",
+      "C": "IV drug abuser",
+      "D": "Neutrophilia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "The extra systolic beat would produce:",
+    "options": {
+      "A": "Increase pulse pressure because contractility is increased.",
+      "B": "Increase pulse pressure because HR is increased",
+      "C": "Decrease pulse pressure because ventricular filling is increased",
+      "D": "Decrease pulse pressure because SV is decreased",
+      "E": "Decrease pulse pressure because the PR interval is increased"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "A patient after RTA with multiple ribs fracture which of the following must be the first treatment?",
+    "options": {
+      "A": "Fluid Replacement",
+      "B": "Blood Replacement",
+      "C": "Platelets",
+      "D": "FFPs",
+      "E": "Whole Blood"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "A patient who was admitted to a hospital and Got operated. On 8th post-operative day he suddenly developed dyspnea most likely pathology will be:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Pulmonary embolism",
+      "C": "Amniotic Fluid embolism",
+      "D": "Septic shock",
+      "E": "Air Embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Thromboembolism is most commonly arising from which area",
+    "options": {
+      "A": "Leg",
+      "B": "Liver",
+      "C": "Brain",
+      "D": "Kidney",
+      "E": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "A Person Stands from Supine position what will maintain MAP?",
+    "options": {
+      "A": "Proprioceptors",
+      "B": "Mechanoceptors",
+      "C": "Baroreceptors",
+      "D": "Chemoreceptor",
+      "E": "Electroreceptor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "A 50 year old nonsmoker with recurrent chest pain and angina like symptoms also systolic murmur this is related to heart valve. Most likely heart valve disease that cause angina like pain is:",
+    "options": {
+      "A": "PS",
+      "B": "MS",
+      "C": "AS",
+      "D": "MR",
+      "E": "TR"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "10 yrs old child with history of aortic aneurysm and sudden chest pain due to:",
+    "options": {
+      "A": "Coarctation of aorta",
+      "B": "Esophageal spasm",
+      "C": "Kawasaki disease",
+      "D": "Marfan syndrome",
+      "E": "Aortic Aneurysm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "A known diabetic patient with good glycemic control presented with sign and symptoms of UTI by gram negative rod and shock like state, which of the following is responsible for the shock like state of this patient:",
+    "options": {
+      "A": "Increase Vascular Permeability",
+      "B": "Decreaae Permeability",
+      "C": "Vasospastic Shock",
+      "D": "Exotoxic Shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A boy met a road traffic accident, had pelvic fractures. He died before reaching to the hospital. What is the cause?",
+    "options": {
+      "A": "Excessive blood loss",
+      "B": "Fat embolism",
+      "C": "Hypotension",
+      "D": "Amniotic fluid embolism",
+      "E": "Hypertension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Newborn baby having difficulty in breathing, and poor skin colour, this is due to:",
+    "options": {
+      "A": "Muscular VSD",
+      "B": "Septum secundum defect",
+      "C": "Transposition of great arteries",
+      "D": "TOF",
+      "E": "ASD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "A Patient died in ER with long standing pulmonary congestion due to mitral stenosis on autopsy the alveoli will be lined by which of the following?",
+    "options": {
+      "A": "Serosa cells",
+      "B": "Heart failure macrophages",
+      "C": "Type 1 pneumocytes",
+      "D": "Type 2 pneumocytes",
+      "E": "Lymphocytes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "A person lost 1 litre of blood in 5 minutes what will occur?",
+    "options": {
+      "A": "Decrease Diastolic BP",
+      "B": "Decrease TPR",
+      "C": "Increase venous return",
+      "D": "Decrease HR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "A patient on beta blocker presented with prolong PR interval which of the following could be the possible cause is which of following?",
+    "options": {
+      "A": "Drug induced 1st degree heart block",
+      "B": "2nd degree heart block",
+      "C": "Complete heart block",
+      "D": "Sinus tachycardia",
+      "E": "Complete block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "After 5 days post MI the most prominent cells are:",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Macrophages",
+      "C": "Monocytes",
+      "D": "Lymphocytes",
+      "E": "Plasma Cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "New channel formation in a thrombus of a granulation tissue is done so that thrombus can be removed due to which of the following process?",
+    "options": {
+      "A": "Recanalization",
+      "B": "Collateral circulation",
+      "C": "Organization",
+      "D": "Neoplasia",
+      "E": "Endothelization"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "A patient in cardiac diastole having back flow of blood which is heard as murmur this is which of following murmur?",
+    "options": {
+      "A": "Ejection Systolic murmur",
+      "B": "Mid Diastolic murmur",
+      "C": "Early Diastolic murmur",
+      "D": "Pansystolic murmur",
+      "E": "Machinery murmur"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Atrial fibrillation Related ECG findings are which of following?",
+    "options": {
+      "A": "Absent P-Waves",
+      "B": "Irregular R-R Interval",
+      "C": "Regular R-R Interval",
+      "D": "Prominent QRS",
+      "E": "Narrow P-R interval"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Atrial septal defect is due to:",
+    "options": {
+      "A": "Osteum secundum",
+      "B": "Ostium primum",
+      "C": "Failure of Ostium primum",
+      "D": "Failure of Septum primum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "The semilunar valve opening is seen at the beginning of:",
+    "options": {
+      "A": "Reduced ejection",
+      "B": "Isovolumetric contraction",
+      "C": "Isovolumetric relaxation",
+      "D": "Rapid ejection"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "A Patient having 2 p wave followed by QRS complex due to which of following?",
+    "options": {
+      "A": "Fast SA Node Conduction",
+      "B": "Decreased AV nodal conduction",
+      "C": "Decrease conduction in purkinji",
+      "D": "Slow ventricular pacemaker conduction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "A patient has RTA 1.5L blood was lost which will occur first?",
+    "options": {
+      "A": "Decrease RBC count",
+      "B": "Decrease MCV",
+      "C": "Decrease Hematocrit",
+      "D": "Decrease BP",
+      "E": "Decrease Hb"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Pregnant lady with complain of mitral stenosis develops dyspnea and orthopnea that worsen due to which of the following reason?",
+    "options": {
+      "A": "Pulmonary HTN",
+      "B": "Left ventricular failure",
+      "C": "Systolic HTN",
+      "D": "Atrial fibrillation",
+      "E": "IVC compression"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Aortic insufficiency is associated with which of following?",
+    "options": {
+      "A": "Burkit lymphoma",
+      "B": "Ankylosing spondylitis",
+      "C": "Rheumatoid arthritis",
+      "D": "Celiac disease",
+      "E": "SLE"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "A known case of rheumatic mitral stenosis develops fever lassitude bodyache after tooth extraction dr suspect sub-acute bacterial endocarditis most likely organism in blood culture is:",
+    "options": {
+      "A": "E. coli",
+      "B": "S Aureus",
+      "C": "S Viridian",
+      "D": "H influenza",
+      "E": "Streptococcus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Angina like symptoms occurs in which of following condition?",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Tricuspid stenosis",
+      "C": "Aortic stenosis",
+      "D": "Aortic regurgitation",
+      "E": "Tricusoid regurgitation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "The BP recording of 2 males, a Hypertensive with reading of 228/160 and a Normotensive with 120/80 were noted respectively. If 10 mmHg is added to the mean BP of both, how will the response of Hypertensive patient vary from that of normal?",
+    "options": {
+      "A": "No change in sympathetic activity of both",
+      "B": "Increase sympathetic activity in hypertensive",
+      "C": "Decrease sympathetic activity",
+      "D": "Increase parasympathetic activity",
+      "E": "Decrease parasympathetic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Atherosclerosis plaque which of following 3 found?",
+    "options": {
+      "A": "Smooth muscle, C.T neutrophil",
+      "B": "Smooth muscle lymphocyte",
+      "C": "Lymphocytes",
+      "D": "Smooth muscle, Extracellular matrix, intracellular matrix and lipids"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Moderate hemorrhage can be diagnosed clinically as:",
+    "options": {
+      "A": "Postural dizziness",
+      "B": "Supine hypotension",
+      "C": "Postural hypotension in 35 years old",
+      "D": "Postural hypotension in 65 years old."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Patient met an accident and was brought to emergency department. BP 80/40, Tachycardia, Low urinary output after catheterization. Renin was increased due to?",
+    "options": {
+      "A": "Decrease in arterial blood flow",
+      "B": "Decrease in arterial blood pressure",
+      "C": "Increase arterial blood flow",
+      "D": "Increase arterial blood pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "A patient presented with Jaw claudication chronic headache and visual disturbances on examination temporal artery firm and then biopsied which disease is associated with this?",
+    "options": {
+      "A": "Giant Cell arteritis",
+      "B": "Takayasu arteritis",
+      "C": "Kawasaki disease",
+      "D": "PAN",
+      "E": "Rheumatoid arthritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Large friable irregular vegetation seen in:",
+    "options": {
+      "A": "Libman Sac endocarditis",
+      "B": "Infective Endocarditis",
+      "C": "Terminal Neoplasm",
+      "D": "Rheumatoid arthritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "The most significant clinical finding in patient of aortic regurgitation is:",
+    "options": {
+      "A": "Heaving apex beat",
+      "B": "Femoral bruit",
+      "C": "Bounding pulse",
+      "D": "Bradycardia",
+      "E": "Nail atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Neuroendocrine response after surgery is due to?",
+    "options": {
+      "A": "Hemorrhage",
+      "B": "Toxic stimuli",
+      "C": "Starvation",
+      "D": "Nociceptor afferent",
+      "E": "Intubation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Vibrations of ventricles during rapid filling of ventricles show which heart sound?",
+    "options": {
+      "A": "1st heart sound",
+      "B": "2nd heart sound",
+      "C": "3rd heart sound",
+      "D": "4th heart sound",
+      "E": "Splitting of sound"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Degranulation of basophils and mast cells causes what kind of shock?",
+    "options": {
+      "A": "Septic shock",
+      "B": "Hypovolemic shock",
+      "C": "Cardiogenic shock",
+      "D": "Anaphylactic shock",
+      "E": "Toxic shock"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "A patient Whose ECG is normal, cardiac enzymes normal, x-ray lung field clear but on CT scan 0.5cm calcification found what is related condition and origin of this?",
+    "options": {
+      "A": "Atrial myxoma from left atrium",
+      "B": "Atrial myxoma from right atrium",
+      "C": "Pulmonary embolism",
+      "D": "MI"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "A patient Presented with Chest pan radiating to left arm and diagnosed as MI, which type of shock will be found in this?",
+    "options": {
+      "A": "Hypovolumic shock",
+      "B": "Septic shock",
+      "C": "Anaphylactic shock",
+      "D": "Cardiogenic Shock"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "In early stage of shock aerobic to anaerobic metabolism occur due to:",
+    "options": {
+      "A": "Reduced perfusion",
+      "B": "Imbalance of O2 supply and demand",
+      "C": "Depletion of enzymes",
+      "D": "Low PCV",
+      "E": "Low Blood volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Streptolysin O is seen in which of these?",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Endocarditis",
+      "C": "Myocarditis",
+      "D": "Pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "After myocardial injury what biochemical changes will be seen in hypoxia:",
+    "options": {
+      "A": "Aerobic Glycolysis",
+      "B": "Oxidative Phosphorylation",
+      "C": "Anaerobic Glycolysis",
+      "D": "Gluconeogenesis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Re-Entry Circuit occur Due to which of the following?",
+    "options": {
+      "A": "Paroxysmal Nodal Tachycardia",
+      "B": "Atrial Flutter",
+      "C": "Atrial Fibrillation",
+      "D": "Systolic Hypertension",
+      "E": "2nd Degree block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Most common site of atherosclerosis:",
+    "options": {
+      "A": "IVC",
+      "B": "SVC",
+      "C": "Aorta",
+      "D": "Femoral artery",
+      "E": "Radial artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "A Patient after RTA having 8% blood loss in 30 min with no change in arterial pressure which of the following has maximum lost of blood?",
+    "options": {
+      "A": "Aorta",
+      "B": "Arteries",
+      "C": "Arteriole",
+      "D": "Capillary",
+      "E": "Veins"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "A woman having bacterial infection came with fever, pneumonia and BP 80/60mmHg and increase Heart rate and Cardiac output she goes into shock what is the mechanism of her shock?",
+    "options": {
+      "A": "Neurogenic",
+      "B": "Septic shock",
+      "C": "Anaphylactic",
+      "D": "Hypotensive shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "During normal systole, backward flow of blood of heart is seen as:",
+    "options": {
+      "A": "Dicrotic notch",
+      "B": "Pulsus alternans",
+      "C": "Pulsus paradoxus",
+      "D": "Raised JVP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "In child cause of rheumatic fever is:",
+    "options": {
+      "A": "Group A Streptococcus",
+      "B": "Group B Streptococcus",
+      "C": "Staph aureus",
+      "D": "Streptococcus viridian",
+      "E": "Streptococcus pneumoniae"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Patient dies suddenly on autopsy mitral valve is myxomatous with chordae tendiniae broken cause of death is related to which of following?",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Infective endocarditis",
+      "C": "Mitral valve prolapse",
+      "D": "VSD",
+      "E": "Atrial fibrillation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "A patient Post MI on angiography LCX artery blocked after 3 days which of following will be most abundant in involved area:",
+    "options": {
+      "A": "Histamine",
+      "B": "VEGF",
+      "C": "Prostaglandins",
+      "D": "Leukotriens",
+      "E": "TGF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "The most common source of systemic emboli?",
+    "options": {
+      "A": "Right Ventricle",
+      "B": "Pulmonary vein",
+      "C": "Right atrium",
+      "D": "Left ventricular mural thrombosis",
+      "E": "Popliteal vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "A 25 years old male with complain of sob, x-ray shows a 'tree shadow' in chest, on echo it was related to right ventricle of heart, containing hemorrhagic and necrotic area:",
+    "options": {
+      "A": "Rhabdomyosarcoma",
+      "B": "Leiomyoma",
+      "C": "Myxoma",
+      "D": "Angiosarcoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "A Man dies at 7th day of MI he died due to which of following?",
+    "options": {
+      "A": "Arrythmia",
+      "B": "Pericardial tamponade",
+      "C": "Viral infection",
+      "D": "Kawasaki",
+      "E": "Aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "A boy who is diagnosed with the rheumatic fever and suddenly present with the tricuspid regurgitation murmur will be heard as:",
+    "options": {
+      "A": "Early Diastolic",
+      "B": "Pansystolic murmur over apex",
+      "C": "Ejection systolic murmur",
+      "D": "Midsystolic click",
+      "E": "Mid Diastolic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Patient in shock reversed phenomena operating will be",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic acidosis with respiratory alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Inferior wall MI due to blockage in which of following artery?",
+    "options": {
+      "A": "Right Marginal",
+      "B": "LADA",
+      "C": "LCA",
+      "D": "LCX",
+      "E": "PDA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "A young female presented with fever for last 10 days and continuous chest pain unrelated to respiration the likely cause related to",
+    "options": {
+      "A": "Myocardium",
+      "B": "Pericardium",
+      "C": "Pleurisy",
+      "D": "Chostochondritis",
+      "E": "Sub endocardium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "If RCA gets blocked after giving Right marginal artery, which portion of heart will be affected?",
+    "options": {
+      "A": "Right atrium",
+      "B": "SA node",
+      "C": "Apex of heart",
+      "D": "Purkinje fiber",
+      "E": "AV node"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Which lead to coronary artery disease?",
+    "options": {
+      "A": "Omega 3 fatty acid",
+      "B": "Omega 6 fatty acid",
+      "C": "Trans fatty acids",
+      "D": "Mono unsaturated fatty acid",
+      "E": "Di unsaturated fatty acid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "What are the features of hypertrophic cardiomyopathy?",
+    "options": {
+      "A": "Myocytes disarray",
+      "B": "Binucleation",
+      "C": "Perivascular fibrosis",
+      "D": "All"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "In IV drug user's most common involved organism will causes what infections?",
+    "options": {
+      "A": "Osteomyelitis",
+      "B": "Skin infection",
+      "C": "Soft tissue infection",
+      "D": "Infective endocarditis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Approach to pericardiocentesis:",
+    "options": {
+      "A": "2nd ics",
+      "B": "5th intercostal space mid axillary line",
+      "C": "5th Left intercostal space close to sternal angle",
+      "D": "Between 5th and 6th intercostal space",
+      "E": "Subxiphoid approach"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Acute MI ECG changes:",
+    "options": {
+      "A": "R wave inversion",
+      "B": "ST segment Elevation",
+      "C": "Q wave",
+      "D": "U wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "39 yr old man ad 2 attack of MI and now complaining of bilateral edema, 4 and 5 intercostal nodule ascites liver tenderness on examination shifting dullness positive:",
+    "options": {
+      "A": "CHF",
+      "B": "Chronic cirrhosis",
+      "C": "Low protein",
+      "D": "High protein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "3rd heart sound due to:",
+    "options": {
+      "A": "Rushing of blood rapidly in ventricle",
+      "B": "Contraction of atria over stenotic valve",
+      "C": "Opening of Semilunar Valve",
+      "D": "Closure of Mitral Valve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Sustained increase of cardiac output occurs in:",
+    "options": {
+      "A": "MR",
+      "B": "Anemia",
+      "C": "Aortic regurgitation",
+      "D": "Atrial fibrillation",
+      "E": "HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "65 year old man had sudden onset of severe chest pain for 5hours. He was rushed to the emergency department, his vitals were pulse 93b/m, temp 98•F RR 23/m, BP 130/85mmHg. ECG was performed which showed ST segment elevation in V1-V6. Which of the following markers would be raised in this patient?",
+    "options": {
+      "A": "Trop I",
+      "B": "LDH",
+      "C": "CK-MB",
+      "D": "Myoglobin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Old age woman with hx of IHD presented with irregular heart beat and abnormal QRS complex. What is the drug of choice for her?",
+    "options": {
+      "A": "Amiodarone",
+      "B": "Lidocaine",
+      "C": "Digoxin",
+      "D": "Beta blockers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Patient having diabetic retinopathy & IHD develop chest pain due to:",
+    "options": {
+      "A": "Thrombosis",
+      "B": "Coronary artery disease",
+      "C": "Embolism",
+      "D": "DVT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Cardiac output decrease in:",
+    "options": {
+      "A": "Hypertension",
+      "B": "Anaphylactic Shock",
+      "C": "Heart failure",
+      "D": "Exercise"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Hyponatremia with increased ECF cause is:",
+    "options": {
+      "A": "Excessive water intake",
+      "B": "ADH excess",
+      "C": "CCF",
+      "D": "CLD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "18 year old girl died suddenly and unexpectedly only headache history 2 Days back on autopsy lymphocytes in myocardium heart valve normal:",
+    "options": {
+      "A": "Pericarditis",
+      "B": "Coxsackie",
+      "C": "Myocarditis",
+      "D": "Adeovirus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Aschoff bodies generation initial stage:",
+    "options": {
+      "A": "Fibrosis",
+      "B": "Epithelioid",
+      "C": "Fibrinoid degeneration",
+      "D": "Plasma cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "A patient presented with chest pain and on auscultation doctor find early diastolic murmur:",
+    "options": {
+      "A": "AR",
+      "B": "MS",
+      "C": "MR",
+      "D": "TR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "A young girl in supine position with bp 80/50 and pulse 100 when she stand her pulse rate increase to reason for this increase in pulse?",
+    "options": {
+      "A": "Decrease contractility of heart",
+      "B": "Decrease venous return to heart",
+      "C": "Decrease Sympathetic",
+      "D": "Increase TPR"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "In ECG complete ventricular depolarization shows",
+    "options": {
+      "A": "QRScomplex",
+      "B": "ST segment",
+      "C": "PT interval",
+      "D": "TP segment"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Murmur heard in patient of mitral regurgitation is:",
+    "options": {
+      "A": "Systolic murmur",
+      "B": "Diastolic murmur",
+      "C": "Pansystolic murmur",
+      "D": "Continuous machinery murmur"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Characteristic of murmur heard in PDA:",
+    "options": {
+      "A": "Pansystolic murmur",
+      "B": "Diastolic murmur",
+      "C": "Systolic murmur",
+      "D": "Machinery murmur"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A young patient was brought to the ER in a state of shock with pulse rate of 150/min, bp 70/50,GCS 13/15 after road traffic accident X-ray shows fracture of pelvic bone, the culprit responsible for low bp is:",
+    "options": {
+      "A": "Loss of vasomotor tone",
+      "B": "Excessive blood loss",
+      "C": "Fat embolism",
+      "D": "Stasis of blood in venous pool"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "ECG of a patient who is on potassium sparing diuretics will show:",
+    "options": {
+      "A": "U waves",
+      "B": "Tall T waves",
+      "C": "Osborn waves",
+      "D": "Q waves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Myocyte disarray is seen in:",
+    "options": {
+      "A": "DCM",
+      "B": "HOCM",
+      "C": "Restrictive cardiomyopathy",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Most specific finding of pericarditis:",
+    "options": {
+      "A": "ST elevation",
+      "B": "ST depression",
+      "C": "PR depression",
+      "D": "T wave inversion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "St depression in V2 and V3 and R wave:",
+    "options": {
+      "A": "Anterior wall MI",
+      "B": "Lateral wall MI",
+      "C": "Posterior wall MI",
+      "D": "Inferior wall MI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "A patient presented with raised JVP, right ventricular hypertrophy and neck vein distended most likely",
+    "options": {
+      "A": "Right heart failure",
+      "B": "Contractive pericarditis",
+      "C": "Pulmonary artery atherosclerosis",
+      "D": "Cardiac tamponade"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "MRI brain, cystic swelling, what is origin of left atrial myxoma?",
+    "options": {
+      "A": "SA node",
+      "B": "Foramen ovale",
+      "C": "Fossa ovalis",
+      "D": "Left ventricle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "C-wave on jvp is corresponding to:",
+    "options": {
+      "A": "Atrial contraction",
+      "B": "Atrial fibrillation",
+      "C": "Right ventricular contraction",
+      "D": "Constrictive pericarditis",
+      "E": "Rapid ventricular ejection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Most common sequele of rheumatic heart disease:",
+    "options": {
+      "A": "Tricuspid regurgitation",
+      "B": "Aortic stenosis",
+      "C": "Aortic stenosis",
+      "D": "Mitral stenosis",
+      "E": "Aortic regurgitation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "A patient had chest pain died few hours after MI what is the cause of death?",
+    "options": {
+      "A": "Interventricular Septal rupture",
+      "B": "Papillary muscle rupture",
+      "C": "Cardiac arrhythmia",
+      "D": "Ventricular pseudoaneurysm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Area for mitral valve auscultation:",
+    "options": {
+      "A": "Right second intercostal space",
+      "B": "Left second intercostal space",
+      "C": "Left arsenal border",
+      "D": "Midclavicular line of fifth intercostal space"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "MI of posterolateral surface of heart. Vessel involved?",
+    "options": {
+      "A": "Posterior ventricular artery",
+      "B": "Posterior interventricular artery",
+      "C": "Left circumflex",
+      "D": "LADA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Libman sac endocarditis associated with SLE affect which valve commonly:",
+    "options": {
+      "A": "Mitral and Aortic valve",
+      "B": "Mitral and Tricuspid valve",
+      "C": "Pulmonary Valve",
+      "D": "Aortic Valve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "ECG of patient shows progressive prolongation of PR interval in successive beats followed by dropped heart beat patient is suffering from?",
+    "options": {
+      "A": "Mobitz 1 AV block",
+      "B": "Mobitz 2 AV block",
+      "C": "Atrial flutter",
+      "D": "Complete AV block",
+      "E": "1st degree AV block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "45 years female was on prolonged bed rest and now she is having shortness of breath and peripheral edema with Nutmeg liver Her chest X-ray shows many areas of infarction:",
+    "options": {
+      "A": "Massive pulmonary embolism",
+      "B": "Recurrent pulmonary embolism",
+      "C": "Left Heart Failure",
+      "D": "Pulmonary Edema",
+      "E": "Stroke"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "ECG shows prolonged PR interval without any other finding:",
+    "options": {
+      "A": "Atrial fibrillation",
+      "B": "Atrial Flutter",
+      "C": "First degree heart block",
+      "D": "Complete heart block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Which of the following is the site of septic shock?",
+    "options": {
+      "A": "Gastrointestinal system",
+      "B": "Cardiovascular system",
+      "C": "Genitourinary system",
+      "D": "Pulmonary system"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Patent ductus arteriosus associated with:",
+    "options": {
+      "A": "Maternal age",
+      "B": "Prematurity",
+      "C": "Drugs",
+      "D": "CO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Female patient with b/l pleural effusion and dyspnea and having pedal edema:",
+    "options": {
+      "A": "Recurrent thromboembolism",
+      "B": "DVT",
+      "C": "CHF",
+      "D": "CLD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "In response to hemorrhage what will decrease?",
+    "options": {
+      "A": "HR",
+      "B": "Oxygen",
+      "C": "Venous Capacitance",
+      "D": "Urine Flow"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Common presentation of pulmonary emboli is:",
+    "options": {
+      "A": "Clinically silent",
+      "B": "Pulmonary HTN",
+      "C": "Pulmonary Infarct",
+      "D": "Edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "First sign of irreversible injury in cardiac muscles:",
+    "options": {
+      "A": "Massive Na influx",
+      "B": "Contraction band in cytoplasm",
+      "C": "Increase Neutrophil",
+      "D": "Decrease Calcium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Interventricular septum is damaged which of the following valve most commonly affected?",
+    "options": {
+      "A": "Aortic",
+      "B": "Pulmonary",
+      "C": "Tricuspid",
+      "D": "Mitral"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "10 year child having cyanotic spells on exertion most common anomaly:",
+    "options": {
+      "A": "VSD",
+      "B": "TOF",
+      "C": "ASD",
+      "D": "TGA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "In TOF what is found?",
+    "options": {
+      "A": "Ventricular septal defect",
+      "B": "Right atrial hypertrophy",
+      "C": "Left ventricle hypertrophy",
+      "D": "Aorta associated with right ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "40 year old patient with edema, productive cough and orthopnea Diagnose is:",
+    "options": {
+      "A": "Hypoproteinemia",
+      "B": "CCF",
+      "C": "MI",
+      "D": "Nephrotic syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Anaphylactic reaction characteristic feature:",
+    "options": {
+      "A": "Bronchodilation",
+      "B": "Hypertension",
+      "C": "Bronchospasm",
+      "D": "Bradycardia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Atrial Contraction is shown by which JVP wave?",
+    "options": {
+      "A": "C wave",
+      "B": "A wave",
+      "C": "X Descent",
+      "D": "V wave"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "A patient has presented with cyanosis increased A-a gradient likely diagnose is:",
+    "options": {
+      "A": "VSD",
+      "B": "PDA",
+      "C": "ASD",
+      "D": "TOF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Neurotransmitter given in cardiogenic shock:",
+    "options": {
+      "A": "Dopamine",
+      "B": "NE",
+      "C": "Epinephrine",
+      "D": "Atropine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "For CVP, right atrium level taken at:",
+    "options": {
+      "A": "4th ICS mid axillary line",
+      "B": "4th ICS anterior axillary line",
+      "C": "5th ICS mid axillary",
+      "D": "Manubriosternal angle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Patient from hill station having labour pain HCG done. Fetus normal. Still which anomaly can be at greater risk?",
+    "options": {
+      "A": "PDA",
+      "B": "VSD",
+      "C": "ASD",
+      "D": "TOF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Ventricle septum wall thicker than ventricle wall seen in",
+    "options": {
+      "A": "Dilated cardiomyopathy",
+      "B": "Restrictive cardiomyopathy",
+      "C": "Hypertrophic cardiomyopathy",
+      "D": "Cardiac tamponade"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "Common Cyanotic heart disease is:",
+    "options": {
+      "A": "ASD",
+      "B": "VSD",
+      "C": "TOF",
+      "D": "PDA",
+      "E": "Eissenmenger"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Patient presented with SOB and pink fluid with no RBC and WBC in alveoli occurs in what is reason?",
+    "options": {
+      "A": "CCF",
+      "B": "Obstruction due to tumor",
+      "C": "Viral infection",
+      "D": "Lymph block"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "A patient presented to you with mitral valve regurgitation he has most probably which murmur",
+    "options": {
+      "A": "Diastolic murmur",
+      "B": "Crescendo murmur",
+      "C": "Ejection systolic murmur",
+      "D": "Pansystolic murmur",
+      "E": "Mid diastolic murmur"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "A tall young man is performing in circus he has sudden crushing pain in the chest and lens dislocation what other finding will be there",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Infective endocarditis",
+      "C": "Mitral valve prolapse",
+      "D": "VSD",
+      "E": "Atrial fibrillation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "In Mitral deviation is caused by",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Arotic stenosis",
+      "C": "Tricuspid regurgitation",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "A patient presented with irregular pulse and irregular R-R interval diagnose is",
+    "options": {
+      "A": "VT",
+      "B": "VF",
+      "C": "AF",
+      "D": "Atrial flutter",
+      "E": "Mitral stenosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "An old man collapsed and her ECG shows atrial rate of 75 and ventricular rate of 35 bpm what is the cause",
+    "options": {
+      "A": "Adam stokes",
+      "B": "AV nodal tachycardia",
+      "C": "WPW syndrome",
+      "D": "Atrial prematurity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Emboli in venous circulation will lodge in:",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary artery branches",
+      "C": "Kidney",
+      "D": "Heart",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "Gaint cell arteritis is associated with which one of the following disease??",
+    "options": {
+      "A": "Polymyalgia rheumatica",
+      "B": "Takayasu arteritis",
+      "C": "Kawasaki synd",
+      "D": "Microscopic polyangiitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Patient came in emergency with failing heart DOC in heart fail is",
+    "options": {
+      "A": "Dopamine",
+      "B": "NE",
+      "C": "Epinephrine",
+      "D": "Atropine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "long standing pulse and left axis deviation is caused by",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Arotic stenosis",
+      "C": "Tricuspid regurgitation",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Aortic regurgitation most significant finding is",
+    "options": {
+      "A": "Bounding pulse",
+      "B": "Pansystolic murmur",
+      "C": "Slow pulse",
+      "D": "Early diastolic murmur",
+      "E": "Ejection systolic murmur"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "A 3 years baby inhaled something after that he had SOB o/e breath sound on the right were normal while on left side they were absent CXR confirmed foreign body lodged in left lower bronchus diagnose is:",
+    "options": {
+      "A": "Trachea deviated",
+      "B": "Situs inversus",
+      "C": "Left bronchus collapse",
+      "D": "Alveoli collapse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Body metabolic response to trauma Skeletal muscle responds by:",
+    "options": {
+      "A": "Decreased proteolysis",
+      "B": "Increase glucose loss",
+      "C": "Increase proteolysis",
+      "D": "No metabolic change",
+      "E": "Decrease Protein loss"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "Systolic phase of cardiac cycle correspond to the following component of ECG:",
+    "options": {
+      "A": "QRS complex",
+      "B": "QR interval",
+      "C": "ST segment",
+      "D": "PR Segment",
+      "E": "QT/RT"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 301,
+    "question_text": "A female had aortic root dilation upto 4cm, ocular examination showed lens dislocation. Mitral valve leaflet defect with a systolic click defect in which of the following?",
+    "options": {
+      "A": "Acquired deficiency of fibrillin",
+      "B": "Inherited deficiency of fibrillin",
+      "C": "Inherited deficiency of laminin",
+      "D": "Acquired deficiency of Spectrin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Pregnant lady with labor pain and obstructed labour was taken to the hospital but died before reaching to hospital most likely cause is:",
+    "options": {
+      "A": "Pulmonary Embolism",
+      "B": "Amniotic fluid embolism",
+      "C": "Air embolism",
+      "D": "MI",
+      "E": "Sepsis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Second degree heart block would most likely result in",
+    "options": {
+      "A": "Atrial rate more than ventricular rate",
+      "B": "Ventricular tachycardia",
+      "C": "Atrial contraction less than ventricle",
+      "D": "Bizarre ventricular complexes on ECG",
+      "E": "Both independent"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Angiography of patient done LCX was blocked which part of heart is affected?",
+    "options": {
+      "A": "Anterior part of left ventricle",
+      "B": "Posterior part of left ventricle",
+      "C": "AV node",
+      "D": "IV septum",
+      "E": "SA node"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Patient came with SOB rustling sound present labs shows creatinine: 9.8 urea: 150 fluid aspirated and cause of this is?",
+    "options": {
+      "A": "Fibrinous pericarditis",
+      "B": "Serous pericarditis",
+      "C": "Cardiac Tamponade",
+      "D": "Constrictive pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "Patient died of hypertension upon autopsy vessel lacked tunica media type of aneurysm is",
+    "options": {
+      "A": "Dissecting aneurysm",
+      "B": "Marfan aneurysm",
+      "C": "Berry aneurysm",
+      "D": "Aortic aneurysm",
+      "E": "Rupture aneurysm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "A patient presented in emergency with chest pain, sweating from 4hr which cardiac marker will be raised?",
+    "options": {
+      "A": "Trop T",
+      "B": "CK MB",
+      "C": "Myoglobin",
+      "D": "LDH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "A Man dies after 4 hours of MI he died due to which of following?",
+    "options": {
+      "A": "Arrhythmia",
+      "B": "Pericardial tamponade",
+      "C": "Viral infection",
+      "D": "Kawasaki",
+      "E": "Aneurysm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "A young male had an RTA which resulted in a femur fracture. He died 5 days later autopsy showed cerebral petechiae. Diagnosis is",
+    "options": {
+      "A": "Sepsis",
+      "B": "Fat embolism",
+      "C": "Pulmonary embolism",
+      "D": "Myocardial dysfunction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Patient had an MI on ECG ST elevations in lead II, III and AVF are seen, vessel involved?",
+    "options": {
+      "A": "RCA",
+      "B": "RCx",
+      "C": "Marginal",
+      "D": "LCA",
+      "E": "LCx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Patient present with pansystolic murmur at left lower sternal border",
+    "options": {
+      "A": "VSD",
+      "B": "Membranous part of the septum",
+      "C": "Infundibulum part of the septum",
+      "D": "Trabeculae",
+      "E": "Papillary muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Person present with Central chest pain for 3hr which cardiac enzyme will be raised?",
+    "options": {
+      "A": "CK MB",
+      "B": "CK-BB",
+      "C": "CPK",
+      "D": "ALT",
+      "E": "AST"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "A patient died of fat embolism, on autopsy fat embolism will be visualized by:",
+    "options": {
+      "A": "Frozen section of embolism",
+      "B": "Frozen section with Silver stain",
+      "C": "Frozen section with Fat stain",
+      "D": "Permanent section of silver stain"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "Patient came in ER with chest pain ECG normal cardiac enzymes normal doctor advised thoracic cage X-RAY which one of these structures is cartilaginous+Amphiarthrosis joint?",
+    "options": {
+      "A": "Manubriosternal",
+      "B": "Costochondral",
+      "C": "Xiphisternal",
+      "D": "Sternocostal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "A patient with acute myocardial infarction this is shown on ECG by which of following:",
+    "options": {
+      "A": "RVH",
+      "B": "LVH",
+      "C": "ST displacement",
+      "D": "U wave",
+      "E": "Right atrium hypertrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "In a patient with suspected pulmonary embolism, which finding on physical examination is the most specific indicator of pulmonary arterial hypertension?",
+    "options": {
+      "A": "Increased jugular venous pressure",
+      "B": "P2 louder than A2",
+      "C": "Peripheral edema",
+      "D": "Presence of an S3",
+      "E": "Pulmonary crackles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "A patient presented with Headache having ESR 120 cause is. Polymyalgia rheumatica is associated with which one of the following disease?",
+    "options": {
+      "A": "Giant cell arteritis",
+      "B": "Takayasu arteritis",
+      "C": "Kawasaki syndrome",
+      "D": "Microscopic polyangiitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Feature of hypertrophic obstructive cardiomyopathy is:",
+    "options": {
+      "A": "Systolic Failure with Increase SV",
+      "B": "Diastolic Failure with Increase SV",
+      "C": "Diastolic Failure with Decrease SV",
+      "D": "Systolic Failure with Decrease SV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "A patient having pansystolic murmur at aortic area with Plateau pulse likely cause is",
+    "options": {
+      "A": "Tricuspid incompetence",
+      "B": "ASD",
+      "C": "Aortic stenosis",
+      "D": "PDA",
+      "E": "VSD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "A pregnant lady having SOB and irregularly irregular pulse. On auscultation there is mid diastolic murmur. Most likely findings would be:",
+    "options": {
+      "A": "Constant R-R interval",
+      "B": "P-Mitrate on ECG",
+      "C": "Pulsus Paradoxus",
+      "D": "LVH",
+      "E": "High Gradient Across Mitral Valve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "62 years old patient of congestive heart failure presented with dyspnea and orthopnea, the mechanism of pulmonary edema in case of CHF is which of following?",
+    "options": {
+      "A": "Increased plasma colloid osmotic pressure",
+      "B": "Decreased plasma colloid osmotic pressure",
+      "C": "Decreased hydrostatic pressure",
+      "D": "Increased hydrostatic pressure",
+      "E": "Increased permeability of pulmonary vasculature"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "On autopsy a person having cardiac disease subendocardial infarct. A circumferential lesion is noted on left ventricle. The mechanism is:",
+    "options": {
+      "A": "Cardiac tamponade",
+      "B": "Hypovolemic Shock",
+      "C": "Thrombotic occlusion of LCX",
+      "D": "Pulmonary Embolism",
+      "E": "Thrombotic occlusion of RCA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "A patient's ECG shows prolonged PR, left axis deviation, and no ventricular hypertrophy. This is which block?",
+    "options": {
+      "A": "Unifascicular",
+      "B": "Bifascicular",
+      "C": "Trifascicular",
+      "D": "Third degree block",
+      "E": "Complete block"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "A patient presents with chest pain radiating to the back, not related to respiration. On examination, muffled heart sounds are heard along the left sternal border. What is the most likely diagnosis?",
+    "options": {
+      "A": "Pericarditis",
+      "B": "Myocarditis",
+      "C": "Cardiac tamponade",
+      "D": "MI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Giant cell arteritis is diagnosed by:",
+    "options": {
+      "A": "CBC",
+      "B": "ESR",
+      "C": "Temporal artery Biopsy",
+      "D": "CT head"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "65 male, pulmonary congestion and failing heart for 1 year. BP 125/85, afebrile, CPK not raised. X-ray showed pulmonary edema and prominent left heart border. Diagnosis is:",
+    "options": {
+      "A": "Amyloidosis",
+      "B": "Alcoholic cardiomyopathy",
+      "C": "Aortic dissection",
+      "D": "Calcified bicuspid aortic valve",
+      "E": "Tricuspid valve carditis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "Most likely indication of mitral valve replacement:",
+    "options": {
+      "A": "Mitral valve prolapses",
+      "B": "Post rheumatic",
+      "C": "Floppy mitral valve",
+      "D": "Rupture of papillary muscle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "A pregnant lady having shortness of breath and irregularly irregular pulse. On auscultation there is mid diastolic mitral murmur. Most likely it is:",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Aortic regurgitation",
+      "C": "Mitral regurgitation",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "In the fetus, which system is a leading cause of congenital-related deaths:",
+    "options": {
+      "A": "Neurological diseases",
+      "B": "CVS diseases",
+      "C": "Dermatological diseases",
+      "D": "Respiratory diseases"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Ventricular muscle fiber length decreases in which one of the following?",
+    "options": {
+      "A": "Increase venous return",
+      "B": "Contraction of skeletal muscles",
+      "C": "Decrease intra thoracic pressure",
+      "D": "Increase intra pericardial pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "In a hypertensive patient, as compared to a normotensive, the kidney response typically involves:",
+    "options": {
+      "A": "Increase Na affect more than other",
+      "B": "ANP affect in arteries decrease",
+      "C": "ANP affect in arteries increase",
+      "D": "Increase Phosphate affect"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Long standing hypertension leads to:",
+    "options": {
+      "A": "Aneurysm",
+      "B": "Hard exudate",
+      "C": "Soft exudate",
+      "D": "Hemorrhage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "A child with TOF is lethargic and weak mentally in school, primarily due to:",
+    "options": {
+      "A": "ASD",
+      "B": "Aortic overriding and VSD",
+      "C": "LVH",
+      "D": "Right atrium enlargement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "In Mitral stenosis, the ECG typically shows:",
+    "options": {
+      "A": "Biphasic p wave in lead 2",
+      "B": "P mitrale in lead 2",
+      "C": "P mitale in lead 4",
+      "D": "P mitrale in lead 1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "The cause of pulmonary edema in mitral stenosis is:",
+    "options": {
+      "A": "Increase Interstitial hydrostatic pressure",
+      "B": "Increase Capillary hydrostatic pressure",
+      "C": "Increase oncotic pressure",
+      "D": "Vagovagal reflexes",
+      "E": "Lymphatic obstruction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "The peptide released in heart failure to counteract volume overload is:",
+    "options": {
+      "A": "ANP",
+      "B": "BNP",
+      "C": "Aldosterone",
+      "D": "Potassium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Atheroma formation is primarily driven by:",
+    "options": {
+      "A": "VLDL",
+      "B": "HDL",
+      "C": "LDL",
+      "D": "Chylomicron",
+      "E": "Phospholipids"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "The most common site of atrial myxoma is:",
+    "options": {
+      "A": "Right Atrium",
+      "B": "SVC",
+      "C": "Left atrium",
+      "D": "Anterior wall"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "45-year man with sudden retrosternal chest pain, sweating, and breathlessness. BP 90/60, pulse 110/min. Diagnosis is:",
+    "options": {
+      "A": "Dissecting aneurysm",
+      "B": "MI",
+      "C": "Pneumonia",
+      "D": "Pulmonary embolism",
+      "E": "Tension pneumothorax"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "In a patient with a T6 spinal cord injury, a raising BP of 180/110 that is lowered after bladder massage is due to:",
+    "options": {
+      "A": "Increase sensitivity to catecholamines (up-regulation of alpha receptors)",
+      "B": "Exaggerated autoimmune reflexes",
+      "C": "Painful atonic bladder",
+      "D": "Activation of pons",
+      "E": "Increase Parasympathetic activity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Patient present with petechiae and ecchymosis; CBC and coagulation profile are normal. Diagnosis is:",
+    "options": {
+      "A": "Haemophilia",
+      "B": "Vasculitis",
+      "C": "ITP",
+      "D": "Platelets aggregation defect",
+      "E": "Platelets adhesion defect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "A known patient of MI with pericardial friction rub and raised creatinine/urea has:",
+    "options": {
+      "A": "Exudative pericarditis",
+      "B": "Transudative pericarditis",
+      "C": "Serous pericarditis",
+      "D": "Uremic pericarditis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "Hypercalcemia characteristically leads to heart arrest in which phase?",
+    "options": {
+      "A": "Systole",
+      "B": "Diastole",
+      "C": "Both",
+      "D": "No significant effect"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "Interventricular septum to free wall thickness ratio of 3:1 is a hallmark of:",
+    "options": {
+      "A": "Dilated cardiomyopathy",
+      "B": "Hypertrophic cardiomyopathy",
+      "C": "Restrictive cardiomyopathy",
+      "D": "Ventricular dilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "The primary cytokine mediator of hypotension in septic shock is:",
+    "options": {
+      "A": "IL 1",
+      "B": "TNF",
+      "C": "Interferon",
+      "D": "IL 8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "A patient with low CO, JVP of 2cm water, lactate 30, and BP 70/30 has:",
+    "options": {
+      "A": "Anaphylactic shock",
+      "B": "Cardiac tamponade",
+      "C": "Hypovolemic shock",
+      "D": "Septic shock",
+      "E": "Cardiogenic shock"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "A machinery murmur on auscultation in a baby indicates:",
+    "options": {
+      "A": "PDA",
+      "B": "TOF",
+      "C": "VSD",
+      "D": "ASD",
+      "E": "TGA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "For severe chest pain of 2hr duration with an inconclusive ECG, which marker raises earliest?",
+    "options": {
+      "A": "Myoglobin",
+      "B": "CK-MB",
+      "C": "CPK",
+      "D": "Trop T"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Which abnormality is commonly associated with a bicuspid aortic valve?",
+    "options": {
+      "A": "ASD",
+      "B": "VSD",
+      "C": "PDA",
+      "D": "Coarctation of Aorta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "The most common renal cause of uncontrolled hypertension is:",
+    "options": {
+      "A": "Polycystic kidney disease",
+      "B": "Proximal renal artery atherosclerosis",
+      "C": "Distal renal artery atherosclerosis",
+      "D": "Pelviureteric stone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "Silver and copper wiring of retinal vessels occurs in:",
+    "options": {
+      "A": "DM",
+      "B": "HTN",
+      "C": "Smoking",
+      "D": "Hyperlipidemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "Irregularly irregular pulse with absent p waves on ECG indicates:",
+    "options": {
+      "A": "Ventricular fibrillation",
+      "B": "WPW syndrome",
+      "C": "Atrial fibrillation",
+      "D": "Atrial flutter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "In a patient who died of mitral stenosis with chronic pulmonary congestion, the alveoli contain:",
+    "options": {
+      "A": "Epithelioid cells",
+      "B": "Heart failure cells",
+      "C": "Histiocytes",
+      "D": "Lymphocytes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "A woman with SLE and a malar rash is likely to suffer from which serositis complication?",
+    "options": {
+      "A": "Pulmonary hemorrhage",
+      "B": "Joint ankylosis",
+      "C": "Nodular glomerulosclerosis",
+      "D": "Pulmonary fibrosis",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "Characteristic acute valvular feature of rheumatic fever is:",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Mitral regurgitation",
+      "C": "Aortic stenosis",
+      "D": "Aortic regurgitation",
+      "E": "Tricuspid regurgitation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "For nocturnal regurgitation and frothy liquid in the mouth partially relieved by bed elevation, advice should be:",
+    "options": {
+      "A": "Atropine",
+      "B": "Partial vagotomy",
+      "C": "Complete vagotomy",
+      "D": "Decrease fatty diet"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "Saw-tooth p waves in a 3:1 ratio on ECG indicates:",
+    "options": {
+      "A": "Atrial flutter",
+      "B": "Atrial fibrillation",
+      "C": "Ventricular tachycardia",
+      "D": "Ventricular fibrillation",
+      "E": "Ventricular flutter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "U waves and inverted T waves on ECG are characteristic of:",
+    "options": {
+      "A": "Hypomagnesemia",
+      "B": "Hyperkalemia",
+      "C": "Hyponatremia",
+      "D": "Hypernatremia",
+      "E": "Hypokalemia"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "An opening snap and mid-diastolic murmur are characteristic of:",
+    "options": {
+      "A": "MR",
+      "B": "AR",
+      "C": "Tricuspid stenosis",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "Fainting with complete dissociation between P and R waves indicates:",
+    "options": {
+      "A": "1st degree Heart block",
+      "B": "2nd degree Heart block",
+      "C": "3rd degree Heart block",
+      "D": "Mobitz block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "Mid-systolic click and late systolic murmur increasing with standing are diagnostic of:",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Aortic stenosis",
+      "C": "Mitral valve prolapse",
+      "D": "Tricuspid regurgitation",
+      "E": "Dilated cardiomyopathy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "Pansystolic murmur is a feature of:",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Aortic stenosis",
+      "C": "Mitral regurgitation",
+      "D": "Mitral stenosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "Leading cause of death after MI despite management is:",
+    "options": {
+      "A": "Hypovolemic shock",
+      "B": "Neurogenic shock",
+      "C": "Septic shock",
+      "D": "Hypoxic Hypoxia",
+      "E": "Cardiogenic Shock"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "Blood vessel layers from inward to outward are:",
+    "options": {
+      "A": "Adventitia, intima, media",
+      "B": "Intima, media, adventitia",
+      "C": "Media, adventitia, intima",
+      "D": "Media, intima, adventitia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "The most direct independent risk factor for coronary artery disease is:",
+    "options": {
+      "A": "Plasma cholesterol",
+      "B": "LDL-C",
+      "C": "HDL-C",
+      "D": "Trans fatty acid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "In arterial thrombosis leading to MI, the key independent factor is:",
+    "options": {
+      "A": "Immobilization",
+      "B": "Vascular injury",
+      "C": "Stasis",
+      "D": "Hypercoagulability"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "Pansystolic murmur, LVH, and AFib indicate:",
+    "options": {
+      "A": "AS",
+      "B": "PS",
+      "C": "MS",
+      "D": "MR",
+      "E": "TR"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "The most common chronic valvular sequela of childhood rheumatic fever is:",
+    "options": {
+      "A": "Aschoff bodies",
+      "B": "Mitral stenosis",
+      "C": "Papillary muscle damage",
+      "D": "Aortic regurgitation",
+      "E": "Aortic stenosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "The most specific diagnostic test for MI is:",
+    "options": {
+      "A": "CK-MB",
+      "B": "Troponin I",
+      "C": "CK-MM",
+      "D": "ECHO",
+      "E": "LDH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "Increased MAP, increased RA pressure, and decreased TPR are seen during:",
+    "options": {
+      "A": "Hypertension",
+      "B": "Low vascular resistance",
+      "C": "Hyperglycemia",
+      "D": "Exercise"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "Radiofemoral pulse delay is diagnostic of:",
+    "options": {
+      "A": "Coarctation of aorta",
+      "B": "Pre-ductal coarctation",
+      "C": "Post-ductal coarctation",
+      "D": "PDA",
+      "E": "Atherosclerosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "Left axis deviation on ECG is often caused by:",
+    "options": {
+      "A": "Left ventricular damage",
+      "B": "AV node damage",
+      "C": "Purkinje fiber damage",
+      "D": "Right ventricular damage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "Diastolic murmur and increased preload are features of:",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Aortic stenosis",
+      "C": "Mitral stenosis",
+      "D": "Tricuspid stenosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "Increased HR during stress with a normal rhythm is:",
+    "options": {
+      "A": "SVT",
+      "B": "Ventricular tachycardia",
+      "C": "Sinus Tachycardia",
+      "D": "PVC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "A plateau pulse and systolic murmur in the aortic area indicate:",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Mitral stenosis",
+      "C": "Mitral regurgitation",
+      "D": "Aortic stenosis",
+      "E": "Tricuspid stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "Inherited asymmetric septal hypertrophy leads to:",
+    "options": {
+      "A": "RVH",
+      "B": "Left ventricular hypertrophy",
+      "C": "Left atrium atrophy",
+      "D": "Band formation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "The most commonly diseased heart valve is the:",
+    "options": {
+      "A": "Aortic",
+      "B": "Tricuspid",
+      "C": "Mitral",
+      "D": "Pulmonary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "Acute cyanotic spells in a child with TOF are linked to:",
+    "options": {
+      "A": "VSD",
+      "B": "ASD",
+      "C": "Right-to-left shunt increase",
+      "D": "TGA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "Atherosclerosis plaque primarily forms in which layer of the vessel?",
+    "options": {
+      "A": "Endothelium",
+      "B": "Lamina interna",
+      "C": "Lamina externa",
+      "D": "Collagen fibers",
+      "E": "Elastic fibers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "Systemic emboli from AFib most commonly lodge in which cerebral artery?",
+    "options": {
+      "A": "MCA",
+      "B": "PCA",
+      "C": "ACA",
+      "D": "Anterior communicating"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Right heart failure leads to dilation of which venous structure?",
+    "options": {
+      "A": "Coronary artery",
+      "B": "Coronary Sinus",
+      "C": "Intercostal artery",
+      "D": "Septomarginal band",
+      "E": "Trabeculae"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "Tall T waves after multiple blood transfusions indicate:",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypercalcemia",
+      "D": "Hypocalcemia",
+      "E": "Hyp m gnesemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "Recurrent Group A streptococcal pharyngitis puts a child at risk for:",
+    "options": {
+      "A": "Sepsis",
+      "B": "DIC",
+      "C": "Rheumatic heart disease",
+      "D": "Coagulopathy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 386,
+    "question_text": "Dissociation between an atrial rate of 85 and ventricular rate of 35 indicates:",
+    "options": {
+      "A": "Complete heart block",
+      "B": "Mobitz type 1",
+      "C": "Mobitz type 2",
+      "D": "Atrial flutter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 387,
+    "question_text": "A pulsating abdominal mass in a patient with chronic HTN/DM is likely:",
+    "options": {
+      "A": "Thoracic Aortic Aneurysm",
+      "B": "Abdominal Aortic Aneurysm",
+      "C": "Rupture of IVC",
+      "D": "Diabetes mellitus type 2",
+      "E": "SVC Aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 388,
+    "question_text": "Aortic regurgitation is best heard in which area?",
+    "options": {
+      "A": "Neck",
+      "B": "Apex",
+      "C": "Left 5th ICS",
+      "D": "Right 2nd ICS",
+      "E": "Left sternal border"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 389,
+    "question_text": "The primary independent trigger for arterial thrombus formation is:",
+    "options": {
+      "A": "Hypocoagulability",
+      "B": "Endothelial retraction",
+      "C": "Turbulence",
+      "D": "Endothelial injury"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 390,
+    "question_text": "In Second degree heart block, which statement is true?",
+    "options": {
+      "A": "Ventricular rate > atrial rate",
+      "B": "Ventricular rate < atrial rate",
+      "C": "Ventricular rate is independent",
+      "D": "Rates are equal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 391,
+    "question_text": "Muscle weakness with U waves on ECG indicates:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hyperchloremia",
+      "C": "Hypochloremia",
+      "D": "Hyperkalemia",
+      "E": "Hypokalemia"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 392,
+    "question_text": "A high, regular heart rate despite a postero-septal infarct indicates that which structure is intact?",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Myocardium",
+      "D": "Whole myocardium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 393,
+    "question_text": "The most specific biomarker for myocardial infarction is:",
+    "options": {
+      "A": "CK MB",
+      "B": "Troponin I",
+      "C": "LDH",
+      "D": "Myoglobin",
+      "E": "Troponin T"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 394,
+    "question_text": "A leading cause of non-obstetrical adult death is:",
+    "options": {
+      "A": "Asthma",
+      "B": "Heart disease",
+      "C": "TB",
+      "D": "Domestic violence"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 395,
+    "question_text": "To confirm a diagnosis of Rheumatic Fever after pharyngitis, which test is essential?",
+    "options": {
+      "A": "Blood culture",
+      "B": "ASO titre",
+      "C": "Throat culture",
+      "D": "Gram stain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 396,
+    "question_text": "Atrio-ventricular dissociation occurs in:",
+    "options": {
+      "A": "Third degree heart block",
+      "B": "Inspiration",
+      "C": "Exercise",
+      "D": "Atropine overdose"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 397,
+    "question_text": "A prolonged PR interval with otherwise normal ECG complexes indicates:",
+    "options": {
+      "A": "First degree block",
+      "B": "Mobitz type 2",
+      "C": "Complete heart block",
+      "D": "Mobitz type 2 A"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 398,
+    "question_text": "Cannon A waves on JVP are characteristic of:",
+    "options": {
+      "A": "Tricuspid regurgitation",
+      "B": "Pulmonary stenosis",
+      "C": "Mitral regurgitation",
+      "D": "Pulmonary embolism",
+      "E": "Complete heart block"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 399,
+    "question_text": "Complete dissociation between P waves and QRS complexes occurs in:",
+    "options": {
+      "A": "Tricuspid regurgitation",
+      "B": "Pulmonary stenosis",
+      "C": "Mitral regurgitation",
+      "D": "Pulmonary embolism",
+      "E": "Complete heart block"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 400,
+    "question_text": "Embolic events in a patient with AFib are typically due to:",
+    "options": {
+      "A": "HTN",
+      "B": "DM",
+      "C": "Trauma",
+      "D": "Mural thrombus"
+    },
+    "correct_answer": "D"
+  }
+,
+  {
+    "mcq_number": 401,
+    "question_text": "Aortic stenosis will cause left ventricle:",
+    "options": {
+      "A": "Decrease distensibility",
+      "B": "Increase contractility",
+      "C": "Decrease contractility",
+      "D": "Increase distensibility"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 402,
+    "question_text": "A 6 years old Japanese boy with a sick appearance has a 7- days lasting fever, bilateral conjunctivitis, cracked lips, bilateral cervical lymphadenopathy and maculo-papular skin rash. What is the most likely diagnosis?",
+    "options": {
+      "A": "Measles",
+      "B": "Infectious erythema",
+      "C": "Kawasaki disease",
+      "D": "Ritter disease",
+      "E": "Mumps"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 403,
+    "question_text": "Thoracic duct block causes:",
+    "options": {
+      "A": "Chylopericardium",
+      "B": "Hemopericardium",
+      "C": "Inc CVP",
+      "D": "Dependent edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 404,
+    "question_text": "Granulomatous polyangitis is associated with:",
+    "options": {
+      "A": "C ANCA",
+      "B": "P ANCA",
+      "C": "Anti SSA",
+      "D": "Anti Jo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 405,
+    "question_text": "Most common structure damaged by ischemia is:",
+    "options": {
+      "A": "Liver",
+      "B": "Neuron",
+      "C": "Lung",
+      "D": "Myocardium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 406,
+    "question_text": "In type 2 heart block:",
+    "options": {
+      "A": "Ventricular rate slower than atria",
+      "B": "SV is decreased",
+      "C": "More chances of ventricular arrhythmia",
+      "D": "HR is increased"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 407,
+    "question_text": "A patient with epistaxis, hematuria, saddle nose & granulomatous inflammation diagnosis is:",
+    "options": {
+      "A": "Churg strauss syndrome",
+      "B": "Granulomatosis with polyangiitis",
+      "C": "SLE",
+      "D": "HIV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 408,
+    "question_text": "In old age cardiomyopathy related to:",
+    "options": {
+      "A": "Ca+ influx",
+      "B": "Na influx",
+      "C": "K efflux",
+      "D": "K influx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 409,
+    "question_text": "Person present with Central chest pain for 4hr which cardiac enzyme will be raised?",
+    "options": {
+      "A": "Trop I",
+      "B": "CK-MB",
+      "C": "CPK",
+      "D": "ALT",
+      "E": "AST"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 410,
+    "question_text": "A smoker who is having two packs per day with associated heart disease is at risk of which arterial complications:",
+    "options": {
+      "A": "Vasculitis",
+      "B": "Atherosclerosis",
+      "C": "Arteriosclerosis",
+      "D": "Fibrinoid necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 411,
+    "question_text": "Pericardiocentesis location for straw colored fluid is which of following?",
+    "options": {
+      "A": "Caudal sternum region at medial end of 4th and 5th costal cartilage",
+      "B": "Left parasternal 3rd intercostal space",
+      "C": "Midclavicular line",
+      "D": "Midaxial line",
+      "E": "Right parasternal 2nd Intercostal space"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "What metabolic derangement is present in progressive non compensated shock in which reverse phenomenon failed?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Partially compensated metabolic alkalosis",
+      "D": "Metabolic acidosis and respiratory Acidosis",
+      "E": "Respiratory acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 413,
+    "question_text": "A man dies at 9th day of MI he died due to which of following?",
+    "options": {
+      "A": "Arrhymia",
+      "B": "Pericardial tamponade",
+      "C": "Viral infection",
+      "D": "Kawasaki",
+      "E": "Aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 414,
+    "question_text": "In mitral stenosis where should doctor place stethoscope for Auscultation?",
+    "options": {
+      "A": "Right second intercostal space",
+      "B": "Right sternal border",
+      "C": "Left sternal border",
+      "D": "Left 5th intercostal space (Apex)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 415,
+    "question_text": "Man is having RHD and MS and on lung heart failure cells are seen, what is the mechanism of formation:",
+    "options": {
+      "A": "MI tissue hypoxia",
+      "B": "Chronic passive congestion",
+      "C": "Hypertrophy",
+      "D": "Constricted myopathy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 416,
+    "question_text": "AV nodal delay results in:",
+    "options": {
+      "A": "Prolonged pr interval",
+      "B": "Short PR interval",
+      "C": "Long QRS",
+      "D": "Short QT interval"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 417,
+    "question_text": "30 year female presented with acute chest pain and hemoptysis one week after delivery there is no fever ECG shows S1Q3T3 pattern most appropriate investigation would be:",
+    "options": {
+      "A": "CPK",
+      "B": "CT angiogram (Pulmonary)",
+      "C": "LDH",
+      "D": "SGOT",
+      "E": "X-Ray chest"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 418,
+    "question_text": "A 26 year old female presented with uncontrolled hypertension. There is radiofemoral delay. Most likely cause of hypertension in this patient will be",
+    "options": {
+      "A": "Renal artery stenosis",
+      "B": "Pheochromocytoma",
+      "C": "Coarctation of aorta",
+      "D": "Conn syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 419,
+    "question_text": "During left ventricular failure following occur",
+    "options": {
+      "A": "Increase in pulmonary capillary pressure",
+      "B": "Orthopnea while standing",
+      "C": "Decrease pulmonary pressure",
+      "D": "Pulmonary edema can never occur"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 420,
+    "question_text": "On ECG p wave and QRS complex with ratio of 3:1 is",
+    "options": {
+      "A": "Mobitz 1",
+      "B": "Mobitz 2",
+      "C": "Complete block",
+      "D": "First degree block"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 421,
+    "question_text": "Increased Calcium in Extracellular matrix will result in?",
+    "options": {
+      "A": "Systolic Cardiac arrest",
+      "B": "Diastolic cardiac arrest",
+      "C": "AV conduction abnormality",
+      "D": "SA node abnormality"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 422,
+    "question_text": "A Female patient with SOB. Pleurocentesis done. Fluid having specific gravity of 1.006 cause is",
+    "options": {
+      "A": "Recurrent thromboembolism",
+      "B": "DVT",
+      "C": "CHF",
+      "D": "MI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 423,
+    "question_text": "A patient with left atrial hypertrophy, Increased pulmonary artery pressure, loud S1, mid diastolic murmur, what's the diagnosis:",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Mitral stenosis",
+      "C": "Tricuspid stenosis",
+      "D": "Aortic Regurgitation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 424,
+    "question_text": "Patient with history of Rheumatic Valvular disease (Mitral Stenosis) presented with Dysphagia. On examination Reddish Cheeks & Raised Jugular venous pressure. Which of the following enlargement can be the cause of dysphagia in this patient?",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right atrium",
+      "C": "Right ventricle",
+      "D": "Inferior Vena Cava"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 425,
+    "question_text": "A 55 years old lady with mild HTN, wants lifestyle modification, advice shall be:",
+    "options": {
+      "A": "Salt restriction",
+      "B": "Walk 1 mile daily 4 days/week",
+      "C": "Bike riding 30mins 4days/week",
+      "D": "High salt diet"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 426,
+    "question_text": "An old aged patient with generalized edema having increased Translucency of Lungs in Upper fields, flattened diaphragms, no evidence of infiltration, No H/O of fever, prominent both pulmonary arteries, Prominent right border of Heart on radiograph, what is most likely mechanism involved in Pulmonary arteries ?",
+    "options": {
+      "A": "Granulomatous vasculitis",
+      "B": "Organizing Atherosclerosis",
+      "C": "Aneurysm",
+      "D": "Medial dissection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 427,
+    "question_text": "In Left circumflex blocked. Which heart part affected?",
+    "options": {
+      "A": "Left atrium anterior",
+      "B": "Left ventricle posterior",
+      "C": "Right atrium",
+      "D": "Right ventricle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 428,
+    "question_text": "Most significant cause of atheroma:",
+    "options": {
+      "A": "Immobilization",
+      "B": "Diastolic hypertension",
+      "C": "Personality",
+      "D": "Endothelial injury",
+      "E": "Diabetes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 429,
+    "question_text": "Increase ECF potassium what will be effect on heart",
+    "options": {
+      "A": "Myocardial weakness",
+      "B": "Spastic paralysis",
+      "C": "Diastolic cardiac arrest",
+      "D": "Systolic cardiac arrest",
+      "E": "Tremors"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 430,
+    "question_text": "Increase afferent traffic impulses from carotid body due to",
+    "options": {
+      "A": "Hypoxemia",
+      "B": "Hypotriglycemia",
+      "C": "CO poisoning",
+      "D": "Cyanide poisoning",
+      "E": "Anemic hypoxia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 431,
+    "question_text": "Hypertrophic Cardiomyopathy occurs primarily due to:",
+    "options": {
+      "A": "Decreased stroke volume due to decreased diastolic filling",
+      "B": "Increased stroke volume due to decreased diastolic filling",
+      "C": "Increased stroke volume due to increased diastolic filling",
+      "D": "Decreased stroke volume due to increased diastolic filling"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 432,
+    "question_text": "A patient presents with persistent epigastric pain and chest pain vomiting from last 4 hours. ECG shows ST elevation BP 130/80 Cardiac enzymes normal what is the diagnosis:",
+    "options": {
+      "A": "MI",
+      "B": "Acute pericarditis",
+      "C": "Myocarditis",
+      "D": "Dissection of Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 433,
+    "question_text": "Patient presented with palpitations and having absent p waves with irregular pulse and irregular R-R interval and also having diastolic rumbling murmur likely cause is",
+    "options": {
+      "A": "Mitral stenosis with insufficiency",
+      "B": "Aortic stenosis",
+      "C": "Pulmonic stenosis",
+      "D": "Aortic regurgitation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 434,
+    "question_text": "Patient presented with palpitations and having absent p waves with irregular pulse and irregular R-R interval and also having diastolic rumbling murmur likely cause is",
+    "options": {
+      "A": "Mitral stenosis with insufficiency",
+      "B": "Aortic stenosis",
+      "C": "Pulmonic stenosis",
+      "D": "Aortic regurgitation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 435,
+    "question_text": "A patient Whose ECG is normal, cardiac enzymes normal, x-ray lung field clear but on CT scan 0.5cm calcification found and ball movement of heart valves noted. What is primary heart tumor related to this",
+    "options": {
+      "A": "Atrial myxoma",
+      "B": "Rhabdomyosarcoma",
+      "C": "Pulmonary embolism",
+      "D": "MI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 436,
+    "question_text": "Person present with Central chest pain for 4 hrs, which cardiac enzyme will be raised?",
+    "options": {
+      "A": "ALP",
+      "B": "CK-BB",
+      "C": "CK-MB",
+      "D": "ALT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 437,
+    "question_text": "A patient with non-lethal Myocardial infarction. After few minutes Which of the following is most likely to occur:",
+    "options": {
+      "A": "Complete recovery without complications",
+      "B": "Arrhythmia",
+      "C": "Cardiac tamponade",
+      "D": "Pericarditis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 438,
+    "question_text": "Patient has tearing chest pain, unequal b.p in arm and mediastinal widening due to??",
+    "options": {
+      "A": "Aortic dissection",
+      "B": "Coarctation of aorta",
+      "C": "Aortic regurgitation",
+      "D": "Atherosclerotic Aneurysm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 439,
+    "question_text": "A patient presented with c/o Shortness of Breath.O/E, Irregularly irregular pulse. On Auscultation there is mid diastolic murmur Most likely findings would be:",
+    "options": {
+      "A": "Constant R-R Interval",
+      "B": "P-Mitrate on ECG",
+      "C": "Pulsus Paradoxus",
+      "D": "High ventricular hypertrophy gradient between left atrium and left ventricle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 440,
+    "question_text": "Hypertensive retinopathy affect which of Following",
+    "options": {
+      "A": "Veins",
+      "B": "Arteriole",
+      "C": "Venules",
+      "D": "Arteries",
+      "E": "Capillaries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 441,
+    "question_text": "Patient having chronic cardiac problem having recent Mi got to dentist for tooth extraction. He suddenly collapsed &become paralyzed due to thrombos occluding which artery?",
+    "options": {
+      "A": "Anterior choroidal artery",
+      "B": "MCA",
+      "C": "Posterior Choroidal artery",
+      "D": "Posterior communicating artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 442,
+    "question_text": "A 45-year-old patient presents with a systolic murmur that is audible up to the neck without the use of a stethoscope. Which of the following conditions is most likely associated with this finding?",
+    "options": {
+      "A": "Aortic regurgitation",
+      "B": "Mitral stenosis",
+      "C": "Aortic stenosis",
+      "D": "Mitral regurgitation",
+      "E": "Tricuspid regurgitation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 443,
+    "question_text": "Which of the following structures is primarily affected by retinal hypertension?",
+    "options": {
+      "A": "Central retinal artery",
+      "B": "Retinal veins",
+      "C": "Retinal arterioles",
+      "D": "Choroidal vessels",
+      "E": "Optic nerve fibers"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 444,
+    "question_text": "A patient having some medication for cardiac issue now presented with prolongation of PR interval what is the cause",
+    "options": {
+      "A": "Drug Induced first degree heart block",
+      "B": "Mobitz type 1",
+      "C": "second degree heart block",
+      "D": "Arrythmias"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 445,
+    "question_text": "A patient presented with Jaw claudication headache on examination temporal artery firm and then biopsied which disease is associated with this:",
+    "options": {
+      "A": "Giant Cell arteritis",
+      "B": "Takayasu arteritis",
+      "C": "Kawasaki disease",
+      "D": "PAN",
+      "E": "Bachet disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 446,
+    "question_text": "Left Ventricle enlarged in Hypertension due to:",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Increased Stroke volume",
+      "C": "Atrophy",
+      "D": "Hypertrophy",
+      "E": "Increased Workload"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 447,
+    "question_text": "Valve involved in interventricular septal defect:",
+    "options": {
+      "A": "Aortic",
+      "B": "Mitral",
+      "C": "Tricuspid",
+      "D": "Pulmonary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 448,
+    "question_text": "A patient presents with retrosternal pain radiating to the epigastrium lasting for 3-4 hours, accompanied by ST-segment elevation on ECG but no change in cardiac enzyme levels. What is the most likely diagnosis?",
+    "options": {
+      "A": "Aortic dissection",
+      "B": "Acute myocardial infarction (MI)",
+      "C": "Acute Pericarditis",
+      "D": "Acute Myocarditis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 449,
+    "question_text": "ECG of patient shows no association between P-R wave and and had history of fainting due to",
+    "options": {
+      "A": "1st degree Heart block",
+      "B": "2nd degree Heart block",
+      "C": "3rd degree Heart block",
+      "D": "Mobitz block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 450,
+    "question_text": "In anaphylactic shock, which of the following is incorrect?",
+    "options": {
+      "A": "Increased vascular permeability",
+      "B": "Increased venous return",
+      "C": "Endotoxin",
+      "D": "Arteriolar dilatation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 451,
+    "question_text": "Inferior wall MI, Left ventricle damaged which of the following artery is involved",
+    "options": {
+      "A": "RCA",
+      "B": "LAD",
+      "C": "PAD",
+      "D": "Right marginal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 452,
+    "question_text": "55 year old male present to the clinic with complain of increasing fatigue ,SOB, and palpitation over the past six months he reports occasional chest discomfort and difficulty breathing when lying down on examination Water hammer pulse and wide pulse pressure was present on auscultation high pitched blowing diastolic murmur was heared which is characteristic finding of which of the following condition",
+    "options": {
+      "A": "Aortic stenosis",
+      "B": "Aortic regurgitation",
+      "C": "Mitral stenosis",
+      "D": "Mitral regurgitation",
+      "E": "Mitral valve prolapse"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 453,
+    "question_text": "A murmur is heard on Left 3rd intercostal space at parasternal border. Which of the following murmur is most likely?",
+    "options": {
+      "A": "Aortic Area 1",
+      "B": "Mitral",
+      "C": "Aortic Area 2",
+      "D": "Tricuspid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 454,
+    "question_text": "Hypertensive, Hyperlipidemic smoker patient with sternal Chest pain from last 30mins brought to ER .Vitals reveal Normal Pulse & BP. Investigation reveal a normal ECG. What investigation will you do next to reach the diagnosis?",
+    "options": {
+      "A": "Echocardiography",
+      "B": "Coronary Angiography",
+      "C": "Exercise Tolerance Test",
+      "D": "Give Aspirin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 455,
+    "question_text": "Security guard had history of fall and remain unconscious for 30 sec. His neurological examination is unremarkable. He is having irregular pulse what is cause of fall?",
+    "options": {
+      "A": "Syncope",
+      "B": "Mi",
+      "C": "Heat Stroke",
+      "D": "Transient Ischemic Attack",
+      "E": "Seizure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 456,
+    "question_text": "Variable 1st heart sound in:",
+    "options": {
+      "A": "Atrial Fibrillation",
+      "B": "Ventricular Fibrillation",
+      "C": "Atrial Flutter",
+      "D": "Supraventricular Tachycardia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 457,
+    "question_text": "A 54-year-old male is seen in the clinic with complaints of palpitations and light-headedness. Physical examination shows a heart rate of 100 bpm and blood pressure of 75/40 mmHg. What is the most likely adjustment that has occurred in the cardiac cycle?",
+    "options": {
+      "A": "Systolic time has decreased proportionately more than diastolic time",
+      "B": "Diastolic time has decreased proportionately more than systolic time",
+      "C": "Both systolic and diastolic times are equally reduced",
+      "D": "Cardiac output has increased proportionately"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 458,
+    "question_text": "A patient presented with Central chest pain. ECG shows ST elevation of 4mm in Lead 1 & AVL & ST depressions along with T- wave inversions lead avR & lead 3. Diagnosis?",
+    "options": {
+      "A": "Anterior Wall MI",
+      "B": "Posterior Wall MI",
+      "C": "Lateral Wall MI",
+      "D": "NSTEMI",
+      "E": "Acute Pericarditis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 459,
+    "question_text": "65-year-old patient presents with episodes of dizziness. ECG findings show a regular RR interval, visible P waves, and a 2:1 AV conduction pattern. What is the most likely diagnosis?",
+    "options": {
+      "A": "Mobitz Type 1",
+      "B": "Mobitz Type 2",
+      "C": "Third- degree (Complete) Heart Block",
+      "D": "First-degree Heart Block"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 460,
+    "question_text": "A patient presents to the ER with chest pain for the last 30 minutes and a systolic murmur. The initial ECG is normal. What is the next best step in management?",
+    "options": {
+      "A": "Repeat ECG",
+      "B": "Echocardiogram",
+      "C": "Troponin I levels",
+      "D": "Exercise Tolerance Test",
+      "E": "Chest X- Ray"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 461,
+    "question_text": "Which of the following is grossly visible in atheroma even in child",
+    "options": {
+      "A": "Vasoconstriction",
+      "B": "Increased submucosal infiltration",
+      "C": "Fatty streaks in aorta",
+      "D": "Platelet aggregation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 462,
+    "question_text": "Patient with irregular R-R interval & absent P waves. Along with primary treatment, What should be given to this patient?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Warfarin",
+      "C": "Aspirin+Clopidogrel",
+      "D": "Clopidogrel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 463,
+    "question_text": "A 67 years old patient came to hospital after an RTA, major injuries are suspected. She is a known case of CCF, on examination bilateral wheeze was present basally. What will be the fluid of choice in this patient for resuscitation.",
+    "options": {
+      "A": "3 percent ringer lactate",
+      "B": "0.9% normotensive normal saline",
+      "C": "3% hypertonic normal saline",
+      "D": "5% Dextrose Saline"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 464,
+    "question_text": "Patient was present in cardiology department with chest pain so ECG was ordered On ECG there was ST elevation in lead 1, 2 and AVL",
+    "options": {
+      "A": "Inferior wall MI",
+      "B": "Anteroseptal wall MI",
+      "C": "Lateral wall MI",
+      "D": "Anterior wall MI",
+      "E": "Posterior wall MI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 465,
+    "question_text": "A male patient was present in cardiology OPD on examination he has ejection systolic murmur heard in right 2nd intercostal space and plateau pulse and left axis deviation which of the following condition patient is suffering from",
+    "options": {
+      "A": "MR",
+      "B": "MS",
+      "C": "AR",
+      "D": "AS",
+      "E": "VSD"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 466,
+    "question_text": "Which condition is characterized by a congenital heart defect that initially causes a left-to-right shunt, which eventually reverses to a right-to-left shunt due to the development of pulmonary hypertension, leading to cyanosis?",
+    "options": {
+      "A": "Eisenmenger Syndrome",
+      "B": "Tetralogy of Fallot",
+      "C": "Atrial Septal Defect (ASD)",
+      "D": "Patent Ductus Arteriosus (PDA)",
+      "E": "VSD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 467,
+    "question_text": "Characteristic of Atrial Fibrillation:",
+    "options": {
+      "A": "Saw tooth waves",
+      "B": "Increased P wave with Qrs complexes",
+      "C": "Pulses alternans",
+      "D": "Irregular QRS complexes",
+      "E": "Increased P Wave"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 468,
+    "question_text": "ECG shows 1 qrs complex pattern after 2 constant P waves along with regular Heart Rate.PR interval is 0.14msec. Diagnosis is:",
+    "options": {
+      "A": "Mobitz type 1",
+      "B": "Mobitz type 2",
+      "C": "Complete heart block",
+      "D": "Torsades de Pointes",
+      "E": "Atrial Fibrillation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 469,
+    "question_text": "Severe Bilateral Optic Disc Edema due to:",
+    "options": {
+      "A": "Acute Severe Hypertension",
+      "B": "Diabetes Mellitus",
+      "C": "Thyroid Disorders",
+      "D": "Metabolic Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 470,
+    "question_text": "Patient had MI 6 months back now complaining of chest pain and SOB.ECG shows bigeminy QRS complexes and inverted T waves cause is",
+    "options": {
+      "A": "Torsades de pointes",
+      "B": "Prolong QT Syndrome",
+      "C": "Premature ventricular contraction",
+      "D": "Complete heart block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 471,
+    "question_text": "A 45-year-old male patient presents to the emergency department with shortness of breath and sinking heart and a history of recent fatigue and muscle weakness, On auscultation, bibasilar crackles are heard in the lung bases.An ECG is obtained, which shows T wave depression in several leads which of the following is the cause of his condition",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypercalcemia",
+      "D": "Hypocalcemia",
+      "E": "Hyponatremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 472,
+    "question_text": "Middle aged Patient present in Cardiology OPD with MODERATE hypertension, he is taking thiazide diuretic for 10 months which of the following you will now prescribe",
+    "options": {
+      "A": "Double the dose of thiazide for better effect",
+      "B": "Decreasing cardiac output due to dec volume",
+      "C": "No need of potassium replacement",
+      "D": "Decrease extracellular fluid",
+      "E": "No need of salt restriction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 473,
+    "question_text": "Patient has a bicuspid Aortic Valve. What other condition might be associated with a bicuspid valve",
+    "options": {
+      "A": "Aortic Coarctation",
+      "B": "Aortic Dissection",
+      "C": "TOF",
+      "D": "ASD",
+      "E": "VSD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 474,
+    "question_text": "Essential hypertension, Cause of Edema in Legs:",
+    "options": {
+      "A": "Decreased plasma colloid osmotic pressure",
+      "B": "Increased plasma colloid osmotic pressure",
+      "C": "Decreased hydrostatic pressure",
+      "D": "Increased hydrostatic pressure",
+      "E": "Increased permeability of pulmonary vasculature"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 475,
+    "question_text": "Patient diagnosed case of RHD. where should doctor placed stethoscope for auscultation?",
+    "options": {
+      "A": "Right second intercostal space",
+      "B": "Right sternal border",
+      "C": "Left sternal border",
+      "D": "Left 5th intercostal",
+      "E": "Left 4th intercostal space"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 476,
+    "question_text": "Large A wave in JVP due to",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Mitral regurgitation",
+      "C": "Aortic stenosis",
+      "D": "Tricuspid stenosis",
+      "E": "Aortic regurgitation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 477,
+    "question_text": "In Rheumatic heart disease murmur heard at",
+    "options": {
+      "A": "5th ICS",
+      "B": "4th ICS",
+      "C": "2nd ICS",
+      "D": "3rd ICS",
+      "E": "Parasternal 5th ICS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 478,
+    "question_text": "An older patient presents with MI that is Moderately severe in nature however ,complication develop suddenly after the attack in a few minutes, including",
+    "options": {
+      "A": "Ventricular fibrillation",
+      "B": "Congestive cardiac failure",
+      "C": "No complication",
+      "D": "Cardiac tamponade",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 479,
+    "question_text": "A patient presents with acute retrosternal pain and he was administered aspirin and clopidogrel following treatment ,the pain was subsided ,the likely reason for pain relief is",
+    "options": {
+      "A": "Increase venous capacitance",
+      "B": "Decreased arteriolar resistance",
+      "C": "Increased blood supply to the heart",
+      "D": "Decrease heart rate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 480,
+    "question_text": "In VSD most common defect occurs in which of the following",
+    "options": {
+      "A": "Membranous Portion",
+      "B": "Non membranous portion",
+      "C": "Trabecular portion",
+      "D": "Outflow portion",
+      "E": "Inflow portion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 481,
+    "question_text": "Female with mid diastolic rumbling murmur, diagnosis?",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Mitral regurgitation",
+      "C": "Aortic stenosis",
+      "D": "Aortic regurgitation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 482,
+    "question_text": "Man with pericarditis. What will decide its progress/ fate/severity?",
+    "options": {
+      "A": "Blood in it",
+      "B": "Cell count",
+      "C": "Depends on nature of Underlying disease",
+      "D": "Type of Cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 483,
+    "question_text": "A woman brings her son with temp 38.5, also noticed some weird movements(chorea), and nodules. what will be your best investigation?",
+    "options": {
+      "A": "Blood culture for s.pyogenes",
+      "B": "Anti-streptolysin O",
+      "C": "Blood culture for s. Pneumoniae",
+      "D": "Urine Culture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 484,
+    "question_text": "patient with Persistent PR interval & P:QRS 2:1,No PR prolongation, P wave normal. Most likely diagnosis?",
+    "options": {
+      "A": "Atrial flutter",
+      "B": "Afib",
+      "C": "Mobitz type 1",
+      "D": "Mobitz type 2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 485,
+    "question_text": "A patient presents with an increased atrial rate compared to the ventricular rate and an irregular pulse. What is the most likely cause?",
+    "options": {
+      "A": "Atrial fibrillation (Afib)",
+      "B": "Atrial flutter",
+      "C": "Paroxysmal atrial tachycardia",
+      "D": "Paroxysmal ventricular tachycardia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 486,
+    "question_text": "Anterior wall MI",
+    "options": {
+      "A": "ST elevation in V3-V4",
+      "B": "ST elevation in V1-V4",
+      "C": "ST elevation in II, III, aVF",
+      "D": "ST elevation in I,aVL",
+      "E": "ST elevation in V1-V6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 487,
+    "question_text": "A 45 year old patient presents in Cardiology department with history of fainting part from 6 months his ECG shows P and QRS dissociation",
+    "options": {
+      "A": "Atrial fibrillation",
+      "B": "Atrial flutter",
+      "C": "1st degree block",
+      "D": "2nd degree block",
+      "E": "3rd degree block"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 488,
+    "question_text": "A 55 year old male present to ER department with SOB, hypotension, and swelling of neck veins on examination the hear sound are muffled which of the following is ur diagnosis",
+    "options": {
+      "A": "Cardiac tamponade",
+      "B": "Constrictive Pericarditis",
+      "C": "Myocarditis",
+      "D": "CHF",
+      "E": "Cardiomyopathy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 489,
+    "question_text": "An older patient presents with MI that is Moderately severe in nature however, complication develop suddenly after the attack in a few hours and die, including",
+    "options": {
+      "A": "Ventricular fibrillation",
+      "B": "Congestive cardiac failure",
+      "C": "No complication",
+      "D": "Cardiac tamponade",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 490,
+    "question_text": "At which of the following level of potassium ECG will show the Tall T waves and wide QRS complexes",
+    "options": {
+      "A": "4",
+      "B": "3.5",
+      "C": "4.5",
+      "D": "6",
+      "E": "5"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 491,
+    "question_text": "A 11 year old boy, died Autopsy finding revealed aortic dilation which of the following is most likely cause",
+    "options": {
+      "A": "Takayasu arteritis",
+      "B": "Kawasaki disease",
+      "C": "Marfan syndrome",
+      "D": "Congenital heart defect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 492,
+    "question_text": "Which of the following represents the backward flow of the blood into the aorta during the cardiac cycle",
+    "options": {
+      "A": "Dicrotic notch",
+      "B": "Pulsus alternans",
+      "C": "Pulsus paradoxus",
+      "D": "Raised JVP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 493,
+    "question_text": "Hyperkalemia leads to which of the following:",
+    "options": {
+      "A": "PR prolongation",
+      "B": "Muscle spasm",
+      "C": "Cardiac arrhythmias",
+      "D": "Powerful contraction",
+      "E": "Spasticity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 494,
+    "question_text": "A 72 year old women presents to the ER department with a two weak history of headache, and the headache was throbbing and persistent she also reports transient loss of vision and jaw pain while chewing which of the following is ur diagnosis",
+    "options": {
+      "A": "Giant cell arteritis",
+      "B": "Takayasu arteritis",
+      "C": "TB meningitis",
+      "D": "Trigeminal neuralgia",
+      "E": "Brain abscesses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 495,
+    "question_text": "Patient presented with chest pain. ECG was done which showed irregular heart beat, prominent U waves. What is the likely cause?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hyponatremia",
+      "D": "Hypermagnesemia",
+      "E": "Hypocalcemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 496,
+    "question_text": "An ECG of patient showing R-R interval of 0.55 sec Which of the following is most likely this ECG shows the heart rate of",
+    "options": {
+      "A": "Normal person heart rate",
+      "B": "Athlete's heart rate",
+      "C": "Bradycardia",
+      "D": "Tachycardia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 497,
+    "question_text": "A 62 year old male present with chest pain and SOB having recent history of MI he has stent placement ,on examination patient is anxious and hypotensive with bp of 80/50mmHg which of the following is most likely cause",
+    "options": {
+      "A": "Anaphylactic shock",
+      "B": "Cardiogenic shock",
+      "C": "Hypovolemic shock",
+      "D": "Septic shock",
+      "E": "Neurogenic shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 498,
+    "question_text": "A 60 year old male presents with chronic heart failure presents with symptoms of volume overload ,including severe peripheral edema and SOB on lab findings there was low potassium which of the following drug should be prescribed to cover both",
+    "options": {
+      "A": "Loop diuretics",
+      "B": "Spironolactone",
+      "C": "Thiazide",
+      "D": "Mannitol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 499,
+    "question_text": "Patient with history of severe chest pain radiating to left arm of 3hr duration. ECG is inconclusive which cardiac marker will be diagnostic of his condition in this case?",
+    "options": {
+      "A": "Myoglobin",
+      "B": "CK-MB",
+      "C": "CPK",
+      "D": "Trop T",
+      "E": "LDH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 500,
+    "question_text": "A 58 year man with a history of hypertension and smoking presents with chest pain that occurs during exercise and relieves with rest after 5 minutes ,the pain is described as a dull, squeezing sensation in the chest ,sometimes radiating to left arm what is your diagnosis",
+    "options": {
+      "A": "Unstable angina",
+      "B": "Stable angina",
+      "C": "Pericarditis",
+      "D": "Myocarditis",
+      "E": "MI"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 501,
+    "question_text": "A 62 year old women with DM and sedentary life style experiences chest tightness and discomfort after hearing stressful news,the pain radiates to her jaw and left arm but disappears after resting for few minutes what is your diagnosis",
+    "options": {
+      "A": "Stable angina",
+      "B": "MI",
+      "C": "Unstable angina",
+      "D": "Panic attack",
+      "E": "Pericarditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 502,
+    "question_text": "A 40 year old male patient present in cardiology OPD with chest pain ,on ECG there was elevation in V3 and V4 which of the following vessel is effected",
+    "options": {
+      "A": "LAD",
+      "B": "LCA",
+      "C": "RCA",
+      "D": "Marginal artery",
+      "E": "Posterior descending artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 503,
+    "question_text": "Patient had MI 6 months back now presented with chest pain and SOB.ECG shows bigeminy QRS complexes and inverted T waves cause is",
+    "options": {
+      "A": "Torsades de pointes",
+      "B": "Prolong QT Syndrome",
+      "C": "Premature ventricular contraction",
+      "D": "Complete heart block"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 504,
+    "question_text": "A patient present with multiple tumors,including angiomyolipoma and atrial myxoma which of the following condition is most likely associated with these findings",
+    "options": {
+      "A": "Tuberous sclerosis",
+      "B": "Von hippel-lindau syndrome",
+      "C": "Neurofibromatosis",
+      "D": "Cowden syndrome",
+      "E": "Sturge weber syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 505,
+    "question_text": "An elderly patient develops generalized body edema. She has a history of being treated for tuberculous pericarditis 10 years ago. What is the most likely cause of her edema?",
+    "options": {
+      "A": "Constrictive Pericarditis",
+      "B": "Congestive Heart Failure (CHF)",
+      "C": "Miliary Tuberculosis (TB)",
+      "D": "Nephrotic Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 506,
+    "question_text": "A patient came with newly developed murmur he gives history of having rheumatic fever in childhood. It is most likely associated with",
+    "options": {
+      "A": "Mitral stenosis",
+      "B": "Aschoff bodies",
+      "C": "Papillary muscle damage",
+      "D": "Aortic Regurgitation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 507,
+    "question_text": "Order of cardiac enzyme elevation?(Medicine Feb 2025)",
+    "options": {
+      "A": "Myoglobin > CKMB > TROP I > LDH",
+      "B": "Myoglobin > LDH > CKMB > TROP-I",
+      "C": "Myoglobin > LDH = CKMB",
+      "D": "LDH > TROP-I > CK-MB > MYOGLOBIN"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 508,
+    "question_text": "A lady with S1Q3T3 Pattern on ECG.Best investigation of choice will be:",
+    "options": {
+      "A": "Ventilation perfusion test",
+      "B": "Pulmonary angiography (CTPA)",
+      "C": "Spiral CT",
+      "D": "ECG",
+      "E": "D-Dimers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 509,
+    "question_text": "An MRI of the chest and abdomen is performed on an elderly patient to evaluate for age-related changes. Calcifications are seen. Which of the following is a benign change associated with aging?",
+    "options": {
+      "A": "Aortic calcification",
+      "B": "Calcification of the coronary arteries",
+      "C": "Calcification of the mitral valve",
+      "D": "All of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 510,
+    "question_text": "A patient with a history of post-valvular stenosis is diagnosed with heart valve dysfunction. Which layer of the heart valve is most likely affected?",
+    "options": {
+      "A": "Ventricularis layer",
+      "B": "Fibrosa layer (collagen)",
+      "C": "Atrialis layer",
+      "D": "Spongiosa layer (elastic)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 511,
+    "question_text": "A patient presents with signs of digoxin toxicity. Which of the following ECG findings is most commonly associated with this condition?",
+    "options": {
+      "A": "Monophasic T waves",
+      "B": "ST segment depression",
+      "C": "Biphasic T waves",
+      "D": "Inverted T waves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 512,
+    "question_text": "Which ECG finding is most commonly associated with digoxin therapy?",
+    "options": {
+      "A": "Prolonged PR interval",
+      "B": "Wide QRS complex",
+      "C": "Inverted T waves",
+      "D": "Scooped or sagging ST segment"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 513,
+    "question_text": "In organophosphorus poisoning death occurs due to which of the following:",
+    "options": {
+      "A": "Cardiac arrhythmia",
+      "B": "Respiratory failure",
+      "C": "Kidney failure",
+      "D": "Hypovolemic shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 514,
+    "question_text": "Most common cause of non-Obstetrical maternal mortality in Pakistan is",
+    "options": {
+      "A": "HIV",
+      "B": "Hepatitis",
+      "C": "Asthma",
+      "D": "Tuberculosis",
+      "E": "Domestic Violence"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 515,
+    "question_text": "Diabetic pregnant mother has amputated her toe, first and second finger because they first turn red and then became black which of the following is likely cause of her amputation?",
+    "options": {
+      "A": "DM",
+      "B": "Atherosclerosis",
+      "C": "Moenckeberg medial calcific sclerosis",
+      "D": "Buerger Disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 516,
+    "question_text": "A patient with a history of myocardial infarction (MI) one month ago undergoes evaluation. Which of the following best describes the predominant histological finding at this stage of healing?",
+    "options": {
+      "A": "Fibrous scar formation",
+      "B": "Myocardial aneurysm",
+      "C": "Granulation tissue with inflammatory cells",
+      "D": "Coagulative necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 517,
+    "question_text": "What is the most important determinant of prognosis in Tetralogy of Fallot?",
+    "options": {
+      "A": "Overriding aorta",
+      "B": "Right ventricular hypertrophy",
+      "C": "Ventricular septal defect (VSD)",
+      "D": "Pulmonary infundibular stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 518,
+    "question_text": "Aortic stenosis leads to ventricular hypertrophy. The biosynthesis of which molecule is affected?",
+    "options": {
+      "A": "Elastin",
+      "B": "Collagen",
+      "C": "Myosin",
+      "D": "Fibrillin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 519,
+    "question_text": "TOF diagnosis made, what will be seen?",
+    "options": {
+      "A": "interatrial septal defect",
+      "B": "pulmonary infundibulum stenosis",
+      "C": "left ventricular hypertrophy",
+      "D": "Right ventricular hypertrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 520,
+    "question_text": "18 year old girl died suddenly and unexpectedly only headache history 2 Days back on autopsy lymphocytes in myocardium heart valve normal:",
+    "options": {
+      "A": "pericarditis",
+      "B": "Coxsackie",
+      "C": "Myocarditis",
+      "D": "Adeovirus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 521,
+    "question_text": "In mitral stenosis, when does the opening snap occur?",
+    "options": {
+      "A": "Beginning of diastole",
+      "B": "End of isovolumetric relaxation",
+      "C": "When atria contract during atrial systole",
+      "D": "Mid-diastole",
+      "E": "After S2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 522,
+    "question_text": "A patient has a pansystolic murmur, LVH, and atrial fibrillation. What is the most likely cause?",
+    "options": {
+      "A": "Mitral stenosis (MS)",
+      "B": "Mitral regurgitation (MR)",
+      "C": "Tricuspid stenosis (TS)",
+      "D": "Aortic regurgitation (AR)"
+    },
+    "correct_answer": "B"
+  }
+]

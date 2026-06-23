@@ -1,0 +1,3578 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Girl presented with palpitation & tachycardia with normal Sodium & K+ values:",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hyperaldosteronism",
+      "C": "Hyperthyroidism",
+      "D": "Pheochromocytoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Familial medullary carcinoma & history of hypertension:",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "Addison Disease",
+      "C": "Adrenal Crisis",
+      "D": "Essential HTN"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Vitamin D formation decreases in:",
+    "options": {
+      "A": "Acute Renal Failure",
+      "B": "Chronic Renal Failure",
+      "C": "Acute Liver Failure",
+      "D": "Acute metabolic disturbances"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "In hypothyroidism what will increase?",
+    "options": {
+      "A": "T3",
+      "B": "T4",
+      "C": "Both T3,T4",
+      "D": "TSH",
+      "E": "rT3"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Old male with weight loss & opacity in right lower lob with increase calcium & decrease phosphate diagnose is:",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Thyroid disorder",
+      "D": "Pituitary disorder"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Head Injury/Trauma leads to:",
+    "options": {
+      "A": "Central DI",
+      "B": "Nephrogenic DI",
+      "C": "Both",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Supraoptic nucleus damaged what will be the result?",
+    "options": {
+      "A": "Increase & Dilute Urine",
+      "B": "Decrease & Concentrated Urine",
+      "C": "Decrease urine Formation",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A middle aged woman with increased TSH, Low T3 and T4 and having overweight most likely due to:",
+    "options": {
+      "A": "Over eating",
+      "B": "Hypothyroidism",
+      "C": "Hyperthyroidism",
+      "D": "Hypopituitarism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A 60 years old known diabetic patient for last 20 years presented with rapidly progressive renal failure, most likely cause is:",
+    "options": {
+      "A": "Amyloidosis",
+      "B": "Diffuse glomerulosclerosis",
+      "C": "Kimmel stein wilson syndrome",
+      "D": "UTI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A patient with Decrease serum calcium, increase serum phosphate and decrease urinary calcium seen in:",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Hyperthyroidism",
+      "D": "Hypothyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Which function of the thyroid gland is best to check?",
+    "options": {
+      "A": "TSH",
+      "B": "T3",
+      "C": "T4",
+      "D": "rT3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Patient who is known case of Hypothyroidism which of the following will increase in the blood:",
+    "options": {
+      "A": "TSH",
+      "B": "T3",
+      "C": "T4",
+      "D": "Cholesterol"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Which of the following is laboratory finding in case of hyperthyroidism:",
+    "options": {
+      "A": "Increase TSH",
+      "B": "Increase T3",
+      "C": "Increase rT3",
+      "D": "Decrease T4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A patient presented with episodic hypertension, headache, diaphoresis & palpitations what could be the possible cause:",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "CRF",
+      "C": "Adrenal Tumour",
+      "D": "Renal Cell Carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Most common risk of giving systemic steroids to diabetic control:",
+    "options": {
+      "A": "Cataract",
+      "B": "Neuropathy",
+      "C": "Nephropathy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A 16 years old female presented with hypertension & increasing weight. Which of the following features would be most suggestive of cushing's syndrome rather than simple obesity:",
+    "options": {
+      "A": "Abdominal Striae",
+      "B": "Acanthosis Nigricans",
+      "C": "Buffalo Hump",
+      "D": "Moon Face"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Difference between dwarfism & cretinism, as the later has:",
+    "options": {
+      "A": "Less mental backwardness",
+      "B": "Severe mental backwardness",
+      "C": "More short stature",
+      "D": "Less short stature"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A patient with primary hyperthyroidism disease would most likely have decrease of which of the following?",
+    "options": {
+      "A": "TSH",
+      "B": "T3",
+      "C": "T4",
+      "D": "rT3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A patient with striae, weight gain, acne, and excessive facial hair has high ACTH. What is the cause?",
+    "options": {
+      "A": "Primary increased ACTH production",
+      "B": "Exogenous steroids",
+      "C": "Thyroid problem",
+      "D": "Decreased ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Vitamin D resistant Rickets causes which of the following:",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Malabsorption syndrome",
+      "C": "Fanconi syndrome",
+      "D": "Megaloblastic Anemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Investigation for Hashimotos thyroiditis include:",
+    "options": {
+      "A": "Anti thyroglobulin & anti TPO",
+      "B": "Anti T3",
+      "C": "TFTs",
+      "D": "Anti Thyroglobulin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "A man with moon face and skin pigmentation alongside a buffalo hump includes:",
+    "options": {
+      "A": "Increase FSH",
+      "B": "Increase MSH",
+      "C": "Increase LH",
+      "D": "Increase ACTH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A patient with osteoporosis, hormone involved would be:",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Chalciferol",
+      "C": "PTH",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "An 18y Male is brought to the hospital in an altered sensorium. He is taking slow, shallow breaths and his breath has a fruity smell. An ABG: pH=7.20, urine ketones +ve. What is the most probable diagnosis?",
+    "options": {
+      "A": "HONK",
+      "B": "DKA",
+      "C": "Septic Shock",
+      "D": "MI"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "A 45-year-old female presents with bone pain and parasthesia in the lower limbs. Her laboratory investigations were done and it showed Serum Calcium level: 2.60 mmol/L (2.10-2.65 mmol/L Normal), inorganic phosphates: 0.9mmol/L (0.8-1.9 mmol/L is Normal), ALP 385 IU/L (Normal: 120-365 IU/L) and the serum PTH levels were border-line raised: 6.1 (Normal: 1.5-6.0). What is the most likely diagnosis?",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Pseudo hyperparathyroidism",
+      "C": "Secondary hyperparathyroidism",
+      "D": "Primary hyperparathyroidism",
+      "E": "CRF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Graves ophthalmopathy true is:",
+    "options": {
+      "A": "Optic nerve compression",
+      "B": "Unilateral involvement",
+      "C": "Medial & lateral rectus muscle involved",
+      "D": "Affects orbicularis muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "In diabetic patient commonest complication is?",
+    "options": {
+      "A": "Necrosis",
+      "B": "Neuropathy",
+      "C": "Wet gangrene",
+      "D": "Apoptosis",
+      "E": "Infarction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A 40 year old female with no respiratory or cardiac problems, has swelling in front of the neck and feels difficulty with breathing while in supine position; this is due to:",
+    "options": {
+      "A": "Asthma",
+      "B": "Colloid goiter",
+      "C": "Follicular carcinoma of goiter",
+      "D": "Retrosternal goiter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Diabetic foot with ulceration and loss of sensation. The mechanism involved is:",
+    "options": {
+      "A": "Vasculopathy",
+      "B": "Neuropathy",
+      "C": "Nephropathy followed by Vasculopathy",
+      "D": "Vasculopathy followed by neuropathy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Supporting cells of pars nervosa:",
+    "options": {
+      "A": "Pituicytes",
+      "B": "Astrocytes",
+      "C": "Glial cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "A woman has hirsutism, hyperglycemia, and obesity, muscle wasting and increased circulating levels of adrenocorticotropic hormone. The most likely cause of her symptoms is:",
+    "options": {
+      "A": "Primary adrenocortical deficiency",
+      "B": "Pheochromocytoma",
+      "C": "Cushing Disease",
+      "D": "Treatment with exogenous glucocorticoids",
+      "E": "Hypophysectomy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Child with frontal bossing, bowed legs and locked knees. It is seen in:",
+    "options": {
+      "A": "Vitamin D deficiency",
+      "B": "Vitamin B deficiency",
+      "C": "Vitamin C deficiency",
+      "D": "Vitamin A deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Defect in anterior pituitary is indicated by:",
+    "options": {
+      "A": "Amenorrhoea",
+      "B": "Uterine atrophy",
+      "C": "Congenital adrenal hyperplasia",
+      "D": "Hisutism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A 6 year old girl presented in medical emergency in Unconscious state. She had a history of diarrhoea 3 days ago. Her breath was fruity and serum glucose was 456mg/dl. What is Diagnosis?",
+    "options": {
+      "A": "HONK",
+      "B": "Diabetes Mellitus",
+      "C": "Diabetic Keto-acidosis",
+      "D": "Renal Failure",
+      "E": "Parasitic Infection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "A female is worried about a lump in her breast. She also has family history of Ca breast. What is main risk factor in her?",
+    "options": {
+      "A": "BRCA-1",
+      "B": "Smoking",
+      "C": "HNPPC",
+      "D": "CA-125"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Which of the following is not characteristic of hypopituitarism?",
+    "options": {
+      "A": "Cachexia",
+      "B": "Infertility",
+      "C": "Pallor",
+      "D": "Low BMR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "In 15 year old boy medullary carcinoma of thyroid is considered familial because of:",
+    "options": {
+      "A": "Age",
+      "B": "Solitary",
+      "C": "Metastasis",
+      "D": "Increase secretion of hormone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Diabetic person with sensory abnormalities of foot developed ulcer of foot due to:",
+    "options": {
+      "A": "Microangiopathy",
+      "B": "Angiopathy and neuropathy",
+      "C": "Thrombosis",
+      "D": "Atherosclerosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Diabetic type 2 patient with increase urinary frequency, cause of urination?",
+    "options": {
+      "A": "Decrease reabsorption of glucose",
+      "B": "Increase reabsorption of water",
+      "C": "Fixed specific gravity of urine",
+      "D": "Decrease sensitivity of ADH on aquaporin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Most common cause of Fetal hypothyroidism:",
+    "options": {
+      "A": "Thyroid Dysgenesis",
+      "B": "Maternal Hypothyroidism",
+      "C": "Maternal IgG Crossing Placenta",
+      "D": "Maternal Iodine Deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Woman presented with headache, palpitations, hypertension and hyperglycemia. Examination ruled out DM. What can be the cause?",
+    "options": {
+      "A": "Insulin deficiency",
+      "B": "DKA",
+      "C": "Prolactin",
+      "D": "Catecholamines"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "A Male having hypercalcemia, hyperparathyroidism and gastric ulcers related to:",
+    "options": {
+      "A": "MEN1",
+      "B": "Primary hyperparathyroidism",
+      "C": "Zollinger Ellison Syndrome",
+      "D": "Addison's Disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Hypercalcemia is seen in malignancy which of following will be involved?",
+    "options": {
+      "A": "PTHrp",
+      "B": "Calcitonin",
+      "C": "Calcitonin like peptide",
+      "D": "ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Diabetic patient came to ER insulin given what change will happen in blood?",
+    "options": {
+      "A": "Increased K in blood",
+      "B": "Increased ketogenesis",
+      "C": "Increased PH",
+      "D": "Decrease PH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Pheochromocytoma has the following features except:",
+    "options": {
+      "A": "It is generally a benign tumour of adrenal medulla",
+      "B": "Hypertension is generally present",
+      "C": "It arises from embryonal nerve cells",
+      "D": "24-hour urinary measurement of catecholamine’s is diagnostic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Onset of puberty is due to:",
+    "options": {
+      "A": "Increased estrogen receptor on ovary",
+      "B": "Increased sensitivity of hypothalamus to estrogen",
+      "C": "Pulsatile GNRH from hypothalamus",
+      "D": "Increased progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Patient c/o tingling sensation post thyroidectomy due to thyroid cancer which of following is likely cause:",
+    "options": {
+      "A": "Cretinism",
+      "B": "Myxedema",
+      "C": "Tetany",
+      "D": "High PTH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A man of 35 years presents with large hands and feet, large protruding lower jaw and big nose. He also complains of partial loss of field of vision. His fasting blood glucose is 150mg/dl. His height is 5'-8\". His cortisol, ACTH and thyroid hormones levels are normal. He is most likely suffering from:",
+    "options": {
+      "A": "Cushing's syndrome",
+      "B": "Diabetes mellitus",
+      "C": "Acromegaly",
+      "D": "Gigantism",
+      "E": "Myxedema"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Testosterone lowest in:",
+    "options": {
+      "A": "Fetus",
+      "B": "Child",
+      "C": "Puberty",
+      "D": "Old age",
+      "E": "Preschool"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "27 years old woman presented with the complaints of weight gain, amenorrhoea and fatigue. Last year, she experienced a complicated delivery requiring a 2units of blood transfusion. She was unable to breastfeed. On examination she has dry skin and hypotension. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Conn disease",
+      "B": "Sheehan syndrome",
+      "C": "Addison syndrome",
+      "D": "Nelson syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Ca and Po4 balance maintained by:",
+    "options": {
+      "A": "PTH",
+      "B": "Calcitonin",
+      "C": "Aldosterone",
+      "D": "Angiotensin 2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Damage to adenohypophysis will lead to:",
+    "options": {
+      "A": "Zona glomerulosa effected",
+      "B": "Zona fasciculata effected",
+      "C": "Zona reticularis effected",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Patient presenting with complaint of increase heart rate, intolerance to heat and rapid weight loss within a short duration of time. After delayed investigation patient was diagnosed to have hyperthyroidism, which of the following will determine the diagnosis:",
+    "options": {
+      "A": "High T3",
+      "B": "High T4",
+      "C": "Low TSH",
+      "D": "Low Thyroxin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Calcitonin is released by tumor of which organ:",
+    "options": {
+      "A": "Parathyroid",
+      "B": "Adrenal",
+      "C": "Thyroid",
+      "D": "HCC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Which of the following organ increases in size in CRF?",
+    "options": {
+      "A": "Parathyroid gland",
+      "B": "Thyroid gland",
+      "C": "Spleen",
+      "D": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Patient presented with hypertension and hypokalaemia, cortisol and VMA normal, renin is decreased,aldosterone high. Patient is suffering from:",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Cushing disease",
+      "C": "Conns syndrome",
+      "D": "Addison's disease"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "70-year-old women fallen from bed and femur was fractured, radiograph shows signs of osteoporosis. What is the probable cause?",
+    "options": {
+      "A": "Decrease Blood Supply",
+      "B": "Decrease endocrine Activity",
+      "C": "Disuse Atrophy",
+      "D": "Decrease Nutrition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Adrenocortical insufficiency with increase urine sodium due to",
+    "options": {
+      "A": "Unable to reabsorb from tubules",
+      "B": "Problem in glomeruli",
+      "C": "Pump failure",
+      "D": "Increase sodium excretion because of raised GFR."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A lady presented with agalactorrhea, amenorrhea indication high levels of prolactin. Which of the following structure is affected?",
+    "options": {
+      "A": "Pituitary gland",
+      "B": "Hypothalamus",
+      "C": "Thyroid gland",
+      "D": "Adrenal gland",
+      "E": "Neurohypophysis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "A lady with history of mild sore throat infection died. Autopsy report shows bilateral adrenal gland enlargement and cortical hemorrhage. Most likely organism involved was:",
+    "options": {
+      "A": "N. Meningitis",
+      "B": "CMV",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Histoplasma",
+      "E": "S. Pneumoniae"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Patient with decreased neutrophil, increased lymphocytes and increased eosinophils, increased ACTH likely diagnoses:",
+    "options": {
+      "A": "Cushing syndromes",
+      "B": "Cushing disease",
+      "C": "Ectopic ACTH",
+      "D": "Leukemia",
+      "E": "Addison's Disease"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Slow growing thyroid tumor:",
+    "options": {
+      "A": "Papillary",
+      "B": "Folicular",
+      "C": "Medullary",
+      "D": "Anaplastic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A tall young girl (child) with history of anterior pituitary which cells are abundant?",
+    "options": {
+      "A": "Eosinophilic",
+      "B": "Basophilic",
+      "C": "Chromophobes",
+      "D": "Pituitocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "After adrenalectomy patient's desire of which of the following increases:",
+    "options": {
+      "A": "Glucose",
+      "B": "NaCl",
+      "C": "Potassium",
+      "D": "Lead"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Female swelling infront of neck. Hypothyroid Dr orders some immunological test. What is the diagnosis?",
+    "options": {
+      "A": "Hashimoto thyroiditis",
+      "B": "Lymphoma",
+      "C": "Subacute granulomatous thyroiditis",
+      "D": "Riedel thyroiditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Lady with loss of blood about 1500ml, after few weeks her serum ACTH level was low and later it was found that her adrenal gland size was reduced to 2 g (normal size 4-5) what is the cause?",
+    "options": {
+      "A": "Atrophy of Medulla",
+      "B": "Atrophy of cortex",
+      "C": "Exogenous steroid",
+      "D": "Hypertrophy of medulla"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "30 years old patent weigh 70 kg presents with blood pressure 140/90 mmHg, pulse 80 bpm, glucose 88%, urine glucose ++, Na 140 mmol/dl and K 2,4 mmol/dl, diagnosis:",
+    "options": {
+      "A": "Primary hyperaldosteronism",
+      "B": "Secondary hyperaldosteronism",
+      "C": "Addison's disease",
+      "D": "Cushing Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "A 4-year-old boy came with fracture of arm. His test reveals Ca 2+: 6.8 mg/dl, urinary Ca was 50, when BP cuff was applied he developed tetany, diagnosis??",
+    "options": {
+      "A": "Rickets",
+      "B": "Primary hypoparathyroidism",
+      "C": "Secondary hypoparathyroidism",
+      "D": "Tertiary hypoparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Myxedema is caused by:",
+    "options": {
+      "A": "Total lack of thyroid hormone",
+      "B": "Partial lack of thyroid hormone",
+      "C": "Lack of hypothalamic pituitary",
+      "D": "ADH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Diabetic gangrene due to:",
+    "options": {
+      "A": "Atheromas in arteries",
+      "B": "Always start as moist necrosis",
+      "C": "A/V fistula develop",
+      "D": "Large arteries are always responsible"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "T4 in the blood Mostly binds with which plasma protein?",
+    "options": {
+      "A": "TBG",
+      "B": "Thyroglobulin",
+      "C": "T3",
+      "D": "T4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Patient had hypocalcaemia and hyperphosphatemia, injection of PTH increased camp in kidney, cause is",
+    "options": {
+      "A": "Pseudo hypoparathyroidism",
+      "B": "Hyperparathyroidism after surgery",
+      "C": "Vit - D intoxication",
+      "D": "Vit - D deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "60 year male with fracture on X-ray osteoporosis is diagnosed, cause of osteoporosis in 60 years of age:",
+    "options": {
+      "A": "Nutritional deficiency",
+      "B": "Endocrinological disturbance/ hormonal insufficiency",
+      "C": "Disused",
+      "D": "Diminished blood supply"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Low level of estrogen with high level of FSH is seen in:",
+    "options": {
+      "A": "Primary hypogonadism",
+      "B": "Secondary hypogonadism",
+      "C": "Tertiary hypogonadism",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A patient has muscle tetanic contraction on 1st post-op day of thyroidectomy. This is due to:",
+    "options": {
+      "A": "Calcium excess",
+      "B": "Hyperparathyroidism",
+      "C": "Hypothyroidism",
+      "D": "Hypocalcemic Tetany"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Patient presented with Macroglossia, hyperglycemia, HTN which one is raised?",
+    "options": {
+      "A": "Corticotropes",
+      "B": "Somatotroph",
+      "C": "Prolactin",
+      "D": "TRH",
+      "E": "TSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Patient had head injury, after that her urine osmolarity is 70 and plasma osmolarity is 302, after giving vassopressin, urine osmolarity increased 3 fold plasma osmolarity decrease:",
+    "options": {
+      "A": "Central DI",
+      "B": "Nephrogenic DI",
+      "C": "SIADH",
+      "D": "Water deprivation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "In nephrogenic diabetes, what will occur?",
+    "options": {
+      "A": "Plasma osmolarity increase",
+      "B": "ECF osmolarity increase",
+      "C": "ECF volume increase",
+      "D": "ECF osmolarity decrease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "A known diabetic patient having poor control of blood sugar now develop edema due to:",
+    "options": {
+      "A": "High salt",
+      "B": "Low albumin",
+      "C": "Low BSR",
+      "D": "High oncotic pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "In diabetes insipidus the correct parameter would be:",
+    "options": {
+      "A": "Decrease plasma osmolarity",
+      "B": "No change in osmolarity of urine",
+      "C": "Decreased urine osmolarity",
+      "D": "Increase urine osmolarity",
+      "E": "Decrease Reabsorption from PCT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "The cause of increase ketone bodies in diabetic is due to:",
+    "options": {
+      "A": "Insulin deficiency",
+      "B": "Glucagon deficiency",
+      "C": "High T3 and T4",
+      "D": "Glucose deficiency",
+      "E": "Glucagon deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Addisons disease patient present in which emergency condition?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Coma",
+      "C": "Hypokalemia",
+      "D": "Hyponatremia",
+      "E": "B (Addisonian crisis)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Antibodies are produced in exophthalmos which is due to?",
+    "options": {
+      "A": "TSI",
+      "B": "Increase T3, T4",
+      "C": "Increase T3",
+      "D": "Increase bound form of T3, T4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Supraoptic nucleus lesion with loss of ADH will lead to:",
+    "options": {
+      "A": "High urine osmolarity",
+      "B": "More loss of water in urine and low osmolarity",
+      "C": "Less loss of water in urine",
+      "D": "Concentrated urine",
+      "E": "No effect on urine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Most common cause of Cushing syndrome?",
+    "options": {
+      "A": "Adrenal Adenoma",
+      "B": "Thyroid Adenoma",
+      "C": "Hepatic Adenoma",
+      "D": "Pituitary Adenoma",
+      "E": "Splenic Adenoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "In diabetes insipidus the correct parameter would be:",
+    "options": {
+      "A": "Decrease plasma osmolarity",
+      "B": "No change in osmolarity of urine",
+      "C": "Decreased urine osmolarity",
+      "D": "Increase urine osmolarity",
+      "E": "Decrease Reabsorption from PCT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Diabetic retinopathy affects which of the Following:",
+    "options": {
+      "A": "Veins",
+      "B": "Arteriole",
+      "C": "Venules",
+      "D": "Arteries",
+      "E": "Capillaries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Very poor prognosis shown by which Carcinoma:",
+    "options": {
+      "A": "Follicular CA",
+      "B": "Medullary",
+      "C": "Papillary",
+      "D": "Anaplastic",
+      "E": "Goiter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A Patient presented with history of head trauma his urine osmolarity was decreased and develops symptoms of polydipsia and polyuria ADH analogue given which increase urine osmolarity cause is:",
+    "options": {
+      "A": "Nephrogenic diabetes insipidus",
+      "B": "Central diabetes insipidus",
+      "C": "SIADH",
+      "D": "Psychogenic polydypsia",
+      "E": "Water Deprivation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A young thin lean boy with sign of tetany having blood Ca Level 6 (normal 8-9) and urine Excretion level is 50 (normal 24-300) What will be the cause?",
+    "options": {
+      "A": "Vitamin D deficiency",
+      "B": "Primary hypoparathyroidism",
+      "C": "CRF",
+      "D": "Hyperparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A patient with cold intolerance increase cholesterol TFTs shows increase TSH decrease t3 t4 upon giving TRH there was exaggerated elevation in TSH diagnose is:",
+    "options": {
+      "A": "Hyperthyroidism due to abnormality in pituitary",
+      "B": "Hypothyroidism due to abnormality in pancreas",
+      "C": "Hyperthyroidism due to abnormality in thyroid",
+      "D": "Hypothyroidism due to primary abnormality in hypothalamus",
+      "E": "Hyperthyroidism due to abnormality in hypothalamus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "PTH level does not change in:",
+    "options": {
+      "A": "Pseudohypoparathyroidism",
+      "B": "Osteoporosis",
+      "C": "Hypervitaminosis D",
+      "D": "Hypoparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A patient presented with episodic hypertension, headache, diaphoresis & palpitations and diagnosed as pheochromocytoma which will be less in the blood on lab report:",
+    "options": {
+      "A": "Pyruvate",
+      "B": "Lactate",
+      "C": "Fasting glucose",
+      "D": "Insulin",
+      "E": "Fatty acid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A man having joint pain and renal stones with high level of calcium, high PTH, normal PTHrp, low phosphate and micro hematuria this is related to which of following?",
+    "options": {
+      "A": "Pseudohypoparathyroidism",
+      "B": "Primary hyperparathyroidism",
+      "C": "Secondary hyperparathyroidism",
+      "D": "Vitamin D deficiency",
+      "E": "Myeloma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Patient is having Palpitation and episodic headache and diagnosed with pheochromocytoma on investigation Epinephrine metabolites are increased. Epinephrine influences carbohydrate metabolism by which mechanism?",
+    "options": {
+      "A": "Increased glycolysis",
+      "B": "Increased gluconeogenesis",
+      "C": "Increased glycogenolysis",
+      "D": "Decrease glycogenolysis",
+      "E": "Decrease glycolysis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Most common site of thyroglossal cyst:",
+    "options": {
+      "A": "Suprahyoid",
+      "B": "Midline",
+      "C": "Anterior triangle",
+      "D": "Posterior triangle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Hypocalcemic patient is developing tetany what can be the life threatening complication that can happen:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Osteopenia",
+      "C": "Laryngeal Spasm",
+      "D": "Hypotension"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Hypophysectomy done which cells will be effected?",
+    "options": {
+      "A": "Principle cells of thyroid",
+      "B": "Chief cells of parathyroid",
+      "C": "Principal cell of parathyroid",
+      "D": "Cells of Adrenal Medulla",
+      "E": "Beta Cells of Pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "45-year-old woman having weight loss with Increase T3 T4 Decrease TSH most likely diagnose is:",
+    "options": {
+      "A": "Primary Hyperthyroidism",
+      "B": "Primary Hypothyroidism",
+      "C": "Secondary Hyperthyroidism",
+      "D": "Tertiary Hyperthyroidism",
+      "E": "Primary Hyperparathyroidism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "A female presented with intense feeling of heat (hyperthermia) and her eyes were bulging outside (exophthalmos) and diagnose of Grave Disease made which of following associated with this condition?",
+    "options": {
+      "A": "Decrease HR",
+      "B": "Cold intolerance",
+      "C": "Increase O2 Consumption",
+      "D": "Increase TSH",
+      "E": "Decrease tri iodide"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Patient having CNS symptoms, high insulin, high C peptide, low glucose, what is the cause?",
+    "options": {
+      "A": "Menigioma",
+      "B": "DM",
+      "C": "Trauma",
+      "D": "Stress",
+      "E": "Insulinoma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Woman having presented with protruding jaw, swollen hands and feet, headache what is due to which of following adenoma?",
+    "options": {
+      "A": "Adenoma of acidophilic cells",
+      "B": "Adenoma of chromophobe cells",
+      "C": "Adenoma of adenohypophysis",
+      "D": "Adenoma of posterior pituitary",
+      "E": "Adenoma of basophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A patient having HbA1c 6.8 FBS 141. What is Interpretation?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Prediabetes",
+      "C": "HONK",
+      "D": "DKA",
+      "E": "A(Davidson)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "16-year-old with 15 year history of diabetes how to check long term glycemic control?",
+    "options": {
+      "A": "Fasting blood sugar",
+      "B": "Glycosylated hemoglobin",
+      "C": "Insulin level",
+      "D": "Glucagon level"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "A lady with hirsutism, hyperglycemia, HTN and increase ACTH what is the diagnosis?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Cushing disease",
+      "C": "Exogenous steroid use",
+      "D": "Hyperaldosteronism",
+      "E": "Cushing syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Follicular carcinoma characteristic feature:",
+    "options": {
+      "A": "Encapsulated",
+      "B": "Invades Capsule",
+      "C": "Invades capillaries",
+      "D": "Invades Arteries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A patient with HTN and on labs investigation VMA found in urine cause is:",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "CKD",
+      "C": "Adrenal adenoma",
+      "D": "Renal artery stenosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "In diabetic patient acidosis is due to:",
+    "options": {
+      "A": "Decrease H",
+      "B": "Decrease K",
+      "C": "Decrease Bicarbonate",
+      "D": "Decrease CO2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Gigantism is associated with:",
+    "options": {
+      "A": "Disproportionate growth of tissue",
+      "B": "Hyperkalemia",
+      "C": "Hypocalcaemia",
+      "D": "Hypophosphatemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "A DM patient with metabolic acidosis what will be seen?",
+    "options": {
+      "A": "Decrease PH",
+      "B": "Increase PH",
+      "C": "Increase HCO3",
+      "D": "Increase CO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "A person with skin pigmentation and central obesity he has acth level report that shows in decline pattern after dexamethasone test what's cause?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Cushing disease",
+      "C": "Exogenous steroid use",
+      "D": "Ectopic steroid production"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "A young female is complaining of weight loss for the last five months, she is also suffering from menorrhagia, blood pressure shows low levels of TSH, calcium and decrease phosphate likely diagnosis:",
+    "options": {
+      "A": "Primary hypothyroidism",
+      "B": "Secondary thyroidism",
+      "C": "Primary hyperthyroidism",
+      "D": "Secondary hyperthyroidism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Diagnostic test for pheochromocytoma:",
+    "options": {
+      "A": "Increase cortisol",
+      "B": "Dexamethasone suppression test",
+      "C": "VMA in urine",
+      "D": "Urine dipstick test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A female present with a lump in the midline of neck, hoarseness of voice, Dysphagia, and having diarrhea, calcitonin raised diagnosis:",
+    "options": {
+      "A": "Papillary thyroid carcinoma",
+      "B": "Medullary thyroid carcinoma",
+      "C": "Follicular thyroid cancer",
+      "D": "Hurtle cell cancer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A lady presented with Malar rash, Anemia, Thrombocytopenia & recurrent 4 abortions in Gynae OPD .Which Antibody should be tested for her condition?",
+    "options": {
+      "A": "Anti russel antibody",
+      "B": "Anti Cardiolipin antibody",
+      "C": "ANA",
+      "D": "Anti Smith"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Woman after cast applied develop pain red tender hot leg this is due to",
+    "options": {
+      "A": "Cellulitis",
+      "B": "Vasculutis",
+      "C": "Complex regional pain syndrome type 1",
+      "D": "Complex regional pain syndrome type 2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "An astronaut in space for very long time is at risk to develop which chronic problem?",
+    "options": {
+      "A": "Polycythemia",
+      "B": "Decrease lung compliance",
+      "C": "Bone demineralization",
+      "D": "Decrease surfactant",
+      "E": "C (Space shift osteopenia)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Low serum compliment is seen in which condition",
+    "options": {
+      "A": "SLE",
+      "B": "Ankylosing spondylitis",
+      "C": "Rheumatoid arthritis",
+      "D": "Multiple sclerosis",
+      "E": "Dermatomyositis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "40 year old man with back pain apple green birefringence & congo stain positive on damage to kidney is most likely suffering from?",
+    "options": {
+      "A": "SLE",
+      "B": "Multiple Myeloma",
+      "C": "RA",
+      "D": "Scleroderma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Increase VMA and catecholamine levels are seen in:",
+    "options": {
+      "A": "Tumors of adrenal medulla",
+      "B": "Tumors of renal parenchyma",
+      "C": "Tumors of adrenal cortex",
+      "D": "Pituitary adenomas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "One boy fell on grounds got fracture of arm tetany on checking bp Decrease serum calcium and normal urine calcium most likely cause:",
+    "options": {
+      "A": "Vit. D deficiency",
+      "B": "Primary hyperparathyroidism",
+      "C": "Secondary hyperparathyroidism",
+      "D": "Hypoparathyroidism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A patient swelling in neck, bilateral exophthalmos and antithyroid antibodies present likely due to:",
+    "options": {
+      "A": "Graves' disease",
+      "B": "Hashimoto's",
+      "C": "Goiter",
+      "D": "Thyrotoxicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Thyroidectomy performed after 10 days Patient presents with: Low calcium and exaggerated muscle activity High PO4 and low Ca and tetany",
+    "options": {
+      "A": "Primary hypoparathyroid",
+      "B": "Low Phosphate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Young women with puffy skin hoarseness of voice, her plasma TSH conc low, Inc. markedly when given TRH she probably has?",
+    "options": {
+      "A": "Hypothyroidism due to primary abnormality in pituitary",
+      "B": "Hypothyroidism due to abnormality in thyroid",
+      "C": "Hypothyroidism due to primary abnormality in hypothalamus",
+      "D": "Hyperthyroidism due to abnormality in pituitary",
+      "E": "Hyperthyroidism due to abnormality in hypothalamus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Low low increase on giving TRH hypotalamus problem",
+    "options": {
+      "A": "TSH high and Raised on giving TRH Thyroid Problem"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Peripheral neuropathy secondary to diabetes, what is defective?",
+    "options": {
+      "A": "Perineurium",
+      "B": "Endothelial cells",
+      "C": "Epineurium",
+      "D": "Endoneurium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Pituitary Tumors Associated with",
+    "options": {
+      "A": "MEN 1",
+      "B": "MEN 2A",
+      "C": "MEN 2B",
+      "D": "MEN 2C"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Prolactin induced hyperprolactinemia occur due to:",
+    "options": {
+      "A": "Increase dopamine",
+      "B": "Increase dopamine from hypothalamus",
+      "C": "Increase Cortisol",
+      "D": "Decrease Thyroxin",
+      "E": "B (BRS)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "A young man presented to you with the problem of no erection and gynecomastia due to increase of which hormones",
+    "options": {
+      "A": "Gonadotrophic releasing harmone",
+      "B": "Corticotrophic releasing hormone",
+      "C": "TRH",
+      "D": "Prolactin",
+      "E": "ACTH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "A 25 years old female complains of galactorrhea and secondary amenorrhea, her serum prolactin is 6000 with no other signs of compression what is likely diagnosis",
+    "options": {
+      "A": "Microprolactinoma",
+      "B": "Pituitary adenoma",
+      "C": "Macroprolactinoma",
+      "D": "Craniopharyngioma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "A patient having Thymoma with bilateral ptosis and proximal muscle weakness what test will help in diagnose?",
+    "options": {
+      "A": "Acetylcholine number",
+      "B": "Acetylcholine receptor antibodies",
+      "C": "Anti calcium channel antibodies",
+      "D": "Anti Sodium channel antibodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Female on steroid for 7 years came for tooth extraction. First to treat",
+    "options": {
+      "A": "Buffalo bump",
+      "B": "Moon face",
+      "C": "Hirtutism",
+      "D": "Hyperglycemia",
+      "E": "Mood changes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Propylthiouracil is the drug of choice in?",
+    "options": {
+      "A": "Graves disease with liver dysfunction",
+      "B": "Graves disease with sle",
+      "C": "Graves disease",
+      "D": "Graves disease in pregnancy",
+      "E": "A (Davidson)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Pregnant female came in 5th month of pregnancy with thyrotoxicosis which drug should be given?",
+    "options": {
+      "A": "PTU",
+      "B": "Methimazole",
+      "C": "Beta blocker",
+      "D": "Iodine",
+      "E": "Thyroxine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Medullary CA of thyroid spreads through?",
+    "options": {
+      "A": "Direct seeding",
+      "B": "Blood",
+      "C": "Lymph",
+      "D": "Capsular",
+      "E": "Lymphatic Spread"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Follicular CA feature is",
+    "options": {
+      "A": "Vascular invasion",
+      "B": "Psammoma bodies",
+      "C": "Lymphatic invasion",
+      "D": "Lymphatic Spread"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Initial test to differentiate b/w simple obesity & cushing Syndrome??",
+    "options": {
+      "A": "Aldosterone test",
+      "B": "24 hours urinary cortisol",
+      "C": "ACTH",
+      "D": "Dexamethasone suppression test"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Patient present with Anorexia, weight loss, abdominal pain, Sodium 130 Potassium 5.4 and Pigmentation most suitable diagnose is",
+    "options": {
+      "A": "Anorexia nervosa",
+      "B": "Addison disease",
+      "C": "Conn's syndrome",
+      "D": "Cushing syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "In PCOS what causes increase androgens?",
+    "options": {
+      "A": "Sertoli cells",
+      "B": "Inhibin",
+      "C": "LH",
+      "D": "FSH",
+      "E": "HCG"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Increase plasma calcium associated with?",
+    "options": {
+      "A": "Increase 25 dihydroxycholecalciferol",
+      "B": "Increase PTH",
+      "C": "Decrease PTH",
+      "D": "Increase Phosphate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "68 years old women with poor dietary habits and sedentary life style having fracture of femur neck most suitable cause is:",
+    "options": {
+      "A": "Postmenopausal Estrogen deficiency",
+      "B": "Decrease vitamins",
+      "C": "Sedentary life",
+      "D": "Rest",
+      "E": "Malnutrition"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A girl with polycystic ovarian syndrome which will have increased?",
+    "options": {
+      "A": "Insulin",
+      "B": "ACTH",
+      "C": "Growth hormones",
+      "D": "TSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "A patient present with HTN, Palpitation and Headache what what will be the findings",
+    "options": {
+      "A": "Increase cortisol",
+      "B": "Increase Glucogon",
+      "C": "VMA in urine",
+      "D": "Increase Proteins"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "A patient presented with increase in calcium phosphate due to which of the following?",
+    "options": {
+      "A": "Milk alkali syndrome",
+      "B": "Vitamin D toxicity",
+      "C": "Vitamin A toxicity",
+      "D": "RTA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Patient has developed multinodular goiter this is due to:",
+    "options": {
+      "A": "Free t3 t4",
+      "B": "Low t3 t4",
+      "C": "Fluctuating TSH",
+      "D": "Fluctuating LATS",
+      "E": "High T4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "In clinical setting 50males with increase BP what to check:",
+    "options": {
+      "A": "Ambulatory 24hr bp",
+      "B": "TSH",
+      "C": "Metanephrine",
+      "D": "Cortisol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Female patient presented with increased menstrual bleeding. Imaging shows endometrial hyperplasia. It is more likely due to excess of which hormone.",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progestrone",
+      "C": "LH",
+      "D": "FSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Feature of primary adrenal insufficiency is:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypertension",
+      "D": "Hypercalcemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Patient present with history of schizophrenia came with high prolactin >1000 what was its cause of its increase prolactin?",
+    "options": {
+      "A": "Microprolactinoma",
+      "B": "Macroprolactinoma",
+      "C": "Due to phenothiazine drug",
+      "D": "Stress"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A diabetic patient with type 4 Hyperlipidemia having Cholesterol 8mmol and triglyceride increased which among following best describes this",
+    "options": {
+      "A": "Apo A deficiency",
+      "B": "ApoB deficiency",
+      "C": "LPL deficiency",
+      "D": "LDL defective",
+      "E": "Insulin resistance"
+    },
+    "correct_answer": "E"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "30 years lady with weight loss for 3 months weakness and palpitations. Na 128 K 5.2,HCO32 and TSH 0.6 what is the cause",
+    "options": {
+      "A": "Iatrogenic",
+      "B": "Addison's",
+      "C": "Renal failure",
+      "D": "Diabetes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "35 years old male with type 1 diabetes had a fracture of forearm due to osteoporosis. The cause could be deficiency of",
+    "options": {
+      "A": "Insulin",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Glucagon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Patient is complaining of headache and nausea and taking anti depressant having low Sodium Likely cause",
+    "options": {
+      "A": "CCF",
+      "B": "Pulmonary edema",
+      "C": "Hyponatremia",
+      "D": "SIADH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "After Hypophysectomy which cells will be effected?",
+    "options": {
+      "A": "Follicular cells of thyroid",
+      "B": "Chief cells of parathyroid",
+      "C": "Principal cell of parathyroid",
+      "D": "Cells of Adrenal Medulla",
+      "E": "Beta Cells of Pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "A Patient presented with Bone pain and Fractures Labs show High Parathyroid hormone this is mostly raised in which of following",
+    "options": {
+      "A": "Cancer",
+      "B": "Pseudohypoparathyroidism",
+      "C": "Precocious puberty",
+      "D": "CCF",
+      "E": "Adrenal Failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Pregnant female had decrease level of T3 T4 and increase TSH. Lymphocytes are also found in aspirate.It is related to",
+    "options": {
+      "A": "Thyroid cancer",
+      "B": "Grave disease",
+      "C": "Thyroid storm",
+      "D": "Hashimoto",
+      "E": "Idiopathic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Most common complication of diabetes mellitus is",
+    "options": {
+      "A": "Dry gangrene",
+      "B": "Wet gangrene",
+      "C": "Gas gangrene",
+      "D": "Red infarction",
+      "E": "Caseous necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "32 years old female patient with very low cortisol what questions you will ask to know the cause of low cortisol",
+    "options": {
+      "A": "Taking OCP",
+      "B": "Taking steroid",
+      "C": "Taking Cortisol",
+      "D": "Taking GH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Hormone raised in acute Injury is",
+    "options": {
+      "A": "Thyroid hormone",
+      "B": "Epinephrine",
+      "C": "Cortisol",
+      "D": "Growth hormone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A patient presented with internal female genitalia, external male genitalia and shows adrenal cortical hyperplasia. Which of the following hormones is deficient?",
+    "options": {
+      "A": "11 beta hydroxylase",
+      "B": "17 hydroxylase",
+      "C": "21 alpha hydroxylase",
+      "D": "Aldolase"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Addisons disease patient present with which feature?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Hyperkalemia",
+      "C": "Hypokalemia",
+      "D": "Hyponatremia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "In Grave Disease Exophthalmos is due to",
+    "options": {
+      "A": "Increase TSI",
+      "B": "Increase T3 and T4",
+      "C": "Increase TSH",
+      "D": "Increase free thyroxine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "In Grave Disease Exophthalmos is due to deposition of",
+    "options": {
+      "A": "Glycosaminoglycan",
+      "B": "Increase T3",
+      "C": "Fats",
+      "D": "Proteins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Tumor marker of medullary carcinoma?",
+    "options": {
+      "A": "CEA",
+      "B": "AFP",
+      "C": "Calcitonin",
+      "D": "Beta HCG"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "If posterior pituitary is affected what will decrease:",
+    "options": {
+      "A": "GH",
+      "B": "Glucagon",
+      "C": "TSH",
+      "D": "ADH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Appropriate test for growth Hormone deficiency:",
+    "options": {
+      "A": "Fasting early morning GH",
+      "B": "2 hours Post prandial",
+      "C": "GHRH stimulation test",
+      "D": "Insulin suppression test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Female patient having weight gain feels sleepy her thyroid profile awaited ANA positive what is likely cause:",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "SLE",
+      "C": "Discoid lupus",
+      "D": "Rheumatoid arthritis",
+      "E": "DM"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Women with hyperthyroid feature with goitre. Diagnosed with iodine deficiency. Cause of deficiency?",
+    "options": {
+      "A": "Decrease intake in water and food",
+      "B": "Improper diet",
+      "C": "Defective absorption",
+      "D": "Increase absorption"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "What is likely cause of Secondary hyperaldosteronism:",
+    "options": {
+      "A": "ACTH",
+      "B": "CRH",
+      "C": "Cortisol",
+      "D": "Renin",
+      "E": "Ag2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Pregnant lady with decrease TSH, increase T3 + T4. Treatment in First trimester is:",
+    "options": {
+      "A": "Propranolol",
+      "B": "PTU",
+      "C": "Procaine",
+      "D": "Bupivacaine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Normotensive patient with hypomagnesemia, hypocalcemia, hypocalciuria, hypokalemia & increased renin angiotensin. Most likely diagnosis?",
+    "options": {
+      "A": "Liddle Syndrome",
+      "B": "Barter Syndrome",
+      "C": "Gitelman Syndrome",
+      "D": "Renal Tubular Acidosis",
+      "E": "Conn Syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Metabolic acidosis with normal anion gap is caused by",
+    "options": {
+      "A": "Acute salicylate poisoning",
+      "B": "Carbonic anhydrase inhibitor",
+      "C": "DKA",
+      "D": "Drowning",
+      "E": "Renal failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Hyperthyroid clinical signs are due to which on of following?",
+    "options": {
+      "A": "Increase oxygen requirement",
+      "B": "Increase lipolysis",
+      "C": "Increase carbohydrates absorption",
+      "D": "Increase proteolysis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Increase ADH causes:",
+    "options": {
+      "A": "High urine osmolarity, high plasma osmolarity",
+      "B": "High urine osmolarity than plasma osmolarity",
+      "C": "Low urine osmolarity than plasma osmolarity",
+      "D": "Low urine osmolarity, low plasma osmolarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "In hyperthyroidism Tachycardia is due to:",
+    "options": {
+      "A": "Adrenaline",
+      "B": "Cortisol",
+      "C": "Atropine",
+      "D": "GH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "A patient after CVA has loss of appetite to food and drink and tendency to throw cause of his Dec thirst is:",
+    "options": {
+      "A": "Vassopressin",
+      "B": "Stimulation of lateral hypothalamus",
+      "C": "Stimulation of medial hypothalamus",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "In a patient with Diabetes Insipidus (with complete absence of ADH) Daily GFR is 150 litres without treatment. His urine flow will be approximately",
+    "options": {
+      "A": "10L/day",
+      "B": "20L/day",
+      "C": "3L/day",
+      "D": "5L/day",
+      "E": "75L/day"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "A 30 years old female presented to OPD with excess hair growth, hypertension, hyperglycemia, hyperpigmentation, increased depression, edematous face, increased fat on chest & trunk, it's likely due to excess of:",
+    "options": {
+      "A": "Cortisol",
+      "B": "ACTH",
+      "C": "GNRH",
+      "D": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Antibodies in thyroid disease:",
+    "options": {
+      "A": "ANA",
+      "B": "Antithyroid receptor antibodies",
+      "C": "Antimitochondrial antibodies",
+      "D": "Lupus antibodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "C cell related to which one of following:",
+    "options": {
+      "A": "Lung Carcinoma",
+      "B": "Papillary CA of thyroid",
+      "C": "Medullary CA of thyroid",
+      "D": "HCC",
+      "E": "Prostate CA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Mineralocorticoid secreting tumor, serum finding will be:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypercalcemia",
+      "C": "Acidemia",
+      "D": "Hyperkalemia",
+      "E": "Hyponatremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "What is the initial test commonly used to differentiate between simple obesity and Cushing's syndrome?",
+    "options": {
+      "A": "Serum glucose tolerance test",
+      "B": "24 hour urinary cortisol test",
+      "C": "High dose Dexamethasone suppression test",
+      "D": "Serum cortisol levels",
+      "E": "Low dose Dexamethasone suppression test"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Hyperthyroid clinical signs are due to which on of following?",
+    "options": {
+      "A": "Increase oxygen requirement",
+      "B": "Increase lipolysis",
+      "C": "Increase carbohydrates absorption",
+      "D": "Increase proteolysis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "A patient has complaint of Polyuria but blood glucose level and ADH are normal cause is:",
+    "options": {
+      "A": "Nephrogenic DI",
+      "B": "Central diabetes insipidus",
+      "C": "SIADH",
+      "D": "ADH deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "In hyperthyroidism Tachycardia is due to:",
+    "options": {
+      "A": "Adrenaline",
+      "B": "Cortisol",
+      "C": "Atropine",
+      "D": "GH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A patient 7 year old boy presented in drowsiness His urine osmolarity 600 mosm, urea 15, Na 110 and K 3.4 likely cause is:",
+    "options": {
+      "A": "SIADH",
+      "B": "Dehydration",
+      "C": "Addisons disease",
+      "D": "Nephrogenic Diabetes insipidus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "A Patient after CVA has loss of appetite to food and drink and tendency to throw cause of his Dec thirst is:",
+    "options": {
+      "A": "Vassopressin",
+      "B": "Stimulation of lateral hypothalamus",
+      "C": "Stimulation of medial hypothalamus",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "A patient has episodic hypertension a d catecholamines tumors due to which cells involvement:",
+    "options": {
+      "A": "Zona fasiculata",
+      "B": "Zona glomerulosa",
+      "C": "Zona reticularis",
+      "D": "Chromaffin cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "A patient has Adrenal gland mass and Chatecholamine increase level this is likely:",
+    "options": {
+      "A": "Malignant medullary CA",
+      "B": "Benign medullary CA",
+      "C": "Diffuse hyperplasia",
+      "D": "Atrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "There is no edema due to inc aldosterone because of:",
+    "options": {
+      "A": "Increase Na/k activity of thick Ascending limb",
+      "B": "Decrease thirst mechanism",
+      "C": "Escape mechanism",
+      "D": "Increase ADH",
+      "E": "Decrease ANP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "25 Years Old Patient having depigmented Skin lesion on back, lips and cheeks, There is family history of Diabetes. What is suitable pathogenesis of this disease?",
+    "options": {
+      "A": "Local reaction",
+      "B": "Abnormal keratinocyte metabolism",
+      "C": "Genetic disease",
+      "D": "Autoimmune"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "A patient with Addison disease presented in emergency with which complication:",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Hypokalemic metabolic alkalosis",
+      "C": "Malignant HTN",
+      "D": "Hypercalcemic Paralysis",
+      "E": "Hyponatremia"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "11 years old boy having polydipsia, fatiguing hyperglycaemia. What is the diagnosis?",
+    "options": {
+      "A": "Non obese NIDDM due to insulin resistance",
+      "B": "Non obese NIDDM due to decreased insulin",
+      "C": "IDDM",
+      "D": "Diabetes insipidus p",
+      "E": "Mature onset diabetes of Young"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Characteristics of SIADH is:",
+    "options": {
+      "A": "Increase plasma osmolarity",
+      "B": "Hyperosmolar urine",
+      "C": "Decrease urine osmolarity",
+      "D": "Unchange plasma osmolarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Patient has complaint of Polyuria but blood glucose level and ADH are normal cause is:",
+    "options": {
+      "A": "Nephrogenic DI",
+      "B": "Central diabetes insipidus",
+      "C": "SIADH",
+      "D": "ADH deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "A 02 years old child presented with a midline swelling just below the hyoid bone. The swelling was noticed at 03 months of age and is slowly increasing in size, with no movements on protrusion of tongue, the condition most likely is:",
+    "options": {
+      "A": "Accessory thymic tissue",
+      "B": "Branchial cyst",
+      "C": "Craniophrangioma",
+      "D": "Ectopic thyroid gland",
+      "E": "Thyroglossal duct cyst"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Effect of giving T4 to girl with hypothyroidism is;",
+    "options": {
+      "A": "Decrease Respiratory rate",
+      "B": "Increase respiratory rate",
+      "C": "Increase Oxygen consumption",
+      "D": "Increase CO2 production"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Feature of mineralocorticoid tumor is:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypokalemia",
+      "C": "Hypertension",
+      "D": "Hyponatremia",
+      "E": "Hypercalcemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Ectopic thyroid hormone is realised by:",
+    "options": {
+      "A": "Carcinoma of stomach",
+      "B": "Small cell lung cancer",
+      "C": "Adenocarcinoma",
+      "D": "Carcinoma of bronchus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Potassium is 3meq/L due to increased:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Aldosterone",
+      "C": "GH",
+      "D": "TSH",
+      "E": "Glucagon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "In hyperthyroidism whic receptor will effect heart:",
+    "options": {
+      "A": "Alpha receptor",
+      "B": "Cardiac beta adrenergic",
+      "C": "Cardiac alpha",
+      "D": "M receptor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Post adrenalectomy patient died due to Deficiency of:",
+    "options": {
+      "A": "Norepinephrine",
+      "B": "Aldosterone",
+      "C": "Testosterone",
+      "D": "Epinephrine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A patient presented with severe metabolic alkalosis, BP was 190/110 (hypertension) and hypokalemia due to:",
+    "options": {
+      "A": "Addison's disease",
+      "B": "Increase aldosterone levels",
+      "C": "Adrenal hyperplasia",
+      "D": "Secondary hyperaldosteronism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "69 year old woman having fracture due to:",
+    "options": {
+      "A": "Decrease progesterone",
+      "B": "Decrease estrogen",
+      "C": "Increase Cortisol",
+      "D": "Decrease GH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Sentinel biopsy of axillary lymph node in a suspected breast cancer case is done to:",
+    "options": {
+      "A": "Avoid the axillary dissection",
+      "B": "Confirm the ultimate prognosis of disease",
+      "C": "To avoid metastasis",
+      "D": "To know metastasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Apatient has bradycardia and low bp. On investigation has low t3 t4 and increased tsh, how will you manage the patient?",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Propylthiouracil",
+      "C": "Methimazole",
+      "D": "Iodine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Absolute and only indication of thyroid scan in thyroid neoplasms is to detect?",
+    "options": {
+      "A": "Ectopic thyroid tissue",
+      "B": "Metastatic tumor rests",
+      "C": "Cold nodules",
+      "D": "Retrosternal extension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Which of the following is a feature associated with Cushing syndrome?",
+    "options": {
+      "A": "Blood glucose",
+      "B": "Muscle wasting",
+      "C": "Hypokalemia",
+      "D": "Hypotension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Due to Severe stress, what will Increase?",
+    "options": {
+      "A": "ACTH",
+      "B": "Cortisol",
+      "C": "Catecholamines",
+      "D": "Dopamine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Growth spurt at puberty due to Factor released from?",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Ant pituitary",
+      "C": "Posterior Hypothalamus",
+      "D": "Gonads"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Calcitonin is Released from:",
+    "options": {
+      "A": "Chief cells",
+      "B": "Follicular cells",
+      "C": "Parafollicular cells",
+      "D": "Chromaffin cells",
+      "E": "Tracheal ring"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "55 year old female with family history of diabetes having fasting sugar 156 & 161 on 2 occasions. She is Asymptomatic what should be done",
+    "options": {
+      "A": "Oral hypoglycemics",
+      "B": "Oral hypoglycemic+insulin",
+      "C": "Life style modifications(Weight Reduction+Diet Control)",
+      "D": "Only insulin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Hypocalcemia is associated with?",
+    "options": {
+      "A": "Myocardial Infarction",
+      "B": "Acidosis",
+      "C": "Hypomagnesemia",
+      "D": "Hyperparathyroidism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Na+/K+ Pump stimulated by:",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Glucagon",
+      "C": "GH",
+      "D": "Insulin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "On In utero study its revealed that there is absent vagina and testes with development of scrotum cause is",
+    "options": {
+      "A": "Increased LH",
+      "B": "Decreased Testosterone in mother",
+      "C": "Decreased Estrogen",
+      "D": "Testosterone producing tumour in mother"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "A female is worried about a lump in her breast. She also has family history of Ovarian carcinoma in her mother. What is main risk factor in her?",
+    "options": {
+      "A": "BRCA-1",
+      "B": "Smoking",
+      "C": "HNPPC",
+      "D": "CA-125",
+      "E": "MLH-2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Increased ionized calcium indicates?",
+    "options": {
+      "A": "Hypocalcaemia",
+      "B": "Parathyroid adenoma",
+      "C": "Pathological fracture",
+      "D": "Hypoparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "A26 year .old healthy woman with regular menstrual cycle was a passenger in bus which met an accident.She was uninjured but her husband and son died in ensuing years . her menses ceased and she had frequent nightmares about the accident the most likely reason for her amenorrhea is",
+    "options": {
+      "A": "Decrease CRH secretion",
+      "B": "Decrease dopamine secretion",
+      "C": "Increase CRH secretion",
+      "D": "Decrease growth harmone secretion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "A patient of follicular thyroid carcinoma, it will mainly metastasize to ?",
+    "options": {
+      "A": "Brain",
+      "B": "Vertebral column",
+      "C": "Lungs",
+      "D": "Liver",
+      "E": "Vertebrae"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Patient presented with single solitary nodule. On investigation oval nuclei seen it is",
+    "options": {
+      "A": "Medullary CA thyroid",
+      "B": "Follicular CA thyroid",
+      "C": "Papillary CA thyroid",
+      "D": "Anaplastic CA thyroid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "Nitrogen balance in acute abdominal surgery patient",
+    "options": {
+      "A": "Nitrogen loss is increase in burn patient as compared to major abdominal surgery",
+      "B": "Its by cortisol",
+      "C": "Nitrogen loss is increased in major abdominal surgery",
+      "D": "Its increase by GH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "A female Patient presented with complaint of increase heart rate, intolerance to heat with sweating. Moist hands & palms and diarrhea. Lab values are: Ca: Normal, PTH: Normal, Urine Normal, Phosphate: Normal. Which of the following can be the probable diagnosis?",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Hashimoto's thyroiditis",
+      "C": "De Quervain Thyroiditis",
+      "D": "Carcinoid Syndrome",
+      "E": "Thyrotoxicosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Female having tremors, Increased Heart rate & Rapid weight loss. Investigations will show:",
+    "options": {
+      "A": "Increased T3,T4 & Increased TSH",
+      "B": "Increased T3,T4 & Decreased TSH",
+      "C": "Decreased T3,T4 & Increased TSH",
+      "D": "Increased T3,T4 & Decreased TSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Pituitary tumor causes most commonly which of the following affect?",
+    "options": {
+      "A": "Increase Dopamine",
+      "B": "Increase Prolactin",
+      "C": "Decrease Prolactin",
+      "D": "Decrease Dopamine",
+      "E": "Decrease Glucagon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "A lady came into opd with raised bp and her serum electrolyte k 3.9 her sister also had the same complians in pregnancy. What can be the possible diagnosis?",
+    "options": {
+      "A": "Cushing disease",
+      "B": "Cushing syndrome",
+      "C": "Geller syndrome",
+      "D": "Sheehan syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "A pregnant lady has following Sugar levels On 1 h 6.4 mmol 2h 8.3 mmol 3h 7.2 mmol What is likely cause",
+    "options": {
+      "A": "Gestational diabetes",
+      "B": "Impaired glucose tolerance",
+      "C": "Diabetes",
+      "D": "Normal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "After how long HBA1C should be repeated to estimate long term control of blood sugar?",
+    "options": {
+      "A": "6 Months",
+      "B": "2 Months",
+      "C": "4 Months",
+      "D": "1 Month",
+      "E": "3 Months"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "In mineralocorticoid excess antagonist act on which site",
+    "options": {
+      "A": "PCT",
+      "B": "Against aldosterone receptor",
+      "C": "Against ADH receptor",
+      "D": "Loop of Henle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "A patient presented with Heat intolerance, Diarrhea on & off Associated with being anxious. On investigations, T3 & T4 Increased, TSH decreased & increased level of TSI. Diagnosis?",
+    "options": {
+      "A": "Hashimoto thyroiditis",
+      "B": "De Quervain thyroiditis",
+      "C": "Graves disease",
+      "D": "Reidel thyroiditis",
+      "E": "Hypothyroidism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "60 Years old lady presented with fracture of hip bone. Which supplement might be beneficial for the lady?",
+    "options": {
+      "A": "Ergocalciferol",
+      "B": "1,25(OH) 2 Cholecalciferol",
+      "C": "24,25 dihydroxycholecalciferol",
+      "D": "Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "In Cushing syndrome following occur",
+    "options": {
+      "A": "Lymphocytosis",
+      "B": "Neutropenia",
+      "C": "Eosinopenia",
+      "D": "Leukocytosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "A female patient presented with hirsutism, obesity and buffalo hump. She is diagnosed as Cushing syndrome . What other feature will be present",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hyperglycemia",
+      "C": "Hypoglycemia",
+      "D": "Decrease weight"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "60 Years old lady presented with fracture of hip bone. Which supplement might be beneficial for the lady?",
+    "options": {
+      "A": "Ergocalciferol",
+      "B": "1,25(OH) 2 Cholecalciferol",
+      "C": "24,25 dihydroxycholecalciferol",
+      "D": "Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Patient presented with single soliditery nodule. On investigation oval nuclei seen it is",
+    "options": {
+      "A": "Medullary CA thyroid",
+      "B": "Follicular CA thyroid",
+      "C": "Papillary CA thyroid",
+      "D": "Anaplastic CA thyroid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Which of the following will be Present in hypothyroid patient?",
+    "options": {
+      "A": "Weight loss",
+      "B": "Heat Intolerance",
+      "C": "Protein Loss",
+      "D": "Increase Cholesterol",
+      "E": "Increased Lipolysis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Antibodies are produced in exophthalmos which is due to?",
+    "options": {
+      "A": "TSI",
+      "B": "Increase T3, T4",
+      "C": "Increase T3",
+      "D": "Increase bound form of T3, T4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Patient having Congestive cardiac failure. Secondary hyperaldosteronism is caused by:",
+    "options": {
+      "A": "Angiotensin 2",
+      "B": "Renin",
+      "C": "ADH",
+      "D": "Cortisol",
+      "E": "ACTH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Cushing Disease",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hypertension",
+      "C": "Hyperkalemia",
+      "D": "Increase pigmentation of skin",
+      "E": "Moon faces"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Female having cold intolerance & Rapid weight gain. Investigations will show:",
+    "options": {
+      "A": "Increased T3,T4 & Increased TSH",
+      "B": "Increased T3,T4 & Decreased TSH",
+      "C": "Decreased T3,T4 & Increased TSH",
+      "D": "Increased T3,T4 & Decreased TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Increased Pigmentation in skin is associated with:",
+    "options": {
+      "A": "ACTH",
+      "B": "Cortisol",
+      "C": "GH",
+      "D": "TSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Which one is a feature of Cushing syndrome?",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Muscle wasting",
+      "C": "Hyperkalemia",
+      "D": "Hypotension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A patient presents with myxedema. Which of the following findings would you most likely observe in this patient?",
+    "options": {
+      "A": "Hypocholesterolemia",
+      "B": "Hypercholesterolemia",
+      "C": "Sweating",
+      "D": "Hyperglycemia",
+      "E": "Tachycardia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "An old woman with short height, Peri-Oral Anesthesia, Tingling Sensations, having blood Ca Level 6 (normal 8-9), Low Phosphate, High PTH, Raised ALP & Normal Creatinine. What will be the cause?",
+    "options": {
+      "A": "Vitamin D deficiency",
+      "B": "Primary hypoparathyroidism",
+      "C": "Secondary Hyperparathyroidism",
+      "D": "Primary Hyperparathyroidism",
+      "E": "Malabsorption"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Mass Left to Midline in neck, diagnosed as a firm cold nodule with normal adjacent surroundings & Thyroid function abnormal. It is:",
+    "options": {
+      "A": "Thyroglossal Duct cyst",
+      "B": "Papillary Carcinoma",
+      "C": "Follicular Adenoma",
+      "D": "Medullary Carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Patient had a stroke followed by loss of appetite and thirst and was throwing things around Loss of thirst is due to increase in?",
+    "options": {
+      "A": "Vasopressin",
+      "B": "Stimulation of Lateral hypothalamus",
+      "C": "Angiotensin 2",
+      "D": "Stimulation of Medial Hypothalamus",
+      "E": "Increased Extracellular Volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Earliest of all , indicator of low ca level in the body is",
+    "options": {
+      "A": "Ca+ level",
+      "B": "Tetany",
+      "C": "Chronic renal failure",
+      "D": "25 Vitamin D3 level",
+      "E": "Pathological fracture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "A patient presents with heat intolerance, weight loss, and laboratory findings showing elevated TSH and TRH levels. What is the most likely diagnosis?",
+    "options": {
+      "A": "Grave's disease",
+      "B": "Primary thyrotoxicosis",
+      "C": "Tumor of the hypothalamus",
+      "D": "Tumor of the pituitary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "A 50 years old patient had complaint of macroglossia, hyperglycemia and polyuria. MRI shows Tumor of pituitary gland. Which type of group is involved in the origin of this tumour ?",
+    "options": {
+      "A": "Thyrotrophs",
+      "B": "Somatotrophs",
+      "C": "Corticotrophs",
+      "D": "Gonadotrophs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "A thin lean child presents with low calcium levels and phosphate levels at the upper limit of normal (0.9 mmol/L). What should be checked in the serum to confirm the diagnosis?",
+    "options": {
+      "A": "Parathyroid Hormone (PTH)",
+      "B": "Albumin",
+      "C": "Vitamin D",
+      "D": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Patient know case of hypothyroidism taking levothyroxine 50mg 2 tablets before breakfast. Now he presented with his symptoms coming back including Cold intolerance & Constipation. What will you check now?",
+    "options": {
+      "A": "TSH",
+      "B": "T3",
+      "C": "T4",
+      "D": "TSI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "1, 25(OH)2 regulated by:",
+    "options": {
+      "A": "Calcium",
+      "B": "Phosphate",
+      "C": "PTH",
+      "D": "Cortisol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "A patient swelling in neck, bilateral Exophthalmos. Antibodies against:",
+    "options": {
+      "A": "Thyroid Receptors",
+      "B": "Thyroid Gland",
+      "C": "TSH",
+      "D": "Anti-TPO"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A 45-year-old female presents with bone pain and parasthesia in the lower limbs. Her laboratory investigations were done and it showed Serum Calcium level: 2.60 & High inorganic phosphates and the serum PTH levels were border- line raised. PTH given but no increase in phosphate levels. Diagnosis?",
+    "options": {
+      "A": "Primary hyperparathyroidism",
+      "B": "Pseudo hyperparathyroidism",
+      "C": "Secondary hyperparathyroidism",
+      "D": "Tertiary hyperparathyroidism",
+      "E": "CRF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "A woman presents with cold intolerance, a symptom suggestive of hypothyroidism. Which test should be performed to confirm the diagnosis of hypothyroidism?",
+    "options": {
+      "A": "ACTH",
+      "B": "Thyroid Profile",
+      "C": "TSH",
+      "D": "Calcitonin",
+      "E": "Iodine level"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "A patient with an XX karyotype presents to the outpatient department (OPD). On examination, the external genitalia appear male, while an ultrasound reveals the presence of a uterus and ovaries. Laboratory findings show serum sodium (Na) at 135 mEq/L and evidence of adrenal hyperplasia. Which enzyme deficiency is most likely responsible for this presentation?",
+    "options": {
+      "A": "21- hydroxylase deficiency",
+      "B": "11β- hydroxylase deficiency",
+      "C": "17α- hydroxylase deficiency",
+      "D": "Aromatase deficiency",
+      "E": "Müllerian inhibiting substance deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Which of the following hormones has the greatest effect on muscle strength & Cause Musele hypertrophy?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Prolactin",
+      "C": "Testosterone",
+      "D": "Estradiol",
+      "E": "Dihydrotestosterone (DHT)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Which of the following is clinical manifestation of cushing syndrome",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hypoglycemia",
+      "C": "Muscle wasting",
+      "D": "Hypertonia",
+      "E": "Acne and hirsutism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Patient presents with weight loss, palpitation, heat intolerance, diarrhea on lab investigation what will be low",
+    "options": {
+      "A": "ACTH",
+      "B": "Reverse T3",
+      "C": "Bound T3",
+      "D": "Free T3",
+      "E": "Free T4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "A 20-year-old female presented with right sided cervical lymphadenopathy. She was completely asymptomatic. Histological examination reveals a metastatic tumor. The most likely primary carcinoma thyroid in this patient is:",
+    "options": {
+      "A": "Anaplastic carcinoma",
+      "B": "Follicular carcinoma",
+      "C": "Medullary carcinoma",
+      "D": "Papillary carcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Patient presented with Fatigue & Hypotension. O/E, Skin pigmentation is visible. Investigation reveal: Aldosterone Decreased ,Cortisol ↓,ACTH ↑ Decreased Na+ and Increased K+",
+    "options": {
+      "A": "Adenoma of Adrenal Cortex",
+      "B": "Autoimmune destruction of Adrenal cortex",
+      "C": "Hyperplasia of adrenal cortex",
+      "D": "Malignant Tumour of Medulla"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "A patient presented with Fatigue, Headache, Ptosis & Weakness. Investigations reveal T3= 0.2 ug/dL, Free T4= 0.1 ug/dL, TSH= 0.4. ug/dL. Increased Catchecholamines and Increased FSH/LH. Most suitable diagnosis:",
+    "options": {
+      "A": "Hypothalamic Hemorrhage/Thrombosis",
+      "B": "Hypopituitarism due to AIDS",
+      "C": "Pituitary Tumour",
+      "D": "Pituitary apoplexy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Which the following inhibit insulin secretion",
+    "options": {
+      "A": "Glucagon",
+      "B": "Secretin",
+      "C": "Beta adrenergic antagonist",
+      "D": "Hyperglycemia",
+      "E": "Beta agonist"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "A 30y old male patient present history of thyroidectomy few years back now he present with laboratory findings which includes increase calcium low PTH levels and increase PTH which increase which of the following condition she is suffering from",
+    "options": {
+      "A": "Primary hyperparathyroidism",
+      "B": "Secondary hyperparathyroidism",
+      "C": "Vitamin D toxicity",
+      "D": "Pseudohypoparathyroidism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "A 30 year old male patient was present loss ,palpitations on investigations TSH was low and T4 was raised thyroid biopsy shows overlapping nuclei and pinkish pushed there was overlapping nuclei and pushed up to periphery these histological features shows which of the following",
+    "options": {
+      "A": "Thyroid adenoma",
+      "B": "Hashimoto thyroiditis",
+      "C": "Medullary carcinoma",
+      "D": "Follicle filled with colloid",
+      "E": "Papillary carcinoma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "19-year- old girl presents with a lack of height increase (4 feet 2 inches) after puberty. She has a normal blood profile and blood sugar levels, with no other issues. Which hormonal abnormality is most likely to be observed?",
+    "options": {
+      "A": "Increased Somatostatin",
+      "B": "Decreased IGF- 1",
+      "C": "Deranged T3 & T4",
+      "D": "Increased Insulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "After thyroid surgery patient presents with carpopedal spasm and dec calcium most likely cause is",
+    "options": {
+      "A": "Iatrogenic hypoparathyroidism",
+      "B": "Tetanus",
+      "C": "Secondary hypoparathyroidism",
+      "D": "Pseudohypoparathyroidism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "A Patient presented with midline neck mass & weight loss. Microscopy shows prominent Nucleoli & increase nuclei size and eosinophila Most probable diagnosis?",
+    "options": {
+      "A": "Anaplastic Carcinoma",
+      "B": "Papillary Carcinoma",
+      "C": "Follicular Carcinoma",
+      "D": "Hurthle adenoma",
+      "E": "Medullary carcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "A mother brings her young infant her mother gave history that he is Lethargic and not tolerating breastfeed and slow development since birth Which of the following lab tests would you like to perform",
+    "options": {
+      "A": "TSH and urinary chromatography",
+      "B": "Thyroid Function Test",
+      "C": "Urinary light chromatography",
+      "D": "Radioimmuno-essay",
+      "E": "TSH with calorimeter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "27 years old woman presented with the complaints of weight gain, amenorrhoea and fatigue. Last year, she experienced a complicated delivery requiring a 2units of blood transfusion. She was unable to breastfeed. On examination she has dry skin and hypotension. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Conn disease",
+      "B": "Panhypopituitarism",
+      "C": "Addison syndrome",
+      "D": "Nelson syndrome",
+      "E": "Pituitary adenoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "A patient swelling in neck, bilateral Exophthalmos. Antibodies against:",
+    "options": {
+      "A": "Thyroid Receptors",
+      "B": "Thyroid Gland",
+      "C": "TSI",
+      "D": "Anti-TPO"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "A patient has diagnosed Prolactinoma. She has now menstrual cycle' irregularity due to?",
+    "options": {
+      "A": "Decreased GnRH",
+      "B": "Decreased FSH & LH",
+      "C": "Decreased Dopamine Secretion",
+      "D": "Inadequate prolactin from Hypothalamus",
+      "E": "Due to pressure on gonadotrophs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "2 Kids have history of staying at home mostly & away from sunlight.What will be decreased?",
+    "options": {
+      "A": "25-Hydroxycholecalciferol",
+      "B": "Calcium",
+      "C": "1,25 dihydroxycholecalciferol",
+      "D": "Phosphate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Medullary carcinoma spreads via which of the following route",
+    "options": {
+      "A": "lymphatics",
+      "B": "Vascular route",
+      "C": "Direct invasion of adjacent tissue",
+      "D": "Perineural spread"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Which of the following cancer is most commonly associated with hyperthyroidism",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Small cell carcinoma",
+      "C": "Large cell carcinoma",
+      "D": "Adenocarcinoma",
+      "E": "Metastatic carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "A patient present with signs and symptoms of hyperthyroidism On histopathology there are by an increased number of thyroid follicles,reduced cytoplasm and a vacuolated appearance",
+    "options": {
+      "A": "Thyroid carcinoma",
+      "B": "Thyroid adenoma",
+      "C": "Hashimoto thyroiditis",
+      "D": "Graves' disease"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "55 year old female with history of chronic renal secretory disorder has been receiving long term treatment of steroid present in OPD with complain of dizziness ,fatigue ,weakness and decrease wound healing which of the following is responsible for her symptoms",
+    "options": {
+      "A": "ACTH",
+      "B": "Glucocorticoid",
+      "C": "Mineralocorticoid",
+      "D": "ADH",
+      "E": "Androgens"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "A women underwent cholecystectomy, after which her pulse increased, thyroid function test revealed that low TSH, low T3 AND T4 slightly increased which of the following is most likely diagnosis",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Hyperthyroidism",
+      "C": "Subclinical thyroid",
+      "D": "Sick euthyroid syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "In which of the following conditions, Parathyroid hormone remains normal",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "CRF",
+      "C": "Parathyroid adenoma",
+      "D": "Pseudohypoparathyroidism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "A patient presented with metabolic alkalosis, BP was 150/90 (hypertension) and serum Na 150 meq/ L and potassium was 3 meq/L there is increased aldosterone level in his blood:",
+    "options": {
+      "A": "Addison's disease",
+      "B": "Primary hyperaldosteronism",
+      "C": "Adrenal hyperplasia",
+      "D": "Secondary hyperaldosteronism",
+      "E": "Primary hyperparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Which of the following metabolite of Vitamin D is used for laboratory assessment",
+    "options": {
+      "A": "1,25 Vit. D3",
+      "B": "24,25 Cholecalciferol",
+      "C": "Vitamin D2",
+      "D": "25 hydroxylase (OH)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Vitamin D regulated by:",
+    "options": {
+      "A": "PTH",
+      "B": "25 hydroxycholecalciferol",
+      "C": "PO4 Levels",
+      "D": "Calcium",
+      "E": "Calcitonin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Vitamin D status assessed by Which of the following metabolite?",
+    "options": {
+      "A": "25 OH cholecalciferol",
+      "B": "1,25 Vit. D3",
+      "C": "24,25 Cholecalciferol",
+      "D": "Calcium",
+      "E": "1 OH Calciferol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Raised ACTH Will Lead to:",
+    "options": {
+      "A": "Hypercholesterolemia",
+      "B": "Hyperpigmentation",
+      "C": "Hypoglycemia",
+      "D": "Weight Loss",
+      "E": "Ketogenesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "A patient having bacterial infection suffer of DM having increase neutrophil decrease lymphocyte decrease eosinophils which of following condition is likely:",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Addison disease",
+      "C": "Conns' Syndrome",
+      "D": "Pheochromocytome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Patient develop sudden severe headache accompanying with palpitations anxiety and sweating during the episode her bp was 200/140 pulse was 56 beats/ min and serum K was 3.4 meq/L . Excess of which hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Angiotensin 2",
+      "C": "Nor epinephrine",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "A patient presented with hyperglycemia, increase lymphocytes and eosinophils due to?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Diabetes Mellitus",
+      "C": "Addison disease",
+      "D": "Hypertension"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "A woman of 40 Years of age present with feelings of being lethargic & tired for 3 months.She has history of weight loss & Diarrhea as well. What investigation will u do?",
+    "options": {
+      "A": "ACTH",
+      "B": "Calcitonin",
+      "C": "MSH & T4",
+      "D": "TSH & Free T4",
+      "E": "TRH & GnRH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "A patient experiences muscle pain and stiffness ten days after thyroidectomy what could be the cause?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypercalcemia",
+      "C": "Hypomagnesemia",
+      "D": "Hypokalemia",
+      "E": "Hypocalcemia"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Female with milky discharge from nipples. On CT scan, a very small microprolactinoma was found. She also developed amenorrhea and infertility. Cause is?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Pressure effects on FSH and LH cells of pituitary",
+      "C": "Decreased Gonadotrophin releasing hormone",
+      "D": "Increased FSH and LH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "A 12-year-old child came to opd he seems to be 7 years old. He has mental retardation cause of this abnormality is",
+    "options": {
+      "A": "Thyroid hormone",
+      "B": "Growth Hormone",
+      "C": "Adrenal insufficiency",
+      "D": "Cushing's syndrome",
+      "E": "Vitamin D deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "First initial management for DKA?",
+    "options": {
+      "A": "IV insulin +Normal saline",
+      "B": "Oxygen inhalation",
+      "C": "Bicarbonate administration",
+      "D": "Diuretic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "A male presents with impaired erections and feels ashamed of his enlarged breasts. What is the most likely cause?",
+    "options": {
+      "A": "Excessive GnRH",
+      "B": "Increased melatonin production",
+      "C": "Increased growth hormone (GH)",
+      "D": "Excessive corticotropin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "A 50 years old patient had complaint of macroglossia, hyperglycemia and polyuria. MRI shows Tumor of pituitary gland. Which type of group is involved in the origin of this tumour ?",
+    "options": {
+      "A": "Thyrotrophs",
+      "B": "Somatotrophs",
+      "C": "Corticotrophs",
+      "D": "Gonadotrophs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "A patient presents with hyponatremia and a history of a car accident followed by spleen surgery. What could be the most likely cause of the hyponatremia?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Cortisol",
+      "C": "Central DI",
+      "D": "SIADH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Man with DKA, ketones in urine, what will be diagnostic?",
+    "options": {
+      "A": "Increased glucose in urine, increase ketone bodies in urine",
+      "B": "Increased glucose with increased albumin in urine",
+      "C": "Increased Blood glucose with increased ketones in urine",
+      "D": "Increased blood glucose with decreased ketones in urine",
+      "E": "Decreased Blood glucose with increased ketones in urine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "A patient presents with episodic hypertension due to cell damage in the adrenal gland. Which cell or region are primarily affected?",
+    "options": {
+      "A": "Zona fasciculata",
+      "B": "Zona glomerulosa",
+      "C": "Zona reticularis",
+      "D": "Chromaffin cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "A man with Type 1 Diabetes missed his insulin doses for 2 days and presented to the Emergency Room in a drowsy state, showing signs of Diabetic Ketoacidosis (DKA).Which hormone deficiency is primarily responsible for his condition?",
+    "options": {
+      "A": "Insulin",
+      "B": "Cortisol",
+      "C": "Aldosterone",
+      "D": "NorEpinephrine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Screening tool for diabetic peripheral neuropathy:",
+    "options": {
+      "A": "6 minute walk test",
+      "B": "capillary refill time",
+      "C": "ankle brachial reflex",
+      "D": "Monofilament testing",
+      "E": "Two point discrimination"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "If glucose is less than 80mg what will be released in body in response",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "ADH",
+      "E": "Aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "56 year old man present with confusion ,headache and nausea On examination bp was 130/85mmhg and HR is 88bpm lab findings shows plasma osmolarity was 300 urine osmolarity was 1200",
+    "options": {
+      "A": "SIADH",
+      "B": "DI",
+      "C": "hyperaldosteronism",
+      "D": "Acute renal failure",
+      "E": "water deprivation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "What is true about Melatonin",
+    "options": {
+      "A": "Causes pigmentation",
+      "B": "Derived from serotonin",
+      "C": "Released in morning",
+      "D": "Causes ovulation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Female presented with complains of severe headache & uncontrolled hypertension. Labs show K 3.4mEq/L.Most probable cause is",
+    "options": {
+      "A": "Conn Syndrome",
+      "B": "Pheochromocytoma",
+      "C": "Addison disease",
+      "D": "Cushing Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "A patient present in OPD with complain of constipation ,weight gain ,lactating problems and dry skin and hairs",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Pan hypopituitism",
+      "C": "Hyperthyroidism",
+      "D": "Hyperpituitism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "XX karyotype patient present in opd On examination external genitalia of male on ultrasound uterus and ovaries were present lab findings was Na 135 and there is adrenal hyperplasia which enzyme is deficient",
+    "options": {
+      "A": "21 hydroxylase deficiency",
+      "B": "11beta hydroxylase deficiency",
+      "C": "17 hydroxylase deficiency",
+      "D": "5-alpha reductase deficiency",
+      "E": "Mullarian inhibitor deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "A 60-year-old businessman is evaluated by physician for his high BP which was 180/130. His plasma aldosterone level is high. On imaging there was small adrenal medulla which of the following is commonly associated with",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperkalemia",
+      "C": "Hypoglycemia",
+      "D": "Hypercalcemia",
+      "E": "Hypocalcemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "A patient Known case of thyroid disease being treated with Propylthiouracil (PTU) presents with fever ,which of the following investigation you will order",
+    "options": {
+      "A": "Bone marrow biopsy",
+      "B": "TFTs",
+      "C": "Blood culture",
+      "D": "CBC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "A female lady diagnosed case of Sheehan syndrome now present in OPD with light headache, dizziness, anxiety these symptoms are due to which of the following harmone",
+    "options": {
+      "A": "ACTH",
+      "B": "TSH",
+      "C": "FSH",
+      "D": "LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "A patient with hypothyroidism on thyroxine therapy comes for follow-up. What is the best investigation to assess thyroid function?",
+    "options": {
+      "A": "Serum T3",
+      "B": "Serum T4",
+      "C": "Thyroid scan",
+      "D": "Serum TSH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "bone pain and paresthesia in the lower limbs. Her laboratory investigations were done and it showed Serum Calcium level: 2.60 mmol/L (2.10-2.65 mmol/L Normal). inorganic phosphates: 0.9mmol/L (0.8-1.9 mmol/ L is Normal). ALP 385 IU/L (Normal: 120-365 IU/L) and the serum PTH levels were border-line raised; 6.1 (Normal: 1.5-6.0). What is the most likely diagnosis?(Medicine Feb 2025)",
+    "options": {
+      "A": "Primary hyperparathyroidism",
+      "B": "Pseudo hyperparathyroidism",
+      "C": "Secondary hyperparathyroidism",
+      "D": "Tertiary hyperparathyroidism",
+      "E": "A (Golijan)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Which of the following tests is most helpful in diagnosing Graves' disease, an autoimmune condition causing hyperthyroidism?(Medicine Feb 2025)",
+    "options": {
+      "A": "Serum T3 level",
+      "B": "Serum T4 level",
+      "C": "Anti-TSH receptor antibodies (TRAb)",
+      "D": "TSH level",
+      "E": "Anti-ACh receptor antibodies"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "A patient with hyperthyroidism has already started treatment and is due for a follow-up. Which of the following tests is most appropriate for monitoring the effectiveness of treatment?(Surgery Feb 2025)",
+    "options": {
+      "A": "Thyroid peroxidase antibodies (TPO)",
+      "B": "Free triiodothyronine (FT3)",
+      "C": "Thyroid-stimulating hormone (TSH)",
+      "D": "Free thyroxine (FT4)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Investigation for Hashimotos thyroiditis include(Surgery Feb 2025)",
+    "options": {
+      "A": "Anti thyroglobulin & anti TPO",
+      "B": "Anti T3",
+      "C": "TFTs",
+      "D": "Anti Thyroglobulin",
+      "E": "A(FA+Pathoma)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "A patient with Sheehan syndrome presents with dizziness, fatigue, and tiredness. Which hormone deficiency is primarily responsible for these symptoms?(Radiology Feb 2025)",
+    "options": {
+      "A": "TSH",
+      "B": "GnRH",
+      "C": "Cortisol",
+      "D": "ACTH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "A patient presents with symptoms of hyperthyroidism along with a gritty sensation in the eyes. What is the most likely diagnosis? (Radiology Feb 2025)",
+    "options": {
+      "A": "Grave's disease",
+      "B": "Toxic multinodular goiter",
+      "C": "Hashimoto's thyroiditis",
+      "D": "Subacute granulomatous thyroiditis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "How can malignant hyperthermia be differentiated from thyroid storm? (Radiology Feb 2025)",
+    "options": {
+      "A": "Presence of tachycardia",
+      "B": "Sudden rise in temperature",
+      "C": "Malignant hyperthermia occurs only after anesthesia exposure",
+      "D": "Elevated creatine kinase (CK) levels in malignant hyperthermia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "A young person from a northern region presents with lethargy, laziness, and cold intolerance. What is the most likely underlying cause?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Thyroid gland dysfunction",
+      "B": "Iodine deficiency",
+      "C": "Pituitary gland dysfunction",
+      "D": "Autoimmune thyroiditis"
+    },
+    "correct_answer": "B"
+  }
+]

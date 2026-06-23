@@ -1,0 +1,4292 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "A patient having Total anti Hbe reactive, IgM -ve, Hbs ag-ve? What is diagnosing?",
+    "options": {
+      "A": "Past exposure",
+      "B": "Vaccinated",
+      "C": "Acute phase Hep. B",
+      "D": "Transient resolving state"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A patient presented with Hepatitis viral markers negative, ALT slightly raised, on examination there were KF ring seen. What is the suitable diagnostic test?",
+    "options": {
+      "A": "Serum ceruloplasmin",
+      "B": "Urinary copper",
+      "C": "HbsAg",
+      "D": "Anti mitochondrial ab"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "What is Cause of fatty liver in our country?",
+    "options": {
+      "A": "Hep B & Hep C",
+      "B": "Alcoholism",
+      "C": "Diabetes",
+      "D": "Starvation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Gastric lymphomas related to which of the following?",
+    "options": {
+      "A": "H.pylori",
+      "B": "Clostridium perfringes",
+      "C": "Corneybacterium urealyticum",
+      "D": "EBV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Which cells of Pancreas involved in DM-1",
+    "options": {
+      "A": "Alpha cells",
+      "B": "Beta cells",
+      "C": "Delta cells",
+      "D": "Mucous cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "A female with history of itching jaundice xanthoma and hepatosplenomegaly required investigation for diagnosis is:",
+    "options": {
+      "A": "Anti mitochondrial antibodies",
+      "B": "Anti cardiolipin",
+      "C": "Antismoothmuscle antibodies",
+      "D": "Anti nuclear antibodies"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Severe steatorrhea will result from which of the following?",
+    "options": {
+      "A": "Gall bladder resection",
+      "B": "Total pancreatectomy",
+      "C": "Jejunum resection",
+      "D": "Colon resection",
+      "E": "Gastric resection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Most common cause of HCC in developing world",
+    "options": {
+      "A": "Hep B plus Hep C",
+      "B": "Hep B",
+      "C": "Hep C",
+      "D": "Hep D"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "The life style pattern of healthy persons from 20 to 30 years of age are studied. A healthy person has history of eating pizza and very little physical activity. Which of the following tissue changes is most likely to develop in these subsets of persons as a consequence of this lifestyle",
+    "options": {
+      "A": "Fatty Metamorphosis of liver",
+      "B": "Pancreatic Fat necrosis",
+      "C": "Fatty degeneration of myocardium",
+      "D": "Hypertrophy of Steatocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Patient presented with obstructive jaundice; now having bleeding cause is",
+    "options": {
+      "A": "Vit K deficiency",
+      "B": "Decrease clotting factor production due to liver problem",
+      "C": "Vit C Deficiency",
+      "D": "Decrease prothrombin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Patient with vague abdominal pain with nausea, pain was not related to any meal, no cardiac issues, glucose normal, endoscopy was done which showed normal stomach with no mass or ulcers, it was found non-ulcer gastritis, what is the cause?",
+    "options": {
+      "A": "H.pylori",
+      "B": "Pernicious anemia",
+      "C": "Zollinger ellison syndrome",
+      "D": "Auto immune anemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "In liver cell injury, enzyme decreased is",
+    "options": {
+      "A": "ALP",
+      "B": "5-nucleotidase",
+      "C": "AST",
+      "D": "GGT",
+      "E": "ALT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Chronic hepatitis is characterized for how much duration",
+    "options": {
+      "A": "6month",
+      "B": "3month",
+      "C": "2month",
+      "D": "1month"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Chronic alcoholic with normal LFT on microscopy liver will show:",
+    "options": {
+      "A": "Hepatic atrophy",
+      "B": "Normal",
+      "C": "Fatty changes",
+      "D": "Hyperplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Smoking and alcoholic presented with non-healing ulcer in oral cavity what it could be?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Basal cell carcinoma",
+      "C": "Melanoma",
+      "D": "Adenocarcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Chronic liver disease which of the histological finding suggest chronicity?",
+    "options": {
+      "A": "Fibrosis",
+      "B": "Councilman bodies(apoptosis)",
+      "C": "Neutrophils",
+      "D": "Macrophages"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Bare area of liver related to:",
+    "options": {
+      "A": "Hepato gastric ligament",
+      "B": "CBD",
+      "C": "Hepato dudenal ligament",
+      "D": "Coronary ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "True about Hairy Leukoplakia is",
+    "options": {
+      "A": "Fungal growth",
+      "B": "Smoking",
+      "C": "Associated with HIV",
+      "D": "Leukemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A 50 years patient who used to drinks from 20 years. His labs are Bilirubin 5 times raised than normal, ALT 2 times and ALP 3 times. His histopathology of liver will show",
+    "options": {
+      "A": "Piecemeal necrosis",
+      "B": "Bridging necrosis",
+      "C": "Councilman bodies",
+      "D": "Periportal Lymphocytosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which vessel is involved in portal hypertension?",
+    "options": {
+      "A": "Portal vein",
+      "B": "SMA",
+      "C": "IMA",
+      "D": "IVC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Which of the following disease presents with raised ALT most commonly?",
+    "options": {
+      "A": "Acute viral hepatitis",
+      "B": "Hepatic malignancy",
+      "C": "Sclerosing cholangitis",
+      "D": "Hepatic adenoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Pregnant lady with yellow sclera and dark colored urine Obstructive jaundice What is the appropriate investigation in this patient?",
+    "options": {
+      "A": "Serum glutamyltransferase",
+      "B": "Alkaline phosphatase",
+      "C": "Gamma glutamyl transferase",
+      "D": "Liver biopsy",
+      "E": "Ultrasound"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A 9-year-old boy presents to you with the history of yellow sclera & dark colored urine. Most appropriate investigation would be?",
+    "options": {
+      "A": "SGPT",
+      "B": "SGOT",
+      "C": "Bilirubin",
+      "D": "SGPT & bilirubin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A 6 weeks old infant presents with jaundice on exam diaper is yellow stained diagnose is:",
+    "options": {
+      "A": "Gilbert syndrome",
+      "B": "Biliary atresia",
+      "C": "Crigller najjar",
+      "D": "Physiological",
+      "E": "Pathological"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "An alcoholic present with Dysphagia, endoscopy shows circular patch at mid esophagus biopsy shows polygonal cells with pleomorphic changes cause is",
+    "options": {
+      "A": "H- Pylori",
+      "B": "Fiber diet",
+      "C": "Alcohol",
+      "D": "Smoking"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "A person has previous history of jaundice 10 years ago. Now AST ALT both 100 plus. Bilirubin direct 8 histology shows ballooning degeneration. what is patient likely to have further?",
+    "options": {
+      "A": "Deficiency a-antitrypsin",
+      "B": "HbsAg",
+      "C": "Antiphosphochondrial antibodies",
+      "D": "Raised ceruloplasmin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "5 year old Child was diagnosed with polyp and he was having rectal bleeding. Polyp was removed from rectum by polypectomy what type of polyp it could be?",
+    "options": {
+      "A": "Hypertrophic",
+      "B": "Hyperplastic",
+      "C": "Inflammatory",
+      "D": "Hemorrhagic polyp",
+      "E": "Adenomatous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A women with splenomegaly, conjugated bilirubin 1% with urinary bilirubinogen, hepatic abnormality is due to",
+    "options": {
+      "A": "Hemochromatosis",
+      "B": "Hemolysis",
+      "C": "Benign cholestasis",
+      "D": "Biliary obstruction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Presence of delta antigen indicates",
+    "options": {
+      "A": "Infectivity",
+      "B": "Recovery",
+      "C": "Chronicity",
+      "D": "Acute Phase",
+      "E": "Fatality/Severity of disease"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "In CLD most affected thing is",
+    "options": {
+      "A": "Albumin",
+      "B": "PT",
+      "C": "Hemostatis",
+      "D": "APTT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Quack gave medicine which causes hepatic necrosis which of following will increase?",
+    "options": {
+      "A": "ALT",
+      "B": "AST",
+      "C": "LDH",
+      "D": "Alkaline phosphatase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "After an abdominal surgery blood was transfused to a patient, after which he developed jaundice, vomiting and lethargy. Hepatitis was diagnosed. Which is most commonly transmitted via blood transfusions:",
+    "options": {
+      "A": "Hep A",
+      "B": "Hep C",
+      "C": "Hep D",
+      "D": "HIV",
+      "E": "Hep E"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "A woman has presented with dysphagia which is worsening since 3 months. Now it is difficult for her to swallow pudding. On examination of the neck surgeon notices enlarged lymph nodes on the side of her neck. What is the cause?",
+    "options": {
+      "A": "CA Esophagus",
+      "B": "CA trachea",
+      "C": "TB",
+      "D": "CA lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Most common spread by orofecal route is which of following:",
+    "options": {
+      "A": "Hep. B",
+      "B": "Hep. C",
+      "C": "Hep. D",
+      "D": "Hep. E",
+      "E": "Hep. G"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "What should be checked to diagnose Hep B disease",
+    "options": {
+      "A": "Hbsantigen+antiHbc igm",
+      "B": "Hbsag+be antigen",
+      "C": "Antihbc",
+      "D": "Anti hbc igG"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Few days after bacteremia of typhoid, where will the bacteria reside?",
+    "options": {
+      "A": "Gallbladder",
+      "B": "Payer patches",
+      "C": "Dudenum",
+      "D": "illium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Neonates commonly have hyperbilirubinemia due to:",
+    "options": {
+      "A": "Hemolysis",
+      "B": "Dubin Johnson",
+      "C": "Crigla najar",
+      "D": "Rotor syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Which is most commonly STD transferred among these",
+    "options": {
+      "A": "Typhoid",
+      "B": "Hep B",
+      "C": "TB",
+      "D": "Hep A",
+      "E": "Hep C"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Patient with HBsAg +ve, Hbs ab-ve AFP 10? hepatic Nodule on U/S what is the diagnosis?",
+    "options": {
+      "A": "Hemangioma",
+      "B": "Hepatocellular Carcinoma",
+      "C": "Hepatic Adenoma",
+      "D": "CLD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Patient Diagnosed with CA Gall bladder Cancer is:",
+    "options": {
+      "A": "Chronic Irritation",
+      "B": "Stones",
+      "C": "Obstructive jaundice",
+      "D": "Infection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "In Alcoholic liver microscopic finding is",
+    "options": {
+      "A": "Mallory bodies.",
+      "B": "Nutmeg liver",
+      "C": "Fibrosis",
+      "D": "Atrophy of hepatocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "A women was being examined a single 2cm long mass which was covered by normal intestinal mucosa at base Diagnose is",
+    "options": {
+      "A": "Adenomatous polyp",
+      "B": "Hyperplastic polyp",
+      "C": "Hemorrhagic polyp",
+      "D": "Adenoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Patient presented with severe itching and jaundice. His total bilirubin is at 10 direct bilirubin 12 and ALP raised what is the cause",
+    "options": {
+      "A": "Intra hepatic cholestasis",
+      "B": "Hemolytic jaundice",
+      "C": "Extra hepatic cholestasis",
+      "D": "CBD Obstruction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Newborn presented with jaundice after 2days of birth was breast fed indirect bilirubin 10:",
+    "options": {
+      "A": "Physiological jaundice",
+      "B": "Pathological jaundice",
+      "C": "Breast milk jaundice",
+      "D": "Gilbert atresia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Test used to differentiate the type of jaundice is",
+    "options": {
+      "A": "ALP",
+      "B": "SGPT",
+      "C": "Total bilirubin",
+      "D": "Direct bilirubin",
+      "E": "Indirect bilirubin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Proximal part of small intestine removed what will be decreased?",
+    "options": {
+      "A": "Bile acid secretion",
+      "B": "Emptying of solid food",
+      "C": "Emptying of liquid food",
+      "D": "Increase in pancreatic secretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Hepatoma causes compression of Which of these",
+    "options": {
+      "A": "Portal vein",
+      "B": "Hepatic vein",
+      "C": "CBD",
+      "D": "Hepatic duct"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Child with constipation and on exam no neurons were present in colon diagnose is",
+    "options": {
+      "A": "Cystic fibrosis",
+      "B": "Ectopic anus",
+      "C": "Hirschsprung's disease",
+      "D": "Obstruction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Pathology in dissecting aortic aneurysm is",
+    "options": {
+      "A": "Cougalative necrosis",
+      "B": "Ischemic necrosis",
+      "C": "Medial necrosis",
+      "D": "Atherosclerosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "A person with 2 month history of foul smelling stools, bloating and pain investigation of choice is",
+    "options": {
+      "A": "Stool culture",
+      "B": "Stool complete examination",
+      "C": "Stool for colistridium.difficile",
+      "D": "Chloride sweat test"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Which of them increased most in hepatocyte damage?",
+    "options": {
+      "A": "SGPT",
+      "B": "SGOT",
+      "C": "GGT",
+      "D": "ALP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Vagotomy above esophagus causes which of these",
+    "options": {
+      "A": "Loss of acid",
+      "B": "Loss of movement at fundus and pylorus",
+      "C": "Loss of antrum motility",
+      "D": "Loss of bowel movement"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "50 years old man diagnosed liver cirrhosis as presented to outpatient department with pain for 3 months, liver is enlarged and tender, there is suspicion of hepatocellular carcinoma, best investigation is to confirm diagnosis",
+    "options": {
+      "A": "AFP",
+      "B": "CT scan liver",
+      "C": "P53",
+      "D": "CEA",
+      "E": "Liver biopsy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Alcoholic dysphagia is due to which of the following?",
+    "options": {
+      "A": "Decrease peristalsis",
+      "B": "Polyp formation in esophagus",
+      "C": "Strictures",
+      "D": "Increase peristalsis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Fibrinous necrosis associated with which among these",
+    "options": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Hepatitis C",
+      "D": "Hepatitis D",
+      "E": "Hepatitis E"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A boy ate chickpeas from road side developed Hepatitis, which type",
+    "options": {
+      "A": "Hep A",
+      "B": "Hep B",
+      "C": "Hep C",
+      "D": "Hep D",
+      "E": "Hep E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "In CLD cause of hematemesis is involvement of",
+    "options": {
+      "A": "Left gastric vein",
+      "B": "Right gastric vein",
+      "C": "Splenic vein",
+      "D": "Right gastroduodenal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Antibodies of importance in Primary sclerosing cholangitis?",
+    "options": {
+      "A": "Anti-mitochondrial antibodies",
+      "B": "Anti-smooth muscle antibodies",
+      "C": "Anti-ds-DNA",
+      "D": "Anti-neutrophil cytoplasmic Antibodies",
+      "E": "Anti Flagellar antibodies"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A middle aged women presented in OPD with complaint of pain in the epigastric region posterior thoracic wall and right shoulder after a fatty meal the pain is originating from:",
+    "options": {
+      "A": "Appendix",
+      "B": "Gall bladder",
+      "C": "Kidney and ureter",
+      "D": "Diaphragm",
+      "E": "Spleen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Barret esophagus is",
+    "options": {
+      "A": "Anaplasia",
+      "B": "Dysplasia",
+      "C": "Metaplasia",
+      "D": "Desmoplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Alcoholic patient presented with jaundice & AFP of 988 cause is",
+    "options": {
+      "A": "Alcoholic Hepatitis",
+      "B": "RHF",
+      "C": "Iron overdose",
+      "D": "Cholestasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Gastrectomy performed 1.2 years back now presented with deficiency of",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Vitamin B6",
+      "C": "Vitamin B3",
+      "D": "Vitamin B5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Intrinsic factor is required for activation of which vitamin?",
+    "options": {
+      "A": "Vitamin B6",
+      "B": "Vitamin B3",
+      "C": "Vitamin B12",
+      "D": "Folate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Which of the following Hepatitis has most lethal effect during pregnancy",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. D",
+      "E": "Hep. E"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "A patient has gastric ulcer the pain will be felt in which of following region?",
+    "options": {
+      "A": "Epigastric region",
+      "B": "Radiated to back",
+      "C": "Shoulder tip",
+      "D": "Iliac region",
+      "E": "Lumbar region"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A 50 years old male, diagnosed case of chronic pancreatitis, presented with steatorrhea, this abnormality is caused by the deficiency of which lipid digestive enzyme",
+    "options": {
+      "A": "Amylase",
+      "B": "Lipase",
+      "C": "Lactase",
+      "D": "Enterokinase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Inflammation of portal triads that spills into adjacent lobules, bands of inflammation extending between portal areas and terminal hepatic (Central) Veins with foci of liver necrosis diagnosis is:",
+    "options": {
+      "A": "Chronic Passive congestion",
+      "B": "Chronic Active hepatitis",
+      "C": "Fulminant hepatitis",
+      "D": "Cirrhosis",
+      "E": "Fibrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Patient presented with decrease peripheral pulsation with abdominal pain and creatine kinase normal and pulsating abdominal mass with fasting glucose of 130 - 150 from last 20 years is most likely suffering from",
+    "options": {
+      "A": "Thoracic aortic Aneurysm",
+      "B": "Abdominal Aortic Aneurysm",
+      "C": "Rupture of IVC",
+      "D": "Common Iliac artery Aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "A 30 years old male suddenly died after a sudden rise in blood pressure, at autopsy the ruptured vessel completely lack the tunica media at the point of aneurysm most likely aneurysm is",
+    "options": {
+      "A": "Berry Aneurysm",
+      "B": "Dissecting Aneurysm",
+      "C": "Marfan Aneurysm",
+      "D": "Mycotic Aneurysm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "A 40 years old alcoholic patient presented with consolidation in right lung apex, he died & autopsy shows enlarged liver and hepatocytes filled with lipids, cause of death is",
+    "options": {
+      "A": "Alpha 1 antitrypsin Deficiency",
+      "B": "Chronic Alcoholism",
+      "C": "Smoking",
+      "D": "Liver disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Medical lab technician presented with history of fatigue for 4 months, LFTs deranged with ballooning & inflammation of hepatocytes on biopsy, which test to perform?",
+    "options": {
+      "A": "HbsAg",
+      "B": "HAV",
+      "C": "HCV",
+      "D": "EBV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A man presented with fever, rigors & renal parenchymal damage is most likely suffering from",
+    "options": {
+      "A": "UTI",
+      "B": "Chronic Pyelonephritis",
+      "C": "Acute Pyelonephritis",
+      "D": "Appendicitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "A known smoker, presents with abdominal pain, bloody vomit and a 3cm lesion with no mass at the gastric antrum most suitable cause is",
+    "options": {
+      "A": "Peptic Ulcer Disease (PUD)",
+      "B": "Gastric Carcinoma",
+      "C": "Esophageal Carcinoma",
+      "D": "Mallory weiss syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Fat malabsorption could lead to which of the following?",
+    "options": {
+      "A": "Bleeding",
+      "B": "Steatorrhea",
+      "C": "Vitamin A deficiency",
+      "D": "Carbohydrate Imbalance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Which of the following is Autosomal dominant condition?",
+    "options": {
+      "A": "Familial adenomatous polyposis",
+      "B": "Hemophilia",
+      "C": "DMD",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Site of red infarct is",
+    "options": {
+      "A": "Spleen",
+      "B": "Liver",
+      "C": "Kidney",
+      "D": "Brain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A female patient with achalasia would have all following",
+    "options": {
+      "A": "Absence of myenteric plexus in lower esophagus",
+      "B": "Loss of lower esophageal sphincter tone",
+      "C": "Increase Stomach peristalsis",
+      "D": "Increase Intestinal motility"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "In Perforation of Posterior wall of stomach which artery is involved?",
+    "options": {
+      "A": "Gastroduodenal artery",
+      "B": "Splenic artery",
+      "C": "Gastroepiploic artery",
+      "D": "Left gastric artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Patient who is smoker and alcoholic. His lab report revealed increased bilirubin and increase alpha feto protein. Cause of raised alpha feto protein",
+    "options": {
+      "A": "Alcohol",
+      "B": "Smoking",
+      "C": "Hep. A",
+      "D": "Drug use"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "What is the predisposing condition to Adenocarcinoma of the esophagus?",
+    "options": {
+      "A": "Lichen Planus",
+      "B": "Leukoplakia",
+      "C": "Erythroplakia",
+      "D": "Barrett Esophagus",
+      "E": "Ulcer"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "A 12 years old boy presented with diarrhea not responding to routine anti diarrheal treatment. Jejunal biopsy showed partial villous atrophy with many PAS positive macrophages. Most likely diagnosis is",
+    "options": {
+      "A": "Carcinoid syndrome",
+      "B": "Topical sprue",
+      "C": "Giardiasis",
+      "D": "Immunoproliferative disease",
+      "E": "Whipple disease"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "A young patient presents with jaundice. The investigations revealed high serum ALP and decreased HB and increased retic count. Most likely cause of jaundice is",
+    "options": {
+      "A": "Hepatitis",
+      "B": "Drug induced cholestasis",
+      "C": "Cholingiocarcinoma",
+      "D": "Hematological malignancy",
+      "E": "Pigment stones"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Gall bladder has a stone in the upper part of the bile duct, what will increase?",
+    "options": {
+      "A": "Increase in fatty stool",
+      "B": "Increase excretion of bile salts",
+      "C": "Increase LDL",
+      "D": "Increase formation of chylomicrons",
+      "E": "Increase bile salts in circulation."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "An alcoholic man presents with exhibition of prominent neck veins and limb swelling. He also had centrilobar congestion and early fibrosis of liver. The cause is",
+    "options": {
+      "A": "Alpha 1 antitrypsin deficiency",
+      "B": "Right Heart Failure",
+      "C": "Left Heart Failure",
+      "D": "Chronic Alcoholism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "A patient was administered drug by a quack, he presents with jaundice. Which of the following enzymes will be raised?",
+    "options": {
+      "A": "ALP",
+      "B": "AST",
+      "C": "ALP & AST",
+      "D": "ALT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Medial necrosis on autopsy seen in",
+    "options": {
+      "A": "Berry aneurysm",
+      "B": "Dissecting aneurysm",
+      "C": "Polyarthritis nodosa",
+      "D": "Fibrinoid necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Treatment of choice in upper GI bleeding",
+    "options": {
+      "A": "Octerotide",
+      "B": "Vitamin – K",
+      "C": "FFP",
+      "D": "Heparin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Most lethal organism after transfusion is",
+    "options": {
+      "A": "Hep. B",
+      "B": "Hep. C",
+      "C": "Herpes",
+      "D": "CMV"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "The vitamins which are produced by intestinal flora and absorbed into the blood",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Vitamin C",
+      "C": "Vitamin K",
+      "D": "Vitamin B12",
+      "E": "Vitamin B6"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "The deficiency seen in plummer vinson syndrome is of which of these",
+    "options": {
+      "A": "Calcium",
+      "B": "Magnesium",
+      "C": "Sodium",
+      "D": "Potassium",
+      "E": "Iron"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Most common cause of Hepatic cirrhosis",
+    "options": {
+      "A": "Hepatitis B",
+      "B": "Hepatitis A",
+      "C": "Hepatitis E",
+      "D": "Hepatitis C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Morphological changes in chronic hepatitis",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Complement cascade",
+      "C": "Peripheral necrosis and fibrosis",
+      "D": "No major changes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Hepatitis B spreads through which among these",
+    "options": {
+      "A": "Coughing",
+      "B": "Sneezing",
+      "C": "Sexual contact",
+      "D": "Breast feeding"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "The glands atrophy in the stomach of an alcoholic and smoker patient would result in",
+    "options": {
+      "A": "Anemia",
+      "B": "Gastric cancer",
+      "C": "Hypomobility of stomach",
+      "D": "Diminished blood supply"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Gastric ulcers common location is",
+    "options": {
+      "A": "Fundus",
+      "B": "Anterior wall of stomach",
+      "C": "Antrum",
+      "D": "Lesser curvature"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Most common hepatitis that is found in Asia and has least amount of complications",
+    "options": {
+      "A": "Hep. C",
+      "B": "Hep. E",
+      "C": "Hep. D",
+      "D": "Hep.A"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Peptic ulcer pain is transmitted via",
+    "options": {
+      "A": "Greater Splanchnic Nerve",
+      "B": "Lesser Splanchnic Nerve",
+      "C": "Least Splanchnic Nerve",
+      "D": "Costal Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "26 year old girl 28 week of gestation developed vomiting, bilirubin 20mg/dl AST272 and ALT 220 two weeks back when she went to meet her parents in a remote village. What is her diagnosis?",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. D",
+      "E": "Hep. E"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Which cause of intestinal obstruction gives worst prognosis?",
+    "options": {
+      "A": "Adhesion",
+      "B": "Diverticulitis",
+      "C": "Mesenteric ischemia",
+      "D": "Hernia",
+      "E": "Intrinsic cause"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Which one is correct match?",
+    "options": {
+      "A": "CA Lung with Alcohol",
+      "B": "CA liver with Asbestos",
+      "C": "CA Skin with alcohol",
+      "D": "CA liver with alcohol"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A 57 year old male with a history of alcoholism presented to the emergency room with abdominal pain, jaundice and hyperbilirubinemia. His labs show AST (SGOT) 88 U/L, ALT (SGPT) 121 U/L, Bilirubin Total 6.5 mg/dL. What is the cause of leakage of these liver enzymes in blood?",
+    "options": {
+      "A": "Hepatocyte membrane damaged",
+      "B": "Increased level of enzymes in biliary tree",
+      "C": "Increased level of enzymes in normal in Hep. C",
+      "D": "Increased as result of fibrosis",
+      "E": "Increase due to ischemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "A patient with alcoholic hepatitis with Mallory bodies. Interwoven structure is",
+    "options": {
+      "A": "Intermediate filaments",
+      "B": "Beta Amyloid",
+      "C": "Alpha syncline",
+      "D": "Alpha Amyloid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Biochemical change in Wilson disease?",
+    "options": {
+      "A": "Decrease Ceruloplasmin",
+      "B": "Decrease Copper in liver brain cornea kidneys",
+      "C": "Increase Urinary Copper",
+      "D": "Increase Ceruloplasmin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A chronic alcoholic suffering from liver cirrhosis developed portal hypertension with caput medusa. In this condition, the veins around the umbilicus are connected to the left branch of portal vein through",
+    "options": {
+      "A": "Hepatic portal vein",
+      "B": "Lumbar veins",
+      "C": "Musculophrenic veins",
+      "D": "Paraumbilical veins",
+      "E": "Thoraco-epigastric veins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "In liver cell injury, enzyme decreased is",
+    "options": {
+      "A": "ALP",
+      "B": "5-nucleotidase",
+      "C": "AST",
+      "D": "Pseudocholinesterase",
+      "E": "ALT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "A baby dies after birth with edema jaundice and anemia on post partum you find which of da following changes:",
+    "options": {
+      "A": "Bile pigments in basal ganglia",
+      "B": "Heart problem",
+      "C": "CNS problem",
+      "D": "Liver problem",
+      "E": "GIT problem"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "In the first week of typhoid fever, which is the most probable diagnostic test?",
+    "options": {
+      "A": "Widal test",
+      "B": "Blood culture",
+      "C": "Typhidot",
+      "D": "Stool culture",
+      "E": "Urine culture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Young male anti HCV positive. Asymptomatic and LFTs are normal. What is the next best investigation?",
+    "options": {
+      "A": "Repeat anti HCV",
+      "B": "Repeat LFT",
+      "C": "Biopsy",
+      "D": "PCR RNA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Alcoholic patient presented with abdominal pain, serum amylase 1600, ALT 75, ALP 200 diagnosis:",
+    "options": {
+      "A": "HCC",
+      "B": "Obstructive jaundice",
+      "C": "Acute pancreatitis",
+      "D": "Hepatitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "A patient’s 100cm of ileum was resected which vitamin is needed for supplementation",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin K",
+      "C": "Vitamin B12",
+      "D": "Vitamin B6"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Cancer of Head of pancreas will compress which structure",
+    "options": {
+      "A": "SMA",
+      "B": "CBD",
+      "C": "Portal vein",
+      "D": "Henatic arterv"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "About Colon Adenocarcinoma.",
+    "options": {
+      "A": "RAS mutation",
+      "B": "Cell from biopsy will show telomerase 1",
+      "C": "Antibody",
+      "D": "P53 not involved",
+      "E": "Not linked with fatty diet"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A man consumed food from street vendor develops right hypochondriac pain. After 10 days in hospital he suddenly developed dyspnea with hemoptysis with streaks of blood. X-ray was done showing homogenous opacity with multiple air fluids level confirming lung abscess. What could have possibly caused the lung abscess",
+    "options": {
+      "A": "Hematogenous spread from liver",
+      "B": "Aspiration of vomitus containing trophozoite",
+      "C": "Aspiration of vomitus containing cyst",
+      "D": "Direct extension of infection via liver"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A patient diagnosed and treated for hepatitis what findings will show possibility of high transmission of infection",
+    "options": {
+      "A": "Hbe Ag+ and Hbe Ab-",
+      "B": "Hbs Ag+ and Hbs Ab-",
+      "C": "Hbc Ag+ and Hbs Ag-",
+      "D": "Hbe Ag+ and Hbs Ab-",
+      "E": "Hbc Ag+ and Hbs Ab+"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Most common hepatic malignancy:",
+    "options": {
+      "A": "Metastasis to liver",
+      "B": "Hepatocellular carcinoma",
+      "C": "Chronic hepatitis",
+      "D": "Cirrhosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Treated case of Hep A will show on LFTs",
+    "options": {
+      "A": "Fibrosis",
+      "B": "Lymphocytes",
+      "C": "Normal histology",
+      "D": "Cirrhosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Malignancy that spreads through blood relation more",
+    "options": {
+      "A": "HCC",
+      "B": "CA Colon",
+      "C": "Medullary CA thyroid",
+      "D": "Hep A"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Aicoholic patient present with bleeding from hair follicles and ulcer not healed, which cell is defective?",
+    "options": {
+      "A": "Hepatocytes",
+      "B": "Fibroblasts",
+      "C": "Collagen",
+      "D": "Elastin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "HCC Tumor marker is which of following",
+    "options": {
+      "A": "AFP",
+      "B": "CEA",
+      "C": "CA 19-9",
+      "D": "CA 125"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Edema in CLD cause is",
+    "options": {
+      "A": "Increased hydrostatic pressure",
+      "B": "Portal hypertension",
+      "C": "Decrease plasma colloid osmotic pressure",
+      "D": "Increase plasma oncotic pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Mass near porta hepatis, structure damaged will be",
+    "options": {
+      "A": "Common hepatic artery",
+      "B": "Cystic Duct",
+      "C": "Portal vein",
+      "D": "Hepatic vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Which of the following dietary substance is a carcinogen and play a role in carcinoma esophagus?",
+    "options": {
+      "A": "Nitrosamines",
+      "B": "Naphthalamine",
+      "C": "Hydrocarbons",
+      "D": "Asbestos"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Commonest cause of fatty liver disease in our country",
+    "options": {
+      "A": "Viral hepatitis",
+      "B": "Obesity",
+      "C": "Protein deficiency",
+      "D": "Alcohol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A few days old new born presented with abdominal distention and vomiting was diagnosed as a case Hirschsprung disease in which there is complete absence of parasympathetic ganglia. These ganglia receive preganglionic innervation from which segment of cord?",
+    "options": {
+      "A": "S1, 2, 3",
+      "B": "S2, 3, 4",
+      "C": "L2-4",
+      "D": "L5-S1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Meckel's diverticulum is found in",
+    "options": {
+      "A": "Duodenum",
+      "B": "Small colon",
+      "C": "Ileum",
+      "D": "Jejunum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Most resistant organ to transplant rejection is",
+    "options": {
+      "A": "Heart and lungs",
+      "B": "Pancreas",
+      "C": "Kidney",
+      "D": "Intestine",
+      "E": "Liver"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "A chronic smoker came with history of weight loss and jaundice. His LFTs are deranged. He also has history of consuming large amount of alcohol initial Investigations gave suspicion of hepatic carcinoma. What will be most probable cause?",
+    "options": {
+      "A": "Aflatoxin",
+      "B": "Smoking",
+      "C": "Alcohol",
+      "D": "Nitrosamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A patient suffering from crohn s disease had 100 cm ileal resection what will result",
+    "options": {
+      "A": "Decrease fat absorption",
+      "B": "Increase water content of faeces",
+      "C": "Increased bile acid concentration in enterohepatic circulation",
+      "D": "Increase absorption of iron"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "What is a feature of crohn's disease?",
+    "options": {
+      "A": "Surgical resection always curative",
+      "B": "Does not involve mucosa",
+      "C": "Does not involve small intestine",
+      "D": "Hyperoxaluria",
+      "E": "Ca absorption increases"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Best Monitoring test for Hepatitis B?",
+    "options": {
+      "A": "GGT",
+      "B": "SGPT",
+      "C": "PT",
+      "D": "Serum bilirubin",
+      "E": "Alkaline phosphatase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Following splenectomy which organism least likely to cause severe septicemia?",
+    "options": {
+      "A": "Meningococcus",
+      "B": "Neisseria",
+      "C": "E.Coli",
+      "D": "Pneumococcus",
+      "E": "Haemophilus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Investigation done for hepatic encephalopathy is:",
+    "options": {
+      "A": "Serum ammonia level.",
+      "B": "Serum creatinine",
+      "C": "Potassium",
+      "D": "Sodium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "60 years farm worker presented with ascites, contain malignant cells, liver biopsy showed Angiosarcoma cause is",
+    "options": {
+      "A": "Aflatoxin",
+      "B": "Arsenic",
+      "C": "Hydrocarbons",
+      "D": "Nitrosamine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Aflatoxin causes which of these:",
+    "options": {
+      "A": "HCC",
+      "B": "Septic adenoma",
+      "C": "Hemangioma",
+      "D": "Hepatoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "The parasite associated with cholangiocarcinoma is",
+    "options": {
+      "A": "Clonorchis sinensis",
+      "B": "Leishmania donovani",
+      "C": "Schistosoma Japonicum",
+      "D": "Schistosoma Mansoni",
+      "E": "Toxoplasmosis Gondii"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Which of the following occurs in severe diarrhea?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Metabolic acidosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Strong correlation with colorectal cancer is seen in:",
+    "options": {
+      "A": "Peutz-Jeghers polyp",
+      "B": "Familial polyposis coli",
+      "C": "Juvenile polyposis",
+      "D": "Hyperplastic polyp"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Right upper quadrant abdominal pain that radiates to tip of right shoulder this is clinical finding of:",
+    "options": {
+      "A": "Acute pancreatitis",
+      "B": "Acute cholecystitis",
+      "C": "Cholelithiasis",
+      "D": "Appendicitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "The most common complication of pancreatitis is",
+    "options": {
+      "A": "Pancreatic abscess",
+      "B": "Pancreatic pseudocyst",
+      "C": "Pancreatic Hemorrhage",
+      "D": "Malabsorption"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Juvenile polyposis syndrome is:",
+    "options": {
+      "A": "Neoplastic",
+      "B": "Hyperplastic",
+      "C": "Adenomatous polyp",
+      "D": "Haematomatous"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Patient undergoing Barium swallow Feathery appearance in left abdomen feature of which of these",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ileum",
+      "C": "Stomach",
+      "D": "Gall bladder"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "The cause of primary hepatic carcinoma",
+    "options": {
+      "A": "Alpha antitrypsin 1 deficiency",
+      "B": "Aflatoxin 1 in Diet",
+      "C": "Naphthalene",
+      "D": "Hydrocarbons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Patient showing no improvement with H2 blocker is likely due to",
+    "options": {
+      "A": "Gastric Ulcer",
+      "B": "Zollinger Ellison syndrome",
+      "C": "Pernicious Anemia",
+      "D": "ITP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "A Deficiency of enzyme produced by brush border will cause",
+    "options": {
+      "A": "Lactose intolerance",
+      "B": "Steatorrhea",
+      "C": "Inability of miscelle formation",
+      "D": "Decrease absorption of triglycerides"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "An African woman had hepatic adenoma. Exposure of which of the following is involved?",
+    "options": {
+      "A": "Aflatoxin",
+      "B": "Betel nuts",
+      "C": "Steroids",
+      "D": "Arsenic",
+      "E": "Vinyl chloride"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "A pregnant patient presented with jaundice, deranged AST, ALT, most common Hepatitis is",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. E",
+      "E": "Hep. D"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Squamocolumnar epithelium present 3 cm above of cardiac end of esophagus diagnose is:",
+    "options": {
+      "A": "Normal Variant",
+      "B": "Esophagus Carcinoma",
+      "C": "Barrett Esophagus",
+      "D": "Adenocarcinoma",
+      "E": "Stricture formation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Most common cause of liver cirrhosis:",
+    "options": {
+      "A": "Hep. C",
+      "B": "Hep. B",
+      "C": "Alcohol",
+      "D": "Hep. A",
+      "E": "Aflatoxin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "In alcoholic patient steatohepatitis develop due to which of these",
+    "options": {
+      "A": "Acetate",
+      "B": "Acetoacetate",
+      "C": "H2O2",
+      "D": "Acetaldehyde"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A pregnant lady presented with obstructive Jaundice features which of the following investigation will confirm the diagnosis?",
+    "options": {
+      "A": "GGT",
+      "B": "Bilirubin",
+      "C": "ALP",
+      "D": "AST",
+      "E": "ALT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "A patient having HCV +ve LFT's normal and PCR positive what is next best approach is?",
+    "options": {
+      "A": "Start interferon",
+      "B": "Start ribavirin",
+      "C": "Start interferon + ribavirin",
+      "D": "Biopsy",
+      "E": "Do nothing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Most Prominent effect of Vagotomy on GIT is:",
+    "options": {
+      "A": "Loss of migratory motor complex",
+      "B": "Decreased proximal stomach contraction",
+      "C": "Decreased distal stomach peristalsis",
+      "D": "Loss of secondary peristaltic waves in esophagus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "A 25 year old man presented with the complaint of post prandial bloating and abdominal cramp. He has history of passing foul smelling stool, which investigation will give us multiple information regarding the problem?",
+    "options": {
+      "A": "Stool C & S",
+      "B": "Stool DR",
+      "C": "Serum lipid profile",
+      "D": "Ultrasound abdomen",
+      "E": "MRI"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A 23 year old man wants to increase his muscle mass for playing physical contact sports. He attempts to accomplish it by injections of a substance obtained from a 'friend'. Over the next year he develops acne , icterus and increased fatigue. An infertility workup reveals hypospermia. Laboratory studies shows HB 19.2 g/dL, HCT 58.14% , Platelet count 330,300/ microliter and WBC count 7410/ microliter. Which of the following neoplasms is he at the greatest risk for developing in future?",
+    "options": {
+      "A": "Hepatocellular carcinoma (HCC)",
+      "B": "Papillary carcinoma",
+      "C": "Renal cell carcinoma (RCC)",
+      "D": "Rhabdomyosarcoma",
+      "E": "Seminoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "A patient having alternative diarrhea and constipation habits and per rectal bleeding diagnosed as a case of colon cancer which is the tumor marker?",
+    "options": {
+      "A": "Alpha fetoprotein",
+      "B": "CEA",
+      "C": "CA-125",
+      "D": "BRCA -2",
+      "E": "CA 19-9"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "40yrs old male with jaundice liver function tests shows direct bilirubin 10, ALP 1000, ALT 75, GGT 227 what is the most likely diagnosis?",
+    "options": {
+      "A": "Intrahepatic cholestasis",
+      "B": "Hepatic cholestasis",
+      "C": "Bile duct obstruction",
+      "D": "Drug induced jaundice",
+      "E": "Extra hepatic cholestasis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A Chronic smoker and alcoholic having ulcer on lower lip margin which is indurated and pale type of CA develop is",
+    "options": {
+      "A": "SCC",
+      "B": "Basal cell CA",
+      "C": "Adeno CA",
+      "D": "Lymphoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Known smoker presents with dysphagia to solid foods. This dysphagia is due to which of following mechanism?",
+    "options": {
+      "A": "Decrease Saliva",
+      "B": "Decreased peristalsis",
+      "C": "Achalasia",
+      "D": "Barrette esophagus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A patient of jaundice with Total bilirubin 10, direct 9, what is the cause?",
+    "options": {
+      "A": "Criggler Najjar",
+      "B": "Gilbert Syndrome",
+      "C": "Chelidocholithiasis",
+      "D": "Physiological jaundice",
+      "E": "Cirrhosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Rh negative mother delivered a baby at 34 weeks with anemia pallor. Baby died 6 hours after transfusion. Autopsy findings?",
+    "options": {
+      "A": "Basal ganglia staining",
+      "B": "Cardiac malformations",
+      "C": "Hydrops fetalis",
+      "D": "Renal cyst"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "A patient having retrosternal chest pain nausea and GERD with velvety esophagus and columnar epithelium it will increase which of these?",
+    "options": {
+      "A": "Esophagitis",
+      "B": "Barret esophagus",
+      "C": "Mallory weise tear",
+      "D": "Gastritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "The most common cause of ascites in patient of chronic HCV:",
+    "options": {
+      "A": "Increase colloid osmotic pressure",
+      "B": "Increase hydrostatic pressure.",
+      "C": "Decrease colloid osmotic pressure",
+      "D": "Decrease hydrostatic pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Young female developed endometrial CA. Mother died of same disease. Brother diagnosed case of colon CA. What gene is mutated in family?",
+    "options": {
+      "A": "WT-1",
+      "B": "APC",
+      "C": "MSH-2",
+      "D": "P53",
+      "E": "BRCA-I"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A 15 year old boy C/O loss of appetite, vomiting & high colored urine, O/E yellow discoloration of sclera, investigation of choice is?",
+    "options": {
+      "A": "Alkaline phosphatase estimation",
+      "B": "Bilirubin & ALT estimation",
+      "C": "Liver biopsy",
+      "D": "Serum & Urinary bilirubin",
+      "E": "GGT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "40y old lady presents with hepatosplenomegaly, pruritis, xanthlesma and jaundice for last 3 months most appropriate investigation is",
+    "options": {
+      "A": "AFP",
+      "B": "ALP",
+      "C": "HbsAg",
+      "D": "AMA",
+      "E": "GGT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Adeno carcinoma mechanism of tumorogenesis sequence typically showed by:",
+    "options": {
+      "A": "Cervical ca",
+      "B": "Hepatic Angio carcinoma",
+      "C": "Lung carcinoma",
+      "D": "Endometrial CA",
+      "E": "Colon CA"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Liver carcinoma caused by which of following?",
+    "options": {
+      "A": "Aromatic amines",
+      "B": "Hydrocarbon",
+      "C": "Aflatoxin B1",
+      "D": "Benzidine",
+      "E": "Nitrosamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "A patient having facial paralysis, angular chelitis and fissure tongue the most likely associated syndrome is which of following?",
+    "options": {
+      "A": "Merkersson-rosenthal syndrome",
+      "B": "Frey's syndrome",
+      "C": "Reiter's syndrome",
+      "D": "Eagle syndrome",
+      "E": "Heerfordt's syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Man with gunshot injury 3 finger beneath xiphisternum and two episodes of hematemesis siteof lesion is:",
+    "options": {
+      "A": "Lesser Curvature",
+      "B": "Cardio esophageal junction",
+      "C": "Lower Third of esophagus",
+      "D": "Greater Curvature",
+      "E": "Pyloric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "A 22/32 year old patient was prescribed analgesic for 2 months for a chronic infection. Now he is presented with complain of diarrhea 7-8 stools per day and vomiting. What will be seen on colonoscopy?",
+    "options": {
+      "A": "Dense mucosa",
+      "B": "Fragile submucosa",
+      "C": "Multiple abscess",
+      "D": "Hemartamous polyps"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "A researcher working on different chemical carcinogens. These carcinogens cause carcinogenesis by:",
+    "options": {
+      "A": "Permanent change in DNA",
+      "B": "Change in mitochondria",
+      "C": "Change in Lysosome",
+      "D": "Change in RNA",
+      "E": "Damage peroxisome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Most common malignancy of large bowel:",
+    "options": {
+      "A": "Carcinoid",
+      "B": "Lymphoma",
+      "C": "Adenoma",
+      "D": "Adenocarcinoma",
+      "E": "Mesenteritis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "A patient presented with pain in right hypochondrium, Nasuea and and jaundice Pain is going to shoulder region and upper back which condition is associated?",
+    "options": {
+      "A": "Appendicitis",
+      "B": "Hepatitis",
+      "C": "UTI",
+      "D": "Cholecystitis",
+      "E": "Urethritis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Esophageal stage of swallowing effected by:",
+    "options": {
+      "A": "Gastritis",
+      "B": "Scleroderma",
+      "C": "GERD",
+      "D": "Hepatitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "A middle aged women was diagnose with the moderately differentiated adenocarcinoma of stomach and she has a history of biopsy few year ago show premalignant condition most likely is:",
+    "options": {
+      "A": "Atrophic gastric",
+      "B": "Nonspecific gastritis",
+      "C": "Hamartomatous polyp",
+      "D": "Hyperplastic polyp",
+      "E": "Juvenile polyp"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "A patient contacted with hepatitis B virus on viral serology which of following hepatitis would it require as have because it's weak in its own:",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. E",
+      "E": "Hep. G"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "In Chronic alcoholic, FNA biopsy of liver will most likely show:",
+    "options": {
+      "A": "Disorganized liver architecture",
+      "B": "Constricted central vein",
+      "C": "Normal portal triads",
+      "D": "Mitotically active hepatocytes",
+      "E": "Distortion of porta hepatis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "A 68y man who is a known case of liver cirrhosis has developed ascites. What is the mechanism for the development of ascites?",
+    "options": {
+      "A": "Portal HTN",
+      "B": "Hypo-albuminuria",
+      "C": "Congestive heart failure",
+      "D": "Liver failure",
+      "E": "Salt retention"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "A student want to get vaccinated with hepatitis b vaccine but he is not sure about his previous vaccination again hep.b which test is done to know his previous vaccination status?",
+    "options": {
+      "A": "Anti HBs antibodies",
+      "B": "Anti Hb e antibodies",
+      "C": "Hbs Ag",
+      "D": "Hbe Ag"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "The pressure on lower esophageal sphincter is increased due to:",
+    "options": {
+      "A": "Smoking",
+      "B": "Alcohol",
+      "C": "Increase Serum gastrin",
+      "D": "After fatty meal",
+      "E": "Anticholinergic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Nutmeg liver cause is:",
+    "options": {
+      "A": "Peri portal congesion",
+      "B": "Centri lobular congesion",
+      "C": "Peripheral congesion",
+      "D": "Chronic Passive congesion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Person taking high performance drug has increase HB, Acne and Striae. Which carcinoma is likely to develop?",
+    "options": {
+      "A": "RCC",
+      "B": "HCC",
+      "C": "Pancreatic CA",
+      "D": "Gastric CA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "HCV is which type of virus?",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "RNA + DNA",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Patient present with complain of abdominal bloating and diarrhea. Reports show bilirubin 16, ALP 365, alpha-fetoprotein normal and raised CEA. Diagnosis:",
+    "options": {
+      "A": "Ulcerative colitis",
+      "B": "Crohn disease",
+      "C": "Stomach CA",
+      "D": "CA Colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Most common cause of bleeding in duodenal ulcer in Posterior wall is which artery?",
+    "options": {
+      "A": "Superior pancreatic duodenal artery",
+      "B": "Inferior pancreatic duodenal artery",
+      "C": "Gastro duodenal artery",
+      "D": "Right gastroepiploic artery",
+      "E": "Left gastroepiploic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A alcoholic patient present to doctor with acute abdominal pain doctor diagnosed it as a case of acute pancreatitis which of the following laboratory test use for best for confirmation?",
+    "options": {
+      "A": "Serum amylase + CBC",
+      "B": "Serum lipase + CBC",
+      "C": "Serum amylase + Serum lipase",
+      "D": "CBC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "What is the characteristics sign of crohns disease?",
+    "options": {
+      "A": "Transmural inflammation",
+      "B": "Continuous lesion",
+      "C": "Cause cancer in youth",
+      "D": "Lead pipe appearance on imaging"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Patient with dysphagia severe chest pain difficult belching and air fluid level ECG looks normal Cardiac enzyme normal this is likely due to:",
+    "options": {
+      "A": "GERD",
+      "B": "Achlasia",
+      "C": "Erosive intake",
+      "D": "Esophagitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "The main difference between crohns disease and UC is:",
+    "options": {
+      "A": "Peri anal lesion",
+      "B": "Primary sclerosing cholangitis",
+      "C": "Toxic megacolon",
+      "D": "Crypt abscesses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "40 years old man known alcoholic for 10 years shows deranged LFTs, liver biopsy of such patient shows:",
+    "options": {
+      "A": "Loss of architecture",
+      "B": "Hyperplasia",
+      "C": "Dilated hepatic veins",
+      "D": "Congestion of hepatic ducts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "H-pylori causes:",
+    "options": {
+      "A": "Colorectal carcinoma",
+      "B": "Gastric cancer",
+      "C": "Breast cancer",
+      "D": "Ovarian cancer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "A patient of portal hypertension has dilated engorged prominent veins para umbilical is called:",
+    "options": {
+      "A": "Spider angioma",
+      "B": "Spider nevi",
+      "C": "Caput medusae",
+      "D": "Pyloric stenosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Most common cause of epigastric pain:",
+    "options": {
+      "A": "Hernia",
+      "B": "Gastric ulcers",
+      "C": "Gastric carcinoma",
+      "D": "Perforation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Ileal resection causes the deficiency of:",
+    "options": {
+      "A": "Vitamin B6",
+      "B": "Vitamin B12",
+      "C": "Vitamin K",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Patient presented with Hx of fever and jaundice which type of gall stones are present?",
+    "options": {
+      "A": "Crystalline",
+      "B": "Cholesterol",
+      "C": "Pigmented",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "55years old male with past history of epigastric pain for which he was taking antacids was diagnosed as gastric lymphoma what is the most likely cause?",
+    "options": {
+      "A": "Drug induced gastritis",
+      "B": "Ulcers",
+      "C": "Intestinal metaplasia",
+      "D": "Atopic gastritis",
+      "E": "H. Pylori"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Hepatitis associated with p-ANCA:",
+    "options": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Hepatitis C",
+      "D": "Hepatitis D",
+      "E": "Hepatitis E"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "After Partial Gastrectomy of a patient most likely develops?",
+    "options": {
+      "A": "Iron deficiency anemia",
+      "B": "Fat malabsorption",
+      "C": "Pernicious anemia",
+      "D": "Blood loss anemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Major hemostatic defect in CLD:",
+    "options": {
+      "A": "Raised BT",
+      "B": "Raised PT",
+      "C": "Raised APTT",
+      "D": "Raised FDP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "A patient presented with anemia his total gastrectomy was done in past. Now having tingling sensation. What is treatment option",
+    "options": {
+      "A": "Inj Folic acid",
+      "B": "Folic acid",
+      "C": "Inj B12",
+      "D": "Iron"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "Raised ACTH will Lead to:",
+    "options": {
+      "A": "Hypercholesterolemia",
+      "B": "Hyperpigmentation",
+      "C": "Hypoglycemia",
+      "D": "Weight Loss",
+      "E": "Ketogenesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Diagnosed appendicular tumor which secretes mucinous secretion called Pseudomyxoma peritonei will spread how?",
+    "options": {
+      "A": "Lymph node",
+      "B": "Venous",
+      "C": "Arterial spread",
+      "D": "Seeding to other sites"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A person having chronic anemia and on ultrasound having Stones in gall bladder which one is likely to be raised?",
+    "options": {
+      "A": "AST",
+      "B": "ALT",
+      "C": "Bilirubin",
+      "D": "SGPT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "A patient history bloody diarrhea and weight loss with pallor. He was diagnosed as case of Colon Carcinoma and was treated for that. Now which marker is used for follow up of that patient?",
+    "options": {
+      "A": "AFP",
+      "B": "CA 125",
+      "C": "CA 19-9",
+      "D": "CEA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "CLD caused by which virus?",
+    "options": {
+      "A": "Hep B",
+      "B": "Hep D",
+      "C": "Hep A",
+      "D": "Hep E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Boy has dysphagia, regurgitation of food and complains of dull Sternal pain. Barium swallow shows esophageal enlargement:",
+    "options": {
+      "A": "Achlasia",
+      "B": "Gastritis",
+      "C": "Gastric ulcer",
+      "D": "Duodenal ulcer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Epigastric pain going to back organ involved is:",
+    "options": {
+      "A": "Liver",
+      "B": "Pancreas",
+      "C": "Stomach",
+      "D": "Kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "True about IBS:",
+    "options": {
+      "A": "Psychosomatic disturbance",
+      "B": "Continues Constipation",
+      "C": "Continues Diarrhea",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Zollinger ellison syndrome associated with:",
+    "options": {
+      "A": "Decrease Gastric acid",
+      "B": "Increase Gastric acid",
+      "C": "Increase Parietal cells",
+      "D": "Increase mucous cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "A patient with acute appendicitis pain and fever for last 24h on pathological examination seen:",
+    "options": {
+      "A": "Neutrophil in muscular wall",
+      "B": "Lymphoid hyperplasia with giant cell in muscular wall",
+      "C": "Macrophages in muscular wall",
+      "D": "Eosinophils",
+      "E": "Monocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "A diabetic patient with abdominal pain, severe vomiting and visible peristalsis and audible sound on examination, the condition is:",
+    "options": {
+      "A": "GERD",
+      "B": "Achalasia",
+      "C": "Crohn Disease",
+      "D": "Pyloric stenosis",
+      "E": "Gastritis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "A 30 year old man has symptoms of lupoid hepatitis esophageal biopsy revealed columnar lining with intestinal metaplasia this patient has increase risk of developing",
+    "options": {
+      "A": "Adenocarcinoma Stomach",
+      "B": "Adenocarcinoma Esophagus",
+      "C": "Adenocarcinoma of lung",
+      "D": "Adenocarcinoma of Trachea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "An young man has liver enlargement and splenomegaly his ALT is 2561U and AST is 3001U his serum ceruloplasmin was low, what findings will you see in this patients",
+    "options": {
+      "A": "Lense opacities",
+      "B": "Kayser fleischer ring",
+      "C": "Spiderr angioma",
+      "D": "Ptosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Patient with complain of regurgitation chest pain mid night partially relieved by elevation of bed head side Frothy like liquid is coming from mouth what should doctor advised?",
+    "options": {
+      "A": "Upper esophageal splinter removal",
+      "B": "Partial vagotomy",
+      "C": "Complete vagotomy",
+      "D": "Decrease fatty diet",
+      "E": "Lower esophageal splinter removal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Which part of intestine thick loop with less mesentery fat and long Vasa recta with her arcades surgeon asked by uplifting of gut during surgery?",
+    "options": {
+      "A": "Duodenum",
+      "B": "Jejunum",
+      "C": "Ileum",
+      "D": "Colon",
+      "E": "Rectum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Wilson disease characterized by",
+    "options": {
+      "A": "Excess iron",
+      "B": "Excess Potassium",
+      "C": "Excess Copper",
+      "D": "Low Copper"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Which one cause severe steatorrhea?",
+    "options": {
+      "A": "Gall Bladder Resection",
+      "B": "Pancreatic Resection",
+      "C": "Jejunum Resection",
+      "D": "Zollinger Ellison Syndrome",
+      "E": "Colon Resection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Mallory bodies seen in",
+    "options": {
+      "A": "Hepatitis",
+      "B": "RCC",
+      "C": "Hemangioma",
+      "D": "Alcoholic hepatitis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "A woman after RTA was brought to the emergency where she was intubated and was transfused blood. After a few days her Hb got down from 12 to 8. On endoscopy gastritis and gastric ulcers were found What's the reason behind gastritis.",
+    "options": {
+      "A": "Bicarb and Chloride shift.",
+      "B": "Pepsin",
+      "C": "Increased blood flow to mucosa.",
+      "D": "Histamine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "In patient of anorexia nervosa What is seen?",
+    "options": {
+      "A": "Decrease cortisol",
+      "B": "Increase androgen",
+      "C": "Hyperkalemia",
+      "D": "Impaired glucose tolerance test"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A 45 year old man with a long history of alcoholism presents with severe epigastric pain radiating to back nausea vomiting fever and increase in serum amylase diagnose is:",
+    "options": {
+      "A": "Pancreatic CA",
+      "B": "Gall Bladder CA",
+      "C": "Biliary Stone",
+      "D": "Acute Pancreatitis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "A boy is excreting meconium from rectum and has severe constipation. The rectal examination showed no ganglion cells. The condition is called:",
+    "options": {
+      "A": "Intussusceptions",
+      "B": "Hirschsprung's disease",
+      "C": "Anorectal stenosis",
+      "D": "Imperforate anus",
+      "E": "Rectal atresia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "PT is use for following",
+    "options": {
+      "A": "Beri beri",
+      "B": "Jaundice",
+      "C": "VWD",
+      "D": "Haemophilia",
+      "E": "B (Liver Disease)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Hep. B infectivity rate indicated by:",
+    "options": {
+      "A": "HBeAg Positive, HBeAb Negative",
+      "B": "HBeAg Positive, HBsAb Positive",
+      "C": "HBsAg Positive, HBsAg Negative",
+      "D": "HBsAg Positive, HBcAb Negative"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "One year old child presented with diarrhea after 1 year History of some milk intake is given by mother Doctor asked her to stop giving milk to baby Cause is",
+    "options": {
+      "A": "Sprue disease",
+      "B": "Lactose intolerance",
+      "C": "Hirshsprung disease",
+      "D": "Celiac disease",
+      "E": "Whipple disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "A female had colostomy and she is on parenteral nutrition, what problem can arise due to parenteral nutrition?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypocalcaemia",
+      "C": "Hypercalcemia",
+      "D": "Fatty liver",
+      "E": "Hyperglycemia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Bacteria which is carcinogenic is",
+    "options": {
+      "A": "Salmonella",
+      "B": "Bacillus",
+      "C": "H.pylori",
+      "D": "Nisseria"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Achalasia due to defect in:",
+    "options": {
+      "A": "Sympathetic nervous system",
+      "B": "Parasympathetic nervous system",
+      "C": "Myenteric plexuses",
+      "D": "Meissier plexuses",
+      "E": "Mucosa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Pregnant lady has increase amniotic fluid with normal size baby , cause is ?",
+    "options": {
+      "A": "Bilateral renal agenesis",
+      "B": "Posterior urethral valves",
+      "C": "Duodenal atresia",
+      "D": "Club foot",
+      "E": "Pulmonary hypoplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "In case of obstructive jaundice bleeding tendency due to",
+    "options": {
+      "A": "Liver unable to synthesize prothrombin",
+      "B": "Decreased absorption of vit k in gut",
+      "C": "Decreased absorption of vit c in gut",
+      "D": "Decreased bile salts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "A patient is on peritoneal dialysis. His plasma K is 6.5 what will you advice him to avoid",
+    "options": {
+      "A": "Cereals",
+      "B": "Yougart",
+      "C": "Apple",
+      "D": "Tomatos",
+      "E": "Carrots"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Old lady with dysphagia she ignored but after 3 month came back with weight loss and dysphagia to puddings milks now on exam there is a mass in deep middle neck on palpation malignancy of which organ involved?",
+    "options": {
+      "A": "Esophagus",
+      "B": "Larynx",
+      "C": "Trachea",
+      "D": "Tonsil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Patient known case of smoking develop adenocarcinoma of lower third of esophagus what is premalignant history of lower third of esophagus",
+    "options": {
+      "A": "Goblet hyperplasia",
+      "B": "Columnar hyperplasia",
+      "C": "Squamous metaplasia",
+      "D": "Goblet anaplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "An old women presented with jaundice and biliary colic, diagnosis of cholelithiasis was made Synthesis of which of the following enzyme is likely to be increased?",
+    "options": {
+      "A": "AST",
+      "B": "ALP",
+      "C": "ALT",
+      "D": "Nucleases"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Diagnosed case of Appendicitis, Patient complaining of pain in medial rotation and flexion of hip, Most probably position of appendix is:",
+    "options": {
+      "A": "Pelvic",
+      "B": "Retrocecal",
+      "C": "Preileal",
+      "D": "Postileal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "After ileal resection steatorrhea occur due",
+    "options": {
+      "A": "Decrease Absorption of Triglycerides",
+      "B": "Lactose Intolerance",
+      "C": "Decrease absorption of Micelles",
+      "D": "Lactase Intolerance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Common feature of anorexia nervosa, type 1 DM , hyperthyroi & Celiac Disease is",
+    "options": {
+      "A": "Weight loss",
+      "B": "Diarrhea",
+      "C": "Malabsorption of nutrients",
+      "D": "Hypertension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Which of the following is associated with Decrease turnover of bile acids?",
+    "options": {
+      "A": "Ileal resection",
+      "B": "Ileal and colon resection",
+      "C": "Increase cholestyramine",
+      "D": "Jejunal resection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Patient with esophageal bleed. Bp low and pulse above 150. What will be the initial management?",
+    "options": {
+      "A": "Platelets",
+      "B": "Blood transfusion",
+      "C": "Crystalloid",
+      "D": "Colloid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "A 20 year old boy presented with yellowing of sclera with no nausea and vomiting, ALT was normal with increased bilirubin which was unconjugated. He just had eye discoloration which sometimes disappears too. He probably has?",
+    "options": {
+      "A": "Gilbert syndrome",
+      "B": "Rotor syndrome",
+      "C": "Cirrhosis",
+      "D": "Dubin johnson"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "A 38 week pregnant woman visited her family and a remote area after which she develop jaundice suddenly. Which type of hepatitis is most likely prevalent in the pregnant women?",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. D",
+      "E": "Hep. E"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Patient whose small gut is resected due to crohns disease present with hyperoxaluria. The cause of this condition is",
+    "options": {
+      "A": "Decrease blood calcium to form calcium oxalate",
+      "B": "Increase calcium absorption from gut",
+      "C": "Oxalate calcium absorption from gut",
+      "D": "Increase blood calcium to form calcium oxalate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "A patient presented with fever vomiting abdominal pain. On Examination there is guarding of abdomen likely diagnose is",
+    "options": {
+      "A": "Listeria",
+      "B": "Leptospirosis",
+      "C": "Enteric fever with perforation",
+      "D": "Malaria"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Carcinoid syndrome is diagnosed by",
+    "options": {
+      "A": "VMA in urine",
+      "B": "Metnephrin urine",
+      "C": "5 HIAA (hrdoxy indole acetic acid)",
+      "D": "proteins in urine",
+      "E": "Fats in urine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "A person is having history of smoking On Endoscopy there is valvety lesion in lower third of esophagus. It is risk factor for:",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell Carcinoma",
+      "C": "Barretts esophagus",
+      "D": "Chronic esophagitis",
+      "E": "Gastritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "A patient present with esophageal varices having bleeding which vessel is involved?",
+    "options": {
+      "A": "Left gastric Vein",
+      "B": "Right gastric artery",
+      "C": "Splenic artery",
+      "D": "Hepatic artery",
+      "E": "Celiac artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Patient anti HBc IgG positive, anti HBs negative, anti Hbe negative, Hbc and HBeag negative this is:",
+    "options": {
+      "A": "Acute resolving",
+      "B": "Chronic resolving",
+      "C": "Past exposure",
+      "D": "Vaccinated against Hep B",
+      "E": "Incubation period"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "A 44 year old woman is diagnosed with Zollinger Ellison Syndrome which of the following is Consistent with the diagnosis?",
+    "options": {
+      "A": "Decreased serum gastrin levels.",
+      "B": "Increased serum insulin levels.",
+      "C": "Increased absorption of dietary lipids.",
+      "D": "Decreased partial cell mass.",
+      "E": "Peptic ulcer disease"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Chagas disease and congenital megacolon affects which layer of GIT:",
+    "options": {
+      "A": "Serosa",
+      "B": "Mucosa",
+      "C": "Submucosa",
+      "D": "Muscularis externa",
+      "E": "Muscularis mucosa"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "A 28 years old male was prescribed nicotinic acid for his hypercholesterolemia e noticed yellow discoloration of sclera after few days lab investigations shows hb 11g/dl serum bilirubin total 3mg/dl direct bilirubin 0.8mg/dl alt 35iu/l the most likely cause of his jaundice is",
+    "options": {
+      "A": "Drug induced hepatitis",
+      "B": "Dubin jonson syndrome",
+      "C": "Gilbert syndrome",
+      "D": "Hemolysis",
+      "E": "Viral hepatitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "An young man has liver enlargement and splenomegaly his ALT is 256IU and AST is 300IU his immunogolubuln test normal and has ring in eye, what is most useful investigation?",
+    "options": {
+      "A": "Ceruloplasmin",
+      "B": "Liver biopsy with stain",
+      "C": "USG",
+      "D": "X-ray Eye"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Test necessary for Anti HCV positive patient before starting treatment:",
+    "options": {
+      "A": "USG abdomen",
+      "B": "LFT",
+      "C": "LFT",
+      "D": "PCR HCV RNA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A person is having history of smoking and drinking from many years on endoscopy there is a mass in middle third of esophagus. What it could it likely be?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell Carcinoma",
+      "C": "Baretts esophagus",
+      "D": "Chronic esophagitis",
+      "E": "Gastritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "A child developed diarrhea, biopsy shows villous atrophy but gluten free diet does not improve his symptoms diagnose is:",
+    "options": {
+      "A": "Celiac disease",
+      "B": "Whipple disease",
+      "C": "Shigellosis",
+      "D": "Giardiasis",
+      "E": "Tropical sprue"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Adenocarcinoma of colon first metastasize to:",
+    "options": {
+      "A": "Liver",
+      "B": "Mesocolic lymph",
+      "C": "Lung",
+      "D": "Bone",
+      "E": "Breast"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "In portal HTN following vein is likely to be dilated:",
+    "options": {
+      "A": "Esophageal",
+      "B": "Right gastric",
+      "C": "Azygous vein",
+      "D": "Inferior epigastric",
+      "E": "Inferior phrenic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Female with right upper quadrant pain, mild jaundiced and yellow sclera, cause of Icterus Diagnosis of Primary Biliary Cirrhosis made is confirmed by?",
+    "options": {
+      "A": "AMA",
+      "B": "Elisa",
+      "C": "X-ray",
+      "D": "Ct-scan",
+      "E": "ANA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Arshad had Eaten cholay from a street vendor, now develops nausea, vomiting and jaundice, what is Likely cause?",
+    "options": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Hepatitis C",
+      "D": "Hepatitis D",
+      "E": "Hepatitis G"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "An eight month, old infants present with alternating episodes of obstruction and passage of diarrheal stools. Radiological finding show dilated bowel segments. Colonic biopsy finding reveal absence of ganglion cell in the distended bowel segment. It is a case of:",
+    "options": {
+      "A": "Ischemic bowel disease",
+      "B": "Hirschsprung disease",
+      "C": "Meckel diverticulum",
+      "D": "Omphalocele",
+      "E": "Intestinal malrotation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "A young boy came in Er with profuse bleeding from minor trauma he has this complain for last 6 month there is no family history he has also chronic Kidney failure time 6mins clotting time 30min most likely cause is:",
+    "options": {
+      "A": "Christmas disease",
+      "B": "Classical disease",
+      "C": "Liver failure",
+      "D": "Kidney failure",
+      "E": "Vitamin k deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "An alcoholic hypothyroid patient Presented with epigastric pain, nausea anaemic Biopsy of stomach shows atrophic gastritis what shall be the treatment plan?",
+    "options": {
+      "A": "Inj Vitamin B12",
+      "B": "Oral folic acid",
+      "C": "Iron intake",
+      "D": "Alcoholic abstinence",
+      "E": "Increase thyroxine dose"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Truncal vagotomy causes:",
+    "options": {
+      "A": "Decrease gastric motility",
+      "B": "Decrease acid secretion",
+      "C": "Decrease pepsin secretion",
+      "D": "None of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Most common organism for pyogenic liver abscess:",
+    "options": {
+      "A": "E. coli",
+      "B": "Pseudomonas",
+      "C": "Streptococcus",
+      "D": "Staph aureus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "A male has been diagnosed with colon cancer through CEA doctor does CEA for what?",
+    "options": {
+      "A": "For Site of malignancy",
+      "B": "Size of malignancy",
+      "C": "To see metastasis",
+      "D": "To see treatment effects"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Iron deficiency anemia, glossitis, and cheilosis are the features of:",
+    "options": {
+      "A": "Mallory-Weiss syndrome",
+      "B": "Hirschsprung disease",
+      "C": "Plummer Vinson syndrome",
+      "D": "Menetrier Disease",
+      "E": "Zollinger -Ellison Syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "In jaundice clotting time is prolonged due to:",
+    "options": {
+      "A": "Increase thrombin",
+      "B": "Decrease prothrombin",
+      "C": "Increase prothrombin",
+      "D": "Decrease Factor 8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Which one is premalignant?",
+    "options": {
+      "A": "Hamartomatous polyp",
+      "B": "Hyperplastic polyp",
+      "C": "Chronic nonspecific gastritis",
+      "D": "Atrophic gastritis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "The Most Common cause of esophageal varices is?",
+    "options": {
+      "A": "Hepatic schistosomiasis",
+      "B": "Portal hypertension",
+      "C": "Hepatic failure",
+      "D": "Cirrhosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Patient presented with sign and symptoms of appendicitis emergency appendectomy was performed which fluid will be present after appendectomy?",
+    "options": {
+      "A": "Exudative",
+      "B": "Transcellular",
+      "C": "Serous",
+      "D": "Infected",
+      "E": "Fibrinous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Benign tumor common in git is of which of following:",
+    "options": {
+      "A": "Smooth muscle",
+      "B": "Adipose",
+      "C": "Epithelium",
+      "D": "Skeletal muscle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Young boy eo. O food from restaurant and after few days develop jaundice and loss of appetite cause is:",
+    "options": {
+      "A": "Hepatitis C",
+      "B": "Hepatitis A",
+      "C": "Hepatitis B",
+      "D": "Hepatitis G",
+      "E": "Liver failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "A patients undergoes renal transplant, he is on immunosuppressive therapy and develops angular chelitis and GIT problems causative agent is:",
+    "options": {
+      "A": "EBV",
+      "B": "Dudenal ulcer",
+      "C": "Gastric ulcer",
+      "D": "Candida Esophagitis",
+      "E": "Aspergillus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "In prehepatic jaundice there is:",
+    "options": {
+      "A": "Increase conjugated bilirubin",
+      "B": "Increase indirect bilirubin",
+      "C": "Absent hapcidin",
+      "D": "Over production of hepcidin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Vaccination schedule for Hepatitis:",
+    "options": {
+      "A": "0, 1, 6 month",
+      "B": "12 month",
+      "C": "6, 12 month",
+      "D": "0, 1, 8 month"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "A 19 years old female with increased TAGS, which one of the following serious condition can occur?",
+    "options": {
+      "A": "Pancreatitis",
+      "B": "Appendicitis",
+      "C": "Cystitis",
+      "D": "Cholecystitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "A 55-year-old male alcoholic presents with symptoms of liver disease and jaundice. We have mildly elevated liver enzymes. A liver biopsy examined with a routine hematoxylin and eosin (H&E) stain reveals abnormal clear spaces with in the cytoplasm of most of the hepatocytes. Which of the following is most likely cause of this:",
+    "options": {
+      "A": "Hemosiderin",
+      "B": "Lipochrome",
+      "C": "Lipofuscin",
+      "D": "Steatosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "A pregnant lady which develops some skin changes just like her uncle who is HCV + and cirrhosis which are those changes:",
+    "options": {
+      "A": "Spider telangectasia and palmer erythema",
+      "B": "Spider telengectasia and Hyperpigmentation",
+      "C": "Striae and Cholastama",
+      "D": "Spider neviae"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "AST is raised in?",
+    "options": {
+      "A": "MI",
+      "B": "Muscular dystrophy",
+      "C": "Bone disease",
+      "D": "Prostatic carcinoma",
+      "E": "Pancreatitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "A patient has sudden onset of pain in abdomen hypochondrium region on u/s fluid filled in pancreas which enzyme will be specific?",
+    "options": {
+      "A": "Lipase",
+      "B": "Liguase",
+      "C": "Sucrase",
+      "D": "Salivase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "A patient of 56 years, he has now developed jaundice and jaundice, delta antigen is +ve. What does this indicate?",
+    "options": {
+      "A": "Immune from disease",
+      "B": "Superinfection with severity of disease",
+      "C": "Chronicity",
+      "D": "Resolution"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "HB surface and core antigen +ve. Core antibody IGM is +ve what is that?",
+    "options": {
+      "A": "Acute infection",
+      "B": "Chronic infection",
+      "C": "Immunization",
+      "D": "Recovery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Hep B +ve patient has raised AFP, He might be having?",
+    "options": {
+      "A": "Hepatitis",
+      "B": "HCC",
+      "C": "Lymphoma",
+      "D": "Thymoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Students went on trip during trip students were advised not to eat cholay from one shop but one student ate cholay from one of the shop and started abdominal pain at night which nerve is involved:",
+    "options": {
+      "A": "Splanchnic sympathetic",
+      "B": "Splanchnic parasympathetic",
+      "C": "Sympathetic somatic",
+      "D": "Somatic both"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Microscopic feature of chronic disease of liver in hepatitis C case",
+    "options": {
+      "A": "Lymphocytes infiltration",
+      "B": "Fatty Accumulation",
+      "C": "Portal & periportal fibrosis",
+      "D": "Dense lymphocytic infiltrates"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "In pregnancy increased level Bilirubin 40mg,all other was normal",
+    "options": {
+      "A": "Primary biliary cirrhosis",
+      "B": "Cholestatic liver",
+      "C": "Primary cholangitis",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "Gastrectomy performed 1.2 years back now presented with tingling sensation. On investigation, MCV 112. What is the probable diagnosis?",
+    "options": {
+      "A": "Anemia of chronic disease",
+      "B": "Iron deficiency anemia",
+      "C": "Pernicious anemia",
+      "D": "Folic acid deficiency anemia",
+      "E": "C (Prefer B 12 Deficiency anemia if present in option)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "62 years old patient of cirrhosis presented with edema & swelling in legs, the mechanism of edema in case of cirrhosis is which of following?",
+    "options": {
+      "A": "Increased plasma colloid osmotic pressure",
+      "B": "Decreased plasma colloid osmotic pressure",
+      "C": "Decreased hydrostatic pressure",
+      "D": "Increased hydrostatic pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "A patient with pyloric stenosis has chronic vomiting the most likely biochemical abnormality in this would be",
+    "options": {
+      "A": "High serum bicarbonate",
+      "B": "Hypokalemia",
+      "C": "Hyponatremia",
+      "D": "Hypovolemia",
+      "E": "Decreased PH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Patient developed anemia after gastrectomy what should be given to him",
+    "options": {
+      "A": "Transcobalamin I",
+      "B": "Vitamin B6",
+      "C": "Folic acid",
+      "D": "Intrinsic factor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Chronic Liver Disease will have:",
+    "options": {
+      "A": "Prolong Prothrombin Time",
+      "B": "Decrease albumin",
+      "C": "Increase albumin",
+      "D": "Short Prothrombin time"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Which of the following is the commonest site for ectopic salivary gland?",
+    "options": {
+      "A": "Palate",
+      "B": "Buccal mucosa",
+      "C": "Lips",
+      "D": "Tongue",
+      "E": "Pharynx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "A patient presented with Swelling at the floor of Mouth. On bimanual palpation of mouth, Sialolith in duct of salivary gland. Which salivary gland is most probably involved?",
+    "options": {
+      "A": "Sublingual gland",
+      "B": "Submandibular gland",
+      "C": "Parotid gland",
+      "D": "Minor salivary glands at the base of tongue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Which of the following virus is most commonly associated with chronic liver failure?",
+    "options": {
+      "A": "Hepatitis A",
+      "B": "Hepatitis B",
+      "C": "Hepatitis E",
+      "D": "Hepatitis C"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "An alcoholic presented with Dysphagia to solids as well as liquids. What it could be?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Basal cell carcinoma",
+      "C": "Melanoma",
+      "D": "Adenocarcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "In a patient with liver Disease which factor used to monitor see he is developing acute liver failure?",
+    "options": {
+      "A": "Serum albumin",
+      "B": "Serum AFP",
+      "C": "Serum bilirubin",
+      "D": "Factor V estimation",
+      "E": "PT",
+      "F": "E > D (Davidson + Harrison)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Carcinomas are usually very lethal & incurable. Which one of the following is curable Carcinoma?",
+    "options": {
+      "A": "Gastric adenocarcinoma",
+      "B": "Colon carcinoma",
+      "C": "Melanoma",
+      "D": "Lung carcinoma",
+      "E": "Hepatocellular carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "55years old male with past history of epigastric pain for which he was taking antacids was diagnosed as gastric lymphoma what is the most likely cause?",
+    "options": {
+      "A": "Drug induced gastritis",
+      "B": "Ulcers",
+      "C": "Intestinal metaplasia",
+      "D": "Atopic gastritis",
+      "E": "H Pylori"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "A patient presented with crohn disease, for her treatment of remission corticosteroids are given what is best for maintenance of remission of her disease:",
+    "options": {
+      "A": "Methotrexate",
+      "B": "Mesalamine",
+      "C": "Azathioprine",
+      "D": "Bedosinide",
+      "E": "Ciprofloxacin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "An old patient with a history of constipation and abdominal pain. While investigating, a mass is found in the colon which was diagnosed as adenocarcinoma. Which of the following is the risk factor for colonic adenocarcinoma?",
+    "options": {
+      "A": "Smoking",
+      "B": "Alcohol",
+      "C": "Sedentary lifestyle",
+      "D": "Entamoeba",
+      "E": "Fatty diet"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "A patient having Total anti Hbc reactive, IgM -ve, Hbs ag-ve & Anti HBS Positive. What is the probable diagnosis?",
+    "options": {
+      "A": "Past exposure",
+      "B": "Immunity from disease",
+      "C": "Active Liver disease",
+      "D": "Chronic Liver disease",
+      "E": "Latent infection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "A girl presented with persistent cough with thick mucus, wheezing and Repeated lung infections. She is also having petechia all over body and have bleeding tendency. Which Vit is deficient in this case?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin k",
+      "C": "Vitamin D",
+      "D": "Vitamin C"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Liver regenerates after partial hepatectomy in how many days:",
+    "options": {
+      "A": "5-7 Days",
+      "B": "6-15 Days",
+      "C": "14-21 Days",
+      "D": "4-6 Weeks"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Boy ate street food after which he developed Nausea, Vomiting, Scleral icterus & Jaundice. Which of the following is responsible for this presentation?",
+    "options": {
+      "A": "Hepatitis B",
+      "B": "Hepatitis A",
+      "C": "Hepatitis E",
+      "D": "Hepatitis D"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "A patient with history of chronic foul smelling diarrhea with no history of abdominal pain, no occult bleeding. On stool DR, fatty stools. Biopsy shows villous atrophy, lymphocytes and crypt hyperplasia. What will you advise to the patient?",
+    "options": {
+      "A": "Corticosteroids",
+      "B": "Antibiotics",
+      "C": "Gluten free diet",
+      "D": "Surgery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "A person presents with abdominal pain for 2 months. On investigations there is a mass in duodenum that is found to be arising from submucosa from where mass is arising.",
+    "options": {
+      "A": "Lactase",
+      "B": "Peptidase",
+      "C": "Acidic Mucus",
+      "D": "Urogastrone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "Brunner gland located in submucosa of duodenum secrete alkaline mucus and urogastrone.",
+    "options": {
+      "A": "An old man with liver mass, Hbs positive & raised AFP 1000, He might be having?",
+      "B": "Hepatitis",
+      "C": "Hepatocellular carcinoma",
+      "D": "Lymphoma",
+      "E": "Thymoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "In alcoholic Patient Steatohepatitis develops due to:",
+    "options": {
+      "A": "Acetate",
+      "B": "Cholesterol",
+      "C": "Fatty acids",
+      "D": "Phospholipid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Which of the following vitamin is deficient in chronic pancreatitis?",
+    "options": {
+      "A": "B12",
+      "B": "B7",
+      "C": "Vitamin D",
+      "D": "Vitamin C",
+      "E": "Thiamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Child having meckel diverticulum is having bleeding per rectum due to:",
+    "options": {
+      "A": "Volvulus",
+      "B": "Chronic inflammation",
+      "C": "Ectopic gastric tissue",
+      "D": "Jejunum",
+      "E": "Cecum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "In an adult ileostomy and jejunectomy has been done. He has diarrhea and 15 - 20 bowel sounds per minute. The most likely cause of this decreased transit time is:",
+    "options": {
+      "A": "Secretory diarrhea",
+      "B": "Osmotic diarrhea",
+      "C": "Secretory+Osmotic diarrhea",
+      "D": "High concentration of Bile Salts in the colon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "A patient with acute diarrhea has serum CI = 112, sodium 131, Potassium 2.5, anion gap 10, what is the most likely type of metabolic acidosis?",
+    "options": {
+      "A": "Hyperchloremic metabolic acidosis with a normal anion gap",
+      "B": "Hypochloremic metabolic acidosis with an increased anion gap",
+      "C": "Hyperchloremic metabolic acidosis with an increased anion gap",
+      "D": "Hyperchloremic metabolic acidosis with an increased anion gap"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "A patient with abdominal pain has been taking 10 tablets of paracetamol (500 mg each), along with aspirin and other NSAIDs. Considering the potential effects of these medications, which investigation should be ordered first?",
+    "options": {
+      "A": "Liver Function Tests",
+      "B": "Urea, Creatinine, & Electrolytes",
+      "C": "CT Scan of the Abdomen",
+      "D": "Ultrasound of the Abdomen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Patient came with a brain lesion and there is formation of ring seen in peripheral cornea on investigation what will be seen",
+    "options": {
+      "A": "Increase Serum Ceruloplasmin in blood",
+      "B": "Increase serum ceruloplasmin in urine",
+      "C": "Decrease copper in blood",
+      "D": "Decrease Serum Ceruloplasmin in blood"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "In a patient with cirrhosis who presents with acquired bleeding abnormalities, which of the following laboratory findings is most consistent with the condition?",
+    "options": {
+      "A": "Prolonged bleeding time",
+      "B": "Prolonged prothrombin time",
+      "C": "Prolonged activated partial thromboplastin time",
+      "D": "Decreased albumin",
+      "E": "Normal clotting time"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "30 years old female patient presented with Nausea, vomiting and gastric upset for 5 days. Biopsy of stomach shows lymphocytes neutrophils, macrophages, plasma cells but no ulceration. What is the most probable diagnosis?",
+    "options": {
+      "A": "H pylori",
+      "B": "Staph aureus septicemia",
+      "C": "Tb",
+      "D": "Gastric Ca",
+      "E": "Gastritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Liver cirrhosis patient with coagulopathy, transfusion before surgery by which fluid?",
+    "options": {
+      "A": "Lymphocyte removed full blood",
+      "B": "FFP",
+      "C": "Cryoprecipitate",
+      "D": "Albumin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "A patient presents with pain in the right hypochondrium that worsens over time after eating. The pain is aggravated by palpation in the right hypochondrium, and the patient tends to hold their breath during palpation. What is the most likely diagnosis?",
+    "options": {
+      "A": "Acute pancreatitis",
+      "B": "Acute cholecystitis",
+      "C": "Cholelithiasis",
+      "D": "Appendicitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Location of Chylomicrons in liver:",
+    "options": {
+      "A": "Cholangiole",
+      "B": "Space of disse",
+      "C": "Sinusoids",
+      "D": "Herring canal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Which of the following plays a mitogenic role in regeneration in early stages after partial hepatectomy:",
+    "options": {
+      "A": "EDGF",
+      "B": "Hepatocyte growth factor",
+      "C": "PDGF",
+      "D": "Methionine related drugs",
+      "E": "TGF-alpha"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "19 years old child presented with scleral icterus & pale stools. Investigations reveal Decreased Haptoglobin. Total Bilirubin 3.5 Indirect Bilirubin 2.8. Diagnosis?",
+    "options": {
+      "A": "Rotor Syndrome",
+      "B": "Hereditary Spherocytosis",
+      "C": "Gilbert Syndrome",
+      "D": "Dubin Johnson Syndrome",
+      "E": "Crigler Najjar Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "Councilman bodies occur in process of:",
+    "options": {
+      "A": "Hypertrophy",
+      "B": "Apoptosis",
+      "C": "Atrophy",
+      "D": "Yellow fever"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "TRUE regarding Gastric emptying:",
+    "options": {
+      "A": "Increases with increased secretin",
+      "B": "Increases with increased CCK",
+      "C": "Increases with Exaggerated muscle activity",
+      "D": "Increases with Vagotomy",
+      "E": "Decreases by decreased vagal stimulation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Ileal resection of patient done. what will happen post surgery",
+    "options": {
+      "A": "Constipation",
+      "B": "Steatorrhea",
+      "C": "Weight loss",
+      "D": "Diarrhea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "A patient presents with symptoms of flushing, diarrhea & wheezing along with raised JVP.What is the most likely diagnosis?",
+    "options": {
+      "A": "Carcinoid tumor",
+      "B": "Mesenteric Ischemia",
+      "C": "Inflammatory bowel disease",
+      "D": "Peptic ulcer disease",
+      "E": "Crohn's disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "A breast fed child with raised unconjugated bilirubin levels on 2nd day, reason when mother is B positive.",
+    "options": {
+      "A": "Physiological jaundice",
+      "B": "Rh incompatibility",
+      "C": "Breast milk jaundice",
+      "D": "Gilbert Atresia",
+      "E": "Neonatal hemorrhagic disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "A patient receiving multiple transfusion with raised ferritin levels, receiving chelating therapy but not compliant what could likely be the cause of his mortality?",
+    "options": {
+      "A": "Liver disease and cirrhosis",
+      "B": "dysthymia",
+      "C": "Hemosiderosis",
+      "D": "Adrenals"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "pylori infection has a definite etiologie role in pathogenesis of:",
+    "options": {
+      "A": "Chronic gastritis",
+      "B": "Gastric MALT lymphoma",
+      "C": "Gastric adenocarcinoma",
+      "D": "Duodenal adenocarcinoma",
+      "E": "Peptic ulcer disease"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "A 45 year old patient presents with diarrhea,and vomiting on DRE rectum was smooth and warm on sigmoidoscopy no mass was present, but rectal mucosa was inflamed which of the following is appropriate treatment",
+    "options": {
+      "A": "5 aminosalicyclic acid",
+      "B": "Topical Steriods",
+      "C": "IV Antibiotics",
+      "D": "Only follow up",
+      "E": "Enema with salazine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "diabetic patient with abdominal pain, severe vomiting and visible peristalsis and audible sound on examination, diagnosed as a case of pyloric stenosis which of following change u will seen on lab findings",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Hyperchloremia",
+      "C": "Hypochloremia",
+      "D": "Hyperkalemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Which of the following is precursor lesion of adenocarcinoma of the stomach",
+    "options": {
+      "A": "Atrophic gastritis",
+      "B": "Hypertrophy",
+      "C": "Hemartomatous polyp",
+      "D": "Hyperplastic polyp"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "An alcoholic patient with stricture in esophagus diagnose by",
+    "options": {
+      "A": "Endoscopy",
+      "B": "Ultrasound",
+      "C": "X-ray",
+      "D": "CT chest and abdomen",
+      "E": "MRI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "14 year old patient present in OPD with yellow discolouration of skin and sclera which of the following investigation u will order",
+    "options": {
+      "A": "Bilirubin",
+      "B": "Bilirubin +ALT",
+      "C": "CBC",
+      "D": "Biopsy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Which of the following labs you will find in severe pancreatitis",
+    "options": {
+      "A": "Amylase 800, Albumin 3.2 ,WBCs 18k",
+      "B": "Amylase 500, wbcs 18k ,PCO2 65%",
+      "C": "AST>250, wbcs 18k,albumin 3.1, Amylase 800",
+      "D": "Amylase 800,LDH 370, albumin 3.1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "An elderly patient presents in OPD with thick white layer in the mouth what is likely diagnosis",
+    "options": {
+      "A": "Oral thrush",
+      "B": "Leukoplakia",
+      "C": "Lichen planus",
+      "D": "Oral carcinoma",
+      "E": "Oral hairy leukoplakia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "A 50 year old female presents in OPD with complain of episodic flushing,diarrhea and abdominal cramping she also reports experiencing wheezing and SOB cardiac auscultation reveals a holosystolic murmur best heared at lower left sternal border which increases with inspiration her blood pressure is normal and pulse is slightly elevated which of the following is ur diagnosis",
+    "options": {
+      "A": "Colorectal cancer",
+      "B": "Carcinoid syndrome",
+      "C": "Crohn's disease",
+      "D": "Ischemic colitis",
+      "E": "Pheochromocytoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "A patient presents with multiple bowel and vascular injuries vascular injuries have been repaired but the patient is now found to have metabolic acidosis which is ur next best step in management",
+    "options": {
+      "A": "Resect the bowel ,form a stoma and transfer the patient to icu",
+      "B": "Form a stoma ,leave the abdomen open and transfer to icu",
+      "C": "Resect the bowel and close the abdomen",
+      "D": "Stop surgery and resuscitate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "A patient with history of chronic foul smelling diarrhea with no history of abdominal pain, no occult bleeding. On stool DR, fatty stools. Biopsy shows villous atrophy, lymphocytes and crypt hyperplasia.What will you advise to the patient?",
+    "options": {
+      "A": "Corticosteroids",
+      "B": "Antibiotics",
+      "C": "Gluten free diet",
+      "D": "Surgery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "72 year old male present with sudden onset left lower abdominal pain ,fever and bright red rectal bleeding on examination he has tenderness in left iliac fossa and he is febrile. A CT scan of the abdomen reveals thickened sigmoid colon what is likely diagnosis of the patient",
+    "options": {
+      "A": "Colorectal cancer",
+      "B": "Acute sigmoid diverticulitis",
+      "C": "Ischemic colitis",
+      "D": "Irritable bowel syndrome",
+      "E": "Crohn's disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "A 35 year old patient presents with complain of a sore ,inflamed tongue(glossitis. ,persistent abdominal distention,and noticeable pigmentation on skin over past few months the patient also reports occasional diarrhea, fatigue, and weight loss which of the following condition is most likely describes the patient condition",
+    "options": {
+      "A": "Ulcerative colitis",
+      "B": "Whipple disease",
+      "C": "Crohn's disease",
+      "D": "Celiac disease"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "A 45 year old male with heart burn and epigastric pain occurring 2 hour post prandial especially at night what is most likely diagnosis",
+    "options": {
+      "A": "Gastric ulcer",
+      "B": "Duodenal ulcer",
+      "C": "Esophagitis",
+      "D": "Esophageal spasm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "A patient has been in a coma for a prolonged period and was receiving total parenteral nutrition (TPN). The patient now has gastric atrophy. What is the most likely reason for this condition?",
+    "options": {
+      "A": "Increased secretin",
+      "B": "Increased gastrin",
+      "C": "Low gastrin",
+      "D": "Low cholecystokinin (CCK)",
+      "E": "Low cholecystokinin (CCK)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "What is the most common organism isolated in ascitic fluid obtained via paracentesis (ascitic tap)?",
+    "options": {
+      "A": "E. coli",
+      "B": "Proteus",
+      "C": "Klebsiella",
+      "D": "Bacteroids"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Most important factor causing liver carcinoma?",
+    "options": {
+      "A": "Alcohol",
+      "B": "Smoking",
+      "C": "Hep. A",
+      "D": "Drug use"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "In a patient with a gastric ulcer due to reflux, which area is most likely affected?",
+    "options": {
+      "A": "Esophagus",
+      "B": "Pylorus",
+      "C": "Fundus of the stomach",
+      "D": "Cardia of the stomach"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "A female trying to lose weight by consuming bran bread complains of diarrhea, gas, abdominal cramps, and fatigue during her morning walk. What is the most likely diagnosis? (Medicine Feb 2025)",
+    "options": {
+      "A": "Lactose intolerance",
+      "B": "Wheat intolerance",
+      "C": "Anemia due to malabsorption of iron",
+      "D": "Anemia due to malabsorption of B12"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "A 40-year-old male is now presenting with ulcerative colitis of gastrointestinal symptoms. Which of the following can be used to assess the severity of the exacerbation? (Medicine Feb 2025)",
+    "options": {
+      "A": "Erythema nodosum",
+      "B": "Anemia",
+      "C": "Dose Salazopyrin",
+      "D": "Ankylosing spondylitis",
+      "E": "Dysplasia on colonoscopy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "Patient is having cholestatic jaundice. Cause of increase CT is: (Medicine Feb 2025)",
+    "options": {
+      "A": "Increase fats in the stool",
+      "B": "Decrease PT",
+      "C": "Increase Water content of Stool",
+      "D": "Due to Bile stones",
+      "E": "Decreased Vitamin C"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Non neoplastic cause of Ascites due to viserai organs: (Medicine Feb 2025)",
+    "options": {
+      "A": "Cirrhosis",
+      "B": "Alcohol",
+      "C": "Budd Chiari Syndrome",
+      "D": "Portal Vein Thrombosis",
+      "E": "Fulminant Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "A 40-year-old female presents with right upper quadrant (RUQ) pain, right-sided pleural effusion, and high-grade fever. What is the most likely diagnosis? (Medicine Feb 2025)",
+    "options": {
+      "A": "Acute cholecystitis",
+      "B": "Liver abscess",
+      "C": "Hydatid cyst",
+      "D": "Pulmonary embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "Which of the following is the most convenient non-invasive test for the diagnosis of Helicobacter pylori infection?(Medicine Feb 2025)",
+    "options": {
+      "A": "ELISA",
+      "B": "Ammonia breath test",
+      "C": "Urea breath test",
+      "D": "Culture and sensitivity",
+      "E": "Biopsy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Which of the following is the primary source of fluid accumulation in ascites? (Medicine Feb 2025)",
+    "options": {
+      "A": "Peritoneal lymphatics",
+      "B": "Systemic vasculature",
+      "C": "Hepatic vasculature",
+      "D": "Portal vasculature"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "After miscarriage female bleed heavily what is best regimen for management",
+    "options": {
+      "A": "Antibiotics, ffp, Packed Rbcs, Evacuation and transmine",
+      "B": "Heparin, normal saline, packed rbs and platelets and evacuation",
+      "C": "Transamine, packed rbcs and platelets",
+      "D": "Dextrose saline"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "A new born was present with esophageal atresia which of the following is most characteristic symptom:(Surgery Feb 2025)",
+    "options": {
+      "A": "Regurgitation of first feed",
+      "B": "Drooling of saliva",
+      "C": "Coughing on feeding",
+      "D": "cyanosis during feeding"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "40 years old obese lady presented with jaundice. Investigations reveal high levels of Conjugated bilirubin along with High Urinary Bilirubin & normal urobilinogen. Most likely diagnosis? (Surgery Feb 2025)",
+    "options": {
+      "A": "Obstruction of CBD",
+      "B": "Liver Parenchymal Injury",
+      "C": "Hepatitis b and c",
+      "D": "Dubin johnson",
+      "E": "UGT Deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "A 50-year-old patient with a history of tubulovillous adenoma of the colon presents with iron-deficiency anemia and weight loss. What is the most likely diagnosis?(Surgery Feb 2025)",
+    "options": {
+      "A": "Diverticulitis",
+      "B": "Colonic adenocarcinoma",
+      "C": "Inflammatory bowel disease",
+      "D": "Colon lymphoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "A patient presented with Jaundice along with Pain RHC. Investigations reveal ALP level of 1100. Most likely Diagnosis? (Surgery Feb 2025)",
+    "options": {
+      "A": "Viral Hepatitis",
+      "B": "Obstruction of Common Bile Duct",
+      "C": "Dubin Johnson Syndrome",
+      "D": "Liver Parenchymal Injury"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "A 20 year old boy presented with yellowing of sclera with no nausea and vomiting, ALT was normal with increased bilirubin which was unconjugated. He sometimes disappears too. He probably has? (Surgery Feb 2025)",
+    "options": {
+      "A": "Gilbert syndrome",
+      "B": "Rotor syndrome",
+      "C": "Cirrhosis",
+      "D": "Dubin johnson"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "An 45- year- old woman presents to the clinic with complaints of progressive dysphagia for both solids and liquids over the past few months. She reports difficulty in belching and occasional regurgitation of undigested food. On further questioning, she denies weight loss or chest pain. A chest X- ray reveals air- fluid levels in the mediastinum, and an esophagogram shows a \"bird-beak\" appearance of the lower esophageal sphincter. What is the most likely diagnosis? (Surgery Feb 2025)",
+    "options": {
+      "A": "Achalasia",
+      "B": "Esophageal spasm",
+      "C": "CREST syndrome",
+      "D": "Gastritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "A patient presents with acidosis and hypokalemia. The fluid is most likely being drained from which part of the gastrointestinal tract?(Gynae Feb 2025)",
+    "options": {
+      "A": "Duodenum",
+      "B": "Jejunum",
+      "C": "Ileum",
+      "D": "Colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "40 year female presented with C/O diarrhea. Facial flushing, right sided heart murmur due to involvement of Tricuspid valve. Most probable diagnosis? (Gynae Feb 2025)",
+    "options": {
+      "A": "Colorectal CA",
+      "B": "Kruckenberg tumor",
+      "C": "Post menopausal syndrome",
+      "D": "Carcinoid syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "A patient present with history of smoking and alcohol present with mid esophageal mass what is your diagnosis(Radiology Feb 2025)",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Basal cell carcinoma",
+      "D": "Barret esophagus",
+      "E": "Esophagitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "Which of the following will occur if pancreatic secretion not reaching the intestine(Radiology Feb 2025)",
+    "options": {
+      "A": "Lactose intolerance",
+      "B": "No chylomicron formation",
+      "C": "Glycogen malabsorption",
+      "D": "Steatorrhea",
+      "E": "NO Triglyceride absorption"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "A new born was present with esophageal atresia which of the following is most characteristic symptom(Radiology Feb 2025)",
+    "options": {
+      "A": "Regurgitation of first feed",
+      "B": "Drooling of saliva",
+      "C": "Coughing spell on eating",
+      "D": "cyanosi during feeding"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "Young Woman wants to loose weight & taking Ipecac for the said purpose. After that, she develops 15 episodes of vomiting, hypotension & SOB. Recent 2 Episodes show bright red blood. What is the most Probable diagnosis(Anesthesia Feb 1025)",
+    "options": {
+      "A": "Perforated peptic ulcer",
+      "B": "Gastric ulcer",
+      "C": "Mallory Weis tear",
+      "D": "Boerhaave syndrome",
+      "E": "Gastritis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "A man experienced repeated episodes of vomiting followed by chest pain, tachycardia, and fluid accumulation in the supraclavicular region. What is the most likely cause? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Mallory Weis tear",
+      "B": "Boerhaave Syndrome",
+      "C": "Gastric Perforation",
+      "D": "Duodenal Perforation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "26 year old girl 28 week of gestation developed vomiting, bilirubin 20mg/dl AST272 and ALT 220 two weeks back when she went to meet her parents in a remote village. What is her diagnosis? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Hep. A",
+      "B": "Hep. B",
+      "C": "Hep. C",
+      "D": "Hep. D",
+      "E": "Hep. E"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "An elderly patient presents with Fever, Malaise & lower abdominal pain. O/E, there is tenderness in the left iliac fossa, and a history of loose stools with blood. What is the most appropriate investigation to perform?(Radiology Feb 2025)",
+    "options": {
+      "A": "X ray",
+      "B": "Colonoscopy",
+      "C": "Sigmoidoscopy",
+      "D": "CT Abdomen",
+      "E": "Barium enema"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "A cirrhosis patient was having air level in the branching pattern inside the liver extending upto the peripheral capsule. Which part is involved? (Radiology Feb 2025)",
+    "options": {
+      "A": "Extra hepatic biliary tree",
+      "B": "Intrahepatic biliary tree",
+      "C": "Portal vein tributaries",
+      "D": "Hepatic Veins"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "Severity of Pancreatitis is best assessed by: (Radiology Feb 2025)",
+    "options": {
+      "A": "Amylase 650, WBC 18,000, PaO2 65 mmHg",
+      "B": "Amylase, LDH, and Albumin levels",
+      "C": "Amylase 800, WBC elevated, and LDH 6.5",
+      "D": "Serum lipase alone is the best predictor of severity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "A 40-year-old patient presents with a long history of postprandial right upper quadrant (RUQ) pain. He now has fever, raised TLC, gallbladder wall thickening, multiple gallstones, and pericholecystic fluid on ultrasound.What is the most likely diagnosis?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Perforated gallbladder",
+      "B": "Gallbladder mucocele",
+      "C": "Biliary colic",
+      "D": "Acute cholecystitis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "Hirschsprung's disease primarily affects which part of the large intestine?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Ascending colon",
+      "B": "Sigmoid colon",
+      "C": "Cecum",
+      "D": "Rectum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "A young patient has five episodes of vomiting and no other symptoms. Investigation shows an air fistula between the pancreas and the GIT. Where is the fistula most likely located? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Colon",
+      "B": "Descending colon",
+      "C": "Stomach",
+      "D": "Duodenum",
+      "E": "Jejunum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "A patient with dysphagia undergoes an endoscopy, which reveals patches of discoloration but no ulcers. Barrett's esophagus increases the risk of which condition? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Signet ring adenocarcinoma",
+      "C": "Squamous cell carcinoma",
+      "D": "Lymphoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "Which type of polyp has potential to become malignant? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Serratus",
+      "B": "Hemartomatous",
+      "C": "Adenomatous",
+      "D": "Hyperplastic",
+      "E": "Tubular"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "A patient presents with dysphagia. Endoscopy reveals a mass with an intact mucosa. Histology shows spindle cells and CD117 positivity. What is the most likely diagnosis? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "GIST (Gastrointestinal Stromal Tumor)",
+      "B": "Leiomyoma",
+      "C": "Leiomyosarcoma",
+      "D": "Adenocarcinoma",
+      "E": "Squamous cell carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "A patient presents with abdominal pain but no hematemesis. Endoscopy shows involvement of mucosal and submucosal layers. What is the most likely diagnosis? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Atrophic gastritis",
+      "B": "Peptic ulcer disease",
+      "C": "Gastroesophageal reflux disease (GERD)",
+      "D": "Eosinophilic gastritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "A patient presents with high-grade fever, right hypochondrial pain, elevated alkaline phosphatase (ALP), and eosinophilia. What is the most likely diagnosis? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Amebic liver abscess",
+      "B": "Acute pancreatitis",
+      "C": "Acute cholecystitis",
+      "D": "Viral hepatitis"
+    },
+    "correct_answer": "A"
+  }
+]

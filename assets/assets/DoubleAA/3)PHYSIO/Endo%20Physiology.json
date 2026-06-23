@@ -1,0 +1,3374 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Which hormone increases activity of lipo protein lipase?",
+    "options": {
+      "A": "Insulin",
+      "B": "Growth hormone",
+      "C": "Thyroid hormone",
+      "D": "Glucagon",
+      "E": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "6 years old girl presented to OPD with excessive facial and chest hairs adult size external genitilia and deepening of voice. She also gives history of two siblings death suffering from same condition, which enzyme deficiency leads to this?",
+    "options": {
+      "A": "17- alpha hydroxylase deficiency",
+      "B": "21 hydroxylase deficiency",
+      "C": "11 B- hydroxylase deficiency",
+      "D": "22 hydroxylase deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Which receives input from hypophysial portal system?",
+    "options": {
+      "A": "Adenohypophysis",
+      "B": "Neurohypophysis",
+      "C": "Pars distalis",
+      "D": "Pars tuberalis",
+      "E": "Para nervosa"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Hormone produced by zona glomerulosa:",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Cortisol",
+      "C": "DHEA",
+      "D": "EPI",
+      "E": "NE"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "6-year-old girl presented to OPD with excessive facial and chest hair adult size external genitalia and deepening of voice, she also gives Hx of two siblings death suffering from same condition, which test would best confirm the DX?",
+    "options": {
+      "A": "Testosterone",
+      "B": "Dexa- suppression test",
+      "C": "17- Hydroxyprogesterone",
+      "D": "17 Alpha hydroxylase"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "CGMP is a secondary receptor of:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Tyrosine",
+      "C": "ANP",
+      "D": "ACTH",
+      "E": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Due to stress of surgery what will increase and cause vasoconstriction?",
+    "options": {
+      "A": "ACTH",
+      "B": "Cortisol",
+      "C": "Catecholamines",
+      "D": "Dopamine",
+      "E": "Dobutamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Which of the following hyperglycaemic factor is released by pancreas?",
+    "options": {
+      "A": "Insulin",
+      "B": "Somatostatin",
+      "C": "Glucagon",
+      "D": "Cortisol",
+      "E": "GIP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Thyroglobulin is produced from:",
+    "options": {
+      "A": "Chief cells",
+      "B": "Follicular cells",
+      "C": "Parafollicular cells",
+      "D": "Isthmus",
+      "E": "Tracheal ring"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Hormone which increases secretion in dark and causing hypogonadism?",
+    "options": {
+      "A": "Cortisol",
+      "B": "GnRH",
+      "C": "Melatonin",
+      "D": "FSH",
+      "E": "LH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Metabolic function of thyroid hormone is which of the following?",
+    "options": {
+      "A": "Increased calcium deposition in bones",
+      "B": "Protein synthesis",
+      "C": "Increase fatty acid synthesis",
+      "D": "Decreased fatty acid synthesis",
+      "E": "Increase Collagen Synthesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "At the end of marathon race a person has:",
+    "options": {
+      "A": "High insulin and low glucagon",
+      "B": "High glucagon and low insulin",
+      "C": "High glucagon and low insulin",
+      "D": "High cortisol",
+      "E": "Low Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Insulin is released from which cells of pancreas?",
+    "options": {
+      "A": "Alpha cells",
+      "B": "Beta cells",
+      "C": "Gamma (Islets of langherhans)",
+      "D": "Tail of pancreas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Single best test for thyroid disorder is:",
+    "options": {
+      "A": "T3",
+      "B": "T4",
+      "C": "TSH",
+      "D": "TRH",
+      "E": "TSI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Growth hormone stimulated by:",
+    "options": {
+      "A": "Exercise",
+      "B": "Diet",
+      "C": "Hypoglycaemia",
+      "D": "REM",
+      "E": "Catecholamines"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A patient came in ER with BP 160/100 having headache, fatigue and palpitation lab reveals low potassium level. What is likely cause of this condition?",
+    "options": {
+      "A": "MI",
+      "B": "Hyperaldosteronism",
+      "C": "Hyperaldosteronisms",
+      "D": "Addison Disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Cortisol main function is which of following?",
+    "options": {
+      "A": "Lipolysis",
+      "B": "Gluconeogenesis",
+      "C": "Ketogenesis",
+      "D": "Glycolysis",
+      "E": "Protein Synthesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Which of the following is neurosecretory hormone?",
+    "options": {
+      "A": "NE",
+      "B": "Cortisol",
+      "C": "GH",
+      "D": "Insulin",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A female was taking dopamine and unable to lactate now this is because dopamine inhibits one of the following hormone:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prolactin",
+      "D": "NE",
+      "E": "C (Dopamine also called prolactin inhibitor factor)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Secretion of GH is decrease by which of following?",
+    "options": {
+      "A": "Hypoglycaemia",
+      "B": "Somatostatin",
+      "C": "Deep sleep",
+      "D": "Free fatty acids",
+      "E": "Exercise"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient with hyperthyroidism sign and symptoms will also have other problem like:",
+    "options": {
+      "A": "Vision problem",
+      "B": "Hearing problem",
+      "C": "Taste problem",
+      "D": "Pressure loss"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "What change will be seen first in response to stress?",
+    "options": {
+      "A": "Increase ACTH",
+      "B": "Increase CRF",
+      "C": "Increase cortisol",
+      "D": "Increase epinephrine",
+      "E": "Increase Glucagon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Immunity actively works in presence of which hormone?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Prolactin",
+      "C": "Thyroxin",
+      "D": "Melatonin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Hormone responsible for glycolysis, gluconeogenesis and ketogenesis:",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "Prolactin",
+      "E": "Thyroid hormone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Supporting cells of pars nervosa include:",
+    "options": {
+      "A": "Kuffer cells",
+      "B": "Pituicytes",
+      "C": "Astrocytes",
+      "D": "Glial cells",
+      "E": "Oligodendrocytes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Glucagon is stimulated by:",
+    "options": {
+      "A": "Increase Glucose",
+      "B": "Fatty acid",
+      "C": "Somatostatin",
+      "D": "Exercise",
+      "E": "Insulin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Insulin release is increased by:",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Thiazide",
+      "C": "Somatostatin",
+      "D": "Secretin",
+      "E": "Low glucose"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Which of the following has paracrine effect?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Thyroid",
+      "C": "Somatostatin",
+      "D": "Growth hormone",
+      "E": "Secretin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Circadian Rhythm is controlled by which of the following?",
+    "options": {
+      "A": "Nerve fiber",
+      "B": "Lateral Hypothalmus",
+      "C": "Medial Hypothalmus",
+      "D": "Hormonal Level",
+      "E": "D (Hormone produced by Suprachiasmatic nucleus)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Which hormone causes bone and cartilage growth?",
+    "options": {
+      "A": "Thyroid",
+      "B": "Testosterone",
+      "C": "Growth hormone",
+      "D": "PTH",
+      "E": "Cortisol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Lipophilic hormones act through which of the following mechanism?",
+    "options": {
+      "A": "CAMP",
+      "B": "CGMP",
+      "C": "IP3",
+      "D": "Diacylglycerol",
+      "E": "Messenger RNA"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Thyroid hormone receptor present in which of following?",
+    "options": {
+      "A": "Inside nucleus",
+      "B": "Cytoplasm",
+      "C": "Cell membrane",
+      "D": "G protein coupled receptor",
+      "E": "Ion channels"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Cacl2 was given to a Rat in a laboratory which leads to hypercalcemia. Now what will increase?",
+    "options": {
+      "A": "1,25 Dihydroxycholecalciferol",
+      "B": "24,25 Dihydroxycholecalciferol",
+      "C": "Cortisol",
+      "D": "Epinephrine",
+      "E": "Cholecalciferol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A patient is having hypertension on labs high sodium, low potassium in body this is due to:",
+    "options": {
+      "A": "Increase Cortisol",
+      "B": "Increase Epinephrine",
+      "C": "Increase Aldosterone",
+      "D": "Decrease Aldosterone",
+      "E": "Decrease GH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Through which function hormone released at one site, acts locally in near area:",
+    "options": {
+      "A": "Exocrine",
+      "B": "Paracrine",
+      "C": "Endocrine",
+      "D": "Neurocrine",
+      "E": "Autocrine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Glucagon increase due to:",
+    "options": {
+      "A": "Epinephrine",
+      "B": "High Glucose",
+      "C": "Somatostatin",
+      "D": "Fatty Acid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "During 3rd month of embryological period the cell which invade the crest these cell secrete:",
+    "options": {
+      "A": "Hemosiderin pigment",
+      "B": "Melatonin",
+      "C": "Melanin pigment",
+      "D": "Lipofuscin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "About Vitamin D true is:",
+    "options": {
+      "A": "25 hydroxylation in liver and 1 alpha hydroxylation in kidneys",
+      "B": "1 alpha hydroxylation in the kidney followed by 25 hydroxylation in the liver",
+      "C": "25 hydroxylation in Lung",
+      "D": "1 alpha hydroxylation in Liver and 25 hydroxylation in Kidney",
+      "E": "1 alpha hydroxylation in Lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Iodide oxidation to t4 formation occurs in which of following?",
+    "options": {
+      "A": "Parafollicular cells of Thyroid",
+      "B": "Parathyroid cell",
+      "C": "Principle cells of Thyroid",
+      "D": "Parafollicular cells of Parathyroid",
+      "E": "Follicular cells of Thyroid"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Insulin and glucagon are released when there is increase in?",
+    "options": {
+      "A": "Glucose",
+      "B": "Catecholamines",
+      "C": "Somatostatin",
+      "D": "Glucose",
+      "E": "CCK"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "A female who is not conceiving O/E having discharge from mammary gland due to which of the following hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Progesterone",
+      "C": "Estrogen",
+      "D": "Thyroxin",
+      "E": "Prolactin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Hormone exhibiting relation between weight and puberty is:",
+    "options": {
+      "A": "Leptin",
+      "B": "Estradiol",
+      "C": "Ghrelin",
+      "D": "Progesterone",
+      "E": "LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Chondrocyte to osteoblast conversion occurs due to which of the following?",
+    "options": {
+      "A": "Thyroxin",
+      "B": "GH",
+      "C": "Somatotropin",
+      "D": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "What increases calcium absorption from GIT?",
+    "options": {
+      "A": "1,25 dihydroxycholecalciferol",
+      "B": "Cholecalciferol",
+      "C": "PTH",
+      "D": "Phosphate",
+      "E": "E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Vasoconstriction by IP3 mechanism caused by:",
+    "options": {
+      "A": "ADH",
+      "B": "Aldosterone",
+      "C": "Angiotensin II",
+      "D": "ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Phospholipase C Acts as second messenger for:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Insulin",
+      "C": "ACTH",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Shortest half life is of which hormone?",
+    "options": {
+      "A": "GnRh",
+      "B": "Aldosterone",
+      "C": "Prolactin",
+      "D": "Thyroid",
+      "E": "Testosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Late effect of insulin:",
+    "options": {
+      "A": "Protein synthesis",
+      "B": "Lipid synthesis",
+      "C": "Glucose entry",
+      "D": "Fatty acid breakdown"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Which one is orexigenic hormone?",
+    "options": {
+      "A": "Alpha MSH",
+      "B": "Insulin",
+      "C": "Gherlin",
+      "D": "Leptin",
+      "E": "Serotonin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Insulin main action to low glucose is on:",
+    "options": {
+      "A": "Glycogenesis",
+      "B": "Gluconeogenesis",
+      "C": "Glycogenolysis",
+      "D": "Protein Synthesis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Active thyroid hormone is:",
+    "options": {
+      "A": "T4",
+      "B": "Free T3",
+      "C": "Bound T4",
+      "D": "Bound T3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Inulin independent glucose uptake occurs in:",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Myocardium",
+      "C": "Resting skeletal muscle",
+      "D": "Exercising skeletal muscle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Patient suffering from apparent mineralocorticoid excesses what will be present in this patient?",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypertension",
+      "C": "Hypokalemia",
+      "D": "Hyperkalemia",
+      "E": "Hyperglycemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Hypercalcemia leads to increase level of:",
+    "options": {
+      "A": "1, 25 OH2",
+      "B": "24, 25 OH D2",
+      "C": "Phosphorus",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Preprohormone is:",
+    "options": {
+      "A": "Cortisol",
+      "B": "PTH",
+      "C": "Progesterone",
+      "D": "T3",
+      "E": "Thyroxin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "TSH Act by:",
+    "options": {
+      "A": "CAMP",
+      "B": "Steroid mechanism",
+      "C": "IP3",
+      "D": "CGMP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A patient with urine osmolarity 1200 and serum osmolarity 270 likely diagnose is:",
+    "options": {
+      "A": "Nephrogenic diabetes",
+      "B": "Central diabetes",
+      "C": "SIADH",
+      "D": "Psychogenic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Tyrosine kinase receptors are present:",
+    "options": {
+      "A": "Inside the cell",
+      "B": "Inside nucleus",
+      "C": "On cell membrane",
+      "D": "Out of cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "During Lactation amenorrhea due to increase in:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prolactin",
+      "C": "Procalcitonin",
+      "D": "Progesterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "1/2 life of dopamine:",
+    "options": {
+      "A": "2 min",
+      "B": "8 sec",
+      "C": "9 min",
+      "D": "1/2 hour"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Hormone that acts by cyclic AMP:",
+    "options": {
+      "A": "Aldosterone",
+      "B": "T3",
+      "C": "Glucagon",
+      "D": "Estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Iodine eliminated from the body via:",
+    "options": {
+      "A": "Urine",
+      "B": "Sweat",
+      "C": "Faeces",
+      "D": "Tears"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Woman with iodine deficiency cause?",
+    "options": {
+      "A": "Lack in water and food",
+      "B": "Inborn error of metabolism",
+      "C": "Poor dietary status",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Specific PTH function is:",
+    "options": {
+      "A": "Inhibit excretion of phosphate",
+      "B": "Inhibit synthesis 1,25 dihydroxycholecalciferol",
+      "C": "Act through adenyl cyclase",
+      "D": "Inhibit distal k excretion",
+      "E": "Increase Calcium reabsorption"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Hormone released from posterior hypothalamus:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Growth hormone",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Insulin Dependent GLUT is:",
+    "options": {
+      "A": "GLUT 1",
+      "B": "GLUT 2",
+      "C": "GLUT 3",
+      "D": "GLUT 4"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Insulin late effect:",
+    "options": {
+      "A": "K into cell",
+      "B": "Glucose into cells,",
+      "C": "Protein catabolism",
+      "D": "Protein transcription for lipogenic enzymes",
+      "E": "Protein anabolism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "34-year female with menorrhagia for last few months. Labs investigation shows increase TSH and low T3-T4 what drug is used to treat hypothyroidism in this patient:",
+    "options": {
+      "A": "Iodide",
+      "B": "Thyroxine",
+      "C": "PTU",
+      "D": "Beta blocker"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Hyperprolactinemia is due to:",
+    "options": {
+      "A": "Increase Dopamine from Hypothalmus",
+      "B": "Decrease Dopamine from Hypothalmus",
+      "C": "Decrease Cortisol from Hypothalmus",
+      "D": "Increase Cortisole from Hypothalmus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Estrogen & Progesterone at 07 months of pregnancy are produced by:",
+    "options": {
+      "A": "Placenta",
+      "B": "Corpus Luteum",
+      "C": "Corpus Hemorrhagicum",
+      "D": "Ovary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "FSH is inhibited by:",
+    "options": {
+      "A": "LH",
+      "B": "Testosterone",
+      "C": "Inhibin",
+      "D": "Dopamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Which of the following cells are not normally present in pancreas?",
+    "options": {
+      "A": "Alpha Cells",
+      "B": "Beta Cells",
+      "C": "D Cells",
+      "D": "Mucous Cells",
+      "E": "Serous Cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Vitamin D resistant rickets Occur in",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Fanconi's syndrome",
+      "C": "RTA",
+      "D": "Hypoparathyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Growth hormone needs which of the following to increase maximum effect:",
+    "options": {
+      "A": "Insulin like growth factor",
+      "B": "Thyroid",
+      "C": "Aldosterone",
+      "D": "Steroids"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Which of the following hormone acts on NA-K Atpase?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "GH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Increase level of calcium will lead to increase in which of the following?",
+    "options": {
+      "A": "1,25 cholecalciferol",
+      "B": "24,25 cholecalciferol",
+      "C": "1 cholecalciferol",
+      "D": "25 cholecalciferol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Drug used in hyperthyroidism in first trimester of pregnancy:",
+    "options": {
+      "A": "PTU",
+      "B": "Thyroxin",
+      "C": "T3",
+      "D": "Iodine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Which of the following hyperglycemic factor is released by pancreas?",
+    "options": {
+      "A": "Insulin",
+      "B": "Somatostatin",
+      "C": "Glucagon",
+      "D": "Cortisol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Which of the following hormone act on Na-K Pump:",
+    "options": {
+      "A": "Thyroxin",
+      "B": "GH",
+      "C": "Cortisol",
+      "D": "Dopamine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Growth hormone needs which of the following hormone for sufficient and effective function?",
+    "options": {
+      "A": "Thyroxin",
+      "B": "Aldosterone",
+      "C": "Somatomedin",
+      "D": "Glucagon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Which of the following is the action of Oxytocin?",
+    "options": {
+      "A": "Ejection of Milk",
+      "B": "Production of Milk",
+      "C": "Maintenance of pregnancy",
+      "D": "Growth of fetus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Which of the following is neurosecretory hormone?",
+    "options": {
+      "A": "ADH",
+      "B": "Cortisol",
+      "C": "GH",
+      "D": "Insulin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Which of the following is an important hormone for parturition?",
+    "options": {
+      "A": "Fetal Cortisol",
+      "B": "Fetal ACTH",
+      "C": "Fetal Adrenals",
+      "D": "Prostaglandins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "A 30 years old female presented to OPD with excess hair growth, hypertension, hyperglycemia, hyperpigmentation, increased fat on chest & trunk, it’s likely due to excess of:",
+    "options": {
+      "A": "Cortisol",
+      "B": "ACTH",
+      "C": "GnRh",
+      "D": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "A patient presented with hypertension & raised Sodium, low Potassium & raised PH what could the possible underlying reason:",
+    "options": {
+      "A": "Hyper aldosteronism",
+      "B": "Pheochromocytoma",
+      "C": "Increase Cortisol",
+      "D": "Increases Glucagon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Excessive Glucocorticoids causes which of the following?",
+    "options": {
+      "A": "Neutropenia",
+      "B": "Basopenia",
+      "C": "Lymphocytopenia",
+      "D": "Thrombocytopenia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Which of the following is important function of progesterone?",
+    "options": {
+      "A": "Lactation inhibition",
+      "B": "Fetal well being",
+      "C": "Endometrial thickness maintenance",
+      "D": "Ripening of cervix"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Patient having history of weight gain, hoarseness of voice, lab shows high TSH & cholesterol, TRH was administered that leads to an exaggerated increase in TSH level where does the problem lies:",
+    "options": {
+      "A": "Thyroid",
+      "B": "Hypothalamus",
+      "C": "Anterior pituitary gland",
+      "D": "Posterior pituitary gland"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Which of the following decreases osmolarity?",
+    "options": {
+      "A": "Vasopressin( ADH)",
+      "B": "Epinephrine",
+      "C": "Aldosterone",
+      "D": "Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Which of the following hormone increases during sleep?",
+    "options": {
+      "A": "GH",
+      "B": "Cortisol",
+      "C": "Insulin",
+      "D": "Glucagon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Supraoptic nucleus secretes:",
+    "options": {
+      "A": "ADH",
+      "B": "Oxytocin",
+      "C": "AG2",
+      "D": "Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Urine examination of a patient with diabetes demonstrates ketone bodies, what is the mechanism of formation of these ketone bodies?",
+    "options": {
+      "A": "Insulin deficiency",
+      "B": "Hyperglycemia",
+      "C": "Defective fat metabolism",
+      "D": "Hypoalbuminemia",
+      "E": "Defective glucose metabolism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Growth hormone increases in which of the following condition?",
+    "options": {
+      "A": "Exercise",
+      "B": "REM",
+      "C": "NREM",
+      "D": "Stress"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Which of the following hormones is of immense importance to assess thyroid function?",
+    "options": {
+      "A": "T3",
+      "B": "Calcitonin",
+      "C": "T4",
+      "D": "TSH",
+      "E": "T3 & T4"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Testosterone is synthesized by:",
+    "options": {
+      "A": "Seminiferous tubules",
+      "B": "Sertoli cells",
+      "C": "Leydig cells",
+      "D": "Parenchymal cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Development of breast lobules and alveoli:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "FSH",
+      "D": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "cAMP second messenger system acts through:",
+    "options": {
+      "A": "Protein change",
+      "B": "Receptors",
+      "C": "Signaling",
+      "D": "Clearance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "A person on exogenous steroids would have:",
+    "options": {
+      "A": "Increase blood levels of ACTH",
+      "B": "Decrease blood levels of ACTH",
+      "C": "Increased cortisol",
+      "D": "Increased insulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "A patient present with agalactorrhea and amenorrhea, his labs reveal a prolactin level of 6500ng/ml. This condition best describes:",
+    "options": {
+      "A": "Micro adenoma",
+      "B": "Macro adenoma",
+      "C": "Normal condition",
+      "D": "Pituitary adenoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Which of the following is ketoacidosis?",
+    "options": {
+      "A": "Lactic acid",
+      "B": "Salicyclic acid",
+      "C": "Carbonic acid",
+      "D": "Acetoacetate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Blood loss during C-Section would result in:",
+    "options": {
+      "A": "Infarction",
+      "B": "Atrophy of adrenal cortex",
+      "C": "Atrophy of medulla",
+      "D": "Renal atrophy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "The level of PTH is usually raised in:",
+    "options": {
+      "A": "Precocious puberty",
+      "B": "Pseudohypoparathyroidism",
+      "C": "Carcinoma",
+      "D": "CCF",
+      "E": "Adrenal failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A patient has congestive cardiac disease and secondary hyperaldosteronism. This condition is due to:",
+    "options": {
+      "A": "ACTH",
+      "B": "Renin",
+      "C": "Cortisol",
+      "D": "Insulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Abnormal overgrowth thickening of bone is due to:",
+    "options": {
+      "A": "Chief cells of parathyroid",
+      "B": "Cells of adenohypophysis",
+      "C": "Pars intermedia",
+      "D": "Leydig cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Proliferation of the mammary ducts (lactiferous ducts) and fat deposition in breast is primarily by:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Osteoporosis shows which of the following lab values?",
+    "options": {
+      "A": "Normal PTH",
+      "B": "Increase PTH",
+      "C": "Decrease PTH",
+      "D": "Increase Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A patient having acromegaly & amenorrhea adenoma of:",
+    "options": {
+      "A": "Acidophils",
+      "B": "Adenohypophysis",
+      "C": "Basophils",
+      "D": "Posterior Pituitary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Decrease PO4, Increase Calcium will decrease which of the following?",
+    "options": {
+      "A": "1,25 Vitamin D",
+      "B": "1,25 Vitamin D",
+      "C": "1,24 Vitamin D",
+      "D": "Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Suckling response causes:",
+    "options": {
+      "A": "Decrease GnRH",
+      "B": "Decrease FSH",
+      "C": "Decrease LH",
+      "D": "Decrease Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Common feature of glucagon and epinephrine?",
+    "options": {
+      "A": "Proteolysis",
+      "B": "Vasoconstriction",
+      "C": "Decrease Glucose",
+      "D": "Phosphorylase kinase activity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Cortisol and Fatty acid metabolism. Hormone involved is:",
+    "options": {
+      "A": "Insulin",
+      "B": "Prolactin",
+      "C": "Insulin",
+      "D": "T4",
+      "E": "GnRh"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Hormone responsible for development and proliferation duct, Alveoli and secretion of breast lobules?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Which helps in regulation of extracellular potassium?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "Epinephrine",
+      "E": "A"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "In a young female pt. with prolactin level 28 (normal 26) but no agalactorrhea & any other pathological finding. What will you do?",
+    "options": {
+      "A": "Rule out physiological cause",
+      "B": "Pituitary profile",
+      "C": "CT/MRI pituitary",
+      "D": "Perimetry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "An 32 years old obese male comes complaining of rapid heart rate, 9kg weight loss in 2 months and heat intolerance. His pulse is 110/min and serum T4 levels are elevated. Upon questioning, he admits to taking thyroxin tablets for losing weight. The parameter which shows an increase is?",
+    "options": {
+      "A": "Serum cortisol",
+      "B": "Serum free T4",
+      "C": "Serum TSH",
+      "D": "Serum T3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "An old lady with cushing syndrome what will be characteristics?",
+    "options": {
+      "A": "Hyperpigmentation",
+      "B": "Decrease Serum striae",
+      "C": "Pot belly.",
+      "D": "Amenorrhea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "What will increase in serum due to vitamin D/function of vitamin D?",
+    "options": {
+      "A": "Increase Serum PO4 level",
+      "B": "Decrease serum PO4 Level",
+      "C": "Decrease Serum Calcium Level",
+      "D": "Increase Serum Magnesium Level"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "BMR in resting condition maintained mainly by:",
+    "options": {
+      "A": "Liver",
+      "B": "Heart",
+      "C": "Kidney",
+      "D": "Brain"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Na/K pump act by:",
+    "options": {
+      "A": "Pump Potassium Against the gradient",
+      "B": "Throw 3K for 2Na",
+      "C": "When Ca+ increase intracellularly",
+      "D": "When Na+ increase intracellularly"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Steroids act by:",
+    "options": {
+      "A": "cAMP activation",
+      "B": "Gene alteration",
+      "C": "cGMP activation",
+      "D": "Tyrosine kinase pathway"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Lipogenesis, glycolysis is a function of which hormone?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "PTH",
+      "E": "Thyroid hormones"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Hyperfunction thyroid effect on heart:",
+    "options": {
+      "A": "Tachycardia",
+      "B": "Increase PR interval",
+      "C": "Vulvular disease",
+      "D": "Bradycardia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Highest concentration of ACTH in stress seen in:",
+    "options": {
+      "A": "Veins of pituitary",
+      "B": "Hypophysial arteries",
+      "C": "Antpituitary",
+      "D": "Posterior pituitary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Glucocorticoids cause:",
+    "options": {
+      "A": "Increased amount of collagen",
+      "B": "Decreased amount of free fatty acids in blood",
+      "C": "Decreased intracellular utilization of glucose",
+      "D": "Increased amino acid breakdown in blood"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Melatonin:",
+    "options": {
+      "A": "Produced by tyrosine",
+      "B": "Produced in darkness",
+      "C": "Increased in sleep",
+      "D": "Decreases/inhibits CRH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Vasopressin and oxytocin originate in:",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Anterior pituitary",
+      "C": "Cerebellum",
+      "D": "Medulla"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Hormone causing increased follicular growth and maturation:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "HCG"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Which hormone is responsible for multiple fractures in patient on dialysis?",
+    "options": {
+      "A": "PTH",
+      "B": "Cortisol",
+      "C": "Low Vitamin D",
+      "D": "Epiandristenedione"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Breast atrophy in old age due to:",
+    "options": {
+      "A": "Decrease estrogen, progesterone",
+      "B": "Decrease estrogen",
+      "C": "Decrease Testosterone",
+      "D": "Increase Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Increased t3 and t4 in pregnancy due to:",
+    "options": {
+      "A": "Inc. TBG",
+      "B": "Inc. TSH",
+      "C": "Inc. TRH",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Latent tetany seen in:",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Bony metastases",
+      "C": "Addison disease",
+      "D": "Conn's disease",
+      "E": "Cushing disease"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Which of the following is not directly caused by cortisol in Cushing's syndrome?",
+    "options": {
+      "A": "Buffalo hump",
+      "B": "Thin lower limb",
+      "C": "Hirsutism",
+      "D": "Pendulous Abdomen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Not secreted from zona Reticularis:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Aldosterone",
+      "C": "Testosterone",
+      "D": "Cortisone",
+      "E": "Androstenedione"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Zona glomerulosa secretion controlled by:",
+    "options": {
+      "A": "Angiotensin",
+      "B": "Renin",
+      "C": "Sympathetic",
+      "D": "K+",
+      "E": "Na"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Thermo genic effect of which hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Progesterone",
+      "C": "Estrogen",
+      "D": "Growth Hormone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Vit. D3 is called:",
+    "options": {
+      "A": "Plant origin",
+      "B": "Animal origin",
+      "C": "1, 25 (oh)2",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Pars distalis contain:",
+    "options": {
+      "A": "Pituitocytes",
+      "B": "Acidophils",
+      "C": "Axons",
+      "D": "Hencalocytes",
+      "E": "Herring bodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "CAMP mechanism:",
+    "options": {
+      "A": "Insulin",
+      "B": "FSH",
+      "C": "BNP",
+      "D": "Progesterone",
+      "E": "Growth hormone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "A tall young girl (child) with history of secretion from breast on microscopy of anterior pituitary, which cells are abundant?",
+    "options": {
+      "A": "Eosinophilic",
+      "B": "Basophilic",
+      "C": "Chromophores",
+      "D": "Neutrophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "In diabetes, which cells have lost their function?",
+    "options": {
+      "A": "Alpha cells",
+      "B": "Receptors are lost",
+      "C": "Beta cells",
+      "D": "Delta cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Which of the following is not essential for normal biosynthesis of thyroid hormones?",
+    "options": {
+      "A": "Iodine",
+      "B": "Thyroglobulin",
+      "C": "Ferritin",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Fetal heart maturation by",
+    "options": {
+      "A": "Growth hormone",
+      "B": "Thyroid hormone",
+      "C": "ADH",
+      "D": "Prolactin",
+      "E": "TRH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Hormone produced in normal concentration during pregnancy:",
+    "options": {
+      "A": "GH",
+      "B": "Cortisol",
+      "C": "PTH",
+      "D": "Estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Patient has puffy skin and hoarse voice. Her plasma TSH concentration is low but increases markedly when she is given TRH she probably has?",
+    "options": {
+      "A": "Hyperthyroidism with problem in thyroid",
+      "B": "Hyperthyroidism with problem in pituitary",
+      "C": "Hyperthyroidism with problem in hypothalamus",
+      "D": "Hypothyroidism with thyroid problem",
+      "E": "Hypothyroidism with hypothalamus problem"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Melatonin and ACTH are involved in circadian rhythms. Which part is responsible for regulating circadian rhythms?",
+    "options": {
+      "A": "Supraoptic nucleus",
+      "B": "Pre optic nucleus",
+      "C": "Suprachiasmatic nucleus",
+      "D": "Para optic nucleus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Which is an immunostimulatory hormone?",
+    "options": {
+      "A": "GH (before puberty)",
+      "B": "Cortisol",
+      "C": "Thyroxine",
+      "D": "Thyroid hormone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "A patient has developed bitemporal heminopia. Which structure is compressing on optic chiasma?",
+    "options": {
+      "A": "Pituitary gland",
+      "B": "Hypothalamus",
+      "C": "Thalamus",
+      "D": "Pineal gland"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Somatic and lactogenic secretion is function of:",
+    "options": {
+      "A": "Thyroid",
+      "B": "Pituitary",
+      "C": "Hypothalamus",
+      "D": "Adrenal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Aldosterone acts on:",
+    "options": {
+      "A": "Nucleus",
+      "B": "PCT",
+      "C": "Loop of Henley",
+      "D": "Cell membrane of DCT",
+      "E": "Cell membrane of collecting tubules"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Aldosterone deficiency leads to:",
+    "options": {
+      "A": "Low Sodium",
+      "B": "Low potassium",
+      "C": "High calcium",
+      "D": "Malignant HTN"
+    },
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "Insulin secretion increased mainly by:",
+    "options": {
+      "A": "Glucose",
+      "B": "Arginine",
+      "C": "CCK",
+      "D": "Secretin",
+      "E": "Exercise"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Liver activates glycogen phosphorylase in deficiency of what?",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "Somatomedins",
+      "D": "Gherlin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Primary metabolic function of insulin is:",
+    "options": {
+      "A": "Shift K+ into cells",
+      "B": "Decrease serum PO4 level",
+      "C": "Decrease Serum Calcium Level",
+      "D": "Increase Serum Magnesium Level"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "One hour before meal RBS check, it's under control of:",
+    "options": {
+      "A": "Insulin",
+      "B": "Glucagon",
+      "C": "cortisol",
+      "D": "PTH",
+      "E": "Prolactin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "During child birth, women suffer a shock and she develops symptoms of hypopituitarism, which of following will not expected in this patient?",
+    "options": {
+      "A": "Cachexia",
+      "B": "Infertility",
+      "C": "Pallor",
+      "D": "Intolerance to stress"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Cortisol causes:",
+    "options": {
+      "A": "Decrease lymphocyte",
+      "B": "Decrease eosinophils",
+      "C": "Decrease RBC",
+      "D": "Decrease Platelets"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Which hormone deficiency causes death in 3 – 4 days?",
+    "options": {
+      "A": "GH",
+      "B": "Aldosterone",
+      "C": "Melanin",
+      "D": "TSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "In Thyrotoxicosis (inc. thyroxin) what metabolic activity happens?",
+    "options": {
+      "A": "Gluconeogenesis",
+      "B": "Lipogenesis",
+      "C": "Protein synthesis",
+      "D": "Atherosclerosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Which hormone act via cAMP?",
+    "options": {
+      "A": "Glucagon",
+      "B": "GnRH",
+      "C": "Insulin",
+      "D": "Estrogen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Hormone acts through IP3 mechanism:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "IGF-1",
+      "C": "FSH",
+      "D": "LH",
+      "E": "ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Hormone that stimulates hunger:",
+    "options": {
+      "A": "Gherlin",
+      "B": "Leptin",
+      "C": "Insulin",
+      "D": "Calcitonin",
+      "E": "Parathyroid hormone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Which one is action of cortisol?",
+    "options": {
+      "A": "Decrease appetite",
+      "B": "Decrease insulin resistance",
+      "C": "Increase gluconeogenesis",
+      "D": "Decrease lipolysis",
+      "E": "Decrease bone formation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Which if the following pituitary hormones is an opioid peptide?",
+    "options": {
+      "A": "Alpha MSH",
+      "B": "Beta- MSH",
+      "C": "Growth hormone",
+      "D": "ACTH",
+      "E": "Beta endorphin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Which of the following is responsible for uncoupling of oxidative phosphorylation?",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Glucagon",
+      "C": "Cortisol",
+      "D": "Thyroxin",
+      "E": "GH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Mechanism of action of steroid hormones:",
+    "options": {
+      "A": "Act on genes",
+      "B": "Act on cytoplasm",
+      "C": "Act on receptors in cell membrane",
+      "D": "Act on Proteins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Hormone secreted by anterior pituitary is:",
+    "options": {
+      "A": "Dopamine",
+      "B": "GnRH",
+      "C": "TSH",
+      "D": "ADH",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Which hormone always acts through cAMP second messenger system?",
+    "options": {
+      "A": "TSH",
+      "B": "Dopamine",
+      "C": "Glucocorticoid",
+      "D": "ANP",
+      "E": "E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Which hormone maintains water and electrolytes?",
+    "options": {
+      "A": "Ag2",
+      "B": "Aldosterone",
+      "C": "TSH",
+      "D": "ADH",
+      "E": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Calcium and phosphorous balance regulated by which of the following?",
+    "options": {
+      "A": "Vitamin D",
+      "B": "PTH",
+      "C": "GH",
+      "D": "Cortisol",
+      "E": "GH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Pathogenesis of Myasthenia gravis defect will be in:",
+    "options": {
+      "A": "Acetylcholine receptors destroyed",
+      "B": "Acetylcholine receptor increased",
+      "C": "Acetylcholine release more",
+      "D": "Acetylcholine act on muscles",
+      "E": "Acetylcholine receptor over stimulation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Appropriate test for Growth hormone:",
+    "options": {
+      "A": "Fasting early morning GH",
+      "B": "2 hours Post prandial",
+      "C": "Insulin stimulation test",
+      "D": "Insulin suppression test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Mechanism of action of steroid hormones:",
+    "options": {
+      "A": "Increase cell membrane permeability",
+      "B": "Act on DNA",
+      "C": "cAMP",
+      "D": "Adenylate cyclase",
+      "E": "IP3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "In which conditions there is hyponatremia:",
+    "options": {
+      "A": "Increase aldosterone",
+      "B": "Increase testosterone",
+      "C": "Increase ADH",
+      "D": "ADH deficiency"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Hormone acting nearby area this is example of:",
+    "options": {
+      "A": "Endocrine",
+      "B": "Exocrine",
+      "C": "Autocrine",
+      "D": "Paracrine",
+      "E": "Neurocrine"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Receptors for Growth hormones are present in which part?",
+    "options": {
+      "A": "Inside the nucleus",
+      "B": "On the nuclear membrane",
+      "C": "Cytoplasm",
+      "D": "On Plasma membrane"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Which hormone causes hypokalemia and Hypernatremia?",
+    "options": {
+      "A": "GH",
+      "B": "Cortisol",
+      "C": "TSH",
+      "D": "Aldosterone",
+      "E": "Glucagon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Indirect action of parathyroid hormone?",
+    "options": {
+      "A": "Ca absorption",
+      "B": "Phosphate excretion",
+      "C": "Inc. vitamin D",
+      "D": "Stimulating conversion of inactive form of vit d to active form in kidney"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Secretion of milk from breast gland is due to:",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prolactin",
+      "C": "Estrogen",
+      "D": "Thyroxin",
+      "E": "Thyroxin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "GH increase by:",
+    "options": {
+      "A": "REM sleep",
+      "B": "Cortisol",
+      "C": "Fed state",
+      "D": "Fasting"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "A women with the sign and symptoms of cushing syndrome in this female the precursor for the important hormone of cushing syndrome is:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "Cholechin",
+      "D": "Testosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Which hormone stores carbohydrate protein and fats:",
+    "options": {
+      "A": "Insulin",
+      "B": "Melanin",
+      "C": "ACTH",
+      "D": "CRH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Hormone sensitive lipase in adipose tissue helps to mobilize fat which act through:",
+    "options": {
+      "A": "Hormone activation",
+      "B": "Enzyme activation",
+      "C": "Insulin activation",
+      "D": "Dopamine activation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Which hormone is mainly raised in crisis/emergency situation?",
+    "options": {
+      "A": "Catecholamines",
+      "B": "Cortisol",
+      "C": "GH",
+      "D": "Insulin",
+      "E": "E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "In dehydration which of following will be raised:",
+    "options": {
+      "A": "ANP",
+      "B": "Cortisol",
+      "C": "Renin",
+      "D": "ADH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Anti GnRH hormone secreted in Dark is:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Thyroxin",
+      "C": "Insulin",
+      "D": "Glucagon",
+      "E": "Melatonin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "First step in thyroid hormone synthesis:",
+    "options": {
+      "A": "Binding of iodine to tyrosine",
+      "B": "Iodination",
+      "C": "Coupling",
+      "D": "Oxidation of free iodide to Iodine by Tyrosine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Max no of beta cells in Islets of langerhans are present in:",
+    "options": {
+      "A": "Neck of pancreas",
+      "B": "Tail of pancreas",
+      "C": "Head of pancreas",
+      "D": "Ampulla of vater"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "A man working in hot environment having sweating lead to —",
+    "options": {
+      "A": "Hypoosmolar ECF",
+      "B": "ADH release",
+      "C": "Negative water lose",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Immediate action of insulin is",
+    "options": {
+      "A": "Protein synthesis",
+      "B": "K entry into cells",
+      "C": "Glucose entry in plasma",
+      "D": "Fatty acid breakdown",
+      "E": "Ketosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Which factor regulates 1,25 dihydroxycholecalciferol?",
+    "options": {
+      "A": "PTH",
+      "B": "25 hydroxycholicalceferol",
+      "C": "Calcium level",
+      "D": "Phosphorus level",
+      "E": "Anions"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Regarding Zona fasciculata of adrenal glands:",
+    "options": {
+      "A": "Produce Progesterone",
+      "B": "Produce Androgens",
+      "C": "Produce Aldosterone",
+      "D": "Produce Catecholamines"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Which test to be done to know hypothyroidism?",
+    "options": {
+      "A": "ACTH",
+      "B": "T3",
+      "C": "TSH and Free T4",
+      "D": "Calcitonin",
+      "E": "Iodine level"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Hormone causing glycogenolysis and gluconeogenesis in liver secreted from?",
+    "options": {
+      "A": "Alpha pancreatic cells",
+      "B": "Beta pancreatic cells",
+      "C": "Gamma cells",
+      "D": "Tail of pancreas",
+      "E": "Delta cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "In male breast secretion and Gynecomastia is produced by",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prolactin",
+      "D": "Thyroid hormone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Vasopressin secretion is increased by:",
+    "options": {
+      "A": "Inc. pressure in right ventricle",
+      "B": "Inc. pressure in left ventricle",
+      "C": "Inc. pressure in right atrium",
+      "D": "Inc. pressure in left atrium",
+      "E": "Inc. pressure in the aorta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Glucagon decreases which one of the following:",
+    "options": {
+      "A": "Amino Acids",
+      "B": "Calcium",
+      "C": "Ketones",
+      "D": "Fatty acids",
+      "E": "Glucose"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Which of following acts via phospholipase acts via second messenger system ?",
+    "options": {
+      "A": "Insulin",
+      "B": "Oxytocin",
+      "C": "ACTH",
+      "D": "FSH",
+      "E": "Aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "In hyperaldosteronism there is:",
+    "options": {
+      "A": "Increased urine osmolarity",
+      "B": "Increased plasma osmolarity",
+      "C": "Decreased urine sodium",
+      "D": "Decreased urine potassium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Hormone required for brain development in fetal life:",
+    "options": {
+      "A": "Thyroid hormone",
+      "B": "GH",
+      "C": "Cortisol",
+      "D": "Androgen",
+      "E": "Insulin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Which hormone store carbohydrates, proteins and Fats:",
+    "options": {
+      "A": "Insulin",
+      "B": "Melanin",
+      "C": "ACTH",
+      "D": "CRH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "ADH level decrease by:",
+    "options": {
+      "A": "Angiotensin",
+      "B": "Hyper osmolarity",
+      "C": "Diuretic",
+      "D": "Increase plasma volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Epinephrine causes:",
+    "options": {
+      "A": "Decrease Glycogenolysis",
+      "B": "Decrease Gluconeogenesis",
+      "C": "Increase Glycogenolysis",
+      "D": "Increase Glucose uptake"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Insulin used in following:",
+    "options": {
+      "A": "Resting skeletal muscle",
+      "B": "Exercising skeletal muscle",
+      "C": "Hypothalamus",
+      "D": "Brain"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Which hormone is activated in lungs?",
+    "options": {
+      "A": "Vasopressin",
+      "B": "Serotonin",
+      "C": "Angiotensin 2",
+      "D": "GABA",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "In the last trimester of pregnancy what change in respiratory parameters occurs?",
+    "options": {
+      "A": "Decreased FEV/FVC",
+      "B": "Decreased vital capacity",
+      "C": "Increased lung compliance",
+      "D": "Decrease CO2",
+      "E": "Decrease tidal volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "On 4th postpartum day mother wants to feed baby what changes will occur:",
+    "options": {
+      "A": "Decrease Cortisol",
+      "B": "Increase dopamine",
+      "C": "Increase prolactin by pituitary",
+      "D": "Increase Oxytocin by pituitary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "The secretory hormones from neurohypophysis are stored in?",
+    "options": {
+      "A": "Pituicytes",
+      "B": "Herring bodies",
+      "C": "Pinealocytes",
+      "D": "Nerve ending",
+      "E": "Astrocytes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Bone demineralization done by:",
+    "options": {
+      "A": "Vitamin D",
+      "B": "Vitamin E",
+      "C": "Vitamin C",
+      "D": "PTH",
+      "E": "ADH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Which one is used in home pregnancy test?",
+    "options": {
+      "A": "PSA",
+      "B": "Acid phosphatase",
+      "C": "B-HCG",
+      "D": "Fructose"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Girl with coarse facial features, gap between incisors and spade like hands what happens to muscles involved in this disease?",
+    "options": {
+      "A": "Enlargement",
+      "B": "Myositis",
+      "C": "Regression",
+      "D": "Fibrositis",
+      "E": "Muscle hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "After hemorrhage which one causes increase Sodium and water absorption?",
+    "options": {
+      "A": "ADH",
+      "B": "Aldosterone",
+      "C": "ANP",
+      "D": "Renin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Osmoreceptors of ADH inhibited by:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Increase osmotic pressure",
+      "C": "Shrinkage of osmoreceptors",
+      "D": "Swelling of cell",
+      "E": "Overhydration"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "After complete endocrine and gonadal development ovulation starts regularly?",
+    "options": {
+      "A": "After 1 year",
+      "B": "After 2 year",
+      "C": "After 3 year",
+      "D": "Menarche"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Effect of Angiotensin 3 is:",
+    "options": {
+      "A": "Catecholamine release",
+      "B": "ADH release",
+      "C": "Aldosterone release",
+      "D": "Renin release",
+      "E": "Stop Renin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Action of PTH is:",
+    "options": {
+      "A": "Ca excretion",
+      "B": "Ca Absorption from kidney",
+      "C": "Activation of Vitamin D",
+      "D": "Increase phosphate absorption"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Growth hormone increased by:",
+    "options": {
+      "A": "REM",
+      "B": "Hypoglycaemia",
+      "C": "Hyperglycaemia",
+      "D": "Hypercalcemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Effect of insulin on adipose tissue?",
+    "options": {
+      "A": "Causes gluconeogenesis",
+      "B": "Causes glycogenolysis",
+      "C": "Stimulate hormone sensitive lipase",
+      "D": "Inhibit lipoprotein lipase",
+      "E": "Activate Lipoprotein lipase"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "There is no edema due to inc aldosterone because:",
+    "options": {
+      "A": "Increase Na/K activity of thick Ascending limb",
+      "B": "Decrease thirst mechanism",
+      "C": "Escape mechanism",
+      "D": "Increase ADH",
+      "E": "Decrease ANP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Thyroid hormone increase in pregnancy due to:",
+    "options": {
+      "A": "HCG",
+      "B": "Low Thyroid binding globulin",
+      "C": "High Thyroid binding globulin",
+      "D": "Fetal thyroid hormone secretion occurs",
+      "E": "Thyroiditis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "A patient got trauma and now bleeding his BP 80/60 and Plasma volume is decreasing. Which one of following will increase?",
+    "options": {
+      "A": "ANP",
+      "B": "Cortisol",
+      "C": "ADH",
+      "D": "Growth hormone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "ADH short term action is:",
+    "options": {
+      "A": "Vasodilation of arterioles",
+      "B": "Vasoconstriction of arterioles",
+      "C": "Secrete Renin",
+      "D": "Reabsorption of salts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Hyperkalemia stimulates which one of the following:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Renin",
+      "C": "Angiotensin",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Mechanism of action of insulin:",
+    "options": {
+      "A": "Decrease K inside the cell",
+      "B": "Inhibit lipoprotein lipase",
+      "C": "Increase K inside cell",
+      "D": "Increase sodium inside cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Adrenal medulla secrete hormones which function same as:",
+    "options": {
+      "A": "Preganglionic sympathetic adrenergic",
+      "B": "Postganglionic parasympathetic adrenergic",
+      "C": "Postganglionic sympathetic adrenergic",
+      "D": "preganglionic parasympathetic adrenergic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Osteoporosis occur due to which of following hormone deficiency:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Insulin",
+      "C": "PTH",
+      "D": "Estrogen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Which hormone causes extra hepatic protein catabolism and hepatic protein anabolism?",
+    "options": {
+      "A": "Thyroid hormone",
+      "B": "Epinephrine",
+      "C": "Growth hormone",
+      "D": "Insulin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "True regarding Growth hormone is:",
+    "options": {
+      "A": "Inhibit growth of Bone",
+      "B": "Stimulated by somatostatin",
+      "C": "IGF released from liver and growth harmone interact with it",
+      "D": "It is monopeptide"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "In Zona glomerulosa aldosterone released under the influence of:",
+    "options": {
+      "A": "ACTH",
+      "B": "Renin",
+      "C": "Sympathetic",
+      "D": "Ca",
+      "E": "Na"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Level of LH peak how many hours before ovulation?",
+    "options": {
+      "A": "12",
+      "B": "18",
+      "C": "10",
+      "D": "6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Fetal brain development by:",
+    "options": {
+      "A": "Growth hormone",
+      "B": "Thyroid hormone",
+      "C": "ADH",
+      "D": "Prolactin",
+      "E": "TRH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Amount of oxytocin causing water retention in kidney:",
+    "options": {
+      "A": "20%",
+      "B": "5 IU",
+      "C": "20 IU",
+      "D": "5 IU"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "PTH indirect action is?",
+    "options": {
+      "A": "Excretion of phosphate",
+      "B": "Calcium absorption from intestine",
+      "C": "Osteoclast cell activation",
+      "D": "Excrete Ca"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Aldosterone stimulated by:",
+    "options": {
+      "A": "Increase K",
+      "B": "Decrease K",
+      "C": "Increase Na",
+      "D": "Decrease Ca"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Insulin glucose entry in which cell:",
+    "options": {
+      "A": "Skeletal muscle",
+      "B": "Mucosa of small intestine",
+      "C": "Hypothalamus",
+      "D": "Cerebrum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Adrenal medulla secretes hormones:",
+    "options": {
+      "A": "Epinephrine: Cortisol 80:40",
+      "B": "Epinephrine:Norepinephrine 80:20",
+      "C": "Epinephrine :GH 40:20",
+      "D": "Norepinephrine : Cortisole 80:40"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Which hormone is mainly released early in stress?",
+    "options": {
+      "A": "Catecholamines",
+      "B": "Melanin",
+      "C": "ACTH",
+      "D": "CRH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "At puberty testosterone function in?",
+    "options": {
+      "A": "Thickening of laryngeal cartilage and deepening of voice",
+      "B": "Autonal genitalia appearance",
+      "C": "Pubic hair distribution upward",
+      "D": "Sharp voice"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "ECF osmolarity regulated by:",
+    "options": {
+      "A": "Cortisol",
+      "B": "GH",
+      "C": "Aldosterone",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Part of pituitary gland at infundibulum called?",
+    "options": {
+      "A": "Pars nervosa",
+      "B": "Pars tuberalis",
+      "C": "Pars distalis",
+      "D": "Pars intermedia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Dopamine regulates which one:",
+    "options": {
+      "A": "GH",
+      "B": "Cortisol",
+      "C": "Prolactin",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Which hormone use phospholipase C as a secondary messenger?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Thyroxin",
+      "C": "GH",
+      "D": "ADH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Thyroid hormones bind with:",
+    "options": {
+      "A": "TSI",
+      "B": "T4",
+      "C": "TSH",
+      "D": "Thyroid binding globulin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Almost all of the active thyroid hormone released in circulation is?",
+    "options": {
+      "A": "Reverse T4",
+      "B": "Thyroxine",
+      "C": "Triiodothyronine",
+      "D": "Reverse t3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Which hormone converts to its active form by 5 alpha reductase in peripheral tissue?",
+    "options": {
+      "A": "DHT",
+      "B": "Testosterone",
+      "C": "Estrogen",
+      "D": "Estriol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Aldosterone Act mainly on:",
+    "options": {
+      "A": "Distal tubule",
+      "B": "Bowmen capsule",
+      "C": "PCT",
+      "D": "JG cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "After Hypophysectomy which cells will be effected?",
+    "options": {
+      "A": "Follicular cells of thyroid",
+      "B": "Chief cells of parathyroid",
+      "C": "Principal cell of parathyroid",
+      "D": "Cells of Adrenal Medulla",
+      "E": "Beta Cells of Pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Thyroid hormone is inactivated in peripheral system by liver through:",
+    "options": {
+      "A": "De methylation",
+      "B": "De iodination",
+      "C": "De amination",
+      "D": "De acetylation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Protein anabolism, fat catabolism is done by:",
+    "options": {
+      "A": "GH",
+      "B": "Insulin",
+      "C": "HCG",
+      "D": "Thyroxin",
+      "E": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Insulin mechanism of action via:",
+    "options": {
+      "A": "Transcription factors",
+      "B": "CAMP pathway",
+      "C": "Tyrosine kinase pathway",
+      "D": "CGMP pathway",
+      "E": "NF-KB pathway"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Increase Ca level is due to:",
+    "options": {
+      "A": "Increase 25 dihydroxycholicalceferol",
+      "B": "Increase PTH",
+      "C": "Decrease PTH",
+      "D": "Decrease Aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Increase Glucose /Increase fatty acids and increased growth hormone is caused by:",
+    "options": {
+      "A": "Glucagon",
+      "B": "TSH",
+      "C": "Insulin",
+      "D": "Hyperglycaemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Vasoconstriction is caused by:",
+    "options": {
+      "A": "Cortisol",
+      "B": "GH",
+      "C": "ADH",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Gluconeogenesis occur due to decrease in:",
+    "options": {
+      "A": "Glucagon",
+      "B": "Insulin",
+      "C": "Cortisol",
+      "D": "PTH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Growth hormone inhibited by which of the following hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Aldosterone",
+      "C": "Somatomedin",
+      "D": "Glucagon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "In hyperthyroidism, increase heart rate is due to increased sensitivity to?",
+    "options": {
+      "A": "Digoxin",
+      "B": "Atenolol",
+      "C": "Adrenaline",
+      "D": "Amphetamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Most likely for cortisol is:",
+    "options": {
+      "A": "Involved in protein synthesis",
+      "B": "Involved in lipid synthesis",
+      "C": "Increase after trauma",
+      "D": "Decrease after trauma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Which of the following metabolite of Vitamin D is used for laboratory assessment?",
+    "options": {
+      "A": "1,25 Vit. D3",
+      "B": "24,25 Cholicalciferol",
+      "C": "Calcium",
+      "D": "25 hydroxyxylase (OH)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "In acute response of neurogenic trauma what will release",
+    "options": {
+      "A": "Glucagon",
+      "B": "GH",
+      "C": "Cortisol",
+      "D": "TSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Insulin causes glucose uptake in skeletal muscles and fat tissues by",
+    "options": {
+      "A": "GLUT 1",
+      "B": "GLUT 4",
+      "C": "GLUT 2",
+      "D": "GLUT 6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "L Dopa is given for parkinson disease, which of the following decreases from the Anterior Pituitary ?",
+    "options": {
+      "A": "GH",
+      "B": "Prolactin",
+      "C": "Insulin",
+      "D": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Neuroendocrine hormone in Stress:",
+    "options": {
+      "A": "CRH",
+      "B": "ACTH",
+      "C": "Cortisol",
+      "D": "GH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "60 Years old lady presented with fracture of hip bone. Which supplement might be beneficial for the lady?",
+    "options": {
+      "A": "Ergocalciferol",
+      "B": "1,25(OH) 2 Cholecalciferol",
+      "C": "24,25 dihydroxycholecalciferol",
+      "D": "Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Which of the following is correct regarding Glycogenolysis?",
+    "options": {
+      "A": "Gluconeogenesis in liver",
+      "B": "Glycogenolysis in skeletal muscle",
+      "C": "It inhibits insulin secretion",
+      "D": "It is increased in response to Hyperglycemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Thyroid Hormone increase?",
+    "options": {
+      "A": "Triglycerides",
+      "B": "Cholesterol",
+      "C": "Free fatty acids",
+      "D": "Amino acids"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Insulin release is inhibited by:",
+    "options": {
+      "A": "Epinephrine",
+      "B": "Theophylline",
+      "C": "Glucagon",
+      "D": "Secretin",
+      "E": "Somatostatin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Which one of the following is correct?",
+    "options": {
+      "A": "Norepinephrine is derived from Epinephrine by decarboxylation",
+      "B": "Epinephrine acts on both alpha & beta receptors",
+      "C": "Epinephrine to norepinephrine ratio is 20:80",
+      "D": "Epinephrine is NMJ neurotransmitter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Insulin secretion inhibited by",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Theophylline",
+      "C": "Alpha Stimulator",
+      "D": "Secretin",
+      "E": "Glucagon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "Intrahepatic protein anabolism and extra hepatic catabolism:",
+    "options": {
+      "A": "Insulin",
+      "B": "Cortisol",
+      "C": "Prolactin",
+      "D": "Thyroid hormones"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Common to Glucagon and Epinephrine is:",
+    "options": {
+      "A": "Glycogenesis",
+      "B": "Glycogenolysis in Liver & Skeletal Muscle",
+      "C": "Activate Insulin",
+      "D": "Cause hypoglycemia",
+      "E": "Reactivate phosphoryl kinase in liver"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Glucagon increase due to:",
+    "options": {
+      "A": "Exercise",
+      "B": "High Glucose",
+      "C": "Epinephrine",
+      "D": "Somatostatin",
+      "E": "Starvation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Which hormone maintain ecf osmolarity??",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Vasopressin",
+      "C": "ADH",
+      "D": "ANP",
+      "E": "BNP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Neuroendocrine hormone in Stress:",
+    "options": {
+      "A": "CRH",
+      "B": "ACTH",
+      "C": "Cortisol",
+      "D": "GH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Which hormone secretion increased in dark & Increases Skin pigmentation along with causing hypogonadism as well:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Neuromelanin",
+      "C": "Melatonin",
+      "D": "ACTH",
+      "E": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Which hormone converts to its active form at target tissues with the help of 5 alpha reductase?",
+    "options": {
+      "A": "Testosterone",
+      "B": "Estrogen",
+      "C": "DHT",
+      "D": "Estradiol",
+      "E": "GnRH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Growth Hormone requires which of the following for its action?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Glucagon",
+      "C": "Insulin",
+      "D": "Estrogen",
+      "E": "Epinephrine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Which of the following is function of insulin?",
+    "options": {
+      "A": "Increase Glycolysis",
+      "B": "Increase Gluconeogenesis",
+      "C": "Increase Glycogenolysis",
+      "D": "Decrease Cellular glucose uptake"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Patient suffering from apparent mineralocorticoid excesses what will be present in this patient?",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypertension",
+      "C": "Hypokalemia",
+      "D": "Hyperkalemia",
+      "E": "Hyperglycemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Abnormal over growth and irregular thickening of bone caused by",
+    "options": {
+      "A": "Chief cells of thyroid",
+      "B": "Cells of adenohypophysis",
+      "C": "Cells of parsintermedia",
+      "D": "Leydig cell"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "One effect of androgen is to promote linear bone growth. This is transient because?",
+    "options": {
+      "A": "Androgens cause epihyseal closure",
+      "B": "Androgens increase the excretion rate of calcium and phosphate ions",
+      "C": "Androgens slow the synthesis of collagen",
+      "D": "Androgens stimulate bone resorption",
+      "E": "Receptors for androgens are down regulated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Androgen effect on linear growth is transient because",
+    "options": {
+      "A": "Receptors are down regulated",
+      "B": "cause epiphyseal growth plate arrest",
+      "C": "Effect osteoblast activity",
+      "D": "Effect absorption from intestine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Glucagon release increased by?",
+    "options": {
+      "A": "Cck",
+      "B": "Secretin",
+      "C": "Gastrin",
+      "D": "Exercise"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Hormone causing increase in Hepatic plasma proteins formation and Extrahepatic proteins degradation:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Glucagon",
+      "C": "Epinephrine",
+      "D": "Growth hormone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Which hormone is mainly released early in stress?",
+    "options": {
+      "A": "Catecholamines",
+      "B": "Melanin",
+      "C": "ACTH",
+      "D": "CRH",
+      "E": "Aldosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Which of following act via phospholipase IP3 mechanism ?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Oxytocin",
+      "C": "FSH",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Hormone which produces protein catabolism in extra hepatic tissues and protein synthesis in liver:",
+    "options": {
+      "A": "GH",
+      "B": "Epinephrine",
+      "C": "Insulin",
+      "D": "Thyroxine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "The test of choice for the long term control of diabetes mellitus is?",
+    "options": {
+      "A": "Fasting blood sugar level",
+      "B": "RBC every 3-weeks duration",
+      "C": "Glycosylated albumin",
+      "D": "Serum fructosamin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "High concentrations of epinephrine primarily exert which of the following effects on glucose metabolism?",
+    "options": {
+      "A": "Inhibit gluconeogenesis and stimulate glycogenolysis",
+      "B": "Stimulate gluconeogenesis and inhibit glycogenolysis",
+      "C": "Stimulate gluconeogenesis and stimulate glycogenolysis",
+      "D": "Inhibit gluconeogenesis and inhibit glycogenolysis",
+      "E": "No effect on glucose metabolism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "What is one of the primary actions of insulin?",
+    "options": {
+      "A": "Lipolysis",
+      "B": "Glycogenolysis",
+      "C": "Glycolysis",
+      "D": "Gluconeogenesis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Which of following act via phospholipase?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Oxytocin",
+      "C": "FSH",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Which hormone is mainly released early in stress?",
+    "options": {
+      "A": "Catecholamines",
+      "B": "Melanin",
+      "C": "ACTH",
+      "D": "CRH",
+      "E": "GH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Secretion of Prolactin and growth hormone affected by:",
+    "options": {
+      "A": "Sleep",
+      "B": "Pregnancy",
+      "C": "Phenothiazine",
+      "D": "Exercise",
+      "E": "Nursing"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "True regarding Vitamin D:",
+    "options": {
+      "A": "Decrease secretion of calories from kidney",
+      "B": "Absorption of Calcium from Kidneys",
+      "C": "Increased Calcium absorption from Intestine",
+      "D": "Increase production of calories"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "I/V Cacl2 was given to a Rat in a laboratory which leads to",
+    "options": {
+      "A": "Decreased 1,25 Dihydroxycholecalciferol",
+      "B": "Decreased 24,25 Dihydroxycholecalciferol",
+      "C": "Increased 1,25 Dihydroxycholecalciferol",
+      "D": "Increased 24,25 Dihydroxycholecalciferol",
+      "E": "Cholecalciferol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "In sleep which hormone Level increases with awake",
+    "options": {
+      "A": "Cortisol",
+      "B": "GH",
+      "C": "Melatonin",
+      "D": "FSH",
+      "E": "LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Circadian Rhythm hormone?",
+    "options": {
+      "A": "Cortisol",
+      "B": "TSH",
+      "C": "Insulin",
+      "D": "ADH",
+      "E": "Epinephrine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Physiological action of PTH include all except",
+    "options": {
+      "A": "Decrease excretion of phosphate",
+      "B": "Decrease phosphate reabsorption",
+      "C": "Increase activation of vitamin D3",
+      "D": "Increase resorption of bones",
+      "E": "Increase calcium reabsorption"
+    },
+    "correct_answer": "A"
+  }
+]

@@ -1,0 +1,3466 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Dead Space increases in:",
+    "options": {
+      "A": "Lung collapse",
+      "B": "Pulmonary edema",
+      "C": "Hypertension",
+      "D": "Hypotension",
+      "E": "Atelectasis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A patient Nonsmoker, fever for 6 weeks and cough with small amount of blood on xray \"Coin lesion \"is seen in upper lobe Related to:",
+    "options": {
+      "A": "Small cell carcinoma",
+      "B": "Granuloma",
+      "C": "Silicosis",
+      "D": "Adenocarcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Farmer's lung is due to which of the following agent",
+    "options": {
+      "A": "Grain dust",
+      "B": "Sugar cane",
+      "C": "Cotton fiber dust",
+      "D": "Coal dust",
+      "E": "Asbestos"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A patient presented with Fever productive cough and altered sensorium. X-Ray shows lobar pneumonia. how to confirm diagnose",
+    "options": {
+      "A": "Sputum culture",
+      "B": "Montox test",
+      "C": "Monospot test",
+      "D": "Tension test"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Patient has facial congestion, lung CA diagnosed to be small cell (oat cell) CA, it will show increased:",
+    "options": {
+      "A": "ACTH",
+      "B": "PTHrp",
+      "C": "TSH",
+      "D": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Obstructive lung disease with decreased oxygenation and retention of CO2, hyperinflation of lung on x-ray likely diagnose among these is:",
+    "options": {
+      "A": "Emphysema",
+      "B": "Asthma",
+      "C": "Cystic fibrosis",
+      "D": "Aspergillosis",
+      "E": "Bronchiectasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Which of following is true regarding Diffusion capacity of O2:",
+    "options": {
+      "A": "Less than N2",
+      "B": "More than CO2",
+      "C": "Decreases in exercise",
+      "D": "Decreases in lung fibrosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Patient with lung fibrosis has dyspnea due to which of following reason:",
+    "options": {
+      "A": "Dec diffusing capacity of O2",
+      "B": "Increased airway resistance",
+      "C": "Increase diffusion of CO2",
+      "D": "Atelectasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A person who is smoker and working in construction factory, bilateral diaphragmatic lung lesions on CXR due to which of these",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Silicosis",
+      "C": "Tb",
+      "D": "Byssinosis",
+      "E": "Carbon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Regarding alveoli true is",
+    "options": {
+      "A": "Surfactant avoid collapse of alveoli",
+      "B": "Produce by type II pneumocytes",
+      "C": "Decrease compliance",
+      "D": "Increase Surface tension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "A man with no cough and fever CXR show diffuse lung fibrosis likely cause is",
+    "options": {
+      "A": "Smoking",
+      "B": "Organic dust",
+      "C": "Inorganic dust",
+      "D": "Radon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Patient working in mine has tuberculin test positive presented with Cough, fever, weight loss and hilar Lymphadenopathy which of following could be the reason behind these findings",
+    "options": {
+      "A": "Silicosis",
+      "B": "Asbestosis",
+      "C": "Anthracosis",
+      "D": "Pneumoconiosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Dead space decreased in which of following condition",
+    "options": {
+      "A": "Emphysema",
+      "B": "Pleural effusion",
+      "C": "Atelectasis",
+      "D": "Standing",
+      "E": "Pneumothorax"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Dead space decrease in which of following condition",
+    "options": {
+      "A": "Standing",
+      "B": "Tracheostomy",
+      "C": "Deep inspiration",
+      "D": "Shallow breathing"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Carbon laden macrophages develop in which of following disease",
+    "options": {
+      "A": "Silicosis",
+      "B": "Pneumoconiosis",
+      "C": "Anthracosis",
+      "D": "Asbestosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Common source of pulmonary embolism is",
+    "options": {
+      "A": "Popliteal vein",
+      "B": "Femoral vein",
+      "C": "Saphenous vein",
+      "D": "Tibial vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Ashcoff bodies generation initial stage is which of following",
+    "options": {
+      "A": "Fibrosis",
+      "B": "Epithelioid",
+      "C": "Fibrinoid degeneration",
+      "D": "Granuloma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Adult ARDS was treated with porcilin (Surfactant), What was its MOA",
+    "options": {
+      "A": "Decrease alveolar surface tension",
+      "B": "Increase compliance",
+      "C": "Increase intrapleural pressure",
+      "D": "Increase surface tension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Obstructive disease of lung increases which capacity",
+    "options": {
+      "A": "FRC",
+      "B": "FEV1",
+      "C": "VC",
+      "D": "TLC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which is more related to malignancy",
+    "options": {
+      "A": "Asbestos",
+      "B": "Berrylium",
+      "C": "Aromatic amines",
+      "D": "Silica"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "A Female patient with B/L pleural effusion and dyspnea with basal crepitation and having pedal edema most suitable diagnose is",
+    "options": {
+      "A": "Recurrent thromboembolism",
+      "B": "DVT",
+      "C": "CHF",
+      "D": "MI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "In obstructive lung disease what will increase",
+    "options": {
+      "A": "TV",
+      "B": "RV",
+      "C": "FEV1",
+      "D": "Increase elastic recoil"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Pulmonary embolism leading to shock is due to which of these",
+    "options": {
+      "A": "Thromboembolism",
+      "B": "Infarction",
+      "C": "Fat emboli",
+      "D": "Air emboli"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "55 years old female, non-insulin dependent diabetes. Had cholecystectomy done on 3rd post op day she developed sudden dyspnea, chest pain and hemoptysis likely Cause is",
+    "options": {
+      "A": "Hiatus hernia",
+      "B": "MI",
+      "C": "Pneumonia",
+      "D": "Pulmonary embolism",
+      "E": "Spontaneous pneumothorax"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Characteristic feature of sarcoidosis is",
+    "options": {
+      "A": "Diabetes insipidus",
+      "B": "Erythema-nodosum",
+      "C": "Hepaticgranuloma",
+      "D": "Hypercalcemia",
+      "E": "Pleural effusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "5 year old girl with SOB no cough for three months present with temp 38.7 F and CXR 25 sputum clear negative culture with ordinary media ANA negative on CXR hilar Lymphadenopathy and right lower lobe infiltrates Diagnose is",
+    "options": {
+      "A": "Bronchogenic carcinoid CA",
+      "B": "Pneumonia",
+      "C": "TB",
+      "D": "SLE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "A patient had non-productive cough for 6 months. Now presented with blood streaked sputum. Left Lung has 5 cm hilar mass. Sputum shows hyper chromatic, pleomorphic cells with scanty cytoplasm. Cause of this condition is",
+    "options": {
+      "A": "Silicosis",
+      "B": "Asbestosis",
+      "C": "Smoking",
+      "D": "Passive smoking",
+      "E": "Radon exposure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Paraneoplastic syndrome is caused by which of the following",
+    "options": {
+      "A": "Small cell carcinoma of lung",
+      "B": "Renal cell carcinoma",
+      "C": "Carcinoid",
+      "D": "HCC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Vital capacity less than 80% present in:",
+    "options": {
+      "A": "Restrictive lung disease",
+      "B": "Normal person",
+      "C": "Asthma",
+      "D": "Bronchitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "A neonate born prematurely has a deficiency of surfactant. She is at a risk of Developing which of following condition",
+    "options": {
+      "A": "Lung hypoplasia",
+      "B": "Respiratory distress syndrome",
+      "C": "Asthma",
+      "D": "COPD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Woman with respiratory symptoms that of Spontaneous recovery vacations bronchopulmonary biopsy shows increase in lymphocytes, some eosinophils and neutrophils, also allergic alveolitis and some hilar nodes. what will be the history findings",
+    "options": {
+      "A": "Asbestosis",
+      "B": "She has pigeons/parrots in basement",
+      "C": "Tobacco smoke",
+      "D": "House has lead composition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "COPD is diagnosed when Fev1",
+    "options": {
+      "A": "Less than 90",
+      "B": "More than 80",
+      "C": "Less than 0.8",
+      "D": "More than 0.8"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Regarding pulmonary embolus true is",
+    "options": {
+      "A": "Alveolar PO2 increase",
+      "B": "Arterial PCO2 increase",
+      "C": "Perform ventilation mismatch",
+      "D": "V/Q become low"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A 55 year old lady with swelling of both legs and B/L pleural effusion presents to you. Lab values= AST 263, ALT 223, LDH 760, CK 150. No fever or other symptoms diagnosis is",
+    "options": {
+      "A": "Reno vascular hypertension",
+      "B": "Recurrent thromboembolism",
+      "C": "Rheumatoid arthritis",
+      "D": "Hepatic failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Asthma affects which of the following",
+    "options": {
+      "A": "Medium size bronchiole",
+      "B": "Medium size bronchus",
+      "C": "Respiratory bronchiole",
+      "D": "Tertiary bronchioles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Surfactant deficiency causes which of the following",
+    "options": {
+      "A": "Reduced change of negative intrapleural pressure",
+      "B": "Patchy atelectasis",
+      "C": "Decreased surface tension",
+      "D": "Increase Compliance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Increased calcium in squamous cell carcinoma is due to which of following factors",
+    "options": {
+      "A": "PTHrp",
+      "B": "Increased PTH",
+      "C": "Increased ACTH",
+      "D": "Increase Vitamin D"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A Patient who is indulged in demolition of Old buildings develops dyspnea recently. CXR showed interstitial fibrosis of Lungs bilaterally. On histology, iron staining of the cells was positive. Most likely diagnosis is",
+    "options": {
+      "A": "Silicosis",
+      "B": "Asbestosis",
+      "C": "Anthracosis",
+      "D": "Bysinosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Patient with Cough, fever for last 3 months and cervical lymphadenopathy and he also has non healing ulcer on tongue Histology shows granuloma with Caseous Necrosis. Hilar Lymph sign normal in Histoplasmosis Non healing ulcer on tongue also seen in TB but Xray is abnormal",
+    "options": {
+      "A": "TB",
+      "B": "Histoplasmosis",
+      "C": "Bronchogenic CA",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Patient is Smoker on biopsy of alveoli there will be which of these findings",
+    "options": {
+      "A": "Decrease no of Goblets cell",
+      "B": "Squamous metaplasia",
+      "C": "Columnar epithelium",
+      "D": "Increase number of goblet cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Which of the following increases in Asthma",
+    "options": {
+      "A": "IgE",
+      "B": "IgG",
+      "C": "IgD",
+      "D": "IgM",
+      "E": "Basophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "A patient with cervical lymphadenopathy CXR shows bilateral hilar lymphadenopathy biopsy shows non caseating granuloma pattern Likely diagnose is",
+    "options": {
+      "A": "TB",
+      "B": "Histoplasmosis",
+      "C": "Sarcoidosis",
+      "D": "Hodgkin lymphoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Non caseating granuloma with asteroid bodies Related to which of these",
+    "options": {
+      "A": "TB",
+      "B": "Histoplasmosis",
+      "C": "Aspergilosis",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Cause of Interstitial lung disease is which one of following",
+    "options": {
+      "A": "TB",
+      "B": "Inorganic dust",
+      "C": "Histoplasmosis",
+      "D": "Silicosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Regarding Primary TB following is true",
+    "options": {
+      "A": "Dry cough",
+      "B": "Caseous necrosis",
+      "C": "Ghon complex",
+      "D": "Sputum production"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Patient presented with dry cough, on his chest x-ray shows hilar lymph nodes what is required for diagnosis?",
+    "options": {
+      "A": "Granuloma with asteroids",
+      "B": "Granuloma with caseation",
+      "C": "Gumma",
+      "D": "Ghon focus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "The type of cells involved in sarcoidosis are:",
+    "options": {
+      "A": "T lymphocytes",
+      "B": "Eosinophils",
+      "C": "Plasma cells",
+      "D": "Neutrophils",
+      "E": "Macrophages"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Which of the following are called Dust cells?",
+    "options": {
+      "A": "Alveolar macrophages",
+      "B": "Neutrophils",
+      "C": "Lymphocytes",
+      "D": "Eosinophil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A female resident received a case of chronic smoker with hoarseness of voice and lymphatic nodules. It is due to which of following",
+    "options": {
+      "A": "CA of esophagus",
+      "B": "Lymphoma",
+      "C": "Nasopharyngeal CA",
+      "D": "CA of larynx"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "ACTH release and carcinoid syndrome is caused by which carcinoma",
+    "options": {
+      "A": "Small cell",
+      "B": "Larger cell",
+      "C": "Bronchogenic",
+      "D": "Squamous cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Patient has lung cancer came to oncologist with the complain of increased urinary phosphate concentration. After complete evaluation, you find that patient has increase parathyroid related hormone level. Which carcinoma is responsible for this",
+    "options": {
+      "A": "Small cell",
+      "B": "Larger cell",
+      "C": "Bronchogenic",
+      "D": "Squamous cell"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Patient had difficulty in breathing for some days, O/E breath sounds are decreased on both sides and dullness on percussion, CXR shows bilateral fluid & leg edema what could be the possible cause",
+    "options": {
+      "A": "Hypoalbuminemia",
+      "B": "Hypoglobulinemia",
+      "C": "Hypernatremia",
+      "D": "Deranged LFTs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Schaumann bodies are found in which of following",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Parkinson's Disease",
+      "C": "Rabies",
+      "D": "Asbestosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "An Old patient with fever and weight loss, patches in lungs, hemoptysis epithelioid cells next step is which among these",
+    "options": {
+      "A": "AFB",
+      "B": "CXR",
+      "C": "HIV Serology",
+      "D": "CD4 Count"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Aspiration of sitting (upright) position the content will go into which of these sites",
+    "options": {
+      "A": "Left posterior zone",
+      "B": "Left Lower zone",
+      "C": "Right Posterior zone lower lobe",
+      "D": "Apical/Superior Segment of Right lower lobe"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Bronchogenic carcinoma metastasize most commonly to which of the following endocrine gland",
+    "options": {
+      "A": "Pituitary Gland",
+      "B": "Adrenal Gland",
+      "C": "Thyroid Gland",
+      "D": "Parathyroid Gland"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A farmer contacted a disease from sheep & the skin lesion is ulcerated black most likely is",
+    "options": {
+      "A": "Plaque",
+      "B": "Anthrax",
+      "C": "Pneumoconiosis",
+      "D": "Leishmania"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Which of the following is part of respiratory conducting portion?",
+    "options": {
+      "A": "Trachea",
+      "B": "Alveoli",
+      "C": "Alveolar Duct",
+      "D": "Alveolar Sac"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Difference between sarcoidosis & Tb is",
+    "options": {
+      "A": "Symmetrical B/L hilar lymphadenopathy",
+      "B": "Fever",
+      "C": "Constitutional symptoms",
+      "D": "Night Sweats"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "A patient presented with low grade fever, night sweats & productive cough most likely due to:",
+    "options": {
+      "A": "TB",
+      "B": "Lung CA",
+      "C": "Sarcoidosis",
+      "D": "Histoplasmosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "A man went from sea level to 12000 height in 2 days. After 12 hours reaching the destination, he developed dyspnoea. Whats the cause:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Secondary polycythaemia",
+      "C": "Primary polycythaemia",
+      "D": "Heart Failure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Commonest type of bronchogenic carcinoma is",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Adenocarcinoma",
+      "C": "Small cell carcinoma",
+      "D": "Large cell carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A 55 years old female known case of some hematological pathology, admitted the hospital with the history of sudden onset of severe dyspnea, on echocardiography it was found that the lady has severe pulmonary hypertension what could be the best possible cause associated with the condition",
+    "options": {
+      "A": "Repeated pulmonary emboli",
+      "B": "Massive pulmonary embolism",
+      "C": "DVT",
+      "D": "MI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A child known case of cystic fibrosis presented with acute respiratory infection, on investigation the organism diagnosed as pseudomonas aeruginosa, what are the other findings associated with this patient",
+    "options": {
+      "A": "Bronchial asthma",
+      "B": "Bronchiectasis",
+      "C": "Emphysema",
+      "D": "Pleural effusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Regarding Pulmonary TB true is:",
+    "options": {
+      "A": "Occur in Posterior upper lobe in lung",
+      "B": "Occur in Posterior lower lobe in lung",
+      "C": "Foul Smelling Sputum",
+      "D": "Foul Smelling Saliva"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Which of following tumor secrete parathyroid hormones?",
+    "options": {
+      "A": "Small cell carcinoma of lung",
+      "B": "Hepatocellular carcinoma",
+      "C": "Squamous cell carcinoma of lung",
+      "D": "Papillary carcinoma",
+      "E": "Renal Carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Bronchogenic carcinoma is due to exposure to which of these agent",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Nickel",
+      "C": "Cadmium",
+      "D": "Carbon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Histological findings of chronic bronchitis include",
+    "options": {
+      "A": "Reid Index > 50%",
+      "B": "Reid Index < 50%",
+      "C": "Atrophy of Mucosal Glands",
+      "D": "Enlargement of Air spaces"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "A patient presented with weight loss, productive cough & night sweats what will be seen on histology?",
+    "options": {
+      "A": "Non caseous necrosis",
+      "B": "Caseous necrosis",
+      "C": "Granuloma with Asteroid",
+      "D": "Non Asteroid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Diagnostic test for Leprosy is",
+    "options": {
+      "A": "AFB",
+      "B": "Montoux Test",
+      "C": "Nasal Scraping",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "In Plastic Industry worker cause of Angiosarcoma is which of following",
+    "options": {
+      "A": "Arsenic",
+      "B": "Vinyl chloride",
+      "C": "Cadmium",
+      "D": "Asbestosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Emphysema due to smoking is which of these",
+    "options": {
+      "A": "Panacinar",
+      "B": "Centriacinar",
+      "C": "Both",
+      "D": "Distal acinar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "A patient presented with history of low grade fever, weight loss, productive cough & Granulomatous nasal lesion is most likely suffering form which of following disease",
+    "options": {
+      "A": "M-TB",
+      "B": "M-Leprae",
+      "C": "Staph Aureus",
+      "D": "Hemophilus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "A Pregnancy of 28 weeks with no complications suddenly needed resuscitation and given mechanical intubation due to respiratory insufficiency and zero respiratory effort having increase opacities on X-ray after premature birth. What will be found in baby lungs?",
+    "options": {
+      "A": "Decreased lamellar bodies in type 2",
+      "B": "Pneumocytes",
+      "C": "Alveolar hemorrhage",
+      "D": "Diffuse Alveolar edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A 60 years old ate street food developed lung abscess due to which mechanism",
+    "options": {
+      "A": "Indirect spread from liver",
+      "B": "Direct Spread from liver",
+      "C": "Release of exotoxin",
+      "D": "Release of endotoxin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Which of the following is the cell of atopic asthma",
+    "options": {
+      "A": "Mast Cells",
+      "B": "Eosinophils",
+      "C": "Basophils",
+      "D": "Lymphocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Following sudden relief in ARDS, patient develops one of these is",
+    "options": {
+      "A": "Apnea",
+      "B": "Hypertension",
+      "C": "Postural Hypotension",
+      "D": "GIT disturbances"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Kartagener’s Syndrome involves which of these",
+    "options": {
+      "A": "Collagen",
+      "B": "Fibrillin",
+      "C": "Dynein arms",
+      "D": "Centrioles"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "DLCO decreases in which condition",
+    "options": {
+      "A": "Pulmonary Fibrosis",
+      "B": "Polycythemia",
+      "C": "Pulmonary hemorrhage",
+      "D": "Asthma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Asthmatic Patient having respiratory rate of 30/min and dyspneic findings include",
+    "options": {
+      "A": "Increase Lung compliance",
+      "B": "Decrease Lung compliance",
+      "C": "No change",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Regarding the lung compliance, the following is true:",
+    "options": {
+      "A": "Increased by stiff lung",
+      "B": "Increase by increase elastic recoil",
+      "C": "Increase by decrease intrapleural pr",
+      "D": "Increase in old age",
+      "E": "Increase in bronchial obstruction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "A young male living in a populatedtown, he died in an RTA on theautopsy the lymph nodes of lungs arefound black in color, which of thefollowingis associated with thecondition of this patient:",
+    "options": {
+      "A": "Melatonin",
+      "B": "Anthracosis",
+      "C": "Bronchogenic carcinoma",
+      "D": "Bronchial asthma",
+      "E": "TB"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Which factor sees an increase in restrictive lung diseases?",
+    "options": {
+      "A": "FEV1/FVC",
+      "B": "Compliance",
+      "C": "FRC",
+      "D": "TV",
+      "E": "ERV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Sarcoidosis is diagnosed microscopically by?",
+    "options": {
+      "A": "Granuloma with asteroid",
+      "B": "Caseating granuloma",
+      "C": "Non caseating granuloma",
+      "D": "Macrophages"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "A patient with one year history of SOB presents with cough, O/E wheeze, hyper-resonant chest and decrease vocal fremitus. PFTs show decrease FEV/FVC and also decreased lung elastase. What is the cause of increased activity of neutrophil elastase?",
+    "options": {
+      "A": "Nicotine",
+      "B": "NO",
+      "C": "Carbon",
+      "D": "Alpha 1 antitrypsin",
+      "E": "Silicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A patient has signs of Byssinosis. He works in which industry?",
+    "options": {
+      "A": "Coal",
+      "B": "Textile",
+      "C": "Road",
+      "D": "Plumber"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Acute respiratory distress syndrome isrelated to which of following?",
+    "options": {
+      "A": "Late birth",
+      "B": "Prematurity",
+      "C": "Genetic disease",
+      "D": "Obstetrics complications",
+      "E": "Chemical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Female was diagnosed Alpha 1 antitrypsin deficiency. Which part of respiratory tract would be most affected?",
+    "options": {
+      "A": "Alveolar duct",
+      "B": "Terminal bronchioles",
+      "C": "Alveoli",
+      "D": "Medium sized bronchi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A 7 year old child with cough and mucus, increase eosinophils x-ray shows hyperinflation Likely diagnose is",
+    "options": {
+      "A": "Cystic fibrosis",
+      "B": "Bronchial asthma",
+      "C": "Hypersensitivity pneumonitis",
+      "D": "Gastric aspiration",
+      "E": "Aspergillosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "What pulmonary disease, most commonly associated with smoking, results in enlarged, overinflated lungs owing to the destruction of the alveolar walls with diminished elastic recoil seen in which of following",
+    "options": {
+      "A": "Asthma",
+      "B": "Lung carcinoma",
+      "C": "Emphysema",
+      "D": "Pneumoconiosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Diabetic mother presented with respiratory distress fetus should be given",
+    "options": {
+      "A": "Betamethasone",
+      "B": "Promethasone",
+      "C": "Momethasone",
+      "D": "Dexamethasone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "An alcoholic female presented with history of 4 kg weight loose in last few months,Temp 38.5 Pleuritic chest pain,Cough with Hemoptysis.On chest x ray b/l Perihilar finding was present.Her alveolar wash shows a few epithelioid cells.CBC shows: Neutrophils-78, Lymhocytes-8, Eosinophils-3. What is Probable Diagnosis?",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Hamartoma",
+      "C": "TB",
+      "D": "Pneumonia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A patient is diagnosed case of COPD (chronic bronchitis) diagnostic feature histologically is",
+    "options": {
+      "A": "Hypertrophy and hyperplasia of mucus secreting glands",
+      "B": "Atrophy of mucus secreting gland",
+      "C": "Hypertrophy of serous glands",
+      "D": "Atrophy of serous glands"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Stony dull percussion note shows",
+    "options": {
+      "A": "Fluid in pleural cavity",
+      "B": "Pneumonia",
+      "C": "Simple pneumothorax",
+      "D": "Spontaneous rupture of bulla"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Asthmatic patient with RR 30/min dyspneic will have",
+    "options": {
+      "A": "Decrease airway entry",
+      "B": "Increase PaCO2",
+      "C": "Decrease PaCO2",
+      "D": "Increase lung compliance",
+      "E": "Decrease airway trapping"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Type 1 respiratory failure occurs in all except",
+    "options": {
+      "A": "ARDS",
+      "B": "Pneumonia",
+      "C": "Drug over dose",
+      "D": "Blunt chest trauma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Pneumonia causes which type of respiratory failure",
+    "options": {
+      "A": "Type1",
+      "B": "Type2",
+      "C": "Mixed",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "A man had a cardiac transplant 1 month ago presents with fever and cough for the last five days. He gives history of using antibiotics for 6 months now with no improvement in symptoms. On CT chest he has left lower lobe basal consolidation and CT brain shows multiple abscesses in brain. Gram staining revealed normal flora. The most likely causative agent is",
+    "options": {
+      "A": "Aspergillus",
+      "B": "Pneumocystis carinii",
+      "C": "Mycoplasma",
+      "D": "Nocardia",
+      "E": "Mycobacterium avium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "35-year-old bird keeper, presented withflu like illness, chest X Ray showsinfiltrates which organism is responsible",
+    "options": {
+      "A": "Chlamydia Psittacosis",
+      "B": "Chlamydia Trachomatis",
+      "C": "H. Influenza",
+      "D": "Corynebacterium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "In Histoplasmosis most commonly involved organ system is:",
+    "options": {
+      "A": "Renal",
+      "B": "CVS",
+      "C": "Respiratory",
+      "D": "Reticulo endothelial system",
+      "E": "CNS"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A person working in cotton industry, is on risk of developing:",
+    "options": {
+      "A": "Farmers lungs",
+      "B": "Byssinosis",
+      "C": "Baggasosis",
+      "D": "Silicosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "10-year old boy presents with recurrentupper respiratory tract infections.History revealed that he also hadcomplained of chronic diarrhea andBronchiectasis Most appropriate testfor diagnose?",
+    "options": {
+      "A": "CBC",
+      "B": "Duodenal biopsy",
+      "C": "Sputum culture",
+      "D": "Sweat chloride test",
+      "E": "Jujenal biopsy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Asbestosis is related to which of thefollowing:",
+    "options": {
+      "A": "Kidney Cancer",
+      "B": "Malignant Mesothelioma",
+      "C": "Endothelial cancer",
+      "D": "Bladder Cancer",
+      "E": "Liver CA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Absent Surfactant leads to Which of following",
+    "options": {
+      "A": "Decrease oxygen tension",
+      "B": "Increase compliance",
+      "C": "Decrease compliance",
+      "D": "Decrease elastic recoil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Farmer presented with chest pain and right sided calcification cause is:",
+    "options": {
+      "A": "Abscess",
+      "B": "Aspergillosis",
+      "C": "Sarcoidosis",
+      "D": "TB"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "On microscopy of lymph node, biopsy specimen, granuloma with caseous necrosis found for diagnosis of TB What should be looked for?",
+    "options": {
+      "A": "Coagulative Necrosis",
+      "B": "Langhans Giant Cells",
+      "C": "Demonstration of AFB",
+      "D": "Macrophage",
+      "E": "Neutrophil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A 57-year-old Man working and smokers from long time having non-productive cough which worsened for past 2 months. Bilateral wheeze and having 5 cm mass in hilar region cause is:",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Smoking",
+      "C": "Passive smoking",
+      "D": "Silicosis",
+      "E": "Radon exposure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "The deficiency of surfactant in child will cause which of following:",
+    "options": {
+      "A": "Respiratory distress syndrome (RDS)",
+      "B": "Emphysema",
+      "C": "Pneumonia",
+      "D": "Pulmonary Congestion",
+      "E": "Pulmonary Embolism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "A patient in RTA had head injury after which he has increase respiration and decrease respiration. This type of respiration is known as:",
+    "options": {
+      "A": "Cheyne stroke",
+      "B": "Laboured",
+      "C": "Hysterical",
+      "D": "Kussmaul",
+      "E": "Apnea"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "A 45 year old previously normal lady start having dyspnea, dry cough, fever 3 months back Recovered for one month when she went on vacation. Again developed symptoms when she got back to her canaries. X-ray multiple nodular lesions in all lung zones. The mechanism of lung injury was due to:",
+    "options": {
+      "A": "Antigen antibody mediated reaction",
+      "B": "Progressive interstitial lung disease",
+      "C": "Mast cell degranulation",
+      "D": "Compliment mediated",
+      "E": "A (Hypersensitivity pneumonitis)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Definitive diagnosis of pneumonia is which of following",
+    "options": {
+      "A": "Throat culture",
+      "B": "Urine culture",
+      "C": "Sputum culture",
+      "D": "Gram staining",
+      "E": "X-ray"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "End expiratory volume will be increased in?",
+    "options": {
+      "A": "COPD",
+      "B": "Interstitial lung disease",
+      "C": "Restrictive lung disease",
+      "D": "Silicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "What is likely Cause of mesothelioma?",
+    "options": {
+      "A": "Cane fibres",
+      "B": "Asbestosis",
+      "C": "Silicosis",
+      "D": "Ammonia",
+      "E": "Sugar fibers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Type 1 hypersensitivity reaction occurs due to eosinophils and this mechanism will occur due to:",
+    "options": {
+      "A": "Organic Dust",
+      "B": "Inhaled dust",
+      "C": "Liver Fluke",
+      "D": "Silica",
+      "E": "Asbestos"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Which of following volume decrease in Asthma?",
+    "options": {
+      "A": "FRC",
+      "B": "FEV1",
+      "C": "FVC",
+      "D": "Vital Capacity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "A patient presented with chronic fever night sweats and cervical lymphadenopathy, epitheloid cells in sputum, CXR shows diffuse nodular opacities diagnose is:",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Lymphoma",
+      "D": "Infectious mononucleosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Due to emphysema change occur in lung is:",
+    "options": {
+      "A": "Increase elastic tendency to lungs",
+      "B": "Decrease elastic recoil tendency of lungs",
+      "C": "Increase stiffness of lung",
+      "D": "Increase Elastase in lung"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Man working in ship craft develop which carcinoma?",
+    "options": {
+      "A": "Bronchogenic carcinoma",
+      "B": "Liver carcinoma",
+      "C": "Malignant mesothelioma",
+      "D": "Kidney carcinoma",
+      "E": "Bladder carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A child previously having TB comes to you with the complain of fever and cough along with noisy breathing and difficulty in swallowing, now diagnosed as retropharyngeal Abscess, which structure it will invade first?",
+    "options": {
+      "A": "Pre cervical fascia",
+      "B": "Prevertebral fascia",
+      "C": "Carotid sheath",
+      "D": "Buccopharyngeal fascia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A Tailor had TB infectiontransmitted to two of his family members mode of spread of this is:",
+    "options": {
+      "A": "Aerosolated air droplets",
+      "B": "Blood",
+      "C": "Blood transfusion",
+      "D": "Sexual contact",
+      "E": "Needle sticks injury"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Person working in digging deep earth crust is prone to have:",
+    "options": {
+      "A": "Silicosis",
+      "B": "Coal workers pneumoconiasis",
+      "C": "Anthracosis",
+      "D": "Asbestosis",
+      "E": "Bysinosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Child present with chronic Cough he took ATT for cough but cough not resolved. On examination clubbing anemia and Low BMI present. X-ray reveals Tram track sign likely diagnose is:",
+    "options": {
+      "A": "Chronic Bronchitis",
+      "B": "Bronchiectasis",
+      "C": "Pneumonia",
+      "D": "Lung CA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Women with long-standing asthma and depressive disorder. Most likely immunological change:",
+    "options": {
+      "A": "Decrease cytokines",
+      "B": "Increase cytokines",
+      "C": "Decrease acute phase reactants",
+      "D": "Increased lymphocytic proliferative response"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Patient of cervical lymphadenopathy CXR shows bilateral hilar lymphadenopathy. Biopsy shows typical granulomatous necrosis of submandibular and sublingual glands diagnosis is:",
+    "options": {
+      "A": "TB",
+      "B": "Syphilis",
+      "C": "Leprosy",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A patient presented with fever, weight loss and tongue ulcer, cxr shows b/l hilar lymphadenopathy microscopy shows caseous necrosis most suitable diagnose:",
+    "options": {
+      "A": "TB",
+      "B": "Histoplasmosis",
+      "C": "Wegener granulomatosis",
+      "D": "Sarcoidosis",
+      "E": "IgA Nephropathy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A Kid having cystic fibrosis developing recurrent chest infection and otitis media most likely associate findings:",
+    "options": {
+      "A": "Increase sweat chloride",
+      "B": "Increase sodium",
+      "C": "Decrease sweat chloride",
+      "D": "Increase Blood Magnesium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Regarding the bronchial asthma the most probable finding will be?",
+    "options": {
+      "A": "FEV1 reduces",
+      "B": "FEV1 increases",
+      "C": "FRC increases",
+      "D": "FEV1/FVC < 65%"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A young girl with difficulty in breathing, her vitals were fine except respiratory rate was increased. Nothing on auscultation.Sputum Result were negative. On X-Ray There was hilar lymphadenopathy on right side and a nodular lesion in the middle lobe of the same side lung. What's the cause?",
+    "options": {
+      "A": "Mycobacterium tuberculosis infection",
+      "B": "Hypersensitive pneumonitis.",
+      "C": "Leprosy",
+      "D": "Infective endocarditis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which will not be present in a lung hamartoma?",
+    "options": {
+      "A": "Coin lesion on x ray chest",
+      "B": "Cartilage in lesion area",
+      "C": "Well define",
+      "D": "Nodules"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Indication for endo bronchial intubation:",
+    "options": {
+      "A": "Large Tongue",
+      "B": "Large Head",
+      "C": "Short Neck",
+      "D": "Long Neck",
+      "E": "Short Head"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Pulmonary vasoconstriction occurs due to:",
+    "options": {
+      "A": "Hypoxia",
+      "B": "CO2",
+      "C": "Edema",
+      "D": "Decrease pulmonary pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "A young man of 30 years having Kyphoscoliosis in which respiratory muscle weakness observed decrease respiration result due to which of these?",
+    "options": {
+      "A": "Decrease vital capacity",
+      "B": "Increase FRC",
+      "C": "Hypercapnia",
+      "D": "Oxyhaemoglobin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "In weather changes and asthmatic have cough which receptors involved?",
+    "options": {
+      "A": "Peripheral chemoreceptors",
+      "B": "Stretch receptors",
+      "C": "Nociceptors",
+      "D": "Central chemoreceptors",
+      "E": "Irritant receptors"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "A mother has child of 10 year diagnosed with meningititis and now she ask that another 2 child 4 and 6 year old are at risk of the meningititis. Tell her the route of spread of infection:",
+    "options": {
+      "A": "Airborn",
+      "B": "Oral",
+      "C": "Respiratory droplet",
+      "D": "Blood"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Antibodies against calcium channel form in:",
+    "options": {
+      "A": "Myasthenia",
+      "B": "Lambert Eaton syndrome",
+      "C": "Cushing Disease",
+      "D": "Addison disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A female presented with isolated lung mass in periphery of right lung?",
+    "options": {
+      "A": "Bronchogenic carcinoma",
+      "B": "Small cell carcinoma",
+      "C": "Adenocarcinoma",
+      "D": "Clear cell carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Type 2 pneumocytes deficiency in infant’s causes:",
+    "options": {
+      "A": "Meconium aspirations",
+      "B": "Respiratory distress syndrome",
+      "C": "Neural tube defects",
+      "D": "Congenital diaphragmatic hernia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "The stimulus for pulmonary vasoconstriction is:",
+    "options": {
+      "A": "Increase PaO2",
+      "B": "Decrease PaO2",
+      "C": "Increase O2",
+      "D": "Decrease O2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "9 yrs old girl presented to you with the complain of sob, on auscultation chest was clear, no murmur .gallop .c-xay shows hilar lymphadenopathy and 1cm nodule in right middle lobe .no infiltrations no mass, sputum and blood tests are also negative, dx?",
+    "options": {
+      "A": "Infectious endocrsditis",
+      "B": "Arterial myxoma",
+      "C": "Mycobacterium tuberculosis",
+      "D": "Carcinoid tumor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Which is characteristic of sarcoidosis in female?",
+    "options": {
+      "A": "Hepatic granuloma",
+      "B": "Erythema nodosum",
+      "C": "Erythema Granulosum",
+      "D": "Hypercalcemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Alpha 1 anti-trypsin deficiency is:",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal Dominant",
+      "C": "X linked Recessive",
+      "D": "X linkes dominant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "15 year Gardner with history of chestpain, no other symptoms. X-Ray was done which showed Round mass which is calcified?",
+    "options": {
+      "A": "Aspergillus",
+      "B": "Tuberculosis",
+      "C": "Sarcoidosis",
+      "D": "Hydatid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Thymoma is associated with myasthenia gravis. What other disease is associated with it?",
+    "options": {
+      "A": "Pure Red Cell Aplasia",
+      "B": "Aplastic Anemia",
+      "C": "Eaton Lambert Syndrome",
+      "D": "Megaloblastic Anemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Female with cervical lymphadenopathy histology showed granulomatous diagnosis of TB is strongly suggested related to:",
+    "options": {
+      "A": "Montoux test",
+      "B": "IgE test",
+      "C": "Tension test",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "A patient having cervical lymphadenopathy is suspected as having TB, which of the followingwill most likely give diagnosis of TB?",
+    "options": {
+      "A": "Giant cell",
+      "B": "Montoux test",
+      "C": "X-ray chest",
+      "D": "Caseous necrosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "L-S ratio of amniotic fluid represents the function of:",
+    "options": {
+      "A": "Fetal Heart",
+      "B": "Fetal lungs",
+      "C": "Fetal Kidney",
+      "D": "Fetal Liver"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Lung pressure volume test in emphysema will show:",
+    "options": {
+      "A": "Decrease lung volumes",
+      "B": "Increase lung volume",
+      "C": "Decrease Trans pulmonary pressure",
+      "D": "Increases Trans pulmonary pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A patient who was admitted to ahospital and Got operated. On 8th post-operative day he suddenly developed dyspnea most likely pathology will be:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Pulmonary embolism",
+      "C": "Amniotic Fluid embolism",
+      "D": "Septic shock",
+      "E": "Air Embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "The ectopic thyroid hormone issecreted by:",
+    "options": {
+      "A": "Small cell carcinoma of lung",
+      "B": "Large cell carcinoma of lung",
+      "C": "Carcinoid of lung",
+      "D": "Adenocarcinoma of lung",
+      "E": "Squamous cell carcinoma of larynx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A Kid with sweat chloride test positivedeveloping recurrent chest infectionand otitis media likely due to associated:(med feb)",
+    "options": {
+      "A": "Asthma",
+      "B": "Bronchiectasis",
+      "C": "Emphysema",
+      "D": "Decrease Surfactant",
+      "E": "Pleural effusion"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "Increase lymphocyte can be seen in",
+    "options": {
+      "A": "Bacterial infection",
+      "B": "Fungal infection",
+      "C": "TB",
+      "D": "Pus formation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "The low voltage QRS complexes commonly represent which one of the following",
+    "options": {
+      "A": "Acute MI",
+      "B": "LVH",
+      "C": "RVH",
+      "D": "Old MI"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "What takes place in neurogenic shock",
+    "options": {
+      "A": "Decrease peripheral vascular resistance",
+      "B": "Increase peripheral vascular resistance",
+      "C": "Increase Heart Rate",
+      "D": "Increase Cardiac Output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A point that distinguishes partial transection of the spinal complete transection",
+    "options": {
+      "A": "Spinal shock",
+      "B": "Bladder atonia",
+      "C": "Release reflexes",
+      "D": "Diminish reflexes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "The shock associated with pelvic fracture is owing to",
+    "options": {
+      "A": "Blood loss",
+      "B": "Fat embolism",
+      "C": "Anaphylaxis",
+      "D": "Cardiogenic shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "The infarct of the posterior septum would cause injury to which cardiac structure",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Bundle of His",
+      "D": "Purkinje fibers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Puerperal sepsis not responding to IV fluids is usually responsive to which of these",
+    "options": {
+      "A": "IV antibiotics",
+      "B": "IV steroids",
+      "C": "IV vasoactive agents",
+      "D": "IV antiviral agents"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Endotoxic shock is initiated by which among these",
+    "options": {
+      "A": "Endothelial injury",
+      "B": "Peripheral vasodilation",
+      "C": "Increase vascular permeability",
+      "D": "Cytokine action"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "High output cardiac failure is found in",
+    "options": {
+      "A": "Anemia",
+      "B": "Beri beri",
+      "C": "Hypothyroidism",
+      "D": "Low blood pressure",
+      "E": "Vitamin D deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A patient after RTA having hypotension support keep with100% FiO2.5 days later patientdied on examination of lungs therewashallmark of macrophage and fewneutrophils likely cause:",
+    "options": {
+      "A": "Diffuse alveolar damage",
+      "B": "Patchy atelactasis",
+      "C": "Fibrosis",
+      "D": "Tension Pneumothorax",
+      "E": "Bronchopneumonia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Omphalocele is associated with which of following cardiac anomaly",
+    "options": {
+      "A": "Transposition of vessel",
+      "B": "Coartation of Aorta",
+      "C": "VSD",
+      "D": "ASD",
+      "E": "TOF"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "In anaphylactic shock what changes occur in Patient?",
+    "options": {
+      "A": "Hyperpyrexia",
+      "B": "Arteriolar and venous vasodilation",
+      "C": "Vasoconstriction",
+      "D": "Low CO"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Common congenital heart disease is:",
+    "options": {
+      "A": "ASD",
+      "B": "VSD",
+      "C": "TOF",
+      "D": "PDA",
+      "E": "Eissenmenger"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A Young man with heart failure and B/L pleural effusion, in Pleural tap which cells are present in heart failure?",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Heart failure cells",
+      "C": "Macrophages",
+      "D": "Basophills"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "What will raise in acute myocardial infarction?",
+    "options": {
+      "A": "Myoglobin",
+      "B": "CKMM",
+      "C": "CPK",
+      "D": "LDH",
+      "E": "CKBB"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A man is a construction worker , demolishes the building, has developed cough , dyspnea pleural plaque cause is:",
+    "options": {
+      "A": "Silica",
+      "B": "Asbestosis",
+      "C": "Byssinosis",
+      "D": "Anthracosis",
+      "E": "Siderosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "A middle age Male patient presented to opd with cough and dyspnea, he has increase level of sputum production upon doing investigation lab found curshman spirals and charcot leyden crystal in mucus. He is labeled as:",
+    "options": {
+      "A": "Bronchiectasis",
+      "B": "Pneumonia",
+      "C": "Aspiration pneumonia",
+      "D": "Asthma",
+      "E": "Embolism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Asbestos and tobacco smoking can cause",
+    "options": {
+      "A": "Bladder carcinoma",
+      "B": "Bronchogenic carcinoma",
+      "C": "Lymphoma",
+      "D": "Malignant mesothelioma",
+      "E": "Liver carcinoma",
+      "F": "B(FA)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Pressure at 10cm of water by PEEP for 24 hrs would cause:",
+    "options": {
+      "A": "Spontaneous Pneumothorax",
+      "B": "Pulmonary embolism",
+      "C": "Raised O2 saturation",
+      "D": "Raised PCO2",
+      "E": "Alveolar damage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "In Tb induration is about:",
+    "options": {
+      "A": "5mm",
+      "B": "10mm",
+      "C": "15mm",
+      "D": "20mm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "A female with 2 days discoloration of lips and hands. What investigation should be done",
+    "options": {
+      "A": "ECG",
+      "B": "Echo",
+      "C": "ABGs",
+      "D": "Hb"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Restrictive lung disease, onspirometry finding will be",
+    "options": {
+      "A": "FVC Increase",
+      "B": "FEV1 Decrease",
+      "C": "FEV1/FEV Decrease",
+      "D": "TLC Increase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Child while supine Peanutaspiration will lodge in",
+    "options": {
+      "A": "Apical segment of Right lower lobe",
+      "B": "Right upper lobe",
+      "C": "Right posterior lobe",
+      "D": "Left Posterior lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Which of the followingparaneoplastic syndrome isassociated with small cell carcinomaof lung?",
+    "options": {
+      "A": "Cushing syndrome",
+      "B": "Hyperparathyroidism",
+      "C": "Addison_s disease",
+      "D": "Pheochromocytoma",
+      "E": "Zollinger ellison_s syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Engineer working in Construction presented with pleural plaques,FVC decreased and FEV1/FVC normal diagnosis is",
+    "options": {
+      "A": "Silicosis",
+      "B": "Anthracosis",
+      "C": "Asbestosis",
+      "D": "Fibrosis",
+      "E": "Asthma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "A patient after trauma all muscles of abdomen and chest paralysed breathing which level injury occur?",
+    "options": {
+      "A": "C4",
+      "B": "Below C5",
+      "C": "T4",
+      "D": "T12"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Tb is involved in",
+    "options": {
+      "A": "Schouman bodies",
+      "B": "Churchman spiral",
+      "C": "Hypersensitivity",
+      "D": "Aschoff bodies"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "If patient has decrease FEV1 decrease FRC decrease FVC which is related to",
+    "options": {
+      "A": "TB",
+      "B": "COPD",
+      "C": "Asthma",
+      "D": "Silicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Byssinosis is related to;",
+    "options": {
+      "A": "Cotton industry",
+      "B": "Sugar cane",
+      "C": "Smoking",
+      "D": "Carbon particles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "The most common presentation of carcinoid syndrome is",
+    "options": {
+      "A": "Dyspnea",
+      "B": "Diarrhea",
+      "C": "Tachycardia",
+      "D": "Cutaneous flushing",
+      "E": "Facial telangiectasia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "A patient has lung CA calcification and nodule. What will be the characteristic of it?",
+    "options": {
+      "A": "Lamellar",
+      "B": "Eccentric",
+      "C": "Nodular",
+      "D": "Cresenteric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "A smoker patient present with interstitial lung disease and pleural plaques cause?",
+    "options": {
+      "A": "Smoking",
+      "B": "Asbestosis",
+      "C": "Silicosis",
+      "D": "Anthracosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "A young man presented with chest pain and dyspnea physician advised xray chest, which part is costocartilaginous in x-ray chest?",
+    "options": {
+      "A": "Manubrosternal joint",
+      "B": "Costochondral joint",
+      "C": "Sternoclavicular joint",
+      "D": "Xphisternum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "In patient with emphysema, which of the following is appropriate:",
+    "options": {
+      "A": "Decreases TLC",
+      "B": "Increased TV",
+      "C": "Increased lung volume",
+      "D": "Decreases RV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Which condition is related to Eosinophilia",
+    "options": {
+      "A": "TB",
+      "B": "COPD",
+      "C": "Asthma",
+      "D": "Silicosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Giant cell type in TB:",
+    "options": {
+      "A": "Langerhan",
+      "B": "Histiocyte",
+      "C": "Dendritic",
+      "D": "Langhan"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Which of the followings is elevated in nasal polyps?",
+    "options": {
+      "A": "Macrophages",
+      "B": "Neutrophils",
+      "C": "Lymphocytes",
+      "D": "Eosinophil"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Patient had cough and x-ray shows hilar lymphadenopathy, non caseating granuloma and hypercalcemia present diagnosis is:",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "A Patient after Gastric content in supine position aspiration will lodge in which of following lobe",
+    "options": {
+      "A": "Right lower lobe",
+      "B": "Right upper lobe",
+      "C": "Right posterior lobe",
+      "D": "Left Posterior lobe",
+      "E": "Left Upper lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "A patient of asthma came in ER his FEV1/FVC ratio is less than 65%. All initial treatment given what will be resultant increase in Ratio after treatment",
+    "options": {
+      "A": "5%",
+      "B": "12%",
+      "C": "15%",
+      "D": "20%",
+      "E": "10%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "All spirometry values go down in which disease",
+    "options": {
+      "A": "Asthma",
+      "B": "Fibrosis",
+      "C": "ILD",
+      "D": "Restrictive lung disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "ACTH producing tumor is:",
+    "options": {
+      "A": "Oat cell Carcinoma",
+      "B": "Alveolar cell carcinoma.",
+      "C": "Squamous cell carcinoma",
+      "D": "Adenocarcinoma",
+      "E": "Large cell carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "A patient has low grade fever, cough and bilateral hilar lymphadenopathy. what findings will be present on Microscopy?",
+    "options": {
+      "A": "Granuloma with asteroid bodies",
+      "B": "Non caseating granuloma",
+      "C": "Granuloma with abscess formation",
+      "D": "Caseating granuloma",
+      "E": "Macrophages"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "A Man given hyperbaric oxygen for 24 hours now liable to:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Tension pneumothorax",
+      "C": "Spontaneous pneumothorax",
+      "D": "Pulmonary embolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Giant Cell in TB are composed of:",
+    "options": {
+      "A": "Neutrophills",
+      "B": "Activated Macrophages",
+      "C": "Monocytes",
+      "D": "Lymphocytes",
+      "E": "Plasma cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "In restrictive lung disease what will increase",
+    "options": {
+      "A": "FVC",
+      "B": "Vital capacity",
+      "C": "Airway resistance",
+      "D": "Lung volume"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "A patient with recurrent wheezing and congestion runny nose and fever every April due to degranulation of?",
+    "options": {
+      "A": "Mast cells",
+      "B": "Basophils",
+      "C": "Neutrophils",
+      "D": "Monocyte"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Painter having headache and coughing only releive on Sunday this is likely",
+    "options": {
+      "A": "COPD",
+      "B": "Bronchitis",
+      "C": "Occupational asthma",
+      "D": "Pneumonitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Patient is having history of smoking and has barrel shaped chest what is the cause",
+    "options": {
+      "A": "Asthma",
+      "B": "COPD",
+      "C": "Emphysema",
+      "D": "Bronchitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Most common cause of pyogenic lung abscess:",
+    "options": {
+      "A": "Staph Aureus",
+      "B": "E.Coli",
+      "C": "Streptococcus Pneumoniae",
+      "D": "Klebsiella",
+      "E": "H influenza"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "Pulmonary disease patient with cough and 0.5 cm perihilar nodule and on microscopy eosinophil both inside and peripheral Most likely cause is",
+    "options": {
+      "A": "Non invasive Aspergillosis",
+      "B": "Wegener granulomatosis",
+      "C": "Candidiasis",
+      "D": "Blastomycosis",
+      "E": "Pneumonia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "A patient with Bronchial obstruction having PCO2 53 PaO2 57 PH 7.3 HCO3 26:",
+    "options": {
+      "A": "Type 1 Respiratory failure",
+      "B": "Type 2 Respiratory failure with metabolic acidosis",
+      "C": "Type 2 respiratory failure with uncompensated respiratory acidosis",
+      "D": "Type 1 respiratory failure with metabolic acidosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Patient having dyspnea but no sputum production. Lung volume increased and there are emphysematous lesion likely cause is",
+    "options": {
+      "A": "COPD",
+      "B": "Alpha 1 antitrypsin deficiency",
+      "C": "CO deficiency",
+      "D": "Pneumonitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "FEV1 and FVC preserved in:",
+    "options": {
+      "A": "Asthma",
+      "B": "COPD",
+      "C": "Interstitial lung disease",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "In case of ARDS the ventilation is hampered as result of interstitial edema due to:",
+    "options": {
+      "A": "Increased capillary permeability",
+      "B": "Increased Hydrostatic pressure",
+      "C": "Decrease capillary permeability",
+      "D": "Decrease oncotic pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "In Pneumothorax:",
+    "options": {
+      "A": "Chest Outward",
+      "B": "Chest Inward",
+      "C": "Lung inward and Chest wall outward",
+      "D": "Chest wall inward and Lung outward"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "During Acute asthmatic attack which test will you perform?",
+    "options": {
+      "A": "Tidal volume",
+      "B": "FEV1",
+      "C": "Arterial PO2",
+      "D": "FRC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Premature baby born has lung not fully developed leads to:",
+    "options": {
+      "A": "ARDS",
+      "B": "Abdominal muscle paralysis",
+      "C": "IBS",
+      "D": "RA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Patient had Cough and has epithelioid granuloma without necrosis diagnose is:",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Squamous cell lung CA common site:",
+    "options": {
+      "A": "Periphery",
+      "B": "Hilar",
+      "C": "Hilum",
+      "D": "Bronchi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "A patient has depressed nasal bridge and non caseating granuloma likely cause is:",
+    "options": {
+      "A": "TB",
+      "B": "Silicosis",
+      "C": "Sarcoidosis",
+      "D": "Leprosy",
+      "E": "Asbestosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "A patient abdominal surgery done now he developed pulmonary infarction due to?",
+    "options": {
+      "A": "Pulmonary embolism in large artery",
+      "B": "Pulmonary embolism in Medium artery",
+      "C": "Pulmonary embolism in small artery",
+      "D": "Pulmonary embolism of all arteries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Hyaline disease most important etiology is?",
+    "options": {
+      "A": "Late birth",
+      "B": "Prematurity",
+      "C": "Genetical disease",
+      "D": "Obstetrics complications",
+      "E": "Chemical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Patient is having history of smoking and has decreased gaseous exchange what is the cause?",
+    "options": {
+      "A": "Asthma",
+      "B": "COPD",
+      "C": "Emphysema",
+      "D": "Bronchitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "In COPD diagnosis will be made by:",
+    "options": {
+      "A": "V/Q = 0.1",
+      "B": "V/Q = 1.0",
+      "C": "Physiologic dead space",
+      "D": "Shunt",
+      "E": "V/Q infinite"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Regarding the bronchial asthma the most probable finding will be?",
+    "options": {
+      "A": "RR 12",
+      "B": "Tidal volume 500",
+      "C": "FRC increases",
+      "D": "FEV1/FVC <75%",
+      "E": "Arterial PO2 40mmhg"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Which one of the following will be seen in restrictive lung disease?",
+    "options": {
+      "A": "Decreased lung compliance with decreased FEV/FVC",
+      "B": "Decreased lung compliance with increased FEV/FVC",
+      "C": "Increased lung volume",
+      "D": "Bronchial obstruction",
+      "E": "Increased FRC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "10 year old boy presents with recurrent upper respiratory tract infections. History revealed that he also had complained of chronic diarrhea and Bronchiectasis. What findings will be There?",
+    "options": {
+      "A": "K more than normal healthy person",
+      "B": "Cl more than normal healthy person",
+      "C": "Na more than normal healthy person",
+      "D": "Cl less than normal healthy person"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Common feature between sarcoidosis & Tb is",
+    "options": {
+      "A": "Restrictive lung disease",
+      "B": "Consolidation",
+      "C": "Granulomatous hepatitis",
+      "D": "Caseous necrosis",
+      "E": "Hilar"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Baby born at 24 weeks with respiratory distress syndrome. Which of the following is correct regarding this condition",
+    "options": {
+      "A": "Lecithin Sphingomyelin ratio 2:1",
+      "B": "Alveolar collapse",
+      "C": "Decreased Surface tension",
+      "D": "Increases Lung compliance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A patient having presented with disoriented state. His Hb is 5.6g/dl & Po2 is 96%. Type of hypoxia is:",
+    "options": {
+      "A": "Anemic hypoxia",
+      "B": "Hypoxia hypoxia",
+      "C": "Cellular hypoxia",
+      "D": "Histotoxic hypoxia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Emphysema Decreases lung compliance by causing:",
+    "options": {
+      "A": "Destruction of alveolar septa",
+      "B": "Inflammation",
+      "C": "Fibrosis.",
+      "D": "Scarring"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Pakistani student got scholarship for abroad for which he is required MTB test. How are Tb macrophages different from normal macrophages",
+    "options": {
+      "A": "Pain mediation",
+      "B": "Phagocytosis",
+      "C": "Secretory",
+      "D": "dhesive",
+      "E": "Cytokine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Alternobaric vertigo in divers is due Unequal pressure in middle ear during ascent",
+    "options": {
+      "A": "Unequal pressure in middle ear descent",
+      "B": "Perforation of tympanic membrane",
+      "C": "Equal pressure in outer ear during ascent",
+      "D": "Barotrauma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Upper lobe consolidation is related to",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Amidarone",
+      "C": "Tb",
+      "D": "Asthma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Total layers priced by a Stab wound before touching lung parenchyma are?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8",
+      "E": "9"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Increased Ventilation perfusion ratio is seen in which of the following conditions?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Pleural effusion",
+      "C": "Airway obstruction",
+      "D": "Shunt",
+      "E": "Pulmonary embolism"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Paraneoplastic syndrome is caused by which of the following",
+    "options": {
+      "A": "Small cell carcinoma of lung",
+      "B": "Renal cell carcinoma",
+      "C": "Carcinoid",
+      "D": "HCC",
+      "E": "Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "In asthma which one increases",
+    "options": {
+      "A": "FRC",
+      "B": "FEV1",
+      "C": "VC",
+      "D": "TLC",
+      "E": "A(BRS)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "A patient has chronic cough, to mark him as patient of chronic bronchitis what finding should be present?",
+    "options": {
+      "A": "Squamous metaplasia",
+      "B": "Hyperplasia of mucous gland(cells)",
+      "C": "Narrowing of Bronchioles",
+      "D": "Dysplasia",
+      "E": "Shrinkage of Alveoli"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "A man inhaling silica dust for 6 years due to his job. Developed cough.1cm mass in x-ray was present .What cells may be seen in his lungs:",
+    "options": {
+      "A": "Foreign body giant cell",
+      "B": "Eosinophils",
+      "C": "Lymphocytes",
+      "D": "Silicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Regarding right side open pneumothorax with penetrating injury true is",
+    "options": {
+      "A": "Mediastinum shifts towards right",
+      "B": "Atmospheric and pleural pressures becomes equal",
+      "C": "V/Q ratio increases",
+      "D": "Hyperinflation of left lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "A patient with Decrease FEV1, FVC and ratio in which of following?",
+    "options": {
+      "A": "Asthma",
+      "B": "Chronic bronchitis",
+      "C": "Bronchiectasis",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Bysinosis occurs because of:",
+    "options": {
+      "A": "Sugarcane dust",
+      "B": "Grain dust",
+      "C": "Cotton dust",
+      "D": "Tobacco"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "A patient has cervical lymph node. Biopsy shows non caseating granuloma and is AFB positive.Which of the following is most probably the diagnosis?",
+    "options": {
+      "A": "TB",
+      "B": "Cat scratch disease",
+      "C": "Leprosy",
+      "D": "Sarcoidosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "A Farmer with exposure to mouldy hay must rushes in ER with breathlessness. X rays findings show bilateral infiltrates in upper lungs.Most likely cause:",
+    "options": {
+      "A": "Aspergillus Fumigatus",
+      "B": "Histoplasmosis",
+      "C": "Coccidiomycosis",
+      "D": "Mucormycosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "An alcoholic female presented with Cough, dyspnea from 2 weeks, Weight loss & hemoptysis. Transbronchial biopsy done, what will be the findings?",
+    "options": {
+      "A": "Cells with increased N/C ratio and scanty cytoplasm",
+      "B": "Pleomorphic cells with dark staining and angular nuclei",
+      "C": "Liver Metastasis",
+      "D": "Atrophy of Hepatocytes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Patient with SOB, having FEV1 2.1 and FVC 2.29. Actual Vomax 19.1(normal). Remax 34 after exercise stress test. Where is the pathology, Spo2 is normal at room air but decrease to 89%. Cause?",
+    "options": {
+      "A": "Pulmonary vascular disease",
+      "B": "Restrictive diseases",
+      "C": "Obstructive lung disease",
+      "D": "ARDS",
+      "E": "Normal test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Parapneumonic effusion of lobar pneumonia has:",
+    "options": {
+      "A": "LDH greater than 100",
+      "B": "Protein greater than 3.5",
+      "C": "Specific gravity greater than 1.003",
+      "D": "Eosinophils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "What pulmonary disease, most commonly associated with smoking, results in enlarged, overinflated lungs owing to the destruction of the alveolar walls with diminished elastic recoil ?",
+    "options": {
+      "A": "Asthma",
+      "B": "Lung carcinoma",
+      "C": "Emphysema",
+      "D": "Pneumoconiosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Patient had respiratory symptoms and has lymphatics , blood vessels and epithelioid granuloma without necrosis diagnose is:",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A patient with pulmonary fibrosis what will be seen in patient lung",
+    "options": {
+      "A": "Decrease lung diffusing capacity",
+      "B": "Increase resistance",
+      "C": "Increase tidal volume",
+      "D": "Decrease FEV1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Old lady admitted for two weeks for femure fracture. She had pain and tender on palpation than suddenly develop dyspnea. What will be further complication leading to this",
+    "options": {
+      "A": "Hematoma of thigh",
+      "B": "Pulmonary thromboembolism",
+      "C": "Sarcoma",
+      "D": "Neoplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "A patient has no history of fever & cough but Fibrosis seen on XRAY. Cause?",
+    "options": {
+      "A": "Inorganic dust",
+      "B": "Histoplasmosis",
+      "C": "Silicosis",
+      "D": "Asbestosis",
+      "E": "Bysinossis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Cappnometer is used to measure end tidal CO2, other possible use of this device?",
+    "options": {
+      "A": "Indicator of Air embolism",
+      "B": "Indicator of Fat Embolism",
+      "C": "Measure oxyhb conc",
+      "D": "Measure sat of CO2",
+      "E": "Ultraviolet analyzer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Kartagener's Syndrome involves which of these:",
+    "options": {
+      "A": "P53",
+      "B": "Spectrin",
+      "C": "Dynein Arms",
+      "D": "Centrioles",
+      "E": "KRAS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "A patient with COPD and a history of smoking presents with pulmonary hypertension. Which of the following is the primary cause of pulmonary hypertension in this context?",
+    "options": {
+      "A": "Hypoxia",
+      "B": "Vascular dilation",
+      "C": "Hypercapnia",
+      "D": "Left-sided heart failure",
+      "E": "Increased pulmonary venous pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Which of the following is a characteristic feature of a tuberculosis ulcer?",
+    "options": {
+      "A": "Raised margins",
+      "B": "Undermined edges",
+      "C": "Rolled margins",
+      "D": "Shiny surface",
+      "E": "Punched-out appearance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "A boy had a car accident after which he is bed ridden. He develops DVT He came to ER with chest pain and dyspnea- What will be the findings?",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Ventilation perfusion mismatch",
+      "C": "Increase pCO2",
+      "D": "Decrease pO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "A boy was continuously inhaling and exhaling into a paper bag for several minutes despite being advised not to. After 5 minutes, his colleagues noticed that his face was red and he was hyperventilating. What is the most likely cause of this condition?",
+    "options": {
+      "A": "Decrease O2 in the blood",
+      "B": "Increase CO2 in the blood",
+      "C": "Increase in bicarbonates",
+      "D": "Decrease in Ph"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "In a patient with asbestosis diagnosed as a restrictive lung disease, what is the expected change in pulmonary function tests?",
+    "options": {
+      "A": "FEV1/FVC ratio decreases",
+      "B": "FEV1/FVC ratio increases",
+      "C": "FVC decreases with no change in FEV1",
+      "D": "FEV1 increases with no change in FVC",
+      "E": "Both FEV1 and FVC increase equally"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Patient has complaint of Polyuria but blood glucose level and ADH are normal cause is",
+    "options": {
+      "A": "Nephrogenic DI",
+      "B": "Central diabetes insipidus",
+      "C": "SIADH",
+      "D": "ADH deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A Man smoke 20 packs per month work in factory he develops lung cancer which carcinogen in Cigarette cause lung cancer:",
+    "options": {
+      "A": "Nitrosamines",
+      "B": "Polyaromatic hydrocarbons",
+      "C": "Vinyl chloride",
+      "D": "Azo dye",
+      "E": "Arsenic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "A diabetic patient after cholecystectomy developed dyspnea, most likely pathology will be:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Pulmonary embolism",
+      "C": "Amniotic Fluid embolism",
+      "D": "Septic shock",
+      "E": "Air Embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Three days after cholecystectomy, a patient experiences pain, dyspnea, and hemoptysis. What is the most likely diagnosis?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Pulmonary embolism",
+      "C": "Acute bronchitis",
+      "D": "Pleural effusion",
+      "E": "Postoperative atelectasis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Squamous cell carcinoma occur in which part of lung",
+    "options": {
+      "A": "Lower part of left bronchus",
+      "B": "Upper part of right bronchus",
+      "C": "Upper part of right bronchus",
+      "D": "Central part of right/left bronchus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Patient had respiratory symptoms and has lymphatics , blood vessels and epithelioid granuloma without necrosis diagnose is:",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "A Patient presented with chronic smoking.Small cell carcinoma of lung confirmed on Biopsy) What will be secreted from oat cells?",
+    "options": {
+      "A": "ACTH",
+      "B": "Insulin",
+      "C": "Glucagon",
+      "D": "Androgen",
+      "E": "Erythropoeitin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "A patient presented with the Chronic fever , Night sweats Headache , Lethargy , Weight loss And Cervical Lymphadenopathy Epithelloid cells in sputum. CXR shows diffuse nodular opacities in apical lobe. Which type of Necrosis is seen in enlarged lymph nodes in this scenario?",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "TB",
+      "C": "Lymphoma",
+      "D": "Infectious mononucleosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "A patient presents with reduced lung volumes and reduced FEV1. What type of defect is most likely?",
+    "options": {
+      "A": "Alveolar",
+      "B": "Interstitial",
+      "C": "Extrathoracic",
+      "D": "Intrathoracic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Patient with prolong hx of dust exposure, decreased CO diffusion. FEV1/FVC is preserved along with decreased Total Lung capacity. Area involved?",
+    "options": {
+      "A": "Alveolar",
+      "B": "Interstitium",
+      "C": "Lobule",
+      "D": "Alveoli"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Restrictive lung disease is different from obstructive lung disease by:",
+    "options": {
+      "A": "FEV1 is normal in obstructive diseases",
+      "B": "FEV1/FVC increased",
+      "C": "FEV1/FVC decreased",
+      "D": "FVC is reduced less than FEV1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "People with coal- workers' pneumoconiosis are predisposed to developing which disease?",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Carcinoma of the lung",
+      "C": "Progressive massive fibrosis",
+      "D": "Silicosis",
+      "E": "Heart failure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "A 15 years old child came in ER with complain of dyspnea & cough along with Wheezing & Whistling sounds. His vitals are: Heart rate >110 Respiratory Rate is 30.0/E. On auscultation, Chest is Silent. What is the most probable diagnosis?",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Emphysema",
+      "C": "Bronchial asthma",
+      "D": "Acute exacerbation of COPD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "A patient came in ER with Respiratory difficulty along with wheezing. Spirometry shows Reduced FEV1. What is the most probable diagnosis?",
+    "options": {
+      "A": "Bronchitis",
+      "B": "Emphysema",
+      "C": "Asthma",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "A Military patient came with complain of cough not improving. He was refer to pulmonologist who ordered a spirometry that revealed decreased FEV1 , decreased FVC & decreased FRC. Most probable diagnosis:",
+    "options": {
+      "A": "Asthma",
+      "B": "Pulmonary fibrosis",
+      "C": "Emphysema",
+      "D": "Pneumonia",
+      "E": "Bronchitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "A child known case of cystic fibrosis presented with acute respiratory infection, on investigation the organism diagnosed as pseudomonas aeruginosa. what are the other findings associated with this patient",
+    "options": {
+      "A": "Bronchial asthma",
+      "B": "Bronchiectasis",
+      "C": "Emphysema",
+      "D": "Pulmonary Fibrosis",
+      "E": "Adenocarcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "Which factor sees a decrease in restrictive lung diseases?",
+    "options": {
+      "A": "FEV1/FVC",
+      "B": "Compliance",
+      "C": "FRC",
+      "D": "FVC",
+      "E": "FEV1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "A patient presents to the OPD with respiratory distress. Sputum analysis reveals eosinophilia. What is the most likely diagnosis?",
+    "options": {
+      "A": "Aspergillosis",
+      "B": "Cystic fibrosis",
+      "C": "Bronchial asthma",
+      "D": "Hay fever",
+      "E": "Parasitic Infection"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "A soldier presents with persistent cough. On physical examination and pulmonary function testing FEV1 & FVC Decreased. What is the most likely diagnosis?",
+    "options": {
+      "A": "Pulmonary Fibrosis",
+      "B": "Chronic Bronchitis",
+      "C": "ILD",
+      "D": "Asthma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "A Chronic smoker presents with cyanosis due to which of the following",
+    "options": {
+      "A": "Increase conc: of Oxygenated hb",
+      "B": "Increase conc: of deoxygenated hb",
+      "C": "Decrease conc: of deoxygenated hb",
+      "D": "Polycythemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "A 79 year old patient presented with dyspnea there was no cough and sputum a lesion was noted in the lungs with increase spindles invading the smooth muscles most likely due to inhalation of",
+    "options": {
+      "A": "Silica",
+      "B": "Cotton dust",
+      "C": "Asbestosis",
+      "D": "Coal dust"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "A patient's spirometry values are: Reduced Functional Residual Capacity (FRC), Forced Expiratory Volume in 1 second (FEV1), and Forced Vital Capacity (FVC). What is the most likely diagnosis?",
+    "options": {
+      "A": "Asthma",
+      "B": "Pneumonia",
+      "C": "Pulmonary Fibrosis",
+      "D": "Chronic Obstructive Pulmonary Disease (COPD)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "A COPD patient achieves 50% hemoglobin saturation at an oxygen tension (PaO2) of 37 mmHg. This observation is best explained by which physiological principle?",
+    "options": {
+      "A": "Fick's Law",
+      "B": "Bohr Effect",
+      "C": "Haldane Effect",
+      "D": "La Place Law"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "A patient is diagnosed with a pulmonary artery embolism following a CT pulmonary angiograph. What is the initial intervention to restore the ventilation-perfusion mismatch in this patient?",
+    "options": {
+      "A": "Thrombolytic therapy",
+      "B": "Fluid therapy",
+      "C": "Embolectomy",
+      "D": "Mechanical Ventilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "The serology test for \"Aspergillus\":",
+    "options": {
+      "A": "Galactosidase",
+      "B": "Galactomannan",
+      "C": "Galatofuran",
+      "D": "Phospholipid A"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Pulmonary embolism of left lung can cause death due to:",
+    "options": {
+      "A": "V/ ratio infinity",
+      "B": "Alveolar O2equal to atmospheric O2",
+      "C": "V/ ratio decrease",
+      "D": "Alveolar O2 equal venous O2",
+      "E": "FEV1 Decreased"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Infant of diabetic mother developed patchy atelactasia has an increased risk of:",
+    "options": {
+      "A": "Neonatal jaundice",
+      "B": "Macrocytic anemia",
+      "C": "Hyperglycemia",
+      "D": "ARDS",
+      "E": "Hypercalcemia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "The patient presents in OPD diagnosed as a case BT he was put on ATT which of the following ATT causes liver damage",
+    "options": {
+      "A": "Isoniazid",
+      "B": "Pyrazinamide",
+      "C": "Ethambutol",
+      "D": "Rifampicin",
+      "E": "Streptomycin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "40 year old male patient present in cardiology OPD respiratory distress on Chest xray RA was enlarged and there was pulmonary edema diagnosed as a case of CHF what other finding you will find in this patient",
+    "options": {
+      "A": "Pulmonary artery dilation",
+      "B": "Coronary veins dilation",
+      "C": "Anterior vein dialation",
+      "D": "Pulmonary vein dialation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Middle aged woman with mediastinal Granuloma without necrosis cause is",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Toxoplasmosis",
+      "C": "Cai scratch disease",
+      "D": "Tuberculosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Smoker With FEV1/FVC 51% & Irreversible pattern. Cause?",
+    "options": {
+      "A": "COPD",
+      "B": "Bronchial Asthma",
+      "C": "Lung Fibrosis",
+      "D": "Silicosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Man has exertional dyspnea, Dry Cough & Basal crackles likely due to",
+    "options": {
+      "A": "Edematous Bronchioles",
+      "B": "Restrictive Bronchioles",
+      "C": "Hyperinflammatory bronchioles",
+      "D": "Narrow bronchi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "A patient presented with history of recurrent respiratory infections. A water soluble dye used to assess neutrophil oxidative burst in neutrophils particularly in chronic granulomatous disease CGD?",
+    "options": {
+      "A": "Nitroblue Tetrazolium Test",
+      "B": "Tetrazolium Blue",
+      "C": "Tetrazolium Red",
+      "D": "Immunohistochemistry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Pulmonary Fibrosis will result in",
+    "options": {
+      "A": "Decrease VC",
+      "B": "Increase VC",
+      "C": "NO effect on VC",
+      "D": "Decrease RV",
+      "E": "Increase RV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "A soldier went on altitude most likely feature in him",
+    "options": {
+      "A": "Anemic hypoxia",
+      "B": "Histotoxic hypoxia",
+      "C": "Stagnant hypoxia",
+      "D": "V/ mismatch",
+      "E": "Cynosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Patient presented with history of head trauma. O/E: RR 11. what will be seen in ABGS of this patient?",
+    "options": {
+      "A": "Dec O2",
+      "B": "Increased CO2",
+      "C": "Decreased PH",
+      "D": "Increased HCO3",
+      "E": "Decreased CO2 & Increased O2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "A patient dies suddenly in an accident, and an autopsy reveals black pigmentation in the hilar lymph nodes, with no other abnormalities or comorbidities. What is the most likely diagnosis?",
+    "options": {
+      "A": "Anthracosis",
+      "B": "Silicosis",
+      "C": "Asbestosis",
+      "D": "Coal worker's pneumoconiosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "A pregnant woman at 30 weeks experiences uterine contractions and is concerned about her baby's ability to breathe after birth. Which factor is most crucial for neonatal respiration?",
+    "options": {
+      "A": "Thickness of the alveolar wall",
+      "B": "Number of type 1 pneumocytes",
+      "C": "Quantity of surfactant",
+      "D": "Size of the lungs",
+      "E": "Number of type 2 pneumocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "A 20-year-old patient presents with cough and dyspnea. Which finding is most supportive of a diagnosis of asthma?",
+    "options": {
+      "A": "Increased eosinophil count in peripheral blood",
+      "B": "Arterial blood gas showing metabolic acidosis",
+      "C": "FEV1 reversible with bronchodilators",
+      "D": "FEV1/FVC ratio <0.7 with no reversibility",
+      "E": "Chest X-ray showing bilateral infiltrates"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "A 55-year-old male with a 30-pack-year smoking history presents with progressive shortness of breath and a chronic cough producing scant sputum. Spirometry is performed, and post-bronchodilator testing with salbutamol shows no significant improvement in FEV1/FVC. What is the most likely diagnosis?",
+    "options": {
+      "A": "COPD",
+      "B": "Asthma",
+      "C": "Pulmonary Fibrosis",
+      "D": "Bronchiectasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "A man with established diagnosis of small cell carcinoma, with liver mets on CT, presented with Puffy face and bruises. What is the cause of these symptoms?",
+    "options": {
+      "A": "Paraneoplastic syndrome",
+      "B": "Mets in liver",
+      "C": "Carcinoid syndrome",
+      "D": "Polycythemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Secondary to hyperventilation:",
+    "options": {
+      "A": "Respiratory alkalosis",
+      "B": "Tachypnea",
+      "C": "Hypercapnea",
+      "D": "Tachycardia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "A patient has an oxygen consumption rate of 700 mL/min. The oxygen content in the pulmonary artery is 140 mL/L, and the brachial artery oxygen content is 40. Calculate the cardiac output.",
+    "options": {
+      "A": "4.2 L/min",
+      "B": "30 L/min",
+      "C": "7 L/min",
+      "D": "10L/min"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Hypoxia due to anemia, what happens to oxygenation:",
+    "options": {
+      "A": "Increased oxygenation does not have any effect",
+      "B": "Decrease oxygenation",
+      "C": "Increase oxygenation",
+      "D": "oxygenation remains normal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "A COPD patient with respiratory acidosis is expected to have renal compensation for Potassium. what is expected effect?",
+    "options": {
+      "A": "Rise in potassium with acid excretion",
+      "B": "Decrease in potassium with acid excretion from renal tubules",
+      "C": "No change in potassium levels",
+      "D": "Rise in potassium without acid excretion",
+      "E": "Increase in PH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "According to GINA guidelines what percentage of FEV1 for bronchial asthma should increase by bronchodilator?",
+    "options": {
+      "A": "FEV1>15% reversibility",
+      "B": "FEV1>20% reversibility",
+      "C": "FEV1> 12% reversibility",
+      "D": "FEV1>25%reversibility"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "A premature newborn is diagnosed with NRDS which of the following statement is correct regarding this condition",
+    "options": {
+      "A": "Causes alveolar collapse",
+      "B": "Resulting from overproduction of surfactant",
+      "C": "Primarily effects the term infants",
+      "D": "Self limiting condition"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "A patient present with a Fev/Fvc < 55 and irreversible air flow limitation which of the following is likely cause",
+    "options": {
+      "A": "Pneumonia",
+      "B": "COPD",
+      "C": "Lung fibrosis",
+      "D": "Cystic fibrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "If patient has decrease FEV1 decrease FRC decrease FVC and has chronic cough with dyspnea which is related to",
+    "options": {
+      "A": "Chronic bronchitis",
+      "B": "Pulmonary interstitial fibrosis",
+      "C": "Asthma",
+      "D": "Pneumonia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "A patient with multiple rib fractures presents with tachypnea, and low SpO2 despite a normal blood pressure. What is the most likely reason for their hypoxemia?",
+    "options": {
+      "A": "Low ventilation/perfusion (V/Q) ratio",
+      "B": "High ventilation/perfusion (V/Q) ratio",
+      "C": "Alveolar hypoperfusion",
+      "D": "Alveolar hyperperfusion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "A patient presented with low grade fever, night sweats & productive cough. His first line drugs of TB Most likely due to",
+    "options": {
+      "A": "MDR Tb",
+      "B": "AIDS",
+      "C": "Sarcoidosis",
+      "D": "Histoplasmosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Patient was having bronchiolar inflammation and increased productive cough. What is the progenitor cell of the structure damaged in this condition?",
+    "options": {
+      "A": "Basal cell",
+      "B": "Granular cell",
+      "C": "Clara cell",
+      "D": "Goblet Cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Cystic fibrosis CT findings:",
+    "options": {
+      "A": "Cystic opacities",
+      "B": "Vesicular opacities",
+      "C": "Bronchial dilation with thickened walls",
+      "D": "Nodular opacities"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "A Military patient came with complain of cough not improving. He was refer to pulmonologist who ordered a spirometry that revealed decreased FEV1, decreased FVC & decreased FRC. Most probable diagnosis:",
+    "options": {
+      "A": "Asthma",
+      "B": "Pulmonary fibrosis",
+      "C": "Emphysema",
+      "D": "Pneumonia",
+      "E": "Bronchitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "A 65-year-old male smoker presents with a mass in the right lower lung. Histopathology reveals giant pleomorphic cells. What is the most likely diagnosis?",
+    "options": {
+      "A": "Small cell lung carcinoma (SCLC)",
+      "B": "Squamous cell carcinoma",
+      "C": "Large cell carcinoma",
+      "D": "Adenocarcinoma"
+    },
+    "correct_answer": "C"
+  }
+]

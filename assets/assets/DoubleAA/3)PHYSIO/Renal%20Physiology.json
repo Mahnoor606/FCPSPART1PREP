@@ -1,0 +1,4765 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "ECF is measured by which of the following?",
+    "options": {
+      "A": "Evan Blue",
+      "B": "Inulin",
+      "C": "Antipyrene",
+      "D": "Albumin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Interstitial fluid is about:",
+    "options": {
+      "A": "42L",
+      "B": "28L",
+      "C": "14L",
+      "D": "11L",
+      "E": "3L"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Auto regulation of kidney by:",
+    "options": {
+      "A": "Tubular glomerular feedback mechanism.",
+      "B": "CO2",
+      "C": "Local Metabolites",
+      "D": "Increase blood flow"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Short transient action of angiotensin 2 is which of these?",
+    "options": {
+      "A": "Thirst",
+      "B": "Vasoconstriction",
+      "C": "Salt retention",
+      "D": "Aldosterone release",
+      "E": "Vasodilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Which hormone maintains water and electrolytes?",
+    "options": {
+      "A": "Ag2",
+      "B": "Aldosterone",
+      "C": "TSH",
+      "D": "ADH",
+      "E": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Erythropoietin is secreted from which cell?",
+    "options": {
+      "A": "Peritubular capillary cell",
+      "B": "Interstitial cell of kidney",
+      "C": "Mesangial cell",
+      "D": "JG cell",
+      "E": "Para mesangial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Substance having more properties then inulin is thought to have:",
+    "options": {
+      "A": "Increase filtration rate and absorption",
+      "B": "Increase filtration rate and net secretion",
+      "C": "Net absorption",
+      "D": "Not Filtered"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Renin is secreted by:",
+    "options": {
+      "A": "Peritubular capillaries",
+      "B": "PCT",
+      "C": "Bowman capsule",
+      "D": "JG Cell",
+      "E": "Para Capillaries"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Which of the following causes increase in renin level?",
+    "options": {
+      "A": "Increase plasma osmolarity",
+      "B": "Increase sodium delivery to macula densa",
+      "C": "Decrease stretch on cardiac receptor",
+      "D": "Exercise"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Renin is persistently increased in:",
+    "options": {
+      "A": "Malignant phase of Essential HTN",
+      "B": "Hypotension",
+      "C": "APKD",
+      "D": "Benign Essential HTN",
+      "E": "CCF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "In summer, fasting man, has concentrated urine due to:",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Increase ADH",
+      "C": "Decrease water intake",
+      "D": "Increase sweating",
+      "E": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "An 8-year-old patient presents to the clinic with periorbital edema. His labs showed protein greater than 3.5g/dL. What is the probable cause?",
+    "options": {
+      "A": "Potassium retention",
+      "B": "Sodium retention",
+      "C": "Natriuresis",
+      "D": "Albuminuria and sodium retention",
+      "E": "Calcium retention"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "After sweating which of the following electrolyte maintain homeostasis?",
+    "options": {
+      "A": "Potassium",
+      "B": "Calcium",
+      "C": "Sodium",
+      "D": "Cadmium",
+      "E": "Iron"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Which of the following is found more in ICF as compared to ECF?",
+    "options": {
+      "A": "Potassium",
+      "B": "Sodium",
+      "C": "Magnesium",
+      "D": "Carbon",
+      "E": "Chloride"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "After RTA due to hemorrhage a person with 2 liter blood loss, the blood volume restored back by:",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "CD",
+      "D": "Loop",
+      "E": "CCD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Water travels from plasma to interstitium through?",
+    "options": {
+      "A": "Filtration",
+      "B": "Diffusion",
+      "C": "Osmosis",
+      "D": "Active transport",
+      "E": "Passive Diffusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "After marathon race a person lost 2 liters of sweating he drinks 2 liters of water what will happen?",
+    "options": {
+      "A": "Decrease ECF Volume",
+      "B": "Decrease ICF volume",
+      "C": "Increase Osmolarity of ICF",
+      "D": "Decrease Osmolarity of ECF",
+      "E": "No change"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "In dialysis patient accurate Clinical way of monitoring of GFR is:",
+    "options": {
+      "A": "K clearance",
+      "B": "Creatinine Clearance",
+      "C": "Inulin Clearance",
+      "D": "Urea",
+      "E": "BUN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "RBC is kept in hypertonic solution containing Urea what will be the result?",
+    "options": {
+      "A": "Swell & lyse",
+      "B": "Shrink, Swell & lyse",
+      "C": "Shrink",
+      "D": "Lyse & Swell"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Patient presented with decrease BP. Which one of the following will secrete enzyme to normalize the bp of patient?",
+    "options": {
+      "A": "Peritubular Capillaries",
+      "B": "JG Cells",
+      "C": "Para Capillaries",
+      "D": "PCT",
+      "E": "Glomeuli"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "ECF is different from ICF in:",
+    "options": {
+      "A": "Large volume",
+      "B": "Low pH",
+      "C": "Low Na/K ratio",
+      "D": "Inorganic ions",
+      "E": "High K"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "After RTA GFR decrease in patient came with excessive bleeding, Cause of decrease GFR is:",
+    "options": {
+      "A": "Decrease Arterial volume",
+      "B": "Decrease Arterial blood flow",
+      "C": "Decrease Arterial pressure",
+      "D": "Decrease Oxygen in arterial blood",
+      "E": "Decrease CO2 in Venous blood"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Buffer found in kidney but not in plasma:",
+    "options": {
+      "A": "Ammonia",
+      "B": "Phosphate",
+      "C": "HCO3",
+      "D": "Protein",
+      "E": "Hb"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Max absorption of glucose occurs from:",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "Collecting tubules",
+      "D": "TAL",
+      "E": "Loop"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Decrease in nerve action potential excitability of RMP is due to:",
+    "options": {
+      "A": "Hypercalcemia",
+      "B": "Hypokalemia",
+      "C": "Hypocalcemia",
+      "D": "Hypernatremia",
+      "E": "Hypokalemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Most abundant blood buffer is which of following?",
+    "options": {
+      "A": "Ammonia",
+      "B": "HCO3",
+      "C": "Hb",
+      "D": "Proteins",
+      "E": "Calcium carbonate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "GFR increase by which of following?",
+    "options": {
+      "A": "Decrease plasma colloid osmotic pressure",
+      "B": "Increase plasma colloid osmotic pressure",
+      "C": "Ureteric constriction",
+      "D": "Afferent arteriole constriction",
+      "E": "Efferent arteriole dilation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Blood flow of renal system is regulated by which of following?",
+    "options": {
+      "A": "Glomerulo feedback",
+      "B": "Tubulo glomerular Feedback",
+      "C": "Afferent arteriole constriction",
+      "D": "CCT",
+      "E": "Peritubular dilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Renal plasma flow decrease by:",
+    "options": {
+      "A": "Renal artery constriction",
+      "B": "Increase amount of catecholamine",
+      "C": "Decrease ICF osmolarity",
+      "D": "Decrease ECF osmolarity",
+      "E": "Sympathetic by Renal nerves"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Which hormone works on kidney?",
+    "options": {
+      "A": "ACTH",
+      "B": "Aldosterone",
+      "C": "Cortisol",
+      "D": "GH",
+      "E": "TSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Na = 135, HCO3 = 10, Cl 95 calculate the anion gap:",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "50",
+      "D": "60",
+      "E": "100"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Hyperkalemia leads to which of following?",
+    "options": {
+      "A": "Decrease action potential",
+      "B": "Tachycardia",
+      "C": "Flaccidity",
+      "D": "Spasticity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Kidney activates which of the following?",
+    "options": {
+      "A": "Erythropoietin",
+      "B": "Cholecalciferol",
+      "C": "Renin",
+      "D": "Angiotensin",
+      "E": "EPO"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Aldosterone action is:",
+    "options": {
+      "A": "Displace Na from cytoplasm to cell membrane",
+      "B": "Acts on nucleus",
+      "C": "Acts on cell membrane",
+      "D": "Bind glycoprotein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A patient with severe diarrhoea what infusion will be given to increase ECF and decrease ICF causing plasma expansion after osmotic equilibrium?",
+    "options": {
+      "A": "1 liter of 3 percent Nacl",
+      "B": "1 liter of 5 percent dextrose water",
+      "C": "1 liter Ringer lactate",
+      "D": "1 liter of 0.45 Nacl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Which fluid gives isotonic solution",
+    "options": {
+      "A": "0.9% N/S",
+      "B": "0.45%N/S",
+      "C": "3%N/S",
+      "D": "5%D/W",
+      "E": "1%N/S"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "A patient ABGs reveals pH 7.54, PCO2 40 and HCO3 29 what is acid base disorder?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Compensatory Respiratory Acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Metabolic Alkalosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Ammonia is urinary buffer because:",
+    "options": {
+      "A": "Impermeable to absorb NH4",
+      "B": "Impermeable to absorb NH3",
+      "C": "It binds with phosphate",
+      "D": "It competes with phosphate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Diagnostic findings of metabolic alkalosis are:",
+    "options": {
+      "A": "HCO3 > 24",
+      "B": "PCO2 > 60",
+      "C": "PCO2 < 40",
+      "D": "HCO3 < 24",
+      "E": "PH < 7.4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Plasma clearance of PAH is used to measure the renal plasma flow because it?",
+    "options": {
+      "A": "Can be measured in plasma easily",
+      "B": "Is excreted in urine",
+      "C": "Is filtered and secreted but not reabsorbed",
+      "D": "Is only filtered",
+      "E": "Is only secreted"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Which of the following hormone regulates osmolarity?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "ANP",
+      "D": "Renin",
+      "E": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Which Part of nephron is impermeable to water?",
+    "options": {
+      "A": "PCT",
+      "B": "Thick Ascending loop of Henley",
+      "C": "Descending loop of Henley",
+      "D": "Cortical collecting duct",
+      "E": "Collecting duct"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "The basic function of kidney is:",
+    "options": {
+      "A": "Hydrogen ion homeostasis",
+      "B": "Metabolic waste removal",
+      "C": "PH maintenance",
+      "D": "Blood pressure regulation",
+      "E": "Sodium Regulation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Surgeon more curious about which electrolyte before surgery on serum electrolytes report:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypocalcemia",
+      "C": "Hyponatremia",
+      "D": "Hypokalemia",
+      "E": "Hypomagnesemia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Prolong diarrhea will results in:",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Metabolic acidosis",
+      "C": "Hypochloremic metabolic alkalosis",
+      "D": "Mixed acid base disturbance",
+      "E": "Respiratory alkalosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Systolic pressure in highest in which of the following vessel?",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary artery",
+      "C": "Femoral artery",
+      "D": "Renal artery",
+      "E": "Common carotid arteries"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "A person loses 2L of sweat while working and drinks 2L pure water, what changes will occur?",
+    "options": {
+      "A": "Decrease ICF osmolarity",
+      "B": "Increase ECF volume",
+      "C": "Increase ECF osmolarity",
+      "D": "Increase ICF volume",
+      "E": "Decrease plasma volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Increase sodium uptake in body is due to:",
+    "options": {
+      "A": "Decrease K in body",
+      "B": "Increase K in body",
+      "C": "Increase Plasma volume",
+      "D": "Increase Blood pressure",
+      "E": "Increase plasma osmolarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Hypotonic fluid is present in which part?",
+    "options": {
+      "A": "Early DCT",
+      "B": "Early PCT",
+      "C": "Early LOH",
+      "D": "CD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A man was taken to the high altitude where after 10 days patient ABG's sample taken which of the condition ABG's show:",
+    "options": {
+      "A": "Normal acid base status",
+      "B": "Metabolic alkalosis",
+      "C": "Metabolic acidosis",
+      "D": "Respiratory Alkalosis",
+      "E": "Respiratory acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Thirst is increased by:",
+    "options": {
+      "A": "Renin",
+      "B": "Increase Angiotensin 2",
+      "C": "ADH",
+      "D": "Aldosterone"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 51,
+    "question_text": "To calculate plasma osmolality, sodium concentration is multiplied with 2 because of:",
+    "options": {
+      "A": "Cautions",
+      "B": "Anions",
+      "C": "Small sized proteins",
+      "D": "Calcium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Which condition leads to hypokalaemia?",
+    "options": {
+      "A": "Increase PH",
+      "B": "Decrease PH",
+      "C": "Increase Bicarb",
+      "D": "Decrease CO2",
+      "E": "Negative base excess"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Fluid of choice for third space fluid loss?",
+    "options": {
+      "A": "5% D/W",
+      "B": "N/S",
+      "C": "10% D/W",
+      "D": "Ringer lactate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Patient with CO2 44, PH 7.3, HCO3 16 what is the acid-base abnormality?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Which of the following decrease the arterial oxygen saturation without decreasing arterial O2 tension?",
+    "options": {
+      "A": "CO poisoning",
+      "B": "Copd",
+      "C": "Cyanide poisoning",
+      "D": "Heart failure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Which one decreases plamsa osmolarity?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "ANP",
+      "D": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Erythropoiesis is mainly stimulated by:",
+    "options": {
+      "A": "Hypoxia",
+      "B": "Erythropoietin",
+      "C": "Cobalt",
+      "D": "Theophylline"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Plasma colloid oncotic Pressure majorly due to:",
+    "options": {
+      "A": "Albumin",
+      "B": "Globulin",
+      "C": "Potassium",
+      "D": "Hydrogen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Primary dehydration will have:",
+    "options": {
+      "A": "Increase ECF osmolarity",
+      "B": "Decrease ECF osmolarity",
+      "C": "Increase ICF osmolarity",
+      "D": "Increase urine volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Difference between ICF and ECF?",
+    "options": {
+      "A": "Inorganic ions",
+      "B": "Less PH of ICF",
+      "C": "More PH of ICF",
+      "D": "Less PH of ECF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Free water clearance regulated by:",
+    "options": {
+      "A": "ADH",
+      "B": "Aldosterone",
+      "C": "ANP",
+      "D": "Angiotensin 2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "A patient with urine osmolarity 1200 Serum osmolarity 220 what is the cause?",
+    "options": {
+      "A": "SIADH",
+      "B": "DI",
+      "C": "Nephrogenic DI",
+      "D": "Water deprivation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A patient having CO2 58, PH 7.3 and HCO3 24 which type of acid base balance?",
+    "options": {
+      "A": "Metabolic Acidosis",
+      "B": "Metabolic Alkalosis",
+      "C": "Respiratory Acidosis",
+      "D": "Respiratory Alkalosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Renal correction of hyperkalaemia lead to:",
+    "options": {
+      "A": "Alkalosis",
+      "B": "Acidosis",
+      "C": "Hypovolemia",
+      "D": "Low PCO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "What is the most appropriate test for urine culture?",
+    "options": {
+      "A": "CLED agar with 1ml urine",
+      "B": "Bacterial dipstick",
+      "C": "Night urine",
+      "D": "Urine culture"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Which of the following factors increases GFR?",
+    "options": {
+      "A": "Efferent arteriolar dilation",
+      "B": "Afferent arteriolar dilation",
+      "C": "Ureter blockage",
+      "D": "Afferent arteriolar constriction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Glomerulus is formed by:",
+    "options": {
+      "A": "Vasa recta",
+      "B": "Capillary tuft",
+      "C": "Efferent arteriole",
+      "D": "Afferent arteriole"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Patient with 15-20% blood loss, what should be given via infusion:",
+    "options": {
+      "A": "3% N/S",
+      "B": "Ringer lactate",
+      "C": "Colloid",
+      "D": "Blood"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Increased GFR due to increase:",
+    "options": {
+      "A": "Oncotic pressure",
+      "B": "Hydrostatic pressure",
+      "C": "Venous pressure",
+      "D": "Haemorrhage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Volume of plasma Filtered per unit time:",
+    "options": {
+      "A": "GFR",
+      "B": "Filtration rate",
+      "C": "Filter Load",
+      "D": "Clearance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Normal value of GFR:",
+    "options": {
+      "A": "110ml/min",
+      "B": "125ml/min",
+      "C": "150ml/min",
+      "D": "200ml/min"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Angiotensin 2 shortest function:",
+    "options": {
+      "A": "Arteriolar vasoconstriction",
+      "B": "Increase thirst",
+      "C": "Increase aldosterone",
+      "D": "Decrease Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Regarding distal convoluted tubule:",
+    "options": {
+      "A": "Confers final composition of urine",
+      "B": "Generate NH2 ions",
+      "C": "Absorbs 60% filtered water",
+      "D": "Counter transport k with Cl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "By increasing specific gravity of urine which functions is tested?",
+    "options": {
+      "A": "Concentration",
+      "B": "GFR",
+      "C": "Dilution",
+      "D": "Filtration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A young patient presented with High glucose kusmaul breathing and unconsciousness and urinary ketones positive and Diagnose of DKA made which one act as buffer in this condition?",
+    "options": {
+      "A": "HCO3",
+      "B": "Ammonia",
+      "C": "Phosphate",
+      "D": "Chlorine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "What changes are seen in a patient who is given 1L of N/saline?",
+    "options": {
+      "A": "Increased serum osmolarity",
+      "B": "Decreased urine osmolarity",
+      "C": "Increased urine osmolarity",
+      "D": "Increased ICF volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Hyperkalaemia is associated with:",
+    "options": {
+      "A": "Acidosis",
+      "B": "Alkalosis",
+      "C": "Respiratory depression",
+      "D": "Loss of deep tendon reflexes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "In severe dehydration, the following changes occur:",
+    "options": {
+      "A": "ECF becomes hypotonic",
+      "B": "ECF becomes hypertonic",
+      "C": "ICF becomes hypotonic",
+      "D": "ICF becomes hypertonic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Sodium levels in body are regulated by:",
+    "options": {
+      "A": "ADH",
+      "B": "ACTH",
+      "C": "Aldosterone",
+      "D": "Paratharmone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "PAH is used to measure:",
+    "options": {
+      "A": "Renal blood flow",
+      "B": "GFR",
+      "C": "Renal plasma flow",
+      "D": "Urine osmolarity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Minimum amount of urine should be excreted per day to pass metabolic waste:",
+    "options": {
+      "A": "100ml",
+      "B": "250ml",
+      "C": "500ml",
+      "D": "50ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Lymph flow decreased by increase of:",
+    "options": {
+      "A": "Increased oncotic pressure",
+      "B": "Increased arterial pressure",
+      "C": "Increased venous pressure",
+      "D": "Increased capillary permeability",
+      "E": "Increased protein leakage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "In chronic respiratory acidosis what is in normal?",
+    "options": {
+      "A": "HCO3 in plasma",
+      "B": "CO2 in plasma",
+      "C": "PH of plasma",
+      "D": "PH of venous blood"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Ureteric obstruction causes:",
+    "options": {
+      "A": "Increased GFR",
+      "B": "Decreased GFR",
+      "C": "Increase hydrostatic pressure",
+      "D": "Decrease capillary pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Angiotensin one conversion occurs in:",
+    "options": {
+      "A": "Kidney",
+      "B": "Liver",
+      "C": "Lung",
+      "D": "Stomach"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Counter current exchange mechanism in kidney occurs in:",
+    "options": {
+      "A": "Presence of vasa recta",
+      "B": "Increase delivery of Na+ to macula densa",
+      "C": "Decrease delivery of Na+ to macula densa",
+      "D": "Constriction of afferent arteriole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Main action of aldosterone:",
+    "options": {
+      "A": "Maintenance of Na & K in body fluid",
+      "B": "Vasoconstriction",
+      "C": "Excretion of Na+",
+      "D": "Vasodilation of afferent arteriole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Amount of substances filtered per minute minus the amount of substance that appears in urine:",
+    "options": {
+      "A": "Tubular secretion",
+      "B": "Tubular reabsorption",
+      "C": "Clearance",
+      "D": "Filtered load"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Difference between tubular fluid of PCT and DCT is:",
+    "options": {
+      "A": "DCT have brush border as compared to DCT",
+      "B": "There is increased in H+ secretion in PCT as compared to DCT",
+      "C": "Increased in H+ secretion in DCT as compared to PCT",
+      "D": "Decrease bicarbonate absorption in PCT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "In syndrome of apparent mineralocorticoid excess (AME) what will be present?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Hyperkalaemia",
+      "C": "Acidosis",
+      "D": "Aciduria"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Dehydrated patient, which ion immediately help in compensation?",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Cl",
+      "D": "HCO3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Primary adrenal insufficiency will cause:",
+    "options": {
+      "A": "Hyperkalaemia",
+      "B": "Hypokalaemia",
+      "C": "Hypocalcemia",
+      "D": "Hypernatremia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Dehydration doesnot affect?",
+    "options": {
+      "A": "CT",
+      "B": "DCT",
+      "C": "CD",
+      "D": "PCT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "RBC swell when placed in?",
+    "options": {
+      "A": "150mmol nacl",
+      "B": "100mmol cacl",
+      "C": "Urea 250mmol",
+      "D": "Urea 359mmol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Action potential reduced in:",
+    "options": {
+      "A": "Hypokelmia",
+      "B": "Hyponatremia",
+      "C": "Hyperkalemia",
+      "D": "Hypernatremia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Sodium absorption functions of:",
+    "options": {
+      "A": "ANP",
+      "B": "Aldosterone",
+      "C": "Cortisol",
+      "D": "ADH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A man smoker, having hyponatremia and hypoosmotic urine most likely have:",
+    "options": {
+      "A": "Addison disease",
+      "B": "Inappropriate ADH syndrome",
+      "C": "Decreased ADH",
+      "D": "Increase aldosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Kidney best mechanism to preserve volume:",
+    "options": {
+      "A": "Renin secretion",
+      "B": "Decrease filtration",
+      "C": "Decrease ADH",
+      "D": "Decrease aldosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "PH is defined as:",
+    "options": {
+      "A": "Positive log of H",
+      "B": "Negative log of H",
+      "C": "Positive log HCO3",
+      "D": "Positive log of CO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "In metabolic acidosis how is renal compensation done:",
+    "options": {
+      "A": "Increase urine PH",
+      "B": "Decrease NH4+ secretion",
+      "C": "Increase glutamine absorption",
+      "D": "Increase glutamine secretion"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 101,
+    "question_text": "In metabolic acidosis how is renal compensation done?",
+    "options": {
+      "A": "Increase urine PH",
+      "B": "Decrease NH4+ secretion",
+      "C": "Increase glutamine absorption",
+      "D": "Increase glutamine secretion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "What is the role of ECF?",
+    "options": {
+      "A": "Exchange of substances",
+      "B": "Excrete Gases",
+      "C": "Maintain Volume",
+      "D": "Water absorption"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Erythropoietin is released by which Organ?",
+    "options": {
+      "A": "Lung",
+      "B": "Liver",
+      "C": "Bone",
+      "D": "Kidney",
+      "E": "Skin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "The most important mechanism for glomerulo-feedback system is:",
+    "options": {
+      "A": "Increase Peritubular Colloid Pressure",
+      "B": "Decrease Peritubular Sodium Concentration",
+      "C": "Decrease Peritubular Colloid Pressure",
+      "D": "Increase Oncotic Pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Decrease Lymphatic flow due to:",
+    "options": {
+      "A": "Decrease Oncotic Pressure",
+      "B": "Increase Permeability",
+      "C": "Haemorrhage",
+      "D": "Increase Hydrostatic Pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Decrease Lymphatic flow due to:",
+    "options": {
+      "A": "Increase Plasma Oncotic Pressure",
+      "B": "Decrease Plasma Oncotic Pressure",
+      "C": "Increase Hydrostatic Pressure",
+      "D": "Increase Permeability"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Nephropathy is diagnosed by:",
+    "options": {
+      "A": "Increase urinary albumin",
+      "B": "Increase serum albumin",
+      "C": "Microalbuminuria",
+      "D": "Increase urinary nitrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Loss of thirst due to:",
+    "options": {
+      "A": "Low Plasma osmolarity",
+      "B": "High plasma osmolarity",
+      "C": "Vasopressin",
+      "D": "Angiotensin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Juxtaglomerular nephrons most important function is:",
+    "options": {
+      "A": "Counter current multiplier",
+      "B": "Counter current exchanger",
+      "C": "Increase renin secretion",
+      "D": "Decrease renin secretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Estimation of GFR is done via:",
+    "options": {
+      "A": "Inulin clearance",
+      "B": "Creatinine clearance",
+      "C": "PAH",
+      "D": "Glucose"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Negative free water clearance:",
+    "options": {
+      "A": "Nephrogenic DI",
+      "B": "Central DI",
+      "C": "SIADH",
+      "D": "Carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Regarding DCT which of the following is correct?",
+    "options": {
+      "A": "Glucose absorption occurs here",
+      "B": "ADH act on DCT",
+      "C": "Maximum water reabsorption",
+      "D": "Site of action of Thiazide Diuretics"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "BP 160/110 mmHg & increase renin is due to:",
+    "options": {
+      "A": "Sympathetic Renal nerve",
+      "B": "Parasympathetic Renal Nerve",
+      "C": "Hypokalemia",
+      "D": "Hypocalcaemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "In haemorrhage patient aldosterone level increased by:",
+    "options": {
+      "A": "ADH",
+      "B": "Oxytocin",
+      "C": "AG2",
+      "D": "Vasopressin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Malignant hyperthermia occurs due to change in which of the following?",
+    "options": {
+      "A": "Sodium",
+      "B": "Potassium",
+      "C": "Calcium",
+      "D": "Magnesium"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Hyperkalemia is caused by:",
+    "options": {
+      "A": "Exercise",
+      "B": "Beta Agonist",
+      "C": "Aldosterone",
+      "D": "Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Aldosterone exerts its maximum effect on which of the following site?",
+    "options": {
+      "A": "PCT",
+      "B": "LOH",
+      "C": "DCT",
+      "D": "CCT",
+      "E": "CD"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "PH = 7.49, PCO = 60, HCO3 = 30 which of the following Acid Base abnormality does it indicates?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Partially compensated respiratory Acidosis",
+      "C": "Partially compensated metabolic Alkalosis",
+      "D": "Mixed acidosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Which of the following ions is main determinant of plasma osmolarity?",
+    "options": {
+      "A": "Potassium",
+      "B": "Sodium",
+      "C": "Magnesium",
+      "D": "Chloride",
+      "E": "Calcium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Effect of hypernatremia on the body is:",
+    "options": {
+      "A": "Cell swelling",
+      "B": "Cell shrinkage",
+      "C": "Apoptosis",
+      "D": "Difficulty in the generation of action potential"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Which of the following is used to calculate total body water:",
+    "options": {
+      "A": "Evans blue dye",
+      "B": "Antipyrene",
+      "C": "Inulin",
+      "D": "Mannitol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Which of the following decreases osmolarity?",
+    "options": {
+      "A": "Meapressin",
+      "B": "Epinephrine",
+      "C": "Aldosterone",
+      "D": "Renin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Zona Glomerulosa is linked with:",
+    "options": {
+      "A": "Sodium reabsorption",
+      "B": "Potassium reabsorption",
+      "C": "Sex hormone maintenance",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Albumin & RBCs in urine due to damage of:",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "Glomerulus",
+      "D": "Tubules"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Which of the following is prominent feature of RTA?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hyponatremia",
+      "C": "Nitrogen Imbalance",
+      "D": "Urea Imbalance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Which of the following drug is actively secreted by kidneys?",
+    "options": {
+      "A": "Penicillin",
+      "B": "Streptomycin",
+      "C": "Rifampin",
+      "D": "Metronidazole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "If ICF is increased what will decrease?",
+    "options": {
+      "A": "Heart rate",
+      "B": "Fluid",
+      "C": "Blood pressure",
+      "D": "Tissue Oxygenation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Lady after haemorrhage goes into Acute Kidney injury which of the following part of nephron will be most likely affected:",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "LOH",
+      "D": "CT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Protein can't cross the glomerular basement membrane due to:",
+    "options": {
+      "A": "Positive charge",
+      "B": "Negative charge",
+      "C": "Neutral",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of the following is urine output in a 70kg person in 24 hours?",
+    "options": {
+      "A": "550 ml",
+      "B": "1000 ml",
+      "C": "1500 ml",
+      "D": "2000 ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Afferent Renal arterioles form:",
+    "options": {
+      "A": "Glomerulus",
+      "B": "Efferent arteriole",
+      "C": "Peritubular capillaries",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Which of the following ion has profound effect in ECF?",
+    "options": {
+      "A": "Calcium",
+      "B": "Sodium",
+      "C": "Chloride",
+      "D": "Phosphorous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "The ability of the kidney to excrete concentrated urine will increase if:",
+    "options": {
+      "A": "The permeability of the proximal tubules to water decreases",
+      "B": "The rate of blood flow through the medulla decreases",
+      "C": "The rate of flow through the LOH increases",
+      "D": "The activity of Na-K pump in the LOH decreases",
+      "E": "The permeability of the collecting duct to water decreases"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Which of the following is the function of Erythropoietin?",
+    "options": {
+      "A": "Increase Haemoglobin",
+      "B": "Decrease Haemoglobin",
+      "C": "Increase Platelet count",
+      "D": "Decrease Platelet count"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Renin is inhibited by:",
+    "options": {
+      "A": "Angiotensin",
+      "B": "Increase sodium",
+      "C": "Increase Aldosterone",
+      "D": "Bradykinin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Hemoglobin Saturation increases in which of the following condition?",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Decrease PO2",
+      "C": "Increase PCO2",
+      "D": "Decrease PCO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A person drinks 600 ml of water, how much water of it will be present in plasma:",
+    "options": {
+      "A": "200 ml",
+      "B": "300 ml",
+      "C": "50 ml",
+      "D": "100 ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Patient having signs of hypoxia with normal breathing, PO2 95, PCO2 24 and HCO3 18 with normal PH:",
+    "options": {
+      "A": "Partially Compensated Metabolic Acidosis",
+      "B": "Fully Compensated Metabolic Acidosis",
+      "C": "Respiratory Acidosis",
+      "D": "Mixed Acidosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Which of the following has same osmolarity to plasma?",
+    "options": {
+      "A": "25% DW",
+      "B": "0.9% N/S",
+      "C": "3% NS",
+      "D": "10% DW"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "A 60-year-old businessman is evaluated for high BP (185/130mm Hg). Lab reveals increased plasma renin activity and high aldosterone. Left Renal Vein Renin is high; right is decreased. Most Likely diagnosis is:",
+    "options": {
+      "A": "Left Renal Artery Stenosis",
+      "B": "Right renal Artery Stenosis",
+      "C": "Bilateral Renal Artery Stenosis",
+      "D": "Adrenal Mass"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Mesangial cells have contractile property which helps them to maintain?",
+    "options": {
+      "A": "Renal blood flow",
+      "B": "Blood pressure",
+      "C": "Erythropoiesis",
+      "D": "Aldosterone secretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Fanconi syndrome, decrease ATP at the PCT linked with:",
+    "options": {
+      "A": "Hyperphosphatemia",
+      "B": "Glycosuria",
+      "C": "Metabolic alkalosis",
+      "D": "Hypermagnesemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Most potent stimulus for release of aldosterone is:",
+    "options": {
+      "A": "Renin",
+      "B": "Hyperkalemia",
+      "C": "Inc. serum glucose level",
+      "D": "Increase serum sodium level"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Which of the following causes vasoconstriction?",
+    "options": {
+      "A": "Adrenaline",
+      "B": "ADH",
+      "C": "AG2",
+      "D": "AG1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "What is more in dialysis fluid?",
+    "options": {
+      "A": "Potassium",
+      "B": "Magnesium",
+      "C": "Sodium",
+      "D": "Bicarbonate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Which of the following substances can be used to measure the volume of plasma?",
+    "options": {
+      "A": "Inulin",
+      "B": "Para-aminohippurate (PAH)",
+      "C": "Antipyrene",
+      "D": "Radiolabelled iodinated globin",
+      "E": "Evans blue dye"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Hyponatremia is due to:",
+    "options": {
+      "A": "Increased level of water",
+      "B": "Increased level of sodium",
+      "C": "Increased hydrostatic pressure",
+      "D": "Decreased hydrostatic pressure",
+      "E": "Increased oncotic pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "The part of nephron that amounts for 60-80% water absorption:",
+    "options": {
+      "A": "DCT",
+      "B": "PCT",
+      "C": "Ascending loop of Henle",
+      "D": "Collecting tubules",
+      "E": "Descending loop of Henle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Concentration of a substance in urine is 2 moles/L. Urine flow rate is 100 m/s and plasma flow rate is 10 m/s. How much substance will be cleared?",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "25",
+      "D": "30",
+      "E": "40"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "The PH of urine can't be lowered below 5.4 even after giving Bicarbonates (HCO3). What is the condition termed as?",
+    "options": {
+      "A": "RTA1",
+      "B": "RTA2",
+      "C": "RTA4",
+      "D": "Both RTA1 & RTA4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Renin secretion is increased by:",
+    "options": {
+      "A": "Increased potassium concentration",
+      "B": "Decrease potassium concentration",
+      "C": "Increase calcium",
+      "D": "Hypoxia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "The elevation of renin level is due to:",
+    "options": {
+      "A": "High parasympathetic activity",
+      "B": "Hypoxia",
+      "C": "Decrease stretch over atrial baroreceptor",
+      "D": "High brain bridge reflex"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Micturition is controlled by:",
+    "options": {
+      "A": "Mechanoreceptors in bladder wall",
+      "B": "Inhibited by a centre in pons",
+      "C": "Stretch of urethral sphincter",
+      "D": "Condition reflex",
+      "E": "Processed in cerebral cortex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Low depolarization occurs in:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypokalemia",
+      "C": "Hyperkalaemia",
+      "D": "Hypercalcemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "ECF Volume increases maximum on giving:",
+    "options": {
+      "A": "Hypotonic saline",
+      "B": "Hypertonic saline",
+      "C": "Hypertonic dextrose",
+      "D": "Ringer lactate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "The slope pertaining to the action potential changes with:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypokalemia",
+      "C": "Hypocalcaemia",
+      "D": "Hypomagnesia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Severe diarrhea leads to metabolic acidosis with:",
+    "options": {
+      "A": "Normal anion gap",
+      "B": "High anion gap",
+      "C": "Low anion gap",
+      "D": "No anion gap"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "The network of capillaries inside glomerulus:",
+    "options": {
+      "A": "Tuft of arteries",
+      "B": "Tuft of Capillaries",
+      "C": "Tuft of Veins",
+      "D": "Tuft of Venules"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "0.5 gram/dl protein is present in which fluid?",
+    "options": {
+      "A": "Lymph",
+      "B": "CSF",
+      "C": "Saliva",
+      "D": "Tears"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Proliferation of renal system:",
+    "options": {
+      "A": "Mesangium",
+      "B": "Cortex",
+      "C": "Medulla",
+      "D": "Afferent Arteriole"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "An increase in plasma potassium causes increase in:",
+    "options": {
+      "A": "Release of renin",
+      "B": "Secretion of aldosterone",
+      "C": "Secretion of ADH",
+      "D": "Release of natriuretic hormone",
+      "E": "Production of angiotensin II"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Replacement fluid replacement will be indicated by?",
+    "options": {
+      "A": "Decrease in tachycardia",
+      "B": "Increase in BP",
+      "C": "Increase in urine output",
+      "D": "Increase in pulse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Severe Diarrhea K+ infusion given. K+ go into cell through which channel?",
+    "options": {
+      "A": "Na-k pump",
+      "B": "K-ATPase",
+      "C": "H-pump",
+      "D": "Na-pump"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Exercise. Compared with the situation prior to the period of sweating:",
+    "options": {
+      "A": "His intracellular fluid will be hypertonic",
+      "B": "His extracellular fluid will be hypertonic",
+      "C": "His intracellular fluid volume will be greater",
+      "D": "His extracellular fluid volume will be greater",
+      "E": "His intracellular and extracellular fluid volumes will be unchanged"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Diabetic patient has increase urination and frequency due to?",
+    "options": {
+      "A": "Glomeral protein defect",
+      "B": "Decrease water absorption",
+      "C": "Decrease glucose absorption",
+      "D": "Increase glucose absorption"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "In hypertensive patient what is cause of edema?",
+    "options": {
+      "A": "Increase Hydrostatic pressure",
+      "B": "Decreased Hydrostatic pressure",
+      "C": "Increased oncotic pressure",
+      "D": "Lymphatic vessel blockage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Potassium depletion may cause:",
+    "options": {
+      "A": "Fall in plasma PCO2",
+      "B": "Fall in plasma pH",
+      "C": "Rise in hydrogen ion in plasma",
+      "D": "Rise in plasma bicarbonate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Hyperaldosteronism associated with all except:",
+    "options": {
+      "A": "Hypernatremia",
+      "B": "Hypokalemia",
+      "C": "Hypertension",
+      "D": "Metabolic acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "In burn patient succinylcholine isn't given due to which of the following effect:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypernatremia",
+      "C": "Hyperkalemia",
+      "D": "Hypokalemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Kidney changes in hypovolemic Shock include:",
+    "options": {
+      "A": "Acute tubular necrosis",
+      "B": "Increase concentrated urine",
+      "C": "Increase dilute urine",
+      "D": "Increase Renin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Renal capillary filtration:",
+    "options": {
+      "A": "Increase with arterial constriction",
+      "B": "Decrease with increase hydrostatic pressure",
+      "C": "Decrease with dehydration",
+      "D": "Increase with dehydration"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Serum sodium is regulated by:",
+    "options": {
+      "A": "Osmoreceptors",
+      "B": "Baroreceptors",
+      "C": "Thermoreceptors",
+      "D": "Nociceptors"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Highest sodium channel concentration in:",
+    "options": {
+      "A": "Initial segment",
+      "B": "Node of Ranvier",
+      "C": "Dendrites",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Na is major ECF cation, its mostly balanced by which anion:",
+    "options": {
+      "A": "HCO3",
+      "B": "Cl",
+      "C": "S",
+      "D": "Cobalt"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Which is more in dialysing fluid as compare to plasma?",
+    "options": {
+      "A": "Glucose",
+      "B": "HCO3",
+      "C": "Chloride",
+      "D": "Urea",
+      "E": "Potassium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "0.85% saline contains how much NACL?",
+    "options": {
+      "A": "850mg/100ml",
+      "B": "85g/L",
+      "C": "8500mg/ml",
+      "D": "8mg/ml"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Maximum renal tubular transport maximum (Tm) is for:",
+    "options": {
+      "A": "Sulphate",
+      "B": "Lactate",
+      "C": "Urate",
+      "D": "Phosphate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Protiens doesn't appear in urine because of:",
+    "options": {
+      "A": "Basement membrane",
+      "B": "Mesangium",
+      "C": "Podocytes",
+      "D": "Glomerulus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "In severe dehydration:",
+    "options": {
+      "A": "Whole body fluid will be low",
+      "B": "ECF will be low",
+      "C": "ICF will be low",
+      "D": "Body fluid will be high"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "COPD patient PO2 55, HCO3 26, pCO2 49 and PH 7.3:",
+    "options": {
+      "A": "Type I Respiratory failure with uncompensated Respiratory Acidosis",
+      "B": "Type II Respiratory failure with uncompensated Respiratory Acidosis",
+      "C": "Type II Respiratory Failure with Compensated Respiratory Acidosis",
+      "D": "Type I Respiratory Failure with Compensated Respiratory Acidosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Intracellular buffer:",
+    "options": {
+      "A": "Bicarbonate",
+      "B": "Haemoglobin",
+      "C": "Protein",
+      "D": "Ammonia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "ADH is inhibited by:",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Thirst",
+      "C": "Alcohol",
+      "D": "Angiotensin 2",
+      "E": "Hypovolemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Which one is passively absorbed from renal tubules?",
+    "options": {
+      "A": "K",
+      "B": "NH3",
+      "C": "Glucose",
+      "D": "Na"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Contraction of smooth muscles by:",
+    "options": {
+      "A": "Atrial nitriutic peptide",
+      "B": "Oxytocin",
+      "C": "Renin",
+      "D": "Antidiuretic hormone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "What are present at thin loop of Henle?",
+    "options": {
+      "A": "Brush border",
+      "B": "Mitochondria",
+      "C": "Flat epithelium",
+      "D": "Max sodium absorption"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Urine flow rate 1ml/min lowest osmolarity in which part?",
+    "options": {
+      "A": "Beginning of PCT",
+      "B": "DCT",
+      "C": "End of cortical collecting tubule",
+      "D": "End of cortical papillary collecting duct",
+      "E": "Tip of loop of Henley"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "For a substance X GFR 125mg/ml, Tm 125mg / mint, plasma concentration is 200mg/100ml, what will be the filtration, reabsorption and excretion?",
+    "options": {
+      "A": "250 filtration, 125 reabsorptions and 125 excretions",
+      "B": "125 filtration, 125 reabsorptions and 0 excretions",
+      "C": "200 filtration, 125 reabsorptions and 75 excreted",
+      "D": "125 filtration, 250 reabsorptions, 125 excretions"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Formation of Interstitial fluid increases with decreased in?",
+    "options": {
+      "A": "Capillary hydrostatic pressure",
+      "B": "Capillary permeability",
+      "C": "Interstitial fluid colloid osmotic pressure",
+      "D": "Lymphatic flow",
+      "E": "Plasma colloid osmotic pressure"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "GFR is decreased by:",
+    "options": {
+      "A": "Stone in ureter",
+      "B": "Angiotensin 2",
+      "C": "Afferent arterioles dilation",
+      "D": "Efferent arteriolar constriction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Zinc is important essential element in one of the following:",
+    "options": {
+      "A": "Carbonic anhydrase",
+      "B": "Cellular oxidation",
+      "C": "Vitamin B12",
+      "D": "Glycolysis",
+      "E": "Ketogenesis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Renin is inhibited by:",
+    "options": {
+      "A": "Vasopressin",
+      "B": "Prostaglandins",
+      "C": "Increase sympathetic activity by renal nerve",
+      "D": "Increase circulating catecholamine's"
+    },
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "Which of the following statements is unlikely to be true about H+ in the renal tubules?",
+    "options": {
+      "A": "It can bind with NH4+",
+      "B": "It can bind with HPO4-",
+      "C": "It can bind with HCO3-",
+      "D": "It is secreted by H+ ATPase pump",
+      "E": "It can exist as free H+"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Inhibitors of carbonic anhydrase will cause?",
+    "options": {
+      "A": "Reduced urine",
+      "B": "Increased formation & reabsorption of HCO3",
+      "C": "Acidosis",
+      "D": "Decreased Potassium",
+      "E": "Increase PH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Which of the following substance is more concentrated at the end of proximal convoluted tubule as compared to beginning of proximal tubules?",
+    "options": {
+      "A": "Bicarbonate",
+      "B": "Glucose",
+      "C": "Calcium",
+      "D": "Sodium",
+      "E": "Creatinine"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "What is the composition of normal saline?",
+    "options": {
+      "A": "0.9 gm in 10 ml distilled water",
+      "B": "9 gm in 1000 ml distilled water",
+      "C": "0.9gm in 100 ml distilled water",
+      "D": "0.9gm in 10000 ml distilled water"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "How to differentiate between normal from SIADH?",
+    "options": {
+      "A": "Plasma osmolarity",
+      "B": "Urine osmolarity",
+      "C": "ADH levels in plasma",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Patient has oat cell carcinoma secreting ADH. What he will have?",
+    "options": {
+      "A": "Hyperosmotic over hydration",
+      "B": "Hypoosmotic overhydration",
+      "C": "Hyperosmotic dehydration",
+      "D": "Hypo-osmotic dehydration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Respiratory acidosis cause is:",
+    "options": {
+      "A": "Barbiturate poisoning",
+      "B": "Aspirin toxicity",
+      "C": "High altitude",
+      "D": "Salicylate poisoning"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Patient with severe dehydration how much minimum urine output daily to eliminate nitrogenous waste product from body:",
+    "options": {
+      "A": "100 to 200ml",
+      "B": "800 to 1000ml",
+      "C": "400 to 600ml",
+      "D": "600 to 800ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Cause of raised anion gap:",
+    "options": {
+      "A": "DKA",
+      "B": "Renal tubular acidosis",
+      "C": "Diarrhea",
+      "D": "Multiple myeloma",
+      "E": "Addison's disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Insensible water loss from skin in moderate climate:",
+    "options": {
+      "A": "Less than 200",
+      "B": "200-400",
+      "C": "400-600",
+      "D": "600-800"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Product of GFR and plasma concentration of substance:",
+    "options": {
+      "A": "Filtration Fraction",
+      "B": "Filtration Co-efficient",
+      "C": "Filtration Load",
+      "D": "Tubular secretion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Renal threshold for glucose:",
+    "options": {
+      "A": "180",
+      "B": "200",
+      "C": "250",
+      "D": "375"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Which extracellular fluid level increase can cause more effects on heart?",
+    "options": {
+      "A": "Na+",
+      "B": "Ca2+",
+      "C": "Mg2+",
+      "D": "K+"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Primary control of secretion from zona Glomerulosa is by which hormone?",
+    "options": {
+      "A": "Angiotensin 2",
+      "B": "Renin",
+      "C": "ACTH",
+      "D": "PTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Best way to measure high protein level in plasma:",
+    "options": {
+      "A": "Urea",
+      "B": "Urea and creatinine",
+      "C": "Urinary nitrogen content",
+      "D": "All if the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Patient had prolonged vomiting. Metabolic alkalosis in patient is caused by:",
+    "options": {
+      "A": "Decreased Hydrogen",
+      "B": "Decreased Potassium",
+      "C": "Decreased Sodium",
+      "D": "Decreased HCO3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Infusion of 140meq Sodium in 100ml water causes:",
+    "options": {
+      "A": "Increased osmolarity both ICF and ECF",
+      "B": "Decreased osmolarity of ECF",
+      "C": "Decreased osmolarity of ICF",
+      "D": "Increased osmolarity of ICF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Patient has chronic respiratory acidosis. For every 10 rise in pCO2, the compensatory rise in HCO3 is:",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "7",
+      "D": "10"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Patient presented with excessive diarrhea and vomiting. Dx Metabolic Alkalosis is made what will have?",
+    "options": {
+      "A": "PH < 7.4",
+      "B": "Hco3 > 25",
+      "C": "K > 6",
+      "D": "Na < 120"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Regarding Function of lymphatics:",
+    "options": {
+      "A": "Have few valves",
+      "B": "Take plasma fluid back to body",
+      "C": "Lymph enter in lymph vessel by contraction of nearby muscle",
+      "D": "Contain less amount of albumin as compare to blood"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A patient of chronic nephritis, presented with anemia. What is to give this patient as treatment?",
+    "options": {
+      "A": "Blood transfusion",
+      "B": "PCV",
+      "C": "Erythropoietin",
+      "D": "Iron supplements"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "A patient presented with severe metabolic alkalosis. BP was 190/110 and serum potassium was 1.9. There is increased aldosterone level in his blood:",
+    "options": {
+      "A": "Addison's disease",
+      "B": "Primary hyperaldosteronism",
+      "C": "Adrenal hyperplasia",
+      "D": "Secondary hyperaldosteronism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "A 45-year-old man fell from roof top presented with Head injury and hyperventilation. His ABGs shows PH 7.134, Po2 69, Pco2 25, Hco3 19. CT report was normal. What is the acid-base disorder?",
+    "options": {
+      "A": "Respiratory alkalosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Mixed acidosis",
+      "E": "Metabolic acidosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Total body water in infants is approximately:",
+    "options": {
+      "A": "60%",
+      "B": "75%",
+      "C": "80%",
+      "D": "65%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Gitelman syndrome is a defect in which part of kidney?",
+    "options": {
+      "A": "PCT",
+      "B": "TAL",
+      "C": "Loop of henle",
+      "D": "Collecting tubule"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Which of the following causes metabolic alkalosis?",
+    "options": {
+      "A": "Uremia",
+      "B": "Diarrhea",
+      "C": "Loop diuretics",
+      "D": "Acetazolamide"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "High serum concentration of potassium causes:",
+    "options": {
+      "A": "U waves",
+      "B": "Flattened T waves",
+      "C": "Peaked T waves",
+      "D": "Tetany",
+      "E": "Osteomalacia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Low serum concentration of calcium causes:",
+    "options": {
+      "A": "Tetany",
+      "B": "Renal stones",
+      "C": "Bone pain",
+      "D": "Increased urinary frequency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "HCO3 is primarily absorbed at which of the following site?",
+    "options": {
+      "A": "PCT + DCT",
+      "B": "PCT + CD",
+      "C": "CT",
+      "D": "DCT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Autoregulation of GFR is by:",
+    "options": {
+      "A": "Tubuloglomerular mechanism",
+      "B": "Afferent glomerular constriction",
+      "C": "Efferent glomerular dilatation",
+      "D": "Efferent glomerular Constriction",
+      "E": "Ureteric obstruction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Which condition can lead to hyponatremia?",
+    "options": {
+      "A": "Increase water intake",
+      "B": "Increase Aldosterone",
+      "C": "Increase Cortisol",
+      "D": "Decrease Proteins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Patient with Proteinuria and generalized edema has which underlying cause?",
+    "options": {
+      "A": "Salt and water retention",
+      "B": "Hypoalbuminemia",
+      "C": "Increase hydrostatic pressure",
+      "D": "Increase oncotic pressure",
+      "E": "Portal HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "How much urine should be made to match the osmolarity of 570 when normal is 1440?",
+    "options": {
+      "A": "0.5",
+      "B": "2",
+      "C": "0.25",
+      "D": "4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "A young patient has BP 150/95 and high serum renin. What is the stimulus for this increase?",
+    "options": {
+      "A": "Essential HTN",
+      "B": "Increase delivery of Na to renal tubules",
+      "C": "Sympathetic stimulation via renal nerve",
+      "D": "Vasodilation of renal arteriole",
+      "E": "Increase blood flow to kidney"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Voluntary inhibition of micturition reflex is by activation of:",
+    "options": {
+      "A": "Pudendal nerve",
+      "B": "Detrusor muscle contraction",
+      "C": "Trigone",
+      "D": "Sympathetic nerve",
+      "E": "Parasympathetic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "A person is dehydrated for 24 hrs. Increase production of concentrated urine is due to:",
+    "options": {
+      "A": "Increase Permeability through CD",
+      "B": "Increase permeability through DCT",
+      "C": "Decrease Salt",
+      "D": "Increase permeability through PCT",
+      "E": "Increase ANP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "A child has generalized body edema. The most likely cause is:",
+    "options": {
+      "A": "Hypoproteinemia",
+      "B": "Increase hydrostatic pressure",
+      "C": "Decrease Sodium",
+      "D": "Increase Sodium",
+      "E": "Decrease Magnesium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Drug which has more clearance than inulin will be:",
+    "options": {
+      "A": "Filtered only",
+      "B": "Secreted",
+      "C": "Filtered and secreted",
+      "D": "Absorbed"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "In nephrogenic diabetes insipidus, what will occur?",
+    "options": {
+      "A": "Urine osmolarity increase",
+      "B": "ECF osmolarity increase",
+      "C": "ECF volume increase",
+      "D": "ECF osmolarity decrease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "What changes are seen in a patient who is given 1L of Isotonic N/saline?",
+    "options": {
+      "A": "Increased plasma osmolarity",
+      "B": "Increase urine volume",
+      "C": "Increased plasma Sodium",
+      "D": "Increased ICF volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "GFR increases by which of the following?",
+    "options": {
+      "A": "Decreased efferent arteriolar constriction",
+      "B": "Decreased afferent arteriolar constriction",
+      "C": "Ureteric constriction",
+      "D": "Bladder obstruction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A child presents with proteinuria and edema responsive to steroids. The cause of edema is:",
+    "options": {
+      "A": "Decrease Hydrostatic pressure",
+      "B": "Increase Plasma volume",
+      "C": "Low plasma oncotic pressure",
+      "D": "Low Plasma Filtration"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "A patient has PH 7.1, CO2 50, and HCO3 7. What is the disorder?",
+    "options": {
+      "A": "Respiratory alkalosis",
+      "B": "Compensatory respiratory acidosis",
+      "C": "Compensatory Metabolic acidosis",
+      "D": "Mixed Acid base disorder"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Which nephron area has the least hyperosmolarity?",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "LOH",
+      "D": "CD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Glomerular capillary pressure increases with:",
+    "options": {
+      "A": "Afferent arteriolar constriction",
+      "B": "Decrease in oncotic pressure",
+      "C": "Angiotensin II action",
+      "D": "Less than most capillaries at heart level"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Thirst is partially alleviated by:",
+    "options": {
+      "A": "Increased plasma osmolarity",
+      "B": "Increase Ag2",
+      "C": "SIADH",
+      "D": "Hypovolemia",
+      "E": "Dec ECF volume"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Example of secondary active transport in kidney is:",
+    "options": {
+      "A": "Sodium",
+      "B": "Glucose",
+      "C": "Urea",
+      "D": "Chloride"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Sodium reabsorption in basolateral membrane occurs due to:",
+    "options": {
+      "A": "Glucose co transport",
+      "B": "Active transport",
+      "C": "Na-K pump",
+      "D": "Glucose amino acid transport"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "A renal response to retain maximum blood volume is:",
+    "options": {
+      "A": "Decrease release of renin",
+      "B": "Increase Cortisol",
+      "C": "Increase renin secretion",
+      "D": "Increase Potassium absorption"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Renal autoregulation of blood flow occurs at which MAP range?",
+    "options": {
+      "A": "40-100",
+      "B": "80-180",
+      "C": "40-60",
+      "D": "200-220"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Fluid coming from PCT to loop of henle has which feature?",
+    "options": {
+      "A": "More hco3 than plasma",
+      "B": "More sodium than plasma",
+      "C": "Is hypertonic",
+      "D": "More glucose than plasma",
+      "E": "More urea than plasma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Patient with glucose 400 and PH 7.1. What is the most important plasma buffer?",
+    "options": {
+      "A": "HCO3",
+      "B": "HB",
+      "C": "Protein",
+      "D": "Ammonia",
+      "E": "CO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Anion gap increases in:",
+    "options": {
+      "A": "Uncontrolled DM",
+      "B": "Diabetes insipidus",
+      "C": "Bronze diabetes",
+      "D": "Respiratory failure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Which combination can cause edema due to obstruction?",
+    "options": {
+      "A": "Infection and Neoplasia",
+      "B": "Renal failure and hypoproteinemia",
+      "C": "Hematuria and albuminuria",
+      "D": "Cardiac failure and IHD",
+      "E": "Arterial obstruction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "In Respiratory acidosis, which of the following provides primary buffering?",
+    "options": {
+      "A": "Bicarbonate system in kidney",
+      "B": "Ammonium system in kidney",
+      "C": "Phosphate system in kidney",
+      "D": "Intracellular Proteins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Secretion of ADH is blocked due to shrinkage of which of following?",
+    "options": {
+      "A": "Pressoreceptor",
+      "B": "Baroreceptor",
+      "C": "Chemoreceptor",
+      "D": "Angiotensin",
+      "E": "Osmoreceptor"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "What is the primary determinant of plasma osmotic pressure?",
+    "options": {
+      "A": "Sodium",
+      "B": "Vitamin",
+      "C": "Potassium",
+      "D": "Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "GFR increases by:",
+    "options": {
+      "A": "Clonidine",
+      "B": "Epinephrine",
+      "C": "Norepinephrine",
+      "D": "Nitric oxide"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "PH 7.12, CO2 60, and HCO3 19 indicates:",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Metabolic acidosis",
+      "C": "Hypochloremic metabolic alkalosis",
+      "D": "Mixed acid base disturbance",
+      "E": "Respiratory alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Which structure in GBM provides charge-selectivity for proteins?",
+    "options": {
+      "A": "Lamina rara interna",
+      "B": "Lamina rara externa",
+      "C": "Lamina densa",
+      "D": "Visceral epithelial layer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "In chronic respiratory acidosis, there is:",
+    "options": {
+      "A": "Increase urinary titratable acid excretion",
+      "B": "Increase urinary HCO3 formation",
+      "C": "Decrease urinary ammonium excretion",
+      "D": "Decrease phosphate excretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "What is the immediate response of the body to sudden blood loss?",
+    "options": {
+      "A": "Sympatho adrenergic",
+      "B": "CNS ischemic response",
+      "C": "Hyperventilation",
+      "D": "Baroreceptors",
+      "E": "Increase Respiration"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "During dehydration, ADH:",
+    "options": {
+      "A": "Increases Permeability through CD",
+      "B": "Increases permeability through DCT",
+      "C": "Decreases Salt",
+      "D": "Increases permeability through PCT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Bp 200/110, K 3.2, and pulse 50 is due to which hormonal increase?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Ag2",
+      "C": "Cortisol",
+      "D": "Norepinephrine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Strongest stimulus for erythropoietin secretion is:",
+    "options": {
+      "A": "Hypoxia",
+      "B": "Injury",
+      "C": "Inc. PH",
+      "D": "Dec. PH",
+      "E": "Lactate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Action of aldosterone in cortical collecting tubule is:",
+    "options": {
+      "A": "Na absorption by DCT",
+      "B": "Decrease permeability of Na in duct",
+      "C": "Increase permeability of Na+ and K+",
+      "D": "Increase Na reabsorption in duct",
+      "E": "Decrease absorption of Na+ and K+"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "In the presence of ADH, maximum water absorption occurs in:",
+    "options": {
+      "A": "Collecting Duct",
+      "B": "DCT",
+      "C": "Loop of Henle",
+      "D": "PCT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "PH 7.32, CO2 70, and HCO3 35 indicates:",
+    "options": {
+      "A": "Uncompensated metabolic acidosis",
+      "B": "Compensated metabolic acidosis",
+      "C": "Respiratory alkalosis",
+      "D": "Compensated respiratory acidosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Fenestrated capillaries are mostly found in:",
+    "options": {
+      "A": "Skin",
+      "B": "Spleen",
+      "C": "Stomach",
+      "D": "Kidney",
+      "E": "Brain"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "GFR increases by:",
+    "options": {
+      "A": "Efferent arteriolar constriction",
+      "B": "Increase plasma colloid osmotic pressure",
+      "C": "Ureteric constriction",
+      "D": "Afferent arteriole constriction",
+      "E": "Efferent arteriole dilation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Clinical estimation of GFR is best done by:",
+    "options": {
+      "A": "K clearance",
+      "B": "Creatinine Clearance",
+      "C": "BUN Clearance",
+      "D": "Urea",
+      "E": "BUN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Chloride transport in Loop of henle occurs via:",
+    "options": {
+      "A": "Countertransport with K",
+      "B": "Cotransport with Na and K",
+      "C": "Cotransport with Cl",
+      "D": "Diffusion with Na"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Na 110, K 3.5, and urine osmolarity 620 indicates:",
+    "options": {
+      "A": "Dehydration",
+      "B": "SIADH",
+      "C": "Addison's disease",
+      "D": "Cushing disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Histological difference between PCT and DCT is:",
+    "options": {
+      "A": "Basement membrane",
+      "B": "PCT has Brush border",
+      "C": "Pores",
+      "D": "Cell size"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "After strenuous exercise, blood volume is maintained by:",
+    "options": {
+      "A": "Increase Renin",
+      "B": "Decrease renin",
+      "C": "Increase cortisol",
+      "D": "Decrease sympathetic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Hyperkalemia occurs as an acute response to:",
+    "options": {
+      "A": "Fluid intake",
+      "B": "Strenuous Exercise",
+      "C": "Increase fluid loss",
+      "D": "CRF",
+      "E": "CLD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "A patient with hyperemesis gravidarum having hypokalemia likely has:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Mixed acid base"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "0.9% normal saline means:",
+    "options": {
+      "A": "9g in 1000ml",
+      "B": "9g in 100 ml",
+      "C": "9 mg in 1000ml",
+      "D": "9 mg in 100ml",
+      "E": "0.9 mg in 100"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Minor calyces receive urine directly from:",
+    "options": {
+      "A": "Major calyces",
+      "B": "Renal papilla",
+      "C": "Renal medulla",
+      "D": "Renal cortex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Which fluid provides an isotonic solution?",
+    "options": {
+      "A": "0.9% N/S",
+      "B": "0.45%N/S",
+      "C": "3%N/S",
+      "D": "5%D/W",
+      "E": "1%N/S"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Consequence of decreased volume concentration is activation of:",
+    "options": {
+      "A": "Renin increase",
+      "B": "RAAS activation",
+      "C": "Cortisol increase",
+      "D": "GH increase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "When CO2 is transferred from tissues to lungs, what happens to RBCs?",
+    "options": {
+      "A": "Acidosis",
+      "B": "Alkalization",
+      "C": "Carbaminoacid formation",
+      "D": "Increase HCO3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "CSF is an example of:",
+    "options": {
+      "A": "ECF",
+      "B": "Plasma",
+      "C": "Interstitial fluid",
+      "D": "Transcellular fluid",
+      "E": "ICF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "After infusion of 0.9% N/S, what will occur?",
+    "options": {
+      "A": "Decrease urine osmolarity",
+      "B": "Increase urine osmolarity",
+      "C": "Same urine osmolarity",
+      "D": "Increase Plasma osmolarity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Increase in urine output due to an antihypertensive is likely from:",
+    "options": {
+      "A": "Increase hydrostatic pressure GFR",
+      "B": "Decrease hydrostatic pressure GFR",
+      "C": "Afferent arteriolar dilation",
+      "D": "High Bowman space"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "If a patient has only 25% nephron function remaining, what happens in surviving nephrons?",
+    "options": {
+      "A": "Increase GFR per nephron",
+      "B": "Decrease Blood flow",
+      "C": "Decrease Urea and Cr ratio",
+      "D": "Decrease urinary sodium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Edema does not occur in primary hyperaldosteronism because of:",
+    "options": {
+      "A": "Decrease Na/k activity of TAL",
+      "B": "Decrease thirst mechanism",
+      "C": "Escape mechanism",
+      "D": "Increase ADH",
+      "E": "Decrease ANP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Renal response to systemic acidosis from hyperkalemia is:",
+    "options": {
+      "A": "Acidosis",
+      "B": "Alkalosis",
+      "C": "Increase H+ secretion",
+      "D": "Increase HCO3 secretion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Deficiency in which of following causes hyperexcitability?",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Ca",
+      "D": "PO4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Clinically used substance to estimate GFR is:",
+    "options": {
+      "A": "Inulin",
+      "B": "Creatinine",
+      "C": "PAH",
+      "D": "Ammonia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Most immediate response to falling BP is:",
+    "options": {
+      "A": "RAAS",
+      "B": "CNS ischemic",
+      "C": "Cortisol",
+      "D": "Baroreceptor reflex"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "Edema in nephrotic syndrome is primarily due to:",
+    "options": {
+      "A": "Salt and water retention",
+      "B": "Hypoalbuminemia",
+      "C": "Increase hydrostatic pressure",
+      "D": "Increase oncotic pressure",
+      "E": "Portal HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Production of concentrated urine is related to:",
+    "options": {
+      "A": "DM",
+      "B": "ADH not functioning",
+      "C": "Increased water absorption from Collecting Duct",
+      "D": "Diabetes Insipidus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "Crescents in glomeruli are primarily formed by proliferation of:",
+    "options": {
+      "A": "Endothelial cells",
+      "B": "Epithelial cells",
+      "C": "Mesangial cells",
+      "D": "Parietal epithelial cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Which of the following is 100% absorbed in the PCT?",
+    "options": {
+      "A": "Urea",
+      "B": "Sodium",
+      "C": "Glucose",
+      "D": "Water",
+      "E": "Nitrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "In hypovolemic shock, which part of the nephron is most vulnerable to damage?",
+    "options": {
+      "A": "DCT",
+      "B": "PCT",
+      "C": "Loop of henle",
+      "D": "Ascending loop of henle",
+      "E": "Late DCT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "The epithelium of the thin loop of Henle is:",
+    "options": {
+      "A": "Flattened",
+      "B": "Cuboidal",
+      "C": "Brush bordered",
+      "D": "Columnar"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Which of the following indicates a defect in renal tubular concentration mechanism?",
+    "options": {
+      "A": "Low specific gravity of urine",
+      "B": "High blood urea",
+      "C": "Low plasma osmolarity",
+      "D": "Hypernatremia",
+      "E": "Low urinary sodium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "A pregnant female with flank pain, rigors, and fever likely has:",
+    "options": {
+      "A": "Normal pregnancy symptoms",
+      "B": "Acute pyelonephritis",
+      "C": "UTI",
+      "D": "Acute cystitis",
+      "E": "Chronic pyelonephritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "PH 7.37, PCO2 50, and HCO3 30 indicates:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Compensated Respiratory acidosis",
+      "C": "Mixed acidosis",
+      "D": "Metabolic acidosis and Respiratory alkalosis"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 301,
+    "question_text": "100% Glucose absorption occur in",
+    "options": {
+      "A": "DCT",
+      "B": "PCT",
+      "C": "Loop of henly",
+      "D": "Ascending loop of henly",
+      "E": "Late DCT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Urine concentrated by",
+    "options": {
+      "A": "TSH",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "ACTH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Which one will be activated below 60mmhg MAP",
+    "options": {
+      "A": "RAAS",
+      "B": "Baroreceptors",
+      "C": "CNS ischemic response",
+      "D": "Aldosterone",
+      "E": "Cortisol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Fluid of choice in paradoxical aciduria?",
+    "options": {
+      "A": "10%Dextrose",
+      "B": "Normal saline",
+      "C": "Ringer lactate",
+      "D": "5% dextrose"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "About Fluid absorption from Ilium true is",
+    "options": {
+      "A": "It is by Na/K pump",
+      "B": "Maximum absorption occur here",
+      "C": "Maximum fluid loss here",
+      "D": "Iron loss from here"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "Baroreceptors most sensitive to",
+    "options": {
+      "A": "Blood loss",
+      "B": "Increase Volume",
+      "C": "Decrease arterial pressure",
+      "D": "Increase arterial pressure",
+      "E": "Increase pH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Creatinine is found in:",
+    "options": {
+      "A": "Bowman capsule",
+      "B": "Renal muscle",
+      "C": "Retina",
+      "D": "Podocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Glomerular resistance is equal to:",
+    "options": {
+      "A": "Efferent arteriolar resistance",
+      "B": "Sum of both afferent and efferent arteriolar resistance",
+      "C": "Glomerular pressure",
+      "D": "Vasa recta pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Person is thirsty for 24hour, next response will be:",
+    "options": {
+      "A": "ANP release",
+      "B": "Decrease renin",
+      "C": "Decreased ADH",
+      "D": "Increase water permeability from proximal and distal tubules"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Protein filtration occur via:",
+    "options": {
+      "A": "Podocytes",
+      "B": "Bowman capsule",
+      "C": "Endothelial cells",
+      "D": "Epithelial cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "Osmotic diuretic act on:",
+    "options": {
+      "A": "DCT",
+      "B": "Loop of henly",
+      "C": "Thin ascending limb",
+      "D": "CCD",
+      "E": "PCT"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Loss of thirst due to:",
+    "options": {
+      "A": "Increase ECF volume",
+      "B": "High Plasma osmolarity",
+      "C": "Aldosterone",
+      "D": "Angiotensin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "In dehydration maximum Water absorption occur in:",
+    "options": {
+      "A": "CD",
+      "B": "DCT",
+      "C": "Loop",
+      "D": "PCT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "GFR decrease by increase in:",
+    "options": {
+      "A": "Efferent arteriole constriction",
+      "B": "Afferent arteriole dilation",
+      "C": "Ureteric blockage",
+      "D": "Afferent arteriole constriction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "PCT absorb 45-50% which of following:",
+    "options": {
+      "A": "Urea",
+      "B": "Glucose",
+      "C": "HCO3",
+      "D": "Water"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "In the presence of adh max urine osmolarity will be?",
+    "options": {
+      "A": "300",
+      "B": "600",
+      "C": "1500",
+      "D": "1200",
+      "E": "2000"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "Na absorption from DCT increases when?",
+    "options": {
+      "A": "Plasma osmolarity increase",
+      "B": "Plasma volume increase",
+      "C": "Increase K+ concentration in plasma",
+      "D": "Increase Ca concentration in plasma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Na absorption from basal lamina of kidney:",
+    "options": {
+      "A": "K efflux",
+      "B": "Na influx",
+      "C": "Na efflux",
+      "D": "Na/k ATPs pump"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Patient present with breathlessness, PH 7.35, PCO2 60, O2 75 and HCO3 18 which acid base disorder is?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Metabolic acidosis",
+      "C": "Compensatory Respiratory Acidosis",
+      "D": "Metabolic acidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "A patient ABGs reveal PH 7.54, PCO2 40 and HCO3 38 what is acid base disorder?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Compensatory Respiratory Acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Metabolic Alkalosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "PCT has brush border which is:",
+    "options": {
+      "A": "Microvilli",
+      "B": "Cilia",
+      "C": "Stereovilli",
+      "D": "Lamina",
+      "E": "Flagella"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "Glucose absorbed in PCT by:",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Co transport",
+      "C": "Secondary active transport",
+      "D": "Facilitated diffusion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Secretion of substance occurs only if:",
+    "options": {
+      "A": "More reabsorption",
+      "B": "Excretion is greater than reabsorption",
+      "C": "More absorption then excretion",
+      "D": "Non"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Least renal clearance is of:",
+    "options": {
+      "A": "Na",
+      "B": "Glucose",
+      "C": "Hco3",
+      "D": "Urea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Greatest blood flow per 100g of tissue:",
+    "options": {
+      "A": "Heart",
+      "B": "Kidneys",
+      "C": "Lung",
+      "D": "Skin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Before deciding for transplant measure of renal function done by:",
+    "options": {
+      "A": "Creatinine clearance",
+      "B": "Inulin",
+      "C": "PAH",
+      "D": "BUN clearance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Renal tubular cell basolateral membrane contains:",
+    "options": {
+      "A": "Na k ATPase pump",
+      "B": "Inward sodium",
+      "C": "Outward potassium",
+      "D": "Inwards potassium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "BUN/Cr ratio greater than 20 cause will be:",
+    "options": {
+      "A": "Post renal Azotaemia",
+      "B": "Pre renal azotaemia",
+      "C": "ATN",
+      "D": "CKD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Patient is dehydrated, osmolarity increased, what will happen?",
+    "options": {
+      "A": "Stimulate volume and osmoreceptors and stimulate ADH secretion",
+      "B": "Stimulate volume and osmoreceptors and decrease ADH secretion",
+      "C": "Inhibit volume and osmoreceptors and stimulate ADH secretion",
+      "D": "Inhibit volume and osmoreceptors and inhibit ADH secretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Which of the following is used to calculate total body water:",
+    "options": {
+      "A": "Evans blue dye",
+      "B": "Heavy water",
+      "C": "Inulin",
+      "D": "Mannitol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Which one is Different from plasma in osmolarity",
+    "options": {
+      "A": "Ringer lactate",
+      "B": "5% dextrose",
+      "C": "Normal saline",
+      "D": "1.2% Na bicarbonate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "The part of nephron affected mostly by Ischemia is:",
+    "options": {
+      "A": "DCT",
+      "B": "PCT",
+      "C": "Ascending loop of Henle",
+      "D": "Collecting tubules",
+      "E": "Descending loop of Henle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Sodium active absorption occurs in",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ilium",
+      "C": "Colon",
+      "D": "Duodenum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "Increase PAC02 will cause:",
+    "options": {
+      "A": "Hypotension",
+      "B": "Coma",
+      "C": "Tachycardia",
+      "D": "Sweating",
+      "E": "Tremors"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "In a person of 70kg how much of it will be present in interstitial fluid?",
+    "options": {
+      "A": "11L",
+      "B": "42L",
+      "C": "28L",
+      "D": "14L",
+      "E": "52L"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "Straight vessel along loop of henle that helps in concentrating urine is:",
+    "options": {
+      "A": "Vasa recta",
+      "B": "Proximal convoluted tubule",
+      "C": "Peritubular capillaries",
+      "D": "Interlobular artery",
+      "E": "Arcuate artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "A hypertensive can be managed pharmacologically and surgically, on labs what's the evidence that makes it possible for him to be treated pharmacologically instead of surgery?",
+    "options": {
+      "A": "Increase Catecholamines",
+      "B": "Hyperreninemia",
+      "C": "Hyperaldosteronism",
+      "D": "Hypercalcemia",
+      "E": "Inflammatory response to Kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "30 years old woman is given 0.1g insulin. One hr later the plasma insulin concentration is 1mg/100ml. Which of the following is the extracellular fluid in liters?",
+    "options": {
+      "A": "10",
+      "B": "02",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Loop diuretics MOA on thick ascending limb of loop of henle is:",
+    "options": {
+      "A": "Inhibit Na/K/2Cl-",
+      "B": "Inhibit Na/K ATPase",
+      "C": "Inhibit 2Na/K/Cl",
+      "D": "Inhibit Na/2K/Cl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "A person is dehydrated & profusely sweating. Percentage of Water absorbed from PCT is?",
+    "options": {
+      "A": "55-60%",
+      "B": "60-70%",
+      "C": "70-80%",
+      "D": "80-90%",
+      "E": "85-95%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "A patient on anti HTN hydrochlorothiazide says he has good controlled BP with the medicine. His labs show serum Na 119, serum. osmolarity 245 and is hypovolemic clinically, what should initial treatment be:",
+    "options": {
+      "A": "3% NS",
+      "B": "0.9% NS",
+      "C": "0.45 % NS",
+      "D": "IV furosemide with 3% NS"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Patient unable to excrete co2, what will happen",
+    "options": {
+      "A": "Decrease po2",
+      "B": "Alkaline urine",
+      "C": "Increase PH",
+      "D": "Decrease PH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "A person in a severe dehydrated state, what percentage of water will be absorbed at PCT",
+    "options": {
+      "A": "40%",
+      "B": "70 - 80%",
+      "C": "60 - 65%",
+      "D": "30-40%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "Denervation of kidneys will cause",
+    "options": {
+      "A": "Increase nor adrenaline concentration in kidneys",
+      "B": "Increase Na absorption",
+      "C": "Increase urine flow",
+      "D": "Decrease Renin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "ADH short term action is:",
+    "options": {
+      "A": "Vasodilation of arterioles",
+      "B": "Vasoconstriction of arterioles",
+      "C": "Secrete Renin",
+      "D": "Reabsorption of salts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "A pt with ph 7.3 , HCO3 16 , CO2 38 . What's the acid base metabolic disorder?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "Which hormone maintains ECF osmolarity??",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Vasopressin",
+      "C": "Angiotensin 2",
+      "D": "ANP",
+      "E": "BNP"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "If a patient has renal plasma flow 600 and Hct 0.40 calculate blood flow to kidney:",
+    "options": {
+      "A": "1200 ml/min",
+      "B": "400 ml/min",
+      "C": "800 ml/min",
+      "D": "1000 ml/min",
+      "E": "1000 ml/min"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "Active Na absorption occur in which part of kidney",
+    "options": {
+      "A": "LOH",
+      "B": "DCT",
+      "C": "CD",
+      "D": "PCT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "A person in a marathon race , at the end of the race he drinks water to compensate fluid loss due to sweating . What will be seen in him at the end of Marathon ?",
+    "options": {
+      "A": "Decrease total body water",
+      "B": "Increase Intracellular osmolarity",
+      "C": "Decrease plasma osmolarity",
+      "D": "Decrease ICF Volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Patient having Respiratory alkalosis. Cause is",
+    "options": {
+      "A": "acetyl salicylic acid",
+      "B": "Drowning",
+      "C": "Morphine poisoning",
+      "D": "Loop diuretics",
+      "E": "DKA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "Which of the following is true about plasma proteins?",
+    "options": {
+      "A": "Exert an oncotic pressure of 25mmHg",
+      "B": "Globulins make a bulk of them",
+      "C": "Made exclusively in liver",
+      "D": "Buffer capacity upto 30%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "Decrease K excretion is due to",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Metabolic acidosis",
+      "C": "Prolong vomiting",
+      "D": "Diarrhea",
+      "E": "Renal failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "A pregnant lady having hyperemesis gravidum which acid base balance will be present?",
+    "options": {
+      "A": "Metabolic Acidosis",
+      "B": "Respiratory Acidosis",
+      "C": "Metabolic Alkalosis",
+      "D": "Respiratory Alkalosis",
+      "E": "Mixed acid base"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "After RTA, 1.5 liters of blood is lost, there is decrease in GFR and urine output, which part of nephron will bring back GFR to normal?",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "Thin descending loop of henle",
+      "D": "Thick ascending loop of henle",
+      "E": "Collecting Ducts"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "A young patient blood pressure is 150/95 his serum renin is higher than normal which of the following for this increase level of renin is",
+    "options": {
+      "A": "Increase plasma osmolarity",
+      "B": "Increase sodium delivery to macula densa",
+      "C": "Renal artery Vasoconstriction",
+      "D": "Exercise",
+      "E": "Parasympathetic stimulation of renal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "30 years old woman is given 0.1g insulin. One hr later the plasma insulin concentration is 1mg/100ml. Which of the following is the extracellular fluid in liters?",
+    "options": {
+      "A": "10",
+      "B": "02",
+      "C": "12",
+      "D": "14",
+      "E": "16"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "Calculate the GFR when Glomerular Hydrostatic pressure is 60mmhg, Bowman space Hydrostatic pressure is 12mmhg & Capillary oncotic pressure is 30mmhg.",
+    "options": {
+      "A": "18",
+      "B": "84",
+      "C": "92",
+      "D": "112",
+      "E": "48"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "Negatively charged particles are prevented from entering renal basement membrane. Which of the following component is responsible for prevention of negative compounds?",
+    "options": {
+      "A": "Proteoglycan",
+      "B": "Laminin",
+      "C": "Densely packed cells",
+      "D": "Lamin of lamina interna",
+      "E": "Fibronectin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "GBM repels the proteins due to negative charge due to which of the following?",
+    "options": {
+      "A": "Proteoglycan",
+      "B": "Collagen type 4",
+      "C": "Fibronectin",
+      "D": "Endothelium",
+      "E": "Laminin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "Respiratory acidosis occurs in",
+    "options": {
+      "A": "High altitude",
+      "B": "Drowning",
+      "C": "Aspirin toxicity",
+      "D": "Diarrhea",
+      "E": "Hyperaldosteronism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "If a patient has renal plasma flow 600 and Hct 0.40 calculate blood flow to kidney",
+    "options": {
+      "A": "1200 ml/min",
+      "B": "400 ml/min",
+      "C": "800 ml/min",
+      "D": "1200 ml/min",
+      "E": "1000 ml/min"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "18 years old girl diabetic presented to ER in semiconscious state. Her ABGs done which show a ph level of 7.0, BSR 300mg/dl HCO3 18.Which acid base disorder is this?",
+    "options": {
+      "A": "Mixed metabolic Acidosis",
+      "B": "Respiratory Acidosis",
+      "C": "Respiratory Alkalosis",
+      "D": "Metabolic Acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "PCT has a brush border that differentiates it from DCT. Which of the following makes the brush border?",
+    "options": {
+      "A": "Microvilli",
+      "B": "Cilia",
+      "C": "Stereovilli",
+      "D": "Lamina",
+      "E": "Flagella"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "A baby was born to a diabetic mother. Which of the following complications will the baby have?",
+    "options": {
+      "A": "Hypoinsulinemia",
+      "B": "Hypocalcemia",
+      "C": "Low birth weight",
+      "D": "Hyperglycemia",
+      "E": "Respiratory distress syndrome"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "Creatinine clearance related to",
+    "options": {
+      "A": "GFR/Filtration fraction",
+      "B": "GFR - Filtration fraction",
+      "C": "Blood flow /Body weight",
+      "D": "Filtration fraction - Body weight"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "Identify the Acid base imbalance: Ph: 7.4, PCO2: 31mmHg, HCO3: 22mEq/L",
+    "options": {
+      "A": "Mixed renal and metabolic disorder",
+      "B": "Metabolic acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Respiratory alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "Increase potassium in urine is due to",
+    "options": {
+      "A": "Decrease K secretion in DCT",
+      "B": "Increase K secretion in DCT",
+      "C": "Increase tubular absorption of K",
+      "D": "Increase intestinal absorption of K"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "Renal plasma flow is measured by which of the following?",
+    "options": {
+      "A": "Inulin clearance",
+      "B": "Hippurate",
+      "C": "Creatinine clearance",
+      "D": "Antipyrene",
+      "E": "Sulfate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "A patient with PH 7.55, PCO2 30 , HCO3 21 disorder is?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "After RTA due to haemorrhage a person with 2 liter blood loss, the blood volume restored back by:",
+    "options": {
+      "A": "PCT",
+      "B": "DCT",
+      "C": "CD",
+      "D": "Loop",
+      "E": "CCD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "Sodium absorption from collecting duct via:",
+    "options": {
+      "A": "Activation of RAAS",
+      "B": "Aldosterone",
+      "C": "ADH",
+      "D": "Angiotensin 2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "A Patient has Ph 7.2; HCO3: 16. PCO2 36. Acid base disorder will be:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "A patient ABGs reveals PH 7.54, PCO2 40 and HCO3 29 what is acid base disorder?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Compensatory Respiratory Acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Uncompensated Metabolic alkalosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "A patient of asthma having following ABGs PH 7.23, HCO3 26 and Hypercapnea likely acid base disorder is:",
+    "options": {
+      "A": "Uncompensated metabolic acidosis",
+      "B": "Compensated metabolic acidosis",
+      "C": "Respiratory alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "A patient presented with urine output of 1.4 litre , plasma flow 144mg/100ml. Urine flow 140mg/100ml Calculate creatinine clearance",
+    "options": {
+      "A": "0.06",
+      "B": "168",
+      "C": "1",
+      "D": "1.63"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "Aldosterone exerts its maximum effect on which of the following site?",
+    "options": {
+      "A": "PCT",
+      "B": "LOH",
+      "C": "DCT",
+      "D": "CT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "1 L normal saline given to patient what will be affect on urine",
+    "options": {
+      "A": "Increase & Dilute Urine",
+      "B": "Decrease & Concentrated Urine",
+      "C": "Decrease urine Formation",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "Fluid not isotonic with plasma",
+    "options": {
+      "A": "Normal saline",
+      "B": "5% dextrose",
+      "C": "1.2% sodium bicarbonate",
+      "D": "Hartman's solution"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "3rd space fluid loss, fluid of choice is:",
+    "options": {
+      "A": "Blood and plasma",
+      "B": "10%dextrose",
+      "C": "Ringers lactate",
+      "D": "Normal saline"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "Dehydration decreases the levels of which of the following?",
+    "options": {
+      "A": "Atrial Natriuretic Peptide",
+      "B": "Angiotensin II",
+      "C": "Aldosterone",
+      "D": "Water",
+      "E": "Concentration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "Spironolactone effect on excretion in urine:",
+    "options": {
+      "A": "Increase Na, decrease K",
+      "B": "Increase Na, no effect on K",
+      "C": "Decrease Na, Increase K",
+      "D": "Increase Na, Increase K"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Arteries coursing around the base of renal pyramids:",
+    "options": {
+      "A": "Arcuate artery",
+      "B": "Interlobar",
+      "C": "Interlobular",
+      "D": "cortical radiate",
+      "E": "Medullary artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "A patient having solute osmolarity 520mg/dl and urine osmolarity 1140mg/dl what is the minimum volume of urine(in liters)required to effectively remove metabolic waste products from the body?",
+    "options": {
+      "A": "4 liters",
+      "B": "1 liters",
+      "C": "6 liters",
+      "D": "2 liters",
+      "E": "0.5 liters"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "A patient has Ph = 7.32, PCO2 = 50, HCO3 = 24, increased anion gap:",
+    "options": {
+      "A": "Partially compensated respiratory acidosis",
+      "B": "Partially compensated metabolic acidosis",
+      "C": "Respiratory acidosis",
+      "D": "Metabolic acidosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 386,
+    "question_text": "Patient with ph =7.12 , PCO2 60 and HCO3 19 cause is:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated respiratory acidosis",
+      "D": "Mixed metabolic acidosis and Respiratory acidosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 387,
+    "question_text": "A person with water deprivation which harmone will increase",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "Cortisol",
+      "D": "Thyroxin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 388,
+    "question_text": "Dehydration will lead to Decreased Plasma Level of:",
+    "options": {
+      "A": "ANP",
+      "B": "Vasopressin",
+      "C": "Angiotensin 2",
+      "D": "Water",
+      "E": "Aldosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 389,
+    "question_text": "Sodium reabsorption is a function of:",
+    "options": {
+      "A": "ANP",
+      "B": "Aldosterone",
+      "C": "Cortisol",
+      "D": "ADH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 390,
+    "question_text": "What is the primary physiological change associated after alcohol consumption:",
+    "options": {
+      "A": "↑ ANP",
+      "B": "↑ Urine specific gravity",
+      "C": "↓ ECF osmolarity",
+      "D": "↓ Urine specific gravity",
+      "E": "Increased ECF Osmolarity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 391,
+    "question_text": "Calculate GFR when glomerular hydrostatic pressure = 60 mmHg, Bowman's capsule hydrostatic pressure = 12 mmHg, and capillary oncotic pressure = 32 mmHg. Identify the acid-base abnormality:",
+    "options": {
+      "A": "18",
+      "B": "48",
+      "C": "112",
+      "D": "92",
+      "E": "84"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 392,
+    "question_text": "A patient presents with shortness of breath (SOB) and cough. Arterial Blood Gas (ABG) results are: pO2: 70 mmHg ,pH: 7.35 HCO3 : 16 mmol/L and pCO2: 60 mmHg. Identify the acid-base abnormality:",
+    "options": {
+      "A": "Compensated Metabolic Acidosis",
+      "B": "Metabolic Alkalosis",
+      "C": "Respiratory Acidosis",
+      "D": "Uncompensated Metabolic Acidosis",
+      "E": "Partial Respiratory Alkalosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 393,
+    "question_text": "A man was taken to the high altitude where after 10 days patient ABG's sample taken which of the condition ABG's show:?",
+    "options": {
+      "A": "Respiratory Alkalosis",
+      "B": "Metabolic Acidosis",
+      "C": "Respiratory Acidosis",
+      "D": "Metabolic Alkalosis",
+      "E": "Compensated Metabolic Acidosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 394,
+    "question_text": "Calculate \"Filtration rate\" with the given values:\nCapillary hydrostatic pressure 25\nInterstitial hydrostatic pressure was in -5\nPlasma oncotic pressure 25\nVenous oncotic pressure 5\nInterstitial oncotic pressure 30\nFiltration co efficient 15",
+    "options": {
+      "A": "110",
+      "B": "150",
+      "C": "100",
+      "D": "500",
+      "E": "80"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 395,
+    "question_text": "Angiotensin II effect:\nIncrease renal blood flow\nIncrease afferent arteriole compliance\nIncrease efferent arteriole compliance\nIncreased Na absorption in PCT\nIncreased Na absorption in DCT",
+    "options": {
+      "A": "Increase renal blood flow",
+      "B": "Increase afferent arteriole compliance",
+      "C": "Increase efferent arteriole compliance",
+      "D": "Increased Na absorption in PCT",
+      "E": "Increased Na absorption in DCT"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 396,
+    "question_text": "Athlete ran a marathon at 90F.He drank distilled Water. After sweating. What happened at the end of race?",
+    "options": {
+      "A": "Decreased ECF osmolarity",
+      "B": "Decreased ICF volume",
+      "C": "Increased total body water(TBW)",
+      "D": "Decrease ECF volume",
+      "E": "Increased ICF Osmolarity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 397,
+    "question_text": "Urine flow rate 1ml/min lowest osmolarity in which part?",
+    "options": {
+      "A": "Beginning of PCT",
+      "B": "DCT",
+      "C": "End of cortical collecting tubule",
+      "D": "End of cortical papillary collecting duct",
+      "E": "Tip of loop of Henley"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 398,
+    "question_text": "A man is a plumber he is having difficulty in breathing from last 1 year he is also short of breath and dyspenic his blood ABGS show PH7.4 HCO3 19 and PCO2 31 he has most likely",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated metabolic alkalosis",
+      "D": "Compensated metabolic acidosis",
+      "E": "Mixed metabolic acidosis and alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 399,
+    "question_text": "A patient has following ABGS PH of 7.2, HCO3 levels of 19 and PCO2 of 39 what is likely diagnose is?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Normal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 400,
+    "question_text": "A young patient presents following an accident with no external injuries. The patient is observed to have rapid breathing (tachypnea). Laboratory findings reveal:pCO2: 20 mmHg; HCO3- (bicarbonate): -20 mEq/L; pH: 7.6.What is the most likely acid-base disturbance in this patient?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic alkalosis"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 401,
+    "question_text": "A patient present in semiconscious condition with BSR (blood sugar random) 450, PH=7.2 HCO3=18, and PCO2= 40 which is the following is the cause of her condition?",
+    "options": {
+      "A": "Retention of Ketone bodies",
+      "B": "High BSR",
+      "C": "Hypoglycemia",
+      "D": "Alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 402,
+    "question_text": "A patient present in emergency department with hypovolemic shock which of the following which conserve the water and Na loss?",
+    "options": {
+      "A": "Aldosterone",
+      "B": "ADH",
+      "C": "Angiotensin 2",
+      "D": "Angiotensin 1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 403,
+    "question_text": "Which renal function is most important for maintaining urine volume?",
+    "options": {
+      "A": "Increase renin secretion",
+      "B": "Increase medullary blood flow",
+      "C": "Decrease filtration fraction",
+      "D": "Increase GFR"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 404,
+    "question_text": "A patient with COPD presents with following ABGs PH 7.23, HCO3 30, PCO2 60 and likely acid base disorder is:",
+    "options": {
+      "A": "Acute respiratory acidosis with compensated HCO3",
+      "B": "Acute respiratory acidosis with uncompensated renal HCO3",
+      "C": "Acute respiratory alkalosis with uncompensated HCO3",
+      "D": "Metabolic alkalosis",
+      "E": "Metabolic acidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 405,
+    "question_text": "1L N/S was transfused to the normal person what will be change occur:",
+    "options": {
+      "A": "Increase serum osmolarity",
+      "B": "Increase urine osmolarity",
+      "C": "Increase urine flow",
+      "D": "Decrease urine osmolarity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 406,
+    "question_text": "2L N/S was transfused to dehydrated person what will be changed occur:",
+    "options": {
+      "A": "Increase serum osmolarity",
+      "B": "Decrease serum osmolarity",
+      "C": "Increase urine osmolarity",
+      "D": "Increase urinary sodium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 407,
+    "question_text": "Difference between PCT and DCT epithelium:",
+    "options": {
+      "A": "PCT forms juxtaglomerular apparatus",
+      "B": "PCT has thicker basement membrane",
+      "C": "DCT has thicker BM",
+      "D": "PCT has more brush border"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 408,
+    "question_text": "50 year old woman with normal anion gap acidosis, cause:",
+    "options": {
+      "A": "Diabetic Ketoacidosis",
+      "B": "Chronic Renal Failure",
+      "C": "Psychoneurosis",
+      "D": "Excessive Use of HCO3- Inhibitors",
+      "E": "Diarrhea"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 409,
+    "question_text": "Normal Creatinine Clearance/Min:",
+    "options": {
+      "A": "100-120ml/min",
+      "B": "1-1.5ml/min",
+      "C": "<50ml/min",
+      "D": "<15ml/min"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 410,
+    "question_text": "Interpret the ABGS with the given values: ph: 7.2, pCo2:60mmHg, HCO3-: 35mmol/l",
+    "options": {
+      "A": "Acute respiratory acidosis",
+      "B": "Chronic respiratory alkalosis",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 411,
+    "question_text": "Normal Creatinine Clearance/Min:",
+    "options": {
+      "A": "100-120ml/min",
+      "B": "1-1.5ml/min",
+      "C": "<50ml/min",
+      "D": "<15ml/min"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "Calculate Anion Gap with the following values: Na=135mEq/L, Cl=5, HCO3=100 pH=7.2",
+    "options": {
+      "A": "30",
+      "B": "10",
+      "C": "15",
+      "D": "30"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "A cross section showed renal cortices with injured glomeruli. Which is the blood supply of these?",
+    "options": {
+      "A": "Interlobular",
+      "B": "Interlobar",
+      "C": "Segmental",
+      "D": "Arcuate",
+      "E": "Vasa Recta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 413,
+    "question_text": "Highest ratio at Distal as compared to proximal in PCT of:",
+    "options": {
+      "A": "Creatinine",
+      "B": "Sodium",
+      "C": "Glucose",
+      "D": "Bicarbonate",
+      "E": "Phosphate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 414,
+    "question_text": "A patient with PH 7.67, PCO2 20 , HCO3 20 disorder is?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 415,
+    "question_text": "Hyperkalemia associated with which of the following renal mechanism?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Increase H+ excretion",
+      "D": "Increase HCO3 excretion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 416,
+    "question_text": "Effect of Angiotensin II:",
+    "options": {
+      "A": "Vasodilation",
+      "B": "Constriction of afferent arterioles of glomerulus",
+      "C": "Constriction of venules of systemic circulation",
+      "D": "Renin Release",
+      "E": "Stimulation of Thirst"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 417,
+    "question_text": "Structure of renal cortex projecting in medulla called:",
+    "options": {
+      "A": "Medullary cortex",
+      "B": "Renal column's",
+      "C": "Vasa recta",
+      "D": "Papilla"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 418,
+    "question_text": "Metabolic disorder in excessive vomiting is due to:",
+    "options": {
+      "A": "Increase HCO3 levels",
+      "B": "Decrease HCO3 level",
+      "C": "Increase CO2 levels",
+      "D": "Decrease CO2 levels"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 419,
+    "question_text": "Which of the following acid base balance will be present in vomiting?",
+    "options": {
+      "A": "Metabolic Acidosis",
+      "B": "Respiratory Acidosis",
+      "C": "Metabolic Alkalosis",
+      "D": "Respiratory Alkalosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 420,
+    "question_text": "Which of the following is side effect of loop diuretic?",
+    "options": {
+      "A": "Hypoglycemia",
+      "B": "Hypercalcemia",
+      "C": "Hyperkelemia",
+      "D": "Metabolic alkalosis",
+      "E": "Metabolic acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 421,
+    "question_text": "Which of the following determine the total resistance to GFR?",
+    "options": {
+      "A": "Afferent arteriole",
+      "B": "Efferent arteriole",
+      "C": "Vasa recta",
+      "D": "Peritubular capillaries"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 422,
+    "question_text": "A patient who experienced dehydration was infused with 1000 mL of normal saline (0.9% NaCl). What is the most likely physiological change?",
+    "options": {
+      "A": "Increase in extracellular fluid (ECF) sodium concentration",
+      "B": "Increase in intracellular fluid (ICF) volume",
+      "C": "Increase in urine osmolarity",
+      "D": "Increase in intracellular fluid (ICF) osmolarity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 423,
+    "question_text": "Which of the following is a key characteristic of proteoglycans in the glomerular basement membrane?",
+    "options": {
+      "A": "No charges",
+      "B": "Negative charges",
+      "C": "Neutral charges",
+      "D": "Positive charges"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 424,
+    "question_text": "A boy faints during football practice after drinking a large amount of water. Which physiological change likely led to his collapse?",
+    "options": {
+      "A": "Increase in blood osmolality",
+      "B": "Decrease in intracellular fluid (ICF) tonicity",
+      "C": "Decrease in extracellular fluid (ECF) tonicity",
+      "D": "Decrease in plasma volume",
+      "E": "Decrease in ICF volume"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 425,
+    "question_text": "Hyperchloremic metabolic acidosis caused by:",
+    "options": {
+      "A": "Acetazolamide",
+      "B": "Furosemide",
+      "C": "Thiazide diuretic",
+      "D": "Spironolactone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 426,
+    "question_text": "Which of the following can lead to decreased secretion of concentrated urine?",
+    "options": {
+      "A": "Back leak of water into the tubule lumen",
+      "B": "Increased pressure in the Bowman's capsule",
+      "C": "Decreased blood pressure in the glomerulus",
+      "D": "Increased sodium and water reabsorption"
+    },
+    "correct_answer": "A"
+  }
+]

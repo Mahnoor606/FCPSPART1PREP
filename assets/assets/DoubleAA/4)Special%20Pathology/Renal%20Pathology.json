@@ -1,0 +1,2246 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "The association of IgA nephropathy is with which kind of deposits?",
+    "options": {
+      "A": "Sub epithelial deposits",
+      "B": "Sub endothelial deposits",
+      "C": "Linear sub endothelial deposits",
+      "D": "Dome and spike sub epithelial deposits",
+      "E": "Mesangial deposits"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Most common nephritic syndrome in adult",
+    "options": {
+      "A": "PSGN",
+      "B": "IgA nephropathy",
+      "C": "Minimal change disease",
+      "D": "Membranous glomerulonephritis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Most common nephrotic syndrome in infants",
+    "options": {
+      "A": "PSGN",
+      "B": "IgA nephropathy",
+      "C": "Minimal change disease",
+      "D": "Membranous glomerulonephritis",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Which one is nephritic syndrome?",
+    "options": {
+      "A": "Amyloidosis",
+      "B": "IgA nephropathy",
+      "C": "Diffuse proliferative glomerulonephritis",
+      "D": "Membranous proliferative glomerulonephritis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "RBC casts seen in:",
+    "options": {
+      "A": "Glomerulonephritis",
+      "B": "Acute tubular necrosis",
+      "C": "UTI",
+      "D": "ATN",
+      "E": "Acute Pyelonephritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "An 11 year old boy faced abdominal trauma and then presented to emergency. On labs there was 1+ blood and 3+ protein in urine. What is the pattern of inheritance?",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked dominant",
+      "D": "X linked recessive",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "46 years male presented withnephrotic synd Immunofluorescence microscope of renal biopsy showed Sclerosis with deposition of IgM and C3. What is most likely diagnosis?",
+    "options": {
+      "A": "Focal segmental glomerulosclerosis",
+      "B": "Minimal change nephropathy",
+      "C": "IgA nephropathy",
+      "D": "PSGN",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Adult polycystic kidney disease mode of transmission is",
+    "options": {
+      "A": "X linked dominant",
+      "B": "X linked Recessive",
+      "C": "Autosomal dominant",
+      "D": "Autosomal recessive",
+      "E": "Multifactorial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A middle age known ESRD list for hemodialysis multiple transfusion done Normocytic normochromic anemia Which is more appropriate therapy",
+    "options": {
+      "A": "S/C erythropoietin",
+      "B": "S/C GCSF",
+      "C": "Iron supplements",
+      "D": "Inj Vitamin B 12 IM",
+      "E": "Inj Folate IV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A 70 years old with recurrent UTI most likely due to:",
+    "options": {
+      "A": "Outflow obstruction",
+      "B": "Calculi",
+      "C": "Pyelonephritis",
+      "D": "Renal Failure",
+      "E": "Cystitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "A Boy with H/O pharyngitis having Raised ASO high amount proteinuria mechanism of disease :",
+    "options": {
+      "A": "Antigen antibody complex in different tissue",
+      "B": "Antibody in tissue",
+      "C": "Cells in Tissue",
+      "D": "IgE mediated damage",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Renal tubular necrosis would result in which of the Following:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypernatremia",
+      "C": "Hypokalemia",
+      "D": "Increase urine volume",
+      "E": "Increase concentrated urine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "A child with generalized edema on urine examination proteinuria 2+there is GBM thickening what type of deposit will be seen?",
+    "options": {
+      "A": "IgM on GB Membrane",
+      "B": "Sub Endothelial",
+      "C": "Epithelial",
+      "D": "Sub Epithelial",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Patient presented with loin pain and mass in pelvis with hematuria Suspected carcinoma is?",
+    "options": {
+      "A": "RCC",
+      "B": "Squamous cell carcinoma of bladder",
+      "C": "Transitional cell carcinoma of bladder",
+      "D": "Liver CA",
+      "E": "Pancreatic CA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A lady on antihypertensive suddenly collapsed with serum potassium 6.7 and other signs is due to:",
+    "options": {
+      "A": "Acute Renal failure.",
+      "B": "Chronic renal failure",
+      "C": "Diuretic use",
+      "D": "ACE inhibitor",
+      "E": "CLD"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Patient presented with complaints of cough and hemoptysis kidney biopsy shows granular deposition of antigen antibody complexes with C1Q positive and GBM splitting noted. This is related to:",
+    "options": {
+      "A": "ANA positive",
+      "B": "Post streptococcal antibodies",
+      "C": "Anti glomerular antibodies",
+      "D": "Membranoproliferative GN",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Child is having proteinuria flank pain which protein deficient in this case?",
+    "options": {
+      "A": "Tryptophan",
+      "B": "Albumin",
+      "C": "Elastin",
+      "D": "Collagen",
+      "E": "Serotonin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "In uremic nephropathy, What type of anemia occurs?",
+    "options": {
+      "A": "Hypochromic Normocytic anemia",
+      "B": "Normochromic Normocytic anemia",
+      "C": "Micro chromic Normocytic anemia",
+      "D": "Megaloblastic anemia",
+      "E": "Hemolytic anemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A man presented with fever, rigors &and Pus in urine which is treated for 2 weeks is most likely suffering from:",
+    "options": {
+      "A": "Chronic Pyelonephritis",
+      "B": "Acute Pyelonephritis",
+      "C": "Appendicitis",
+      "D": "Adenitis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A 7 years old school going boy develops sore throat. He received antibiotic for it, which resolved it, following 2 weeks later, he developed generalized body edema, hypertension and hematuria type of hypersensitivity in this is:",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 4+2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Type 2 Diabetes patient has weakness and increase frequency of urine since 2 weeks. What is possible mechanism of polyuria?",
+    "options": {
+      "A": "Decrease water absorption from renal tubules",
+      "B": "Decrease sensitivity of ADH on Aquaporin",
+      "C": "Decreased glucose reabsorption from PCT",
+      "D": "Increased Sodium absorption in gut",
+      "E": "Decreased sodium delivery to gut"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Patient presented with complain of fatigue, cough with hemoptysis and hematuria for 2 days. Renal biopsy showed extra capillary glomerulonephritis with linear deposits of IgG along the GBM. What is the likely cause?",
+    "options": {
+      "A": "PSGN",
+      "B": "Focal segmental glomerulonephritis",
+      "C": "Good pasture syndrome",
+      "D": "Alport syndrome",
+      "E": "IgA nephropathy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Patient is passing dilute urine(athenuria), there is tubuloglomerular concentrating problem, what other factor you will see in this condition?",
+    "options": {
+      "A": "Fixed specific gravity of urine",
+      "B": "Low urinary sodium",
+      "C": "High Urinary sodium",
+      "D": "High Blood urea",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A patient has severe hypovolumia which kidney changes will be prominent?",
+    "options": {
+      "A": "Renal tubular acidosis",
+      "B": "Acute tubular necrosis",
+      "C": "Acedemia",
+      "D": "Hypertension",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Which of the following tumor is of embryonic origin in infancy?",
+    "options": {
+      "A": "Nephroblastoma",
+      "B": "Neuroblastoma",
+      "C": "Wilms tumor",
+      "D": "Warthin tumor",
+      "E": "Ewing sarcoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Crescents are mainly formed by:",
+    "options": {
+      "A": "Epithelial cells",
+      "B": "Mesengeil cell",
+      "C": "Parietal cell with increase Neutrophils",
+      "D": "Macrophages",
+      "E": "Lymphocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "A male patient presented withhistory of fever, significant weightloss, pain and micturition, hematuria and having raised creatinine and hematocrit. He is having cancer of which ofthe following organ?",
+    "options": {
+      "A": "Kidney",
+      "B": "Thyroid",
+      "C": "Stomach",
+      "D": "Breast",
+      "E": "Lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Patient with history of multiple myeloma presented with polyuria, Polydipsia & He now has hypercalcemiaand confusion.Urine osmolality is 310mosm/L, what is the reason of polyuria?",
+    "options": {
+      "A": "Renal tubules do not respond to ADH",
+      "B": "Decrease ADH formation",
+      "C": "Psychogenic polydipsia",
+      "D": "Increase Aldosterone",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "A young boy after strenuous exercisey felt pain in lumbar region. History of stone what is Suitable investigation to reach diagnose?",
+    "options": {
+      "A": "Ultrasound KUB + CT KUB",
+      "B": "X-ray KUB",
+      "C": "Ultrasound KUB + X-ray KUB",
+      "D": "Ultrasound KUB + Urethrogram + X-ray KUB",
+      "E": "Ulteasound Abdomen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Sympathetic nerve block to urinary bladder will cause which of the following?",
+    "options": {
+      "A": "Unable to empty bladder",
+      "B": "Decrease tone of external bladder sphincter",
+      "C": "Increase tone of internal bladder sphincter",
+      "D": "Pain and filling sensation loss",
+      "E": "Detrusor contraction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Obstruction of ureteric stone most common:",
+    "options": {
+      "A": "Near the kidney",
+      "B": "Superior to ischial spine",
+      "C": "At the level of pelvic brim bounded by external iliac vessel",
+      "D": "Above kidney",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "A 40 year old man come in Er with complain of body weakness and oliguria he give history of taking some drug for weight gain from general quack urine detailed report urine specific gravity is 1.010 urea creatinine is raised ALT (slightly raised ) urine calcium is raised the likely diagnosis is:",
+    "options": {
+      "A": "Nephrocalcinosis",
+      "B": "RCC",
+      "C": "Acute glomerulonephritis",
+      "D": "Icteric form of hepatitis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Edema in nephrotic syndrome is due to:",
+    "options": {
+      "A": "Salt and water retention",
+      "B": "Hypoalbuminemia",
+      "C": "Increase hydrostatic pressure",
+      "D": "Increase oncotic pressure",
+      "E": "Portal HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Patient went through cystoscopy due to hematuria. Later developed fever and hypotension cause of hypotension:",
+    "options": {
+      "A": "Hematuria",
+      "B": "Sepsis",
+      "C": "DIC",
+      "D": "Bladder CA",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Hypokalemic metabolic alkalosis leading to volume expansion is seen in:",
+    "options": {
+      "A": "Conn syndrome",
+      "B": "ACTH secreting tumor",
+      "C": "Primary adrenal insufficiency",
+      "D": "None",
+      "E": "All"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "BUN/Cr ratio greater than 20 cause will be:",
+    "options": {
+      "A": "Post Renal Azotemia",
+      "B": "Pre renal azotemia",
+      "C": "ATN",
+      "D": "CKD",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Low calcium high phosphate no increase in CAMP on giving PTH likely due to:",
+    "options": {
+      "A": "ARF",
+      "B": "CRF",
+      "C": "Vit. D deficiency",
+      "D": "Vit. D Excess",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "IgA Nephropathy deposits are:",
+    "options": {
+      "A": "Subendothelial",
+      "B": "Subepithelial",
+      "C": "Mesangial",
+      "D": "Linear",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Patient met an accident and was brought to emergency department. BP 80/40, Tachycardia, Low urinary output after catheterization. Renin was increased due to?",
+    "options": {
+      "A": "Decrease in arterial blood flow",
+      "B": "Decrease in arterial blood pressure",
+      "C": "Increase arterial blood flow",
+      "D": "Increase arterial blood pressure",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "In nephrotic syndrome edema is due to:",
+    "options": {
+      "A": "Increase hydrostatic pressure",
+      "B": "Decrease oncotic pressure",
+      "C": "Salt retention",
+      "D": "Water retention",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Decision between dialysis and transplant is by:",
+    "options": {
+      "A": "Urea level",
+      "B": "Ammonia level",
+      "C": "Creatinine clearance",
+      "D": "Potassium level",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "On electron microscopy, PSGN shows:",
+    "options": {
+      "A": "Subendothelial deposits",
+      "B": "Sub epithelial deposits",
+      "C": "Tramtrack appearance",
+      "D": "Spike and dome appearance",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "On immunofluorescence, IgA nephropathy shows:",
+    "options": {
+      "A": "Increased mesangial deposition",
+      "B": "Effacement of podocytes",
+      "C": "Sclerosis of glomerular capillaries",
+      "D": "Increased deposition in GBM",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "5years old girl is brought to the physician because of facial swellings, puffy eyes and swollen legs, she had history of mild cellulitis after a mosquito bites 3 weeks ago, and her urine sample shows a reddish brown hue and contains both RBCs and proteins. Which of the following will most likely see on renal biopsy?",
+    "options": {
+      "A": "Fusion of podocytes foot process",
+      "B": "Hyperplastic arteriolitis",
+      "C": "IgA in the mesangium",
+      "D": "Linear IgG deposits",
+      "E": "Sub epithelial electron dense hump"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Selective proteinuria occurs in :",
+    "options": {
+      "A": "Nephritic syndrome",
+      "B": "Acute MPGN",
+      "C": "Membranous GN",
+      "D": "Minimal Change Disease",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "In cresenteric glomerulonephritis antibody complex deposition on GBM which type of hypersensitivity?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Carcinoma that is associated with increase hemoglobin:",
+    "options": {
+      "A": "Colonic carcinoma",
+      "B": "Gastric carcinoma",
+      "C": "Renal cell carcinoma",
+      "D": "Squamous cell carcinoma",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Man with History of being not well for long time Hb was 17 and on ultrasound there is 3 or 6cm spherical mass found on lower pole of kidney diagnose is:",
+    "options": {
+      "A": "Renal Adenoma",
+      "B": "Renal Carcinoma",
+      "C": "Gastric Carcinoma",
+      "D": "Liver Adenoma",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "CKD with low calcium cause is:",
+    "options": {
+      "A": "Decrease Phosphate",
+      "B": "Decrease 1, 25 Dihydroxycholicalciferol",
+      "C": "Decrease Excretion",
+      "D": "Decrease PTH",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "A patient has fever of 40 c with flank pain increase frequency chills and rigors. Diagnosis is done by:",
+    "options": {
+      "A": "Blood culture",
+      "B": "Urine culture",
+      "C": "Blood and urine culture",
+      "D": "X-ray Kub",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Fanconi syndrome a rare genetic disorder. The child will present with:",
+    "options": {
+      "A": "Increase arginine level in blood",
+      "B": "Glycosuria",
+      "C": "Hyperkalaemia",
+      "D": "Hyperphosphataemia",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "59 years old patients known case of CRF presents with anemia due to:",
+    "options": {
+      "A": "Iron deficiency",
+      "B": "Erythropoietin deficiency",
+      "C": "Hematoma",
+      "D": "Defective erythropoiesis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Patient presented with periorbital edema and proteinuria and RBCs cast on urinalysis, the problem is in:",
+    "options": {
+      "A": "GBM",
+      "B": "PCT",
+      "C": "DCT",
+      "D": "Loop of Henley",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Benign tumor among the given is",
+    "options": {
+      "A": "Warthin tumor",
+      "B": "Ameloblastoma",
+      "C": "Erythroplakia",
+      "D": "Dysplastic nevus",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "A child x-rays showing unilateral hydronephrosis. What is the cause behind this?",
+    "options": {
+      "A": "Ureterovesical obstruction",
+      "B": "Posterior vesicle structure",
+      "C": "Pelvic ureteric junction obstruction",
+      "D": "Pelvic brim",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Which one raised significantly in end stage renal disease?",
+    "options": {
+      "A": "Calcium",
+      "B": "Creatinine",
+      "C": "Magnesium",
+      "D": "Chloride",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A day following hysterectomy, a patient complains of severe pain in the right upper lumbar region of the back. Which of the following structures was most likely damaged during the surgery?",
+    "options": {
+      "A": "Inferior mesenteric artery",
+      "B": "Internal iliac artery",
+      "C": "Psoas major muscle",
+      "D": "Pudendal nerve",
+      "E": "Ureter"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Which of the following is Paraneoplastic syndrome of Kidney?",
+    "options": {
+      "A": "Polycythemia",
+      "B": "Carcinoid Syndrome",
+      "C": "PrRP",
+      "D": "ADH",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A sample of blood was drawn from the vein of a patient of renal failure, which of the followings is estimated from this sample:",
+    "options": {
+      "A": "Creatinine",
+      "B": "PAH",
+      "C": "Nitrogen",
+      "D": "Inulin",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "A 60 years old male presented with history of fever, significant weight loss, painful micturition, hematuria and flank pain, his Hb is 18 what could be the possible pathology associated with his condition:",
+    "options": {
+      "A": "Renal cell carcinoma",
+      "B": "Rhabdomyosarcoma",
+      "C": "Angiomyolipoma",
+      "D": "Polycystic kidney disease",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "ASO-Titer is used as marker for:",
+    "options": {
+      "A": "PSGN",
+      "B": "Diabetic nephropathy",
+      "C": "Minimal change disease",
+      "D": "Proliferative disease",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Patient having hypokalemia, hypertension, with normal cortisol &VMA & raised aldosterone is most likely suffering from:",
+    "options": {
+      "A": "Cushing disease",
+      "B": "Cushing Syndrome",
+      "C": "Conn’s Syndrome",
+      "D": "Pheochromocytoma",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A known case of CRF, likely gland to enlarge:",
+    "options": {
+      "A": "Thyroid",
+      "B": "Parathyroid",
+      "C": "Adrenal gland",
+      "D": "Pituitary",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A patient with hematuria and RBC cast in urine. Structure involved:",
+    "options": {
+      "A": "JG Cells",
+      "B": "Glomerulus",
+      "C": "Bowmen’s capsule",
+      "D": "Epithelial cells",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Good pasture syndrome related to",
+    "options": {
+      "A": "Sub endothelial deposition",
+      "B": "Sub epithelial deposition",
+      "C": "Linear deposition",
+      "D": "IgG deposit",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A renal disease with continuous elevated levels of renin:",
+    "options": {
+      "A": "Child polycystic kidney disease",
+      "B": "Adult polycystic kidney disease",
+      "C": "Focal segmental glomerulonephritis",
+      "D": "Goodpasture syndrome",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "The renal problem associated with SLE:",
+    "options": {
+      "A": "IgA Nephropathy",
+      "B": "MCD",
+      "C": "PSGN",
+      "D": "Lupus Nephritis",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "True regarding kindey:",
+    "options": {
+      "A": "Cuboidal epithelium in parietal layer of bowman’s capsule",
+      "B": "Podocytes in visceral layer of bowman's capsule",
+      "C": "Slit like space between macula and JG apparatus",
+      "D": "DCT is longer than PCT",
+      "E": "Glomerulus has one artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "An old age diabetic lady with CRF is on dialysis. Her X-ray Lower limb, femur head shows loss of trabecular bone Which hormone is responsible for these X-ray findings:",
+    "options": {
+      "A": "PTH",
+      "B": "Cortisol",
+      "C": "Calcitonin",
+      "D": "Thyroxine",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "20 years old patient presented with increase urea, creatinine & increase K level:",
+    "options": {
+      "A": "AKI",
+      "B": "RTA",
+      "C": "DKA",
+      "D": "HONK",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "An old lady presented in medical emergency in unconscious state. Her Bp 180/90 Temp 39 Pulse 90.Labs are Glucose 350mg/dl Na 130, K 3.5, Urea is 10. Diagnosis?",
+    "options": {
+      "A": "Chronic Renal Failure",
+      "B": "RTA",
+      "C": "Diabetic Keto acidosis",
+      "D": "Honk",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "In post streptococcal glomerulonephritis finding is:",
+    "options": {
+      "A": "Linear depositions",
+      "B": "Mesangial proliferation",
+      "C": "Sub epithelial deposits",
+      "D": "Alveolar damage",
+      "E": "Sub Endothelial Deposits"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "24, 25 dihydroxycholecalciferol increase in:",
+    "options": {
+      "A": "Chronic Renal failure",
+      "B": "Hyper parathyroidism",
+      "C": "Hyperthyroidism",
+      "D": "Prolactinoma",
+      "E": "Paget’s Disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Hypercalcemia and renal failure. Cause?",
+    "options": {
+      "A": "PTH adenoma",
+      "B": "Sarcoidosis",
+      "C": "Hypervitaminosis D",
+      "D": "Metastatic",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "A patient with epistasis, hematuria, saddle nose & granulomatous inflammation diagnose is",
+    "options": {
+      "A": "Churg strauss syndrome",
+      "B": "Wegner granulomatosis",
+      "C": "Goodpasture",
+      "D": "HIV",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Young patient developed ARF after PPH which part of kidney is most likely damaged?",
+    "options": {
+      "A": "PCT",
+      "B": "Loop of Henle",
+      "C": "Collecting tubules",
+      "D": "DCT",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Patient with renal artery stenosis may present with very high blood pressure due to increased renin secretion. Which of the following structure in kidney is responsible for sensing inadequate perfusion and secreting renin?",
+    "options": {
+      "A": "Afferent Arterioles",
+      "B": "Collecting duct",
+      "C": "Juxtaglomerular cells",
+      "D": "Efferent Arterioles",
+      "E": "Arcuate artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Edema due to renal cause can be due to:",
+    "options": {
+      "A": "Albuminuria",
+      "B": "Glomerulonephropathies",
+      "C": "Na retention",
+      "D": "Na retention and albuminuria",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Retic count decrease in:",
+    "options": {
+      "A": "Chronic renal disease",
+      "B": "Hereditary spherocytosis",
+      "C": "Bleeding from gut",
+      "D": "Polycystic kidney disease",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Child with generalized edema and proteinuria 6g per day. Which part of the kidney involved?",
+    "options": {
+      "A": "Interstitium",
+      "B": "Basement membrane",
+      "C": "Collecting tubules",
+      "D": "Proximal convoluted tubules",
+      "E": "Distal tubules"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Proteins normally don't leak out in tubular fluid due to:",
+    "options": {
+      "A": "Endothelium is fenestrated",
+      "B": "Basement membrane is thick",
+      "C": "Basement membrane is negatively charged",
+      "D": "Basement membrane is positive charged",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Rectal biopsy was done. How to diagnose ameba infection:",
+    "options": {
+      "A": "Electron microscopy",
+      "B": "Antibodies",
+      "C": "PAS",
+      "D": "DERA",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Type 2 Renal tubular acidosis is due to:",
+    "options": {
+      "A": "Failure to excrete Hydrogen",
+      "B": "Defect in HCO3 reabsorption",
+      "C": "Dec NH4 Secretion",
+      "D": "H secretion",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "There is increased risk of carcinoma of bladdar exposure to:",
+    "options": {
+      "A": "Ultraviolet radiation",
+      "B": "Aryl Amines",
+      "C": "Hydrocarbons",
+      "D": "Arsenic",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Focal segmental Glomerulosclerosis:",
+    "options": {
+      "A": "Subepithelial Humps",
+      "B": "Subendothelial Humps",
+      "C": "Massive proteinuria",
+      "D": "Wbc casts in urine",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Long standing HT.Now shortness of breath, edema is due to:",
+    "options": {
+      "A": "Increase oncotic pressure",
+      "B": "Decrease hydrostatic pressure",
+      "C": "Increased hydrostatic pressure",
+      "D": "None",
+      "E": "All"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "An i/v urograph of 8 year old boy shows normal kidney on right side but absence of shadow on left side instead the shadow appear above the bladder on left side which of the following is the condition:",
+    "options": {
+      "A": "Left pelvic kidney",
+      "B": "Unilateral renal agenesis",
+      "C": "Constricted ectopic kidney",
+      "D": "Non rotation kidney",
+      "E": "Horse shoe kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "IgA nephropathy is associated with?",
+    "options": {
+      "A": "Berger disease",
+      "B": "Minimal change disease",
+      "C": "Post streptococcus",
+      "D": "Wegner's granulomatosis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Calcium stones formation may be prevented by cohate through which process?",
+    "options": {
+      "A": "Complex formation",
+      "B": "Precipitation",
+      "C": "Diffusion",
+      "D": "Osmosis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A lady with CRF patient, sample taken which was placed in refrigerator over night, next day, normal sodium, raised K(6.3) Raised PO4 and LDH(600) what is the cause?",
+    "options": {
+      "A": "Endstage renal failure",
+      "B": "Hemolysis of Blood sample",
+      "C": "Hemolysis of Tissue",
+      "D": "Renal CA",
+      "E": "Drug Intoxication"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A 35 year female having malar rash and positive anti ds dna now develops proteinuria & hematuria the most likely cause will be",
+    "options": {
+      "A": "Nephrotic syndrome",
+      "B": "Amyloidosis",
+      "C": "Cystitis",
+      "D": "Glomerulonephritis",
+      "E": "Lupus nephritis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "An old patient presented withfatigue weakness and dyspnea withlabs showing decreased calciumlevel, increased phosphate level,raised creatinine and increased PTH is a case of:",
+    "options": {
+      "A": "Acute renal failure",
+      "B": "Renal tubular acidosis",
+      "C": "ESRD",
+      "D": "RCC",
+      "E": "HCC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A man is a plumber he is having difficulty in breathing from last 1 year he is also short of breath and dyspneic his blood ABGS show PH7.4 HCO3 19 and PCO2 31 he has most likely",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated metabolic alkalis",
+      "D": "Compensated metabolic acidosis",
+      "E": "Mixed metabolic acidosis and alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A patient presented with severe diarrhea and vomiting , he ABGS are PH 7.23 HCO 16 and PCO2 36 he is having",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated metabolic alkalis",
+      "D": "Compensated metabolic acidosis",
+      "E": "Respiratory alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A patient came to you with hematuria what is the level of injury",
+    "options": {
+      "A": "Tubule",
+      "B": "CD",
+      "C": "Glomeruli",
+      "D": "DCT",
+      "E": "PCT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A patient has following ABGS ph of7.2, HCO3 levels of 19 and PCO2 of39 what is likely diagnose is?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Metabolic acidosis",
+      "E": "Normal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A 70 kg man has cholesterol level of200, creatinine 0.8, BUN 20,Proteinuria of 30mg/dL , glycosuria++, fasting blood glucose 88, andhypertension cause of thishypertension is:",
+    "options": {
+      "A": "Diabetic nephropathy",
+      "B": "Secondary hypertension",
+      "C": "Glomerulonephritis",
+      "D": "Pheochromocytoma",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Patient presented with history of head trauma his urine osmolarity was decreased &Plasma osmolarity increased also developed symptoms of polydipsia and polyuria and Positive CH2O clearance Likely cause would be",
+    "options": {
+      "A": "Central Diabetes insipidus",
+      "B": "Nephrogenic Diabetes insipidus",
+      "C": "Diabetes Mellitus",
+      "D": "SIADH",
+      "E": "Psychogenic Polydypsia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "ADH causes which effect:",
+    "options": {
+      "A": "Increase plasma osmolality",
+      "B": "Decrease urine osmolality",
+      "C": "Decrease plasma volume",
+      "D": "Increase urine osmolarity",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "3 weeks old child with h/o projectile vomiting since birth findings will be",
+    "options": {
+      "A": "Hypochloremic metabolic alkalosis",
+      "B": "Metabolic acidosis",
+      "C": "Hyperchloremic metabolic acidosis",
+      "D": "Respiratory acidosis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A patient of burn given Succinylcholine after which ECG shows Tall T wave due to",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypokalemia",
+      "C": "Hyperkalemia",
+      "D": "Hypochloremia",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Metabolic acidosis is due to",
+    "options": {
+      "A": "Increase Bicarbonate in blood",
+      "B": "Decrease Bicarbonate in blood",
+      "C": "Increase CO2 in blood",
+      "D": "Increase CO2 in alveoli",
+      "E": "Decrease CO2 in blood"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "ABG's of a patient advised report shows PH:7.3 HCO3 :15 PCO2:38 diagnosis?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Mixed acid base"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Known CCF Patient developed pedal edema and pleural effusion pleural tap done what will be findings of fluid suggestive of transudate ?",
+    "options": {
+      "A": "Cloudy appearance",
+      "B": "Low cell count",
+      "C": "High protein",
+      "D": "Fibrin",
+      "E": "Hemorrhagic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Female at gestational age 34 havingsymphysis-fundal height of 28 weeks.Cause may",
+    "options": {
+      "A": "Anencephaly",
+      "B": "Esophageal atresia",
+      "C": "Renal agenesis",
+      "D": "Tracheo esophageal fistula",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Patient present with Low serum calcium and ionic calcium, high serum phosphate, increased PTH, most likely suffering from",
+    "options": {
+      "A": "CRF",
+      "B": "Osteomalacia",
+      "C": "Hyperparathyroidism",
+      "D": "Bone metastases",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Horse shoe kidney associated with?",
+    "options": {
+      "A": "Renal failures",
+      "B": "Pelvi ureteric junction abnormality",
+      "C": "Polycystic KD",
+      "D": "Vesico ureteric Reflux",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "An I/V urograph of 8 year old child which one of the following is most likely condition?",
+    "options": {
+      "A": "Hoarse shoe kidney",
+      "B": "Constricted ectopic kidney",
+      "C": "Pelvis kidney",
+      "D": "Non rotating kidney",
+      "E": "Unilateral renal agenesis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Intra membranous electron dense deposits are most characteristic of:",
+    "options": {
+      "A": "Acute pyelonephritis",
+      "B": "DM",
+      "C": "Hepatitis B antigenemia",
+      "D": "Positive NVA test",
+      "E": "Post streptococcal nephritis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "In CKD which of the following occurs?",
+    "options": {
+      "A": "Anemia is of IDA type",
+      "B": "Plasma CO2 tend to be low",
+      "C": "Amount of ionized calcium in the bloodrises due to calcium retention",
+      "D": "Specific gravity of urine is high",
+      "E": "Water intake should be restricted upto0.5 L /day"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Usual route of spread of renal cell carcinoma is through:",
+    "options": {
+      "A": "Direct infiltration",
+      "B": "Lymphatics",
+      "C": "Renal artery",
+      "D": "Ureter",
+      "E": "Renal veins"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Patient with high bp, 180/110 ANA+ , compliment level normal, what will be other finding?",
+    "options": {
+      "A": "Acute glomerulonephritis",
+      "B": "Hyperplastic atherosclerosis",
+      "C": "Daibetic nephropathy",
+      "D": "Nodular glomerulonephritis",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A patient has presented with generalized body edema and peripheral edema his urine show hematuria and protein cause of edema is:",
+    "options": {
+      "A": "Decrease hydrostatic pressure",
+      "B": "Increase hydrostatic pressure",
+      "C": "Lymphatic obstruction",
+      "D": "Increase oncotic pressure",
+      "E": "Salt Retention"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "In nephrogenic diabetes, what will occur?",
+    "options": {
+      "A": "Urine osmolarity increase",
+      "B": "ECF osmolarity increase",
+      "C": "ECF volume increase",
+      "D": "ECF osmolarity decrease",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "An 8 year old patient presents to theclinic with periorbital edema. His labs showed protein greater than3.5g/dl. What is the probable cause?",
+    "options": {
+      "A": "Potassium retention",
+      "B": "Sodium retention",
+      "C": "Naturesis",
+      "D": "Albuminuria and sodium retention",
+      "E": "Calcium retention"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Which of following is commoncause of metastatic calcification inkidney?",
+    "options": {
+      "A": "Vit. A deficiency",
+      "B": "Vit. D deficiency",
+      "C": "Hyperparathyroidism",
+      "D": "Hypothyroidism",
+      "E": "Heart failure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A patient after RTA having blood loss develop acute tubular necrosis which part of nephron will be affected",
+    "options": {
+      "A": "PCT",
+      "B": "Loop of henle",
+      "C": "DCT",
+      "D": "CD",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "ABGS of a patient shows PH = 7.5, PCO2 = 20, HCO3 = 20, PO2 = 80, the likely diagnosis is:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Uncompensated Respiratory alkalosis",
+      "D": "Compensated metabolic alkalosis",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A patient suffering from generalized edema and frothy urine renal biopsy was done and there were pink foam cells in tubules. This is due to the:",
+    "options": {
+      "A": "Absorption of Fats",
+      "B": "Absorption of lipid",
+      "C": "Absorption of glucose",
+      "D": "Absorption of Proteins",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Increase incidence of cancer kidney due to:",
+    "options": {
+      "A": "Increase UTI cases",
+      "B": "Analgesic nephropathy",
+      "C": "Central DI",
+      "D": "Hyperglycaemia",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "22 Year old boy with abdominal pain purpura and having raised Urea nitrogen cause is:",
+    "options": {
+      "A": "IgA nephropathy",
+      "B": "HUS",
+      "C": "PSGN",
+      "D": "Nephritic syndrome",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Most significantly increased creatininein:",
+    "options": {
+      "A": "Severe dehydration",
+      "B": "Kidney stones",
+      "C": "ESRD",
+      "D": "HCC",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Patient known case of HBV having cirrhosis, most common cause of secondary hyperaldosteronism is?",
+    "options": {
+      "A": "ACTH",
+      "B": "CRF",
+      "C": "Renin",
+      "D": "Prolactin",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A Patient came in ER with BP 160/100having headache, fatigue andpalpitation lab reveals Na 150 and K 3 What is likely cause of this condition?",
+    "options": {
+      "A": "MI",
+      "B": "Hyperaldosteronism",
+      "C": "Hypoaldosteronism",
+      "D": "Addison Disease",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A patient has palpable pruritic rash raised creatine with burning feet and handsalso having urine plasma protein diagnose is:",
+    "options": {
+      "A": "ITP",
+      "B": "IgA nephropathy",
+      "C": "HSP",
+      "D": "TTP",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A patient has generalized body edema and peripheral edema. His urine shows hematuria and protein . Cause is",
+    "options": {
+      "A": "Salt retention",
+      "B": "Increase hydrostatic pressure",
+      "C": "Increase oncotic pressure",
+      "D": "Decrease hydrostatic pressure",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "A patient is suffering from chronicrenal failure GFR decrease to less than 50% and on dialysis. Increase in which parameter of blood is alarming to doctor to:",
+    "options": {
+      "A": "Calcium",
+      "B": "Creatinine",
+      "C": "Urea",
+      "D": "Sodium",
+      "E": "Potassium"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Patient is on peritoneal dialysis having K 6.1 what should be avoided",
+    "options": {
+      "A": "Leaf",
+      "B": "Eggs",
+      "C": "Yogurt",
+      "D": "Tomatoes",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "If patient has right flank mass, hematuria proteinuria then what will you suspect?",
+    "options": {
+      "A": "Increase erytopoietin",
+      "B": "Hypocalcemia",
+      "C": "Increase Uric acid",
+      "D": "Decrease RBC mass",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "A patient After RTA having blood loss and develop hypovolumic shock histological findings in this patient kidney will be:",
+    "options": {
+      "A": "Acute tubular necrosis",
+      "B": "Increase concentrated urine",
+      "C": "Increase diluted urine",
+      "D": "Increase renin",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Diabetic nephropathy diagnosed by which of following?",
+    "options": {
+      "A": "Increase urinary Albumin",
+      "B": "Increase Serum Albumin",
+      "C": "Microalbuminuria",
+      "D": "Increase Urinary Nitrogen",
+      "E": "Increase Urinary Creatinine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Minimal Change disease feature is",
+    "options": {
+      "A": "Non proteinuric",
+      "B": "Proteinuria 35mg/dl",
+      "C": "Resistant to steroid",
+      "D": "Pus cells",
+      "E": "RBC greater than 10/hpf"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Renal cause of uncontrolled hypertension:",
+    "options": {
+      "A": "Polycystic kidney disease",
+      "B": "Atherosclerosis of proximal 2cm of renalartery",
+      "C": "Atherosclerosis of distal 2cm of renalartery",
+      "D": "Pelviureteric stone",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Sub endothelial electron dense deposits are most characteristics of:",
+    "options": {
+      "A": "MSGN",
+      "B": "Positive nva test",
+      "C": "Post streptococcal nephritis",
+      "D": "Minimal change disease",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "A female with Ph 7.5, Hypokalemia, normal sodium and normal cortisol but raised renin levels?",
+    "options": {
+      "A": "Renal artery stenois",
+      "B": "Siadh",
+      "C": "Conns syndrom",
+      "D": "Cushing syndrome",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Elder brother is concerned about his younger brother because he is having renal tumor which tumor marker should be looked for?",
+    "options": {
+      "A": "P53",
+      "B": "WT1",
+      "C": "Bcl2",
+      "D": "BRCA 1",
+      "E": "KRAS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "ADPKD with gene defect located on:",
+    "options": {
+      "A": "Chromosome 6",
+      "B": "Chromosome 16",
+      "C": "Chromosome 8",
+      "D": "Chromosome 10",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "A Patient after RTA had severe blood loss and no urine output. Even after 3 days patient failed to have urine output Cr 9.5 biopsy show cortical necrosis and severe acute tubular necrosis. What is cause in this patient?",
+    "options": {
+      "A": "Drug induced injury",
+      "B": "Irreversible injury",
+      "C": "Apoptosis",
+      "D": "Calcification",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Dangerous substance elevated in ARF is",
+    "options": {
+      "A": "Calcium",
+      "B": "Creatinine",
+      "C": "Urea",
+      "D": "Sodium",
+      "E": "Potassium"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "A child has minimal change lesion and has frothy urine. Microscopy shows pink drops this is due to:",
+    "options": {
+      "A": "Proteinuria",
+      "B": "Decrease membrane permeability",
+      "C": "Nephron damage",
+      "D": "Vasa recta leak",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Patient with CRF, having low calcium and high phosphate explain the biochemical change",
+    "options": {
+      "A": "Decrease CA absorption in gut",
+      "B": "Decrease 1, 25 dihydroxycalceferol",
+      "C": "Increase level of parathormone",
+      "D": "Increase calcium loss in urine",
+      "E": "Increase osteoclastic activity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Cause of kidney stones in vitamin A deficiency?",
+    "options": {
+      "A": "Atrophy of renal mucosa",
+      "B": "Hypertrophy of renal mucosa",
+      "C": "Hyperplasia of renal mucosa",
+      "D": "Dysplasia of renal mucosa",
+      "E": "Metaplasia of renal mucosa"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "A few family members have polycystic kidney disease now to confirm autosomal dominant polycystic kidney disease in some other member before appearance of cysts which investigation should be done:",
+    "options": {
+      "A": "Karyotyping",
+      "B": "FISH",
+      "C": "DNA sequence",
+      "D": "Frequency matching",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Chronic renal failure will cause:",
+    "options": {
+      "A": "Dehydration",
+      "B": "Anemia",
+      "C": "Increase urine output",
+      "D": "Decrease Phosphate",
+      "E": "Hypercalcemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Membranous glomerulonephritis associated with:",
+    "options": {
+      "A": "RA",
+      "B": "SLE",
+      "C": "Selective proteinuria",
+      "D": "Hepatitis A",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Child having periorbital puffiness will have:",
+    "options": {
+      "A": "Proteinuria >3.5 g per day",
+      "B": "Proteinuria >2.5 g per day",
+      "C": "Increase pus cells",
+      "D": "Proteinuria < 1.5 g per day",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "33 years old female is found to have hematuria and proteinuria in urinalysis. She is not complaining of any other abdominal pain or any other urinary symptoms you notice on exam that her face looks cachexic. Her buccal fat pads are absent and her eyes appear shrunken which of the following is the likely diagnosis?",
+    "options": {
+      "A": "Type 2 membranoproliferative glomerulonephritis",
+      "B": "Lupus nephritis",
+      "C": "Acute glomerulonephritis",
+      "D": "Type 1 membranoproliferative glomerulonephritis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "In Renal failure which cells will be affected?",
+    "options": {
+      "A": "Interstitial cell of kidney",
+      "B": "Mesangial cell",
+      "C": "JG cell",
+      "D": "Peritubular cells",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "In CRF which of the following occurs:",
+    "options": {
+      "A": "Water intake should be restricted to 2L/day",
+      "B": "Anemia when occurs is of iron deficiency type",
+      "C": "Specific gravity of urine Is high",
+      "D": "Amount of ionized calcium in the bloodrises due to calcium retention",
+      "E": "Plasma pC02 tends to be low"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Renal origin edema occur due to:",
+    "options": {
+      "A": "Increase hydrostatic pressure",
+      "B": "Decrease oncotic pressure",
+      "C": "Salt retention",
+      "D": "Water retention",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Child with generalized body edema cause is?",
+    "options": {
+      "A": "Hypoproteinemia",
+      "B": "Increase hydrostatic pressure",
+      "C": "Decrease Sodium",
+      "D": "Increase Sodium",
+      "E": "Decrease Magnesium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Patient Presented with fever, decrease platelets and bloody diarrhea peripheral film shows schistocytes what is likely cause?",
+    "options": {
+      "A": "HUS",
+      "B": "TTP",
+      "C": "HSP",
+      "D": "ITP",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "A young boy with proteinuria of 3.5g/dl and whole body swelling. Cause of edema is",
+    "options": {
+      "A": "Increased Na absorption",
+      "B": "Hypoalbuminemia",
+      "C": "Hyperalbuminemia",
+      "D": "Increase K absorption",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Patient presented with increase bp upto 180/110, Renin is increased on investigation Which one of the following is defected:",
+    "options": {
+      "A": "Peritubular capillaries",
+      "B": "JG cells",
+      "C": "Vasa recta",
+      "D": "Macula densa",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "In cresenteric glomerulonephritis antibody omplex deposition on GBM which type of hypersensitivity?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Minimal Change disease feature is",
+    "options": {
+      "A": "Non proteinuric",
+      "B": "Proteinuria 3.5 g",
+      "C": "Resistant to steroid",
+      "D": "Pus cells",
+      "E": "RBC greater than 10/hpf"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A Diabetic patient undergoing an IPV test shows filling defects in renal pelvis and ureter. What is the likely diagnosis?",
+    "options": {
+      "A": "Pyelonephritis",
+      "B": "Hydronephrosis",
+      "C": "Nephrolithiasis",
+      "D": "Renal cyst",
+      "E": "Emphysematous pyelonephritis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A hypertensive can be managed pharmacologically and surgically, on labs what’s the evidence that makes it possible for him to be treated pharmacologically instead of surgery?",
+    "options": {
+      "A": "Increase Catecholamines",
+      "B": "Hyperreninemia",
+      "C": "Hyperaldosteronism",
+      "D": "Hypercalcemia",
+      "E": "Inflammatory response to Kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A patient presented with vomiting and signs of dehydration having urea 70 and Cr 0.8 cause will be:",
+    "options": {
+      "A": "Post renal Azotemia",
+      "B": "Pre renal azotemia",
+      "C": "ATN",
+      "D": "CKD",
+      "E": "Glomerulonephritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Type 2 Renal tubular acidosis has",
+    "options": {
+      "A": "Increase HC03 absorption",
+      "B": "Decrease H ions absorption",
+      "C": "Decrease HC03 absorption",
+      "D": "H ions secretion defect",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Child with generalized edema,1st line of investigation?",
+    "options": {
+      "A": "Urinary protein",
+      "B": "Albumin/globulin ratio",
+      "C": "Serum albumin",
+      "D": "Serum creatinine",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "A patient presents with hematuria, facial flushing, mass in right iliac fossa Laboratory findings will show:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypertension",
+      "C": "High Renin",
+      "D": "Polycythemia",
+      "E": "D(RCC induced)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Immune deposit present in",
+    "options": {
+      "A": "Aorta",
+      "B": "Mesangium",
+      "C": "Afferent arteriole",
+      "D": "Renal Medulla",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A research study was conducted to evaluate kidney function in patients with various renal disorders. During the study, it was observed that many patients had urine that appeared cloudy. The researchersanalyzed the patients' renal functions, focusing on how effectively their kidneys were performing various tasks. Given this scenario, which specific kidney function is most likely compromised if the primary observation is cloudy urine?",
+    "options": {
+      "A": "Filtration",
+      "B": "Reabsorption",
+      "C": "Concentration",
+      "D": "Secretion",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Patient of CRF presented to ER with raised BP of 210/150mmHg.After initial management, Investigations were advised which revealed a serum Creatinine level of 8mg/dL (Normal 0.7-1.3mg/dL).Function of which of the following structure is impaired?",
+    "options": {
+      "A": "JG Cells",
+      "B": "Mesangial Cells",
+      "C": "Glomerulus",
+      "D": "Peritubular Capillaries",
+      "E": "PCT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A patient presents with history of Edema. His vitals reveal Increased Blood Pressure. Investigations reveal: Hypokalemia, decreased renin levels, increased Sodium levels but Renin, Angiotensin 2 & Aldosterone levels are within normal limits. A diagnosis of Liddle syndrome is made. Where is the defect located?",
+    "options": {
+      "A": "Mutation in Epithelial sodium channel (ENaC) in the collecting duct",
+      "B": "Sodium-potassium ATPase pump",
+      "C": "Aldosterone receptor",
+      "D": "Renin-angiotensin system",
+      "E": "Na-H Cotransport"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Known patient of CKD taking dialysis twice a week how will you make a decision between transplants and to continue dialysis:",
+    "options": {
+      "A": "Inulin Clearance",
+      "B": "Nitrogen Accumulation",
+      "C": "Creatinine clearance",
+      "D": "Urea Clearance",
+      "E": "Glucose Estimation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "A patient presents with diluted urine. After administering desmopressin, the patient's condition gets better, leading to an improvement in urine osmolality. What was deficient in the patient's serum?",
+    "options": {
+      "A": "ADH",
+      "B": "Ang2",
+      "C": "Aldosterone",
+      "D": "Remin",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Cause of Respiratory Acidosis among the following:",
+    "options": {
+      "A": "Barbiturate overdose",
+      "B": "Oxidate toxicity",
+      "C": "Diuretics",
+      "D": "V/Q Mismatch",
+      "E": "A(FA)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Patient having following ABGS after returning 10 days from high ph: 7.2 pCO2: 60mmHg and HCO3-: 32mEq/L. Diagnosis is",
+    "options": {
+      "A": "Respiratory acidosis with partially compensated metabolic alkalosis",
+      "B": "Respiratory acidosis with metabolic acidosis",
+      "C": "Metabolic Alkalosis",
+      "D": "Metabolic Acidosis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Normotensive patient with hypomagnesemia, hypocalcemia, hypokalemia, Hypokalemia & increased renin angiotensin. Most likely Diagnosis?",
+    "options": {
+      "A": "Liddle Syndrome",
+      "B": "Barter Syndrome",
+      "C": "Gitelman Syndrome",
+      "D": "Renal Tubular Acidosis",
+      "E": "Conn Syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Metabolic acidosis with normal anion gap is caused by",
+    "options": {
+      "A": "Acute salicylate poisoning",
+      "B": "Carbonic anhydrase inhibitor",
+      "C": "DKA",
+      "D": "Drowning",
+      "E": "Renal failure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "50 year old woman with normal anion gap acidosis, cause:",
+    "options": {
+      "A": "Diabetic Ketoacidosis",
+      "B": "Chronic Renal Failure",
+      "C": "Psychoneurosis",
+      "D": "Excessive use of HCO3- Inhibitors",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "An 8-year-old patient presents to the clinic with periorbital edema. His labs showed protein greater than 3.5g/dL. What is the probable cause?",
+    "options": {
+      "A": "Loss of Albumin in urine",
+      "B": "Decreased Production of Albumin",
+      "C": "Increased Hydrostatic pressure",
+      "D": "Salt Retention",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "60-year-old patient on anticancer therapy presents with blood in urine (hematuria). Which drug is most likely responsible?",
+    "options": {
+      "A": "Cisplatin",
+      "B": "Bleomycin",
+      "C": "Vincristine",
+      "D": "Cyclophosphamide",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "What is the most likely cause of persistent hypokalemia?",
+    "options": {
+      "A": "Low potassium (K*) diet",
+      "B": "Persistent vomiting",
+      "C": "Hyperaldosteronism",
+      "D": "Acute kidney injury",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Pink-colored inclusions in kidney tubules indicate increased reabsorption of:",
+    "options": {
+      "A": "Protein",
+      "B": "Glucose",
+      "C": "Sodium",
+      "D": "Lipids",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "A female suffering from episode of hysteria has ph 7.6 HCO3 35, what is the diagnosis?",
+    "options": {
+      "A": "Respiratory alkalosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic acidosis",
+      "D": "Compensatory respiratory alkalosis",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Metabolic alkalosis and hypokalemia due to excess of:",
+    "options": {
+      "A": "Aldosterone",
+      "B": "Cortisol",
+      "C": "Renin",
+      "D": "Angiotensin",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "A 28 year old male presents in ER department with hemoptysis and hematuria in this linear deposits of antibodies are directed against which structures:",
+    "options": {
+      "A": "Glomerular basement basement",
+      "B": "Mesengium",
+      "C": "Endothelial cells",
+      "D": "Podocytes",
+      "E": "Bowman’s capsule"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "A man presents with complain of flank pain and hematuria.X-ray detects no kidney stones urin analysis shows acidic urine and crystals which kidney stone is this:",
+    "options": {
+      "A": "Calcium oxalate stone",
+      "B": "Calcium phosphate stone",
+      "C": "Ammonium magnesium phosphate",
+      "D": "Cysteine stone",
+      "E": "Uric acid stone"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "A patient has following ABGS PH of 7.2, HCO3 levels of 19 and PCO2 of 39 what is likely diagnose is?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic alkalosis",
+      "D": "Metabolic acidosis",
+      "E": "Normal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "A patient present with ABGS of PH 7.28, PCO2 50mmhg and HCO3 is 28 which of the following is acid base balance of the patient:",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory acidosis with partial compensation",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic alkalosis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "A patient present with ABGS of PH 7.35, PCO2 60mmhg and HCO3 is 35 which of the following is acid base balance of the patient",
+    "options": {
+      "A": "Respiratory acidosis with complete compensation",
+      "B": "Respiratory acidosis with partial compensation",
+      "C": "Metabolic acidosis with partial compensation",
+      "D": "Metabolic acidosis with full compensation",
+      "E": "Mix acidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "A patient presents in a semi-conscious state and develops blindness the next day after treatment. Methanol level testing is unavailable. Which of the following tests can best assess the severity of the condition and potential kidney damage?",
+    "options": {
+      "A": "Arterial Blood Gas (ABG)",
+      "B": "Complete Blood Count (CBC)",
+      "C": "Creatinine Clearance",
+      "D": "Osmolality Gap",
+      "E": "Electrolyte Panel"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A 2-year-old child presents with metabolic acidosis (pH 7.2, HCO3- 14) and hypokalemia (K+ 2.6). Sodium is normal. What is the most likely diagnosis?",
+    "options": {
+      "A": "Renal Tubular Acidosis (RTA)",
+      "B": "Lactic Acidosis",
+      "C": "Diabetic Ketoacidosis (DKA)",
+      "D": "Dehydration",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Which of the following is the most consistent investigation for post-streptococcal glomerulonephritis (PSGN)?",
+    "options": {
+      "A": "ASO titer",
+      "B": "Blood culture",
+      "C": "Complement levels (C3, C4)",
+      "D": "Urine Culture",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  }
+]

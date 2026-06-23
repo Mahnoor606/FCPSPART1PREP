@@ -1,0 +1,2157 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Which of the following disorder has repeated sequence of trinucleotides?",
+    "options": {
+      "A": "Downs syndrome",
+      "B": "Turner syndrome",
+      "C": "Fragile X syndrom",
+      "D": "Digorge syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Color blindness person can't differentiate between green and red?",
+    "options": {
+      "A": "Hemianopia",
+      "B": "Quadrianopia",
+      "C": "Deutranopia",
+      "D": "Heteroanopia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Mode of inheritance of defective genes involved in DNA repair:",
+    "options": {
+      "A": "X linked",
+      "B": "Autosomal recessive",
+      "C": "Autosomal dominant",
+      "D": "X- link recessive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Marfan syndrome defective protein:",
+    "options": {
+      "A": "Fibrillin",
+      "B": "Elastin",
+      "C": "Collagen",
+      "D": "Albumin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Turner syndrome karyotype is:",
+    "options": {
+      "A": "45XX",
+      "B": "46X0",
+      "C": "45X0",
+      "D": "47XXY"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Regarding barr bodies which are incorrect?",
+    "options": {
+      "A": "Are inactive completely",
+      "B": "Heterochromatin",
+      "C": "X chromosome",
+      "D": "Buccal smear"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Klinefelter karyotype is:",
+    "options": {
+      "A": "45XX",
+      "B": "47XXY",
+      "C": "46XX",
+      "D": "46XY"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Most common congenital syndrome is:",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Kleinfelter syndrome",
+      "C": "Turner syndrome",
+      "D": "Klinefelter syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Female Patient had aortic root dilation upto 4cm, ocular examination showed lens dislocation, mitral valve leaflet defect with a systolic click defect in which of the following?",
+    "options": {
+      "A": "Spectrin",
+      "B": "Dystrophin",
+      "C": "Laminin",
+      "D": "Fibrillin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A patient presents with chorea, mental retardation, the disease has autosomal dominant inheritance is",
+    "options": {
+      "A": "Huntingtons disease",
+      "B": "Sydenham chorea",
+      "C": "Alzheimer's disease",
+      "D": "Fragile X"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Technique used to detected abnormality and microdeletion in chromosomes:",
+    "options": {
+      "A": "PCR",
+      "B": "Microassay",
+      "C": "Cytogenic abnormality",
+      "D": "FISH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Marfan syndrome gene defect located on which chromosome?",
+    "options": {
+      "A": "22",
+      "B": "15",
+      "C": "17",
+      "D": "21"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Mentally retarded 14-year-old boy has a microcephalic and low ear Epicanthal fold and protuberance of tongue. Chromosome analysis is likely to demonstrate which of the following?",
+    "options": {
+      "A": "Trisomy 21",
+      "B": "Trisomy 18",
+      "C": "Trisomy 13",
+      "D": "Fragile X syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Patient with short stature and webbed neck lymphedema chromosomes sequence:",
+    "options": {
+      "A": "44xo",
+      "B": "45xo",
+      "C": "47xxy",
+      "D": "46xx"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "One bar body is present:",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Normal female",
+      "C": "Turner syndrome",
+      "D": "Patau syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A low birth weight baby is born having low line ears, small jaw, microcephaly, Cleft lip and prominent occiput type of trisomy:",
+    "options": {
+      "A": "Trisomy 21",
+      "B": "Trisomy 11",
+      "C": "Trisomy 18",
+      "D": "Trisomy 13"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Most common cause of sex chromosome abnormality:",
+    "options": {
+      "A": "Hermaphrodite",
+      "B": "Klinefelter syndrome",
+      "C": "Down syndrome",
+      "D": "Multi X female"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Most common pattern of genetic disease:",
+    "options": {
+      "A": "Multifactorial",
+      "B": "Autosomal dominant",
+      "C": "Autosomal Recessive",
+      "D": "X link Recessive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Cystic hygroma seen in:",
+    "options": {
+      "A": "Down Syndrome",
+      "B": "Klinfelter Syndrome",
+      "C": "Turner Syndrome",
+      "D": "Edward Syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which is autosomal dominant disorder?",
+    "options": {
+      "A": "Retinoblastoma",
+      "B": "G6PD disease",
+      "C": "Gastric ca",
+      "D": "Alport syndrome",
+      "E": "Thalassemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient presents with chorea, mental retardation, depression and memory lapse the mode of inheritance of this disease is:",
+    "options": {
+      "A": "X Link Recessive",
+      "B": "X Link Dominant",
+      "C": "Autosomal Recessive",
+      "D": "Multifactorial",
+      "E": "Autosomal Dominant"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Musculoskeletal growth occurs in which of the following genetic disease?",
+    "options": {
+      "A": "Klinfilter syndrome",
+      "B": "Achondroplasia",
+      "C": "Down syndrome",
+      "D": "Turner syndrome",
+      "E": "Edward syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "When both allele are fully expressed in heterozygote called?",
+    "options": {
+      "A": "Codominance",
+      "B": "Transduction",
+      "C": "Polymorphisms",
+      "D": "Reduce penetrance",
+      "E": "Variable expressivity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "What is the inheritance pattern of hemophilia A?",
+    "options": {
+      "A": "X linked dominant",
+      "B": "Autosomal Dominant",
+      "C": "X linked recessive",
+      "D": "Autosomal recessive",
+      "E": "X linked dominant"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Early Adolescents with a prominent forehead, everted looking ears and long hypergonadism is clinically diagnostic of?",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Turner syndrome",
+      "C": "Fragile X syndrome",
+      "D": "Klinfilter syndrome",
+      "E": "Edward syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "In autosomal dominant genetic defect if phenotypically it is not expressed, pattern is:",
+    "options": {
+      "A": "Pleotropy",
+      "B": "Reduced penetrance",
+      "C": "Variable expressivity",
+      "D": "Codominance",
+      "E": "Sickle cell anemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Most common autosomal dominant disease",
+    "options": {
+      "A": "Von Willebrand disease",
+      "B": "Reinoblastoma",
+      "C": "Huntigton's disease",
+      "D": "Achondroplasia",
+      "E": "Marfan's syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Most common cause of inherited intellectual disability:",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Fragile X syndrome",
+      "C": "Edward Syndrome",
+      "D": "Patau Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Genetic Analysis done with:",
+    "options": {
+      "A": "CVS",
+      "B": "Amniotic Fluid Analysis",
+      "C": "USG",
+      "D": "Doppler"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Down syndrome is trisomy:",
+    "options": {
+      "A": "21",
+      "B": "18",
+      "C": "13",
+      "D": "14"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Gynaecomastia is caused by:",
+    "options": {
+      "A": "Klinfilter syndrome",
+      "B": "Down syndrome",
+      "C": "Edward syndrome",
+      "D": "Patau Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "About Huntington's disease:",
+    "options": {
+      "A": "50% children affected",
+      "B": "Only female affected",
+      "C": "Only Male affected",
+      "D": "1/3rd of children affected"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Which of the following isn't true regarding G6PD deficiency?",
+    "options": {
+      "A": "X-Linked Disease",
+      "B": "Rarely affect male",
+      "C": "Protects against P. falciparum",
+      "D": "Genetic disorder"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "A child died of some renal problem that showed multiple cysts on autopsy what is the mood of inheritance:",
+    "options": {
+      "A": "Autosomal Recessive",
+      "B": "Autosomal Dominant",
+      "C": "X Linked Recessive",
+      "D": "X Linked Dominant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "XXY is seen in",
+    "options": {
+      "A": "Down Syndrome",
+      "B": "Klinefelter syndrome",
+      "C": "Edward Syndrome",
+      "D": "Patau Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Which of the following is part of triple screening?",
+    "options": {
+      "A": "Estriol",
+      "B": "Estrone",
+      "C": "Estradiol",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "An adult male died with having multiple cysts on autopsy of kidneys, what is the mode of inheritance of the disease?",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal Recessive",
+      "C": "X-Linked Dominant",
+      "D": "X-Linked Recessive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Which of the following is the karyotype of true hermaphrodite?",
+    "options": {
+      "A": "XX",
+      "B": "XY",
+      "C": "XXY",
+      "D": "XYY"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A person exhibiting an extra chromosome in his genes instead of normal two:",
+    "options": {
+      "A": "Trisomy",
+      "B": "Triploids",
+      "C": "Klinefelter Syndrome",
+      "D": "Turner Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "In autosomal dominant:",
+    "options": {
+      "A": "Both male and female are involved",
+      "B": "Only male is involved",
+      "C": "Only female is involved",
+      "D": "Affects only male children"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Concept of mother transmitting genetical disease via DNA of:",
+    "options": {
+      "A": "Nucleus",
+      "B": "Mitochondria",
+      "C": "Golgi body",
+      "D": "Nucleolus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Snow storm appearance is related to which of the following?",
+    "options": {
+      "A": "Down Syndrome",
+      "B": "Complete mole",
+      "C": "Adrenogenital syndrome",
+      "D": "Partial mole"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Inherited form of endometrial carcinoma is associated with:",
+    "options": {
+      "A": "BRCA",
+      "B": "Breast Cancer",
+      "C": "HNPPC",
+      "D": "CA-125"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Offspring have 50% chances of developing disease and there's no carrier:",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "X linked recessive",
+      "D": "X linked dominant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "In down syndrome robersonian translocation transmits in how much percentage of next generation:",
+    "options": {
+      "A": "15%",
+      "B": "50%",
+      "C": "33%",
+      "D": "80%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "What is codominance?",
+    "options": {
+      "A": "A dominant gene will overpower all other genes to be the only one",
+      "B": "One is recessive and other gene is dominant",
+      "C": "Where two different traits are both expressed alongside each other",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Duchene muscular destroy is due to deficiency of:",
+    "options": {
+      "A": "Amino acid",
+      "B": "Dystrophin",
+      "C": "Tyrosine",
+      "D": "Spectrin",
+      "E": "Myosin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A young lady presented in OPD with primary amenorrhea. On examination breast is present but uterus is absent and blind vagina. What is karyotype?",
+    "options": {
+      "A": "XYY",
+      "B": "XY",
+      "C": "XXY"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A young boy presented with enlarged genitals, early pubic hair appearance, excessive body hair and rapid growth. What is cause?",
+    "options": {
+      "A": "Acronegaly",
+      "B": "Prolactinoma",
+      "C": "Turner Syndrome",
+      "D": "Adrenogenital syndrome",
+      "E": "Klinefelter syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Barr body diagnostic for:",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Turner syndrome",
+      "C": "Kline filter syndrome",
+      "D": "Fragile X syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "A child born with genetically male but external appearance of genitals are like female what's is diagnosis?",
+    "options": {
+      "A": "Testicular feminization syndrome",
+      "B": "Down syndrome",
+      "C": "Klinefilter",
+      "D": "Turner syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "In a pregnant lady, to diagnose open neural tube defect early which one of the following is used?",
+    "options": {
+      "A": "Chorionic villus sampling",
+      "B": "Amniocentesis",
+      "C": "Ultrasound",
+      "D": "XRAY",
+      "E": "CT Scan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Hypertelorism, oblique palpebral fissure seen in",
+    "options": {
+      "A": "Down",
+      "B": "Turner",
+      "C": "Klienfelter",
+      "D": "Fragile X syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "A child present with ocular anomalies, corneal defect, lens prolapsed. Diagnosis?",
+    "options": {
+      "A": "Potter syndrome",
+      "B": "Trisomy 21",
+      "C": "Trisomy 13",
+      "D": "Trisomy 18"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "XX pseudohermaphrodite is",
+    "options": {
+      "A": "Adrenogenital syndrome",
+      "B": "Malfor",
+      "C": "Turner syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Abnormalities are common in meiosis if a complete chromosome is transferred to haploid cell what this abnormality is called:",
+    "options": {
+      "A": "Trisomy",
+      "B": "Meiotic non dysjunction",
+      "C": "Monosomy",
+      "D": "Mosaicism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "What is Allele?",
+    "options": {
+      "A": "Non identical gene at same locus",
+      "B": "Same genes at same locus",
+      "C": "Non alternative types of genes at same locus",
+      "D": "same gene at different locus",
+      "E": "non identical gene at different locus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Child with Down syndrome. One of the parents has chances of having?",
+    "options": {
+      "A": "Robertsonian translocation",
+      "B": "Reciprocal translocation",
+      "C": "Mosaicism",
+      "D": "Non disjunction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Thalasemia suspected in fetus, how to diagnose",
+    "options": {
+      "A": "Chorionic villous sampling",
+      "B": "Maternal blood for fetal rbcs or antigen",
+      "C": "Maternal urine for fetal Hb",
+      "D": "Maternal Hb electrophoresis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Best diagnosis for turner:",
+    "options": {
+      "A": "Barr body",
+      "B": "Karyotyping",
+      "C": "Ultrasound",
+      "D": "Shronic villus sampling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Bar body in xxx:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "7 years old girl has primary amenorrhea, she has normal breast development and secondary sexual characteristics. she has short blind ending vagina slight pubic hairs Ultrasound reveals absent uterus. What would be diagnosis",
+    "options": {
+      "A": "Congenital adrenal hyperplasia",
+      "B": "Chromosomal defect",
+      "C": "Defect of paramesonephric duct",
+      "D": "Failure of development of genital tubercle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Regarding mitochondrial mutations:",
+    "options": {
+      "A": "Can cause fragile x syndrome",
+      "B": "Only transmitted from mother",
+      "C": "From paternal side",
+      "D": "Prader wili syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Regarding Autosomal dominant:",
+    "options": {
+      "A": "Incomplete penetrance",
+      "B": "Both genes are mutated",
+      "C": "Early presentation",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Scanty Barr bodies will be present in:",
+    "options": {
+      "A": "Testicular feminization syndrome",
+      "B": "Klinefelter syndrome",
+      "C": "Turner syndrome",
+      "D": "Down syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A 12-year-old child has dwarfism due to short limbs & normal height of the trunk. Hx of Non consanguineous marriage between parents. There are no signs or symptoms suggestive of mental retardation. Pattern of development of dwarfism in this child would have been:",
+    "options": {
+      "A": "Autosomal dominant inheritance",
+      "B": "Autosomal recessive inheritance",
+      "C": "X linked dominant",
+      "D": "X linked recessive",
+      "E": "Not inherited (Achondroplasia)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Regarding recombinant theory which of the following is true?",
+    "options": {
+      "A": "Plasmid",
+      "B": "Pasminogen",
+      "C": "Viruses",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Female who is 45 XO will have",
+    "options": {
+      "A": "Gonadal dysgenesis and germinal hypoplasia",
+      "B": "Wide spaced nipple and low bridge nose",
+      "C": "Short stature simbin crease",
+      "D": "gynecomastia and small testis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "In Autosomal dominant diseases:",
+    "options": {
+      "A": "Only females are affected",
+      "B": "Complete penetrance",
+      "C": "Heterozygous affected",
+      "D": "Sign and symptoms appear in early life",
+      "E": "X linked recessive"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Huntington disease is in mother only. Father is normal. What chances are present in offsprings?",
+    "options": {
+      "A": "50/50 chance in both",
+      "B": "50% sons only",
+      "C": "50% daughters only",
+      "D": "100%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Mental retardation associated with chromosomal trisomy is",
+    "options": {
+      "A": "21",
+      "B": "18",
+      "C": "22",
+      "D": "44"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Which is X-linked disease?",
+    "options": {
+      "A": "Duchene Muscular Dystrophy",
+      "B": "cystic fibrosis",
+      "C": "Achondroplasia",
+      "D": "sickle cell anemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Autosomal recessive differentiate from dominant?",
+    "options": {
+      "A": "Heterozygous",
+      "B": "More in male",
+      "C": "More in female",
+      "D": "Disease present as 1 out of 4 children"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Regarding X linked disorders:",
+    "options": {
+      "A": "Heterozygous females rarely affected",
+      "B": "Homozygous females rarely affected",
+      "C": "Males usually not affected",
+      "D": "Marfan syndrome is X linked"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "In 40 year age female the chances of down syndrome are",
+    "options": {
+      "A": "1 in 100",
+      "B": "1 in 700",
+      "C": "1 in 1000",
+      "D": "1 in 1500"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Most common autosomal recessive disorder",
+    "options": {
+      "A": "Hemochromatosis",
+      "B": "Cystic fibrosis",
+      "C": "PKU",
+      "D": "Cystinuria",
+      "E": "Marfan's syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Marfan syndrome is",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked recessive",
+      "D": "X linked dominant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "All are associated with down syndrome except",
+    "options": {
+      "A": "ASD",
+      "B": "alzheimer",
+      "C": "AML",
+      "D": "Horse shoe kidney",
+      "E": "Hypothyroidism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Patient present with Short stature, cleft palate finger extendable cardiac problem likely diagnose",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Kline filter",
+      "C": "Patau",
+      "D": "Di George Syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Female patient came in cardiac OPD with cardiac defect, psychiatric behavior and cleft palate likely due to:",
+    "options": {
+      "A": "A-Fragile X",
+      "B": "B-Klinfilter",
+      "C": "C-Down",
+      "D": "Edward",
+      "E": "Digeorge Syndrome"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "A 11 year old boy faced abdominal trauma and then presented to emergency. On labs there was 1+ blood and 3+ protein in Urine. What is the pattern of inheritance?",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked dominant",
+      "D": "X linked recessive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "A patient with Cardia abnormality fascial anomlies thymic aplasia hypocalcemia and cleft palate all are features of",
+    "options": {
+      "A": "CATCH 22",
+      "B": "IgA Deficiency",
+      "C": "Edward Syndrome",
+      "D": "Cri du chat syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Phenyl ketonuria is",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "X linked recessive",
+      "D": "X linked dominant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Autosomal recessive diseases are",
+    "options": {
+      "A": "Phenyl ketonuria",
+      "B": "Cystic fibrosis",
+      "C": "Hyperthyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Alzheimer's diseases associated with which of following disease",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Turner syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Fragile X syndrome",
+      "E": "Edward syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Mother had alcohol during pregnancy; baby is at risk of developing?",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Prematurity",
+      "C": "Spina bifida",
+      "D": "Klienfelters syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A patient with epicanthal folds retardation, protruded abdomen what is diagnose of chromosomal abnormality?",
+    "options": {
+      "A": "Trisomy down syndrome",
+      "B": "Patau syndrome",
+      "C": "Edward syndrome",
+      "D": "Cri du cat syndrome",
+      "E": "Omphalocele"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Inherited only from mother to child is",
+    "options": {
+      "A": "Imprinted DNA",
+      "B": "Mitochondrial DNA",
+      "C": "X-linked",
+      "D": "Maternal disomy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A female is of 36 week pregnant and having low AFP low estriol she is having",
+    "options": {
+      "A": "NTD",
+      "B": "Down syndrome",
+      "C": "Edward syndrome",
+      "D": "Klifenter syndrome",
+      "E": "Marfan syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Hereditary spherocytosis defective protein is:",
+    "options": {
+      "A": "Fibrillin",
+      "B": "Titin",
+      "C": "Dystrophin",
+      "D": "Spectrin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Regarding Aneuploidy true is",
+    "options": {
+      "A": "Extra chromosome",
+      "B": "Increase or decrease number of chromosomes instead of 46",
+      "C": "Increase number of chromosomes more than 46",
+      "D": "Decrease number of chromosomes less than 46",
+      "E": "E-Change in number of chromosomes and deletion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "A 4-year-old boy was attended in clinic and was observed to have short neck, low hairline on the posterior aspect of neck and was known to be suffering from a heart condition. Xray neck showed fused cervical vertebrae and on examination limited movement of upper limb was noted. What is the most likely diagnosis?",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Klinefelter syndrome",
+      "C": "Down syndrome",
+      "D": "VACTERL syndrome",
+      "E": "Klippel feil syndrome"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A female child with karyotype 46XX presents with ambiguous genitalia and large clitoris, what is the abnormality?",
+    "options": {
+      "A": "Testicular feminization syndrome",
+      "B": "Fetal aromatase deficiency",
+      "C": "Congenital adrenal hyperplasia",
+      "D": "WNT-4 mutation",
+      "E": "Down syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A person working in Circus he is tall and has flexible joint. Suddenly he has chest pain and died. Examination reveal medial necrosis what is likely diagnosis?",
+    "options": {
+      "A": "Edward Syndrome",
+      "B": "Fragile X Syndrome",
+      "C": "Marfan Syndrome",
+      "D": "Aortic aneurysm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A patient has repeated episodes of viral and bacterial infection. Also has Cleft palate and Cardiac defect what will be findings present:",
+    "options": {
+      "A": "No follicles in paracortex",
+      "B": "Lymphocyte atrophy",
+      "C": "Decrease lymphocyte carrying immunoglobulins",
+      "D": "Atrophied tonsils",
+      "E": "Absent germinal centre in lymph node"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Spina bifida associated with:",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Down syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Turner syndrome",
+      "E": "Edward syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "A baby presented with enlarge clitoris n sex chromatin positive diagnosis is:",
+    "options": {
+      "A": "Ovarian dysgenesis",
+      "B": "Turner syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Congenital adrenal hyperplasia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Girl with coarse facial features, gap between incisors and spade like hands what happens to muscles involved in this disease?",
+    "options": {
+      "A": "Enlargement",
+      "B": "Myositis",
+      "C": "Regression",
+      "D": "Fibrositis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Polydactyly, microphthalmia, rocker bottom feet seen in",
+    "options": {
+      "A": "Trisomy 47 xx/xy+13",
+      "B": "Trisomy 47xx/xy+ 18",
+      "C": "Trisomy 45XX",
+      "D": "Trisomy 44X0+13"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Hereditary spherocytosis is",
+    "options": {
+      "A": "Autosomal Recessive",
+      "B": "X linked recessive",
+      "C": "Autosomal Dominant",
+      "D": "Multifactorial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A female with short stature hand swollen and neck and is now 20 years of age with amenorrhea and absent secondary sexual characteristics likely karyotype of this diagnoses is",
+    "options": {
+      "A": "46XY",
+      "B": "45XO",
+      "C": "45XX",
+      "D": "46XY"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "For prenatal congenital genetic abnormalities best test is",
+    "options": {
+      "A": "Amniotic fluid sample",
+      "B": "Urine sample",
+      "C": "Chorionic villous sampling",
+      "D": "Biopsy",
+      "E": "Carodocentensis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Child with multiple fractures, blue sclera his uncle had same complains in past what is mode of inheritance of this child condition:",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked dominant",
+      "D": "Multifactorial"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A patient presents short limb, normal trunk and lumbar lordosis the mode of inheritance of this disease is",
+    "options": {
+      "A": "X Link Recessive",
+      "B": "X Link Dominant",
+      "C": "Autosomal Recessive",
+      "D": "Multifactorial",
+      "E": "Autosomal Dominant"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Primigravida 20 year old want to do test for thalassemia. They had cousin marriage both husband and wife are thalassemia carrier they have to do test because",
+    "options": {
+      "A": "Elderly Primigravida",
+      "B": "Have one baby of thalassemia",
+      "C": "Both have carrier gene defect",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Which of Following is X linked recessive?",
+    "options": {
+      "A": "Duchene muscular dystrophy",
+      "B": "Dystropy myotonic dystrophy",
+      "C": "Marfan syndrome",
+      "D": "Cystic fibrosis",
+      "E": "Glycogen storage disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Duchenne muscles dystrophy is an inherited disorder, its gene is located on",
+    "options": {
+      "A": "Chromosome 5",
+      "B": "Chromosome 10",
+      "C": "Chromosome 12",
+      "D": "X chromosome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A patient has Hemophilia. His two sister cannot have this disease because it is",
+    "options": {
+      "A": "X-linked dominant",
+      "B": "X-linked recessive",
+      "C": "Autosomal dominant",
+      "D": "Autosomal recessive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Highest genetic Predisposition is of",
+    "options": {
+      "A": "SLE",
+      "B": "Type 2 DM",
+      "C": "Type 1 DM",
+      "D": "RA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Autosomal dominant is",
+    "options": {
+      "A": "Marfan",
+      "B": "Phenylketonuria",
+      "C": "Gaucher",
+      "D": "Hemophilia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Inherited decrease Potassium is associated with?",
+    "options": {
+      "A": "Bakers dystrophy",
+      "B": "Myasthenia gravis",
+      "C": "Duchenne muscular",
+      "D": "Familial periodic paralysis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "A child with mental retardation, umbilical hernia & protruded tongue likely diagnose is",
+    "options": {
+      "A": "Edward Syndrome",
+      "B": "Down Syndrome",
+      "C": "Klinefelter syndrome",
+      "D": "Patau syndrome",
+      "E": "Fragile X Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Which is Autosomal dominant?",
+    "options": {
+      "A": "Haemophilia",
+      "B": "ITP",
+      "C": "Tuberous sclerosis",
+      "D": "Cystic fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Most common chromosomal abnormality is?",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Fragile X syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A patient with Delayed puberty having small testis with Large legs and Gynehcomastia and Karyotype is 47 XXY most suitable diagnose is:",
+    "options": {
+      "A": "True Hermaphrodite",
+      "B": "Down Syndrome",
+      "C": "Marfan Syndrome",
+      "D": "Klinefelter Syndrome",
+      "E": "Edward Syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Regarding Prader willi syndrome true is;",
+    "options": {
+      "A": "Paternal",
+      "B": "Hypogonadism",
+      "C": "Hyperphagia",
+      "D": "Chromosome 15 involved"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Edward syndrome is;",
+    "options": {
+      "A": "Trisomy 21",
+      "B": "Trisomy 13",
+      "C": "Trisomy 18",
+      "D": "Trisomy 22"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A lady comes to you having thalassemia trait, planned for pregnancy her elder child has thalassemia major so what is the risk?",
+    "options": {
+      "A": "25% diseased",
+      "B": "25% carrier",
+      "C": "25% unaffected",
+      "D": "50% diseased"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "How many different codons can stop lengthening?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Under expression of gene Over expression of gene Gene deletion Over flow chromosomes",
+    "options": {
+      "A": "Under expression of gene",
+      "B": "Over expression of gene",
+      "C": "Gene deletion",
+      "D": "Over flow chromosomes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Apert syndrome has high arch, Hypertelorism, Cleft palate and Craniosynostosis what else will be there",
+    "options": {
+      "A": "Delayed eruption of tooth",
+      "B": "Syndactyly",
+      "C": "Hypotonia",
+      "D": "Enlarge testes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Genetic mutation inherited through:",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal Dominant",
+      "C": "X linked Recessive",
+      "D": "X linked Dominant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "In which condition both female and male child are affected with skip generations:",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "X linked recessive",
+      "C": "X linked dominant",
+      "D": "Autosomal dominant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A condition in which heterozygous child are also effected the parents will be male and female both are effected:",
+    "options": {
+      "A": "Only one parent affected",
+      "B": "Both parents affected",
+      "C": "Both Child affected",
+      "D": "No parent affected"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Female with oligo menorrhea karyotype 46XX/45X0 associated features is:",
+    "options": {
+      "A": "Wide nipple and depressed nasal bridge",
+      "B": "Gonadal dysgenesis and germinal hypoplasia",
+      "C": "Short stature, prominent simian crease",
+      "D": "Webbed neck"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Regarding Autosomal Recessive:",
+    "options": {
+      "A": "1/2 children affected",
+      "B": "1/4 children affected",
+      "C": "Skip generation present",
+      "D": "All parents carrier"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "male, Monozygous for X gene Heterozygous for X gene Bizygous for X gene Multizygous for X gene",
+    "options": {
+      "A": "Monozygous for X gene",
+      "B": "Heterozygous for X gene",
+      "C": "Bizygous for X gene",
+      "D": "Multizygous for X gene"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Single palmar line is:",
+    "options": {
+      "A": "Simian crease",
+      "B": "Simian node",
+      "C": "Axillary line",
+      "D": "Nuchal line"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of the following is a qualitative change in gene expression?",
+    "options": {
+      "A": "Gene amplification",
+      "B": "Promoter expression",
+      "C": "Point mutation",
+      "D": "Enhancer insertion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "At 16th week pregnancy lady wants to know about down syndrome what test should be done?",
+    "options": {
+      "A": "Triple test",
+      "B": "Afp",
+      "C": "B-hcg",
+      "D": "CVS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "In autosomal dominant what is true",
+    "options": {
+      "A": "One parent effected",
+      "B": "Both parent effected",
+      "C": "1 of 4 children affected",
+      "D": "Variable expression",
+      "E": "1 in 4 siblings affected"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "In Autosomal recessive true is",
+    "options": {
+      "A": "1 of 4 siblings affected",
+      "B": "50% children affected",
+      "C": "1 of 6 children affected",
+      "D": "All children carrier",
+      "E": "1 of 4 siblings carrier"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Hemophilia occurs only in males because it is X-Linked disorder & X chromosome in male is:",
+    "options": {
+      "A": "Monozygous",
+      "B": "Hemizygous",
+      "C": "Homozygous",
+      "D": "Heterozygous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "karyotype will be",
+    "options": {
+      "A": "47XY+13",
+      "B": "47XY+18",
+      "C": "Trisomy 21",
+      "D": "45Xo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Duchene muscular dystrophy defective gene makes the cell impermeable to which of the following?",
+    "options": {
+      "A": "Amino acid",
+      "B": "Water",
+      "C": "Electrolytes",
+      "D": "Albumin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Husband & Wife Came to You regarding their concern that they both are thalassemia carriers & they are worried about their baby. Prenatal monitoring is necessary in this case because?",
+    "options": {
+      "A": "They Both are thalassemia carriers",
+      "B": "Both have clinicomorphological picture",
+      "C": "Their Child Will be thalasemic",
+      "D": "No risk of Transmission"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "A female with short stature hand swollen and neck is now 20 years of age with amenorrhea and absent secondary sexual characteristics likely karyotype of this diagnoses is",
+    "options": {
+      "A": "47XXY",
+      "B": "46XY",
+      "C": "45XO",
+      "D": "47XY",
+      "E": "46XY"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "A Kid with thick secretion and having sweat chloride test positive. His parents are normal . The mode of inheritance will be",
+    "options": {
+      "A": "X linked recessive",
+      "B": "Autosomal recessive",
+      "C": "Autosomal dominant",
+      "D": "Autosomal recessive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "A patient has history of memory loss which of following disease associated with this",
+    "options": {
+      "A": "Down syndrome",
+      "B": "Turner syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Fragile X syndrome",
+      "E": "Edward Syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "A patient presented with Tall habitus, Gynecomastia & Small sized testes. What test should be done to know the underlying cause?",
+    "options": {
+      "A": "Karyotyping",
+      "B": "Genetic Analysis",
+      "C": "Fsh & Lh",
+      "D": "FISH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "A Patient with tall habitus presented with hypermobile & hyperextensible joints. Which one of the following is defective?",
+    "options": {
+      "A": "Fibrillin",
+      "B": "Spectrin",
+      "C": "Ankyrin",
+      "D": "Fibroblasts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Which of Following is true regarding familial muscular disorder?",
+    "options": {
+      "A": "Duchene muscular dystrophy- X linked recessive",
+      "B": "Dystropy myotonic dystrophy- Autosomal dominant",
+      "C": "Marfan syndrome- X linked recessive",
+      "D": "Glycogen storage disease -X linked dominant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "A male child presented with small eyes and retinal dysplasia. What is the most likely diagnosis?",
+    "options": {
+      "A": "Trisomy 18",
+      "B": "Trisomy 13",
+      "C": "Down syndrome",
+      "D": "Potter syndrome",
+      "E": "Trisomy 21"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Mitochondrial diseases are transferred through",
+    "options": {
+      "A": "Paternal DNA",
+      "B": "Imprinted DNA",
+      "C": "Maternal DNA",
+      "D": "Maternal RNA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Patient is already diagnosed with chromosomal abnormality. Now his blood picture shows blast cells and CD10 antigen positive.",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Cridu cat syndrome",
+      "C": "Down syndrome",
+      "D": "Trisomy 13",
+      "E": "Klinefelter syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "A Kid with thick secretion and having sweat chloride test positive . His parents are normal . The mode of inheritance will be",
+    "options": {
+      "A": "X linked recessive",
+      "B": "Autosomal recessive",
+      "C": "Autosomal dominant",
+      "D": "Autosomal recessive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Autosomal dominant characteristic if present in one generation & absent in another due to skip generations is due to:",
+    "options": {
+      "A": "Homozygous Pattern",
+      "B": "Reduced penetrance",
+      "C": "Variable expressivity",
+      "D": "Because both Parents are affected",
+      "E": "Because All children are affected"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A patient has gynaecomastia and tall height with infertility. Karyotyping shows Double X & One Y. Likely Diagnosis:",
+    "options": {
+      "A": "Turner Syndrome",
+      "B": "Klinefelter Syndrome",
+      "C": "Down Syndrome",
+      "D": "Edward Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "You are obliged to tell Prenatal diagnosis to Mother at which of the following Maternal age?",
+    "options": {
+      "A": "Above 25",
+      "B": "Above 30",
+      "C": "Above 35",
+      "D": "Above 45",
+      "E": "Any Age"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Genetic Cause of Thrombosis:",
+    "options": {
+      "A": "Homocysteinemia",
+      "B": "AntiPhospholipid Antibody Syndrome",
+      "C": "VWD",
+      "D": "Homocysteinuria"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Parents are carriers of thalassemia. Prenatal diagnosis is necessary because:",
+    "options": {
+      "A": "Their Child will be thalassemic",
+      "B": "Both Partners are carriers",
+      "C": "Both Partners are cousins",
+      "D": "Half of Children will be affected",
+      "E": "Mother is of Advanced Age"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Patient with short stature and webbed neck lymphedema chromosomes sequence:",
+    "options": {
+      "A": "Xo",
+      "B": "XX",
+      "C": "XXY",
+      "D": "XY",
+      "E": "XYY"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "A patient with Klinefelter syndrome will have:",
+    "options": {
+      "A": "Superfluous X chromosome",
+      "B": "An extra Y chromosome",
+      "C": "An extra sex chromosome",
+      "D": "Trisomy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "40-60% of genetic defects are",
+    "options": {
+      "A": "Environmental",
+      "B": "Genetic",
+      "C": "Environment and gene mutation",
+      "D": "Multifactorial"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "The individuals with autosomal dominant disease who don't express it phenotypically:",
+    "options": {
+      "A": "Incomplete Penetrance",
+      "B": "Co-dominance",
+      "C": "Genetic Heterogeneity",
+      "D": "Complete Penetrance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "A baby with small retinal dysplasia and optic nerve problems lense prolapsed. Diagnosis:",
+    "options": {
+      "A": "Trisomy 13",
+      "B": "Trisomy 18",
+      "C": "Trisomy 21",
+      "D": "Potter syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "If there is 1 /10000 person is Autosomal recessive in a population then probability of carriers?",
+    "options": {
+      "A": "1/50",
+      "B": "1/500",
+      "C": "1/5000",
+      "D": "1/5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A 4 year boy presented with clinical features of failure to thrive , recurrent sinusitis, otitis media and RTI. He also gives h/o chronic Diarrhea. There is family h/o such complaints. Pattern of inheritance of this condition is ?",
+    "options": {
+      "A": "X linked",
+      "B": "Autosomal recessive",
+      "C": "Autosomal dominant",
+      "D": "X- link recessive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A Girl presented to her physician with concern that her mother and sister died of metastatic breast cancer before 40 years of age. She is worried about herself which of the following gene is mutated:",
+    "options": {
+      "A": "MH1",
+      "B": "APC",
+      "C": "RAS",
+      "D": "BRCA-1+ BRCA-2 Mutation",
+      "E": "P53"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "40-60% of genetic defect are",
+    "options": {
+      "A": "Environmental",
+      "B": "Genetic",
+      "C": "Environment and gene mutation",
+      "D": "Multifactorial"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "A female with breast Carcinoma His mother died of cervical carcinoma Which of the following is not an oncogene in Breast Carcinoma?",
+    "options": {
+      "A": "BRCA",
+      "B": "APC",
+      "C": "P53",
+      "D": "HER2",
+      "E": "RAS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Which of the Following poses Genetic predisposition to \"SCHIZOPHRENIA\"",
+    "options": {
+      "A": "Siblings",
+      "B": "Monozygotic Twins",
+      "C": "Dizygotic Twins",
+      "D": "Children of Affected Mother & Father"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Chromosomal abnormality was taught by a professor, his son got a Long bone deformity by a marker that is usually gene suppressor but can cause tumour of Long bones. What actually his son has?",
+    "options": {
+      "A": "Wt1",
+      "B": "Rb-1",
+      "C": "KRAS",
+      "D": "Myc",
+      "E": "P53"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A patient presents with chorea, mental Retardation, Hypotonia, Decreased Memory & Depressed mood. The disorder is single gene inherited disorder. It is most likely:",
+    "options": {
+      "A": "Huntingtons disease",
+      "B": "Sydenham chorea",
+      "C": "Alzheimer's disease",
+      "D": "Lesch-Nyhan syndrome",
+      "E": "Duchenne's muscular dystrophy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "A patient with Delayed puberty having small testis with Large legs and Gynehcomastia and Karyotype is 47 XXY. Cause?",
+    "options": {
+      "A": "Non-disjunction",
+      "B": "Disjunction",
+      "C": "Microdeletion",
+      "D": "Mosaicism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A 30-year-old G3P2 mother is phenotypically normal but has two children with a genetic syndrome. What is the most likely genetic abnormality in the mother?",
+    "options": {
+      "A": "Robertsonian translocation",
+      "B": "Isosome translocation",
+      "C": "Deletion of the q arm",
+      "D": "Chromatid inversion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "A patient has primary amenorrhea, short stature & webbed neck. Best modality to diagnose in this scenario will be:",
+    "options": {
+      "A": "Barr body",
+      "B": "Karyotyping",
+      "C": "FISH",
+      "D": "Chronic villus sampling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "True regarding Marfan syndrome",
+    "options": {
+      "A": "50% Kids will be carriers",
+      "B": "50% Kids will be diseased",
+      "C": "25% Will be carriers",
+      "D": "25% will be diseased"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Klinefelter syndrome occurs due to",
+    "options": {
+      "A": "Superfluous X chromosome",
+      "B": "Superfluous Y chromosome",
+      "C": "less X",
+      "D": "Associated with extra Y chromosome only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Chromosome meta phase and ends up with haploid number. What is the process called when that one Chromosome ends up with additional Chromosome after failure of separation?",
+    "options": {
+      "A": "Trisomy",
+      "B": "Non-Disjunction",
+      "C": "Disjunction",
+      "D": "Translocation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "A female neonate present with respiratory distress on examination she has micrognathia(small mandible), cleft palate , Glossoptosis which of the following is the most likely diagnosis of this patient",
+    "options": {
+      "A": "Mandible dysostosis",
+      "B": "Goldenhar syndrome",
+      "C": "Apert syndrome",
+      "D": "Pierre robin syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Huntington's disease is characterized by involuntary flicking movements. What is the underlying cause?",
+    "options": {
+      "A": "Genetic in Nature",
+      "B": "Related to GABA",
+      "C": "Autoimmune in Nature",
+      "D": "Related to Dopaminergic Neurons"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "A female present with short stature and absence of menstruation, raising suspicion of turner syndrome. Laboratory findings reveal the presence of a barr body what is the most likely explanation",
+    "options": {
+      "A": "Faulty test",
+      "B": "Turner mosaicism",
+      "C": "Patient is male",
+      "D": "Klinfter syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Which of the following are features of turner syndrome",
+    "options": {
+      "A": "Secondary infertility",
+      "B": "Short stature",
+      "C": "Absent uterus",
+      "D": "Blind ended vagina",
+      "E": "Gynecomastia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "of dorsum of hands and there is also fat at nape of neck with which of the following genetic disorder patient is suffering from",
+    "options": {
+      "A": "47XXY",
+      "B": "45XO",
+      "C": "46XY",
+      "D": "XX/XY"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Malignant hyperthermia is a life-threatening condition triggered by certain anesthetic agents. What is its pattern of inheritance?(Medicine Feb 2025)",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "X-Linked dominant",
+      "D": "X-linked recessive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Which of the following is a benign tumor?(Medicine Feb 2025)",
+    "options": {
+      "A": "Mesothelioma",
+      "B": "Glioma",
+      "C": "Lymphoma",
+      "D": "Warthin tumor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "A disease is inherited in an autosomal dominant pattern. Which of the following is a characteristic of this inheritance pattern?(Medicine Feb 2025)",
+    "options": {
+      "A": "The disease is expressed only in homozygous individuals",
+      "B": "The disease is more common in females",
+      "C": "The disease skips one generation",
+      "D": "The disease is expressed in both heterozygous and homozygous individuals"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Which type of gene is capable of moving from one genomic location to another while carrying essential sequences?(Medicine Feb 2025)",
+    "options": {
+      "A": "Gene mutation",
+      "B": "Retrotransposons",
+      "C": "Transposons",
+      "D": "Gene duplication"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Which type of DNA sequence does not encode proteins but can contribute to mutations?(Medicine Feb 2025)",
+    "options": {
+      "A": "Microsatellite",
+      "B": "Tandem repeat",
+      "C": "Trinucleotide repeat",
+      "D": "Satellite DNA",
+      "E": "Minisatellite"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 181,
+    "question_text": "Kartagener syndrome is a rare genetic disorder characterized by which of the following defects?(Medicine Feb 2025)",
+    "options": {
+      "A": "Dynein arm defect in cilia, leading to chronic sinusitis, bronchiectasis, and situs inversus",
+      "B": "Ciliary dysmotility due to radial spoke protein defect, leading to hydrocephalus and respiratory issues",
+      "C": "Microtubule defect in flagella, leading to infertility and respiratory problems",
+      "D": "Basal membrane defect in respiratory epithelium, leading to chronic cough and wheezing"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "A 10-year-old boy presents with hearing loss, renal failure, and syndactyly. Which of the following genetic disorders is most likely responsible for his symptoms?(Surgery Feb 2025)",
+    "options": {
+      "A": "Alport syndrome",
+      "B": "Usher syndrome",
+      "C": "Waardenburg syndrome",
+      "D": "Branchio-oto-renal (BOR) syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "True Regarding \"Codominance\" (Surgery Feb 2025)",
+    "options": {
+      "A": "Both Alleles express equally & Independent of Each Other in heterozygotes",
+      "B": "Both Alleles present on same chromosome",
+      "C": "Both Alleles present on different chromosome",
+      "D": "Only One Allele dominates"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Males have 20% more color blindness as compared to females because disease is: (Surgery Feb 2025)",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "X-linked recessive",
+      "D": "Y-linked"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "What is Allele? (Surgery Feb 2025)",
+    "options": {
+      "A": "Copy of gene at same locus",
+      "B": "Same genes at same locus",
+      "C": "Non alternative types of genes at same locus",
+      "D": "same gene at different locus",
+      "E": "non identical gene at different locus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "A child with hypermobile fingers and multiple fractures with new areas of Calcification. his uncle suffer from same condition diagnose is: (Surgery Feb 2025)",
+    "options": {
+      "A": "Osteogenesis imperfecta",
+      "B": "Achondroplasia",
+      "C": "Paget's disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "A 2 years old child presents with microcephaly, micrognathia, hypertelorism, palpebral folds, and Hypotonia. What is the type of karyotype present in this child?(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "45XO",
+      "B": "47XXY",
+      "C": "46XY",
+      "D": "46XX 5p deletion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "True Regarding \"Retinoblastoma\": (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "5% childhood tumours",
+      "B": "80% hereditary",
+      "C": "Giant cells on histology",
+      "D": "Typically Affects Adults in 4th Decade"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Rate of chromosomal abnormality in live births: (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Less than 1%",
+      "B": "1-5%",
+      "C": "5-10%",
+      "D": "10-15%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "A 10-year-old boy presents with hearing loss, renal failure, and syndactyly. Which of the following genetic disorders is most likely responsible for his symptoms?(Surgery Feb 2025)",
+    "options": {
+      "A": "Alport syndrome",
+      "B": "Usher syndrome",
+      "C": "Waardenburg syndrome",
+      "D": "Branchio-oto-renal (BOR) syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "What is the type of mutation in Li fraumeni syndrome(Radiology & Anesthesia Feb 2025)",
+    "options": {
+      "A": "RB gene",
+      "B": "MEN-1",
+      "C": "Tp53 inhibiting Apoptotic Function",
+      "D": "K-RAS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "2 years old child with history of recurrent fractures without trauma. Same history in other members of family. What is the inheritance of the disease?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Autosomal recessive",
+      "B": "Autosomal dominant",
+      "C": "X linked recessive",
+      "D": "Mitochondrial"
+    },
+    "correct_answer": "B"
+  }
+]

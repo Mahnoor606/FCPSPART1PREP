@@ -1,0 +1,4376 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Thoracic duct drains into which of the following?",
+    "options": {
+      "A": "Left brachiocephalic vein",
+      "B": "Right brachiocephalic vein",
+      "C": "Brachiocephalic trunk",
+      "D": "Junction of left subclavian & internal jugular vien",
+      "E": "Right Subclavian"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Conducting system of heart is located in which of following?",
+    "options": {
+      "A": "Sulcus terminalis",
+      "B": "Moderator band",
+      "C": "Sub epicardium",
+      "D": "Sub endocardium",
+      "E": "Left atrium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Posterior one third interventricular septum is supplied by:",
+    "options": {
+      "A": "RMA",
+      "B": "LAD",
+      "C": "LCX",
+      "D": "RCA",
+      "E": "LCA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "An emphysematous patient developed dullness on percussion note, hyper resonant chest, trachea shift to the opposite side, what investigation should be done?",
+    "options": {
+      "A": "ECG",
+      "B": "EEG",
+      "C": "Chest X-ray",
+      "D": "CBC",
+      "E": "Biopsy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Clinical significance of supernumerary ribs is which of following?",
+    "options": {
+      "A": "Compress Radial artery",
+      "B": "Compress Other ribs",
+      "C": "Compress Brachial Plexuses and Subclavian Vessels",
+      "D": "Compress Median Nerve",
+      "E": "Compress Axillary Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Content of Middle mediastinum is which of following?",
+    "options": {
+      "A": "Descending Aorta",
+      "B": "Hemiazygous",
+      "C": "Thymus",
+      "D": "Azygous",
+      "E": "Bifurcation of trachea"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A 3 years baby inhaled something after that he had SOB o/e breath sound on the right were normal while on left side they were absent CXR confirmed foreign body lodged in left lower bronchus, diagnosis?",
+    "options": {
+      "A": "Trachea deviated",
+      "B": "Situs inversus",
+      "C": "Left bronchus collapse",
+      "D": "Alveoli collapse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A 68 year old male has copious amounts of fluid in the left pleural cavity due to acute pleurisy. When you examine him as he sits up in bed (trunk upright), where would the fluid tend to accumulate in?",
+    "options": {
+      "A": "Costomediastinal recess",
+      "B": "Cupola",
+      "C": "Hilar reflection",
+      "D": "Middle mediastinum",
+      "E": "Costodiaphragmatic recess"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Female with heart disease downward traction of her AV valves cannot be made which structure is damaged:",
+    "options": {
+      "A": "Pectinate muscles",
+      "B": "Annulus fibrosis",
+      "C": "Septomarginal band",
+      "D": "Chorda tendineae",
+      "E": "Crista terminalis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Pericardiocentesis location for strawcolored fluid is which of following?",
+    "options": {
+      "A": "Caudal sternum region at medial end of 4th and 5th costal cartilage",
+      "B": "Left parasternal 3rd intercostal space",
+      "C": "Midclavicular line",
+      "D": "Midaxial line",
+      "E": "Right parasternal 2nd Intercostal space"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Descending thoracic artery begins at the lower border of:",
+    "options": {
+      "A": "T4",
+      "B": "T5",
+      "C": "L5",
+      "D": "L4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Surgeon performing tracheostomy on baby. He will care because there are chances of injury to which of following?",
+    "options": {
+      "A": "Left Brachiocephalic trunk",
+      "B": "Left Brachiocephalic vein",
+      "C": "Superior thyroid vein",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Internal Laryngeal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Coronary sinus drains how much coronary blood flow?",
+    "options": {
+      "A": "2/3rd of veins",
+      "B": "1/3rd of veins",
+      "C": "Half of blood",
+      "D": "Whole blood",
+      "E": "Less than 1/3rd"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Sinus Branch to SA Node is branch of which of following?",
+    "options": {
+      "A": "LCX",
+      "B": "RCA",
+      "C": "RCA",
+      "D": "LCA",
+      "E": "LAD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Women presented with Pericarditis pain that increase with respiration. Pain from fibrous and parietal pericardium carried by which of the following nerve?",
+    "options": {
+      "A": "Vagus",
+      "B": "Lower 6 intercostal nerve",
+      "C": "Phrenic nerve",
+      "D": "Upper intercostal nerve",
+      "E": "Internal thoracic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Right bundle branch of conducting system of the heart is present in:",
+    "options": {
+      "A": "Septomarginaltrabeculae",
+      "B": "Chorda tendinae",
+      "C": "Supraventricular crest",
+      "D": "Septal papillary muscles",
+      "E": "Christa terminalis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Patient is undergoing some surgery of spleen surgeon has to take care of costo diaphragmatic recess what is the level of Costodiaphragmatic recess?",
+    "options": {
+      "A": "T10 ICS midaxillary line",
+      "B": "T11 ICS midaxillary line",
+      "C": "T10 ICS midclavicularcular line",
+      "D": "T9 ICS mid clavicular line"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "What will be shown on PA view after barium meal and patient has esophageal constriction?",
+    "options": {
+      "A": "Arch of aorta",
+      "B": "Right crus of diaphragm",
+      "C": "Left crus of diaphragm",
+      "D": "Bronchi",
+      "E": "Trachea"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Sternal angle (Angle of Louis) at which vertebral level?",
+    "options": {
+      "A": "T2",
+      "B": "T4-5",
+      "C": "T6",
+      "D": "L1",
+      "E": "C8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "What is present in Right atrium?",
+    "options": {
+      "A": "Papillary muscle",
+      "B": "AV septum",
+      "C": "Chorda tendie",
+      "D": "Moderator band",
+      "E": "Septomarginal band"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Right crus of diaphragm are attached to:",
+    "options": {
+      "A": "L2",
+      "B": "L1-3",
+      "C": "L4",
+      "D": "L4-4",
+      "E": "S1-3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "In growing embryo, the mesothelium covering the lungs forms:",
+    "options": {
+      "A": "Pleuroperitoneal membrane",
+      "B": "Pleuropericardial membrane",
+      "C": "Parietal pleura",
+      "D": "Visceral layer of pleura",
+      "E": "Fibrous pericardium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A boy after blunt trauma to eye,Present to you with lower orbit fracture, crackling sound on palpation and blood accumulation diagnose is:",
+    "options": {
+      "A": "Orbital edema",
+      "B": "Surgical emphysema",
+      "C": "Foreign body",
+      "D": "Fracture bone pieces"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Branch of intercostal nerve is",
+    "options": {
+      "A": "Thoracic motor",
+      "B": "Peritoneal motor",
+      "C": "Peritoneal sensory",
+      "D": "Musculophrenic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Which of the following is more appropriate regarding Esophagus?",
+    "options": {
+      "A": "Upper 2/3rd Muscular Layer is Skeletal + Stratified Squamous Epithelium through out",
+      "B": "Lower Third has Simple Columnar Epithelium",
+      "C": "Stratified Squamous Epithelium through out",
+      "D": "Squamous cell Carcinoma common in lower 1/3rd"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Upper Esophageal Blood Supply:",
+    "options": {
+      "A": "Superior thyroid artery",
+      "B": "Inferior thyroid artery",
+      "C": "Deliac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Structure passing through esophageal opening of Diaphragm",
+    "options": {
+      "A": "Azygous Vein",
+      "B": "Thoracic Duct",
+      "C": "Phrenic nerve",
+      "D": "Right Vagus nerve",
+      "E": "Aorta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Phrenic Nerve Main Root Value:",
+    "options": {
+      "A": "C2",
+      "B": "C3",
+      "C": "C4",
+      "D": "C5"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Patient came with Gunshot injury to cervical region & difficulty in breathing, muscle damaged:",
+    "options": {
+      "A": "Trachea",
+      "B": "Diaphragm",
+      "C": "External Intercostal Muscle",
+      "D": "Internal Intercostal Muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Venous drainage of heart is mainly by:",
+    "options": {
+      "A": "Great Cardiac Vein",
+      "B": "Anterior Cardiac Vein",
+      "C": "Middle Cardiac Vein",
+      "D": "Coronary Sinus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Apex of heart blood supply:",
+    "options": {
+      "A": "Marginal Artery",
+      "B": "Anterior interventricular artery",
+      "C": "Circumflex Artery",
+      "D": "PAD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Right Ventricle characteristic feature is:",
+    "options": {
+      "A": "Pulmonary Trunk arises",
+      "B": "Aorta Arises",
+      "C": "Partial pressure of oxygen increases",
+      "D": "Partial pressure of CO2 decreases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Nerve lying lateral to trachea:",
+    "options": {
+      "A": "Recurrent Laryngeal Nerve",
+      "B": "Vagus Nerve",
+      "C": "External Laryngeal Nerve",
+      "D": "Internal Laryngeal Nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Location of SA Node:",
+    "options": {
+      "A": "Lower part of Atrium",
+      "B": "Upper Right Atrium",
+      "C": "Upper Left Atrium",
+      "D": "Close to Ventricles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Which vein drains directly into superior vena cava?",
+    "options": {
+      "A": "Azygous Vein",
+      "B": "Hemiazygous Vein",
+      "C": "Lumber Vein",
+      "D": "Sacral Vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Right border of heart is formed by:",
+    "options": {
+      "A": "Right Atrium",
+      "B": "Right Ventricle",
+      "C": "Left Atrium",
+      "D": "Left Ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Surgeon wants to know the anatomy of chest what's located in anterior mediastinum?",
+    "options": {
+      "A": "Aorta",
+      "B": "Azygous Vein",
+      "C": "Esophagus",
+      "D": "Thymus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Epicardium is:",
+    "options": {
+      "A": "Visceral Layer of Serous Pericardium",
+      "B": "Parietal layer of Serous Pericardium",
+      "C": "Parietal layer of Myocardium",
+      "D": "parietal layer of myocardium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Major supply of Interventricular septum:",
+    "options": {
+      "A": "Anterior Interventricular Artery",
+      "B": "Posterior Interventricular Artery",
+      "C": "Circumflex Artery",
+      "D": "RCA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "During surgery profuse bleeding from transverse cervical artery which of the following to be ligated:",
+    "options": {
+      "A": "Thyrocervical Trunk",
+      "B": "Aorta",
+      "C": "Vertebral artery",
+      "D": "Carotid Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Child aspirated peanut become suddenly cyanosed and start coughing most common region where foreign body gets stucked in?",
+    "options": {
+      "A": "Right superior lobe",
+      "B": "Right inferior lobe",
+      "C": "Left superior lobe",
+      "D": "Left inferior lobe",
+      "E": "Left inguinal"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Collateral branch of intercostal nerve:",
+    "options": {
+      "A": "Gives lateral cutaneous branch",
+      "B": "Runs in subcostal space",
+      "C": "Run in intervertebral space",
+      "D": "Supply muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A patient presented in semi-conscious condition with subclavian steal syndrome, blood supply to which artery is causing this condition:",
+    "options": {
+      "A": "Subclavian artery",
+      "B": "Vertebral artery",
+      "C": "Maxillary artery",
+      "D": "Facial artery",
+      "E": "External carotid artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "A 25 years old male encountered RTA diagnosed with fracture of ribs, which of the following is the site of a rib that could be fractured commonly:",
+    "options": {
+      "A": "Angle of the rib",
+      "B": "Body of the rib",
+      "C": "Neck of the rib",
+      "D": "Tubercle of the rib"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A person got a stab wound 3cm vertical on lateral right side of linea alba, initially he was fine but then developed hypotension & shock. Which vessel is most likely damaged:",
+    "options": {
+      "A": "IVC",
+      "B": "Superior mesenteric Artery",
+      "C": "Inferior Mesenteric Artery",
+      "D": "Abdominal Aorta",
+      "E": "Ileal branch of superior mesenteric artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Anterior Surface of heart is formed by:",
+    "options": {
+      "A": "Right Ventricle",
+      "B": "Left Ventricle",
+      "C": "Right Atrium",
+      "D": "Left Atrium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Which of the following is the direct branch of subclavian artery that take part in the shoulder joint anastomosis:",
+    "options": {
+      "A": "Dorsal scapular artery",
+      "B": "Suprascapular artery",
+      "C": "Thyrocervical trunk",
+      "D": "Thoraco-acromial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Which of the following is the origin of external oblique muscle:",
+    "options": {
+      "A": "Ribs 3 - 4",
+      "B": "Ribs 4 - 5",
+      "C": "Ribs 5 - 12",
+      "D": "Ribs 12"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "During thyroidectomy superior thyroid artery is ligated. The nerve likely to be injured:",
+    "options": {
+      "A": "External Laryngeal nerve",
+      "B": "Internal Laryngeal nerve",
+      "C": "Recurrent Laryngeal nerve",
+      "D": "Superior Laryngeal nerve",
+      "E": "Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Muscles of back are supplied by:",
+    "options": {
+      "A": "Dorsal rami",
+      "B": "Dorsal Primary rami",
+      "C": "Intercostal nerve",
+      "D": "Long thoracic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Which of the following arches over root of right lung?",
+    "options": {
+      "A": "Aorta",
+      "B": "IVC",
+      "C": "Azygous Vein",
+      "D": "Vagus Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Sympathetic beta adrenergic leads to which of the following?",
+    "options": {
+      "A": "Increase Airway resistance",
+      "B": "Decrease Airway resistance",
+      "C": "Increase Bronchoconstriction",
+      "D": "Decrease Heart Rate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Notching on CXR is seen in:",
+    "options": {
+      "A": "Aortic arch aneurysm",
+      "B": "Pre ductal coarctation of Aorta",
+      "C": "Post ductal coarctation of Aorta",
+      "D": "Bicuspid Aortic Valve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "After RTA with multiple ribs fracture which of the following must be the first treatment",
+    "options": {
+      "A": "Fluid Replacement",
+      "B": "Blood Replacement",
+      "C": "Platelets",
+      "D": "FFPs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Which of the following is present in posterior most opening of diaphragm?",
+    "options": {
+      "A": "IVC",
+      "B": "Azygous vein",
+      "C": "Aorta, thoracic duct & azygous vein",
+      "D": "Hemiazygous vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "The posterior most opening of diaphragm contains ATA (Aorta, Thoracic Duct & Azygous Vein).",
+    "options": {
+      "A": "Right Ventricle",
+      "B": "Left Ventricle",
+      "C": "Right Atrium",
+      "D": "Left Atrium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Which of the following is correct relation of phrenic nerve?",
+    "options": {
+      "A": "Left phrenic nerve descends anterior to the left lung root",
+      "B": "Right phrenic nerve descends posterior to the left lung root",
+      "C": "Phrenic nerve passes posterior to lung",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Which of the following structure does aorta compresses at Aortic hiatus?",
+    "options": {
+      "A": "Accessory vagus",
+      "B": "Esophagus",
+      "C": "IVC",
+      "D": "Azygous & thoracic duct"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Congenital diaphragmatic hernia occurs due to:",
+    "options": {
+      "A": "Absence of pleuroperitoneal membrane",
+      "B": "Incomplete pleuroperitoneal membrane",
+      "C": "Defective pleuroperitoneal membrane",
+      "D": "Defective pleuropericardial membrane"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Which of the following nerve is damaged during ligation of inferior thyroid artery?",
+    "options": {
+      "A": "External Laryngeal nerve",
+      "B": "Internal Laryngeal nerve",
+      "C": "Recurrent Laryngeal nerve",
+      "D": "Glossopharyngeal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Important finding at angle of Louis:",
+    "options": {
+      "A": "Opening of Azygous vein in SVC",
+      "B": "Opening of Azygous vein in IVC",
+      "C": "Joining of SVC with Hemiazygous vein",
+      "D": "Joining of IVC with Hemiazygous vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Commencement of trachea:",
+    "options": {
+      "A": "C3",
+      "B": "C4",
+      "C": "C5",
+      "D": "C6"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Posterior 1/3rd of interventricular septum artery accompanies which vein?",
+    "options": {
+      "A": "Great Cardiac Vein",
+      "B": "Middle Cardiac Vein",
+      "C": "Lesser Cardiac Vein",
+      "D": "Coronary Sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Thoracic aorta passes posterior to:",
+    "options": {
+      "A": "Root of left lung",
+      "B": "Root of right lung",
+      "C": "Behind IVC",
+      "D": "Behind Azygous Vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Which part of lung only have two (02) bronchopulmonary segments?",
+    "options": {
+      "A": "Right Upper Lobe",
+      "B": "Right Middle Lobe",
+      "C": "Right Lower Lobe",
+      "D": "Left Upper Lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Quiet breathing with increase AP diameter due to which of the following muscle?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External Intercostal muscle",
+      "C": "Internal Intercostal muscle",
+      "D": "Rectus Abdominis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Eventration of diaphragm occurs due to improper function of:",
+    "options": {
+      "A": "Dorsal mesentery of esophagus and pleuroperitoneal membrane",
+      "B": "Oesophagus mesentery of diaphragmos&pleuropericardial membrane",
+      "C": "Lateral muscular wall with pleuroperitoneal membrane",
+      "D": "Ventral mesentery of esophagus& lateral body wall."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Branch of thyrocervical trunk is",
+    "options": {
+      "A": "Suprascapular",
+      "B": "Internal thoracic",
+      "C": "Deep cervical",
+      "D": "Superior intercostal",
+      "E": "Vertebral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Interruption to cervical sympathetic chain resulted in Ptosis, Miosis&anhidrosis is due to",
+    "options": {
+      "A": "Horner Syndrome",
+      "B": "CN III damage",
+      "C": "CN VI damage",
+      "D": "Pons Lesion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Which cervical ganglion is located opposite to 2nd cervical vertebrae?",
+    "options": {
+      "A": "Superior Cervical Ganglion",
+      "B": "Inferior Cervical Ganglion",
+      "C": "Middle Cervical Ganglion",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "On percussion of posterior aspect of chest along the scapular line in quiet respiration, the resonance extends down the level of:",
+    "options": {
+      "A": "6th Rib",
+      "B": "8th Rib",
+      "C": "10th Rib",
+      "D": "12th Rib"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Which of the following is the level of Xiphoid process?",
+    "options": {
+      "A": "T7",
+      "B": "T8",
+      "C": "T9",
+      "D": "T10"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "First posterior intercostal vein drains into:",
+    "options": {
+      "A": "Superior vena cava",
+      "B": "Azygous Vein",
+      "C": "Brachiocephalic Vein",
+      "D": "Subclavian Vein",
+      "E": "Hemiazygous Vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Which of the following is Epicardium blood supply?",
+    "options": {
+      "A": "Pericardiophrenic Artery",
+      "B": "Coronary Artery",
+      "C": "Carotid Artery",
+      "D": "Coronary Sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Structure which lies anterior to trachea in thoracic cavity:",
+    "options": {
+      "A": "Arch of Aorta",
+      "B": "Thoracic Duct",
+      "C": "Jugular Vein",
+      "D": "Esophagus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Infection of neck in front of pretracheal fascia will spread to:",
+    "options": {
+      "A": "Anterior mediastinum",
+      "B": "Superior mediastinum",
+      "C": "Inferior Mediastinum",
+      "D": "Posterior Mediastinum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Esophageal opening is located at which of the following:",
+    "options": {
+      "A": "T8",
+      "B": "T10",
+      "C": "T12",
+      "D": "L1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Which of the following is root value of phrenic nerve?",
+    "options": {
+      "A": "C3,4,5",
+      "B": "C2,3,4",
+      "C": "C3,4",
+      "D": "C1,2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Stony dull percussion note in found in which of the following?",
+    "options": {
+      "A": "Pneumoniae",
+      "B": "Pleural effusion",
+      "C": "Normal Lungs",
+      "D": "Pnuemo"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Ligation of thyrocervical trunk, area still perfuse due to",
+    "options": {
+      "A": "Superior thyroid",
+      "B": "Middle thyroid",
+      "C": "Suprascapular",
+      "D": "transverse cervical"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Phrenic nerve avulsion at its origin will lead to:",
+    "options": {
+      "A": "Loss of sensation of central tendon of Diaphragm",
+      "B": "Hemi diaphragm paralysis",
+      "C": "Loss of respiratory reflex",
+      "D": "Loss of respiration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Phrenic nerve avulsion at its origin will lead to:Hemi diaphragm sensory loss > Hemi diaphragm paralysis > Central tendon sensation lost.",
+    "options": {
+      "A": "T4",
+      "B": "T10",
+      "C": "T12",
+      "D": "L1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Patient presents with red face and loss of sweating function. Which nerve supply is damaged?",
+    "options": {
+      "A": "Cervical sympathetic",
+      "B": "Lesser splanchnic",
+      "C": "Greater splanchnic",
+      "D": "Least splanchnic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "The accessory cervical rib is the outgrowth of which cervical vertebra:",
+    "options": {
+      "A": "C6",
+      "B": "C7",
+      "C": "C5",
+      "D": "C8",
+      "E": "T1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Conducting system of the heart comprises of:",
+    "options": {
+      "A": "Nicotinic fibers",
+      "B": "Cholinergic fibers",
+      "C": "Sympathetic fibers",
+      "D": "Modified cardiac tissue",
+      "E": "Adrenergic fibers"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Trachea is descending in superior mediastinum, which structure runs to its right side?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Common Carotid Artery",
+      "C": "Arch of aorta",
+      "D": "Descending aorta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "The initial structure of the lungs seen on bronchoscopy:",
+    "options": {
+      "A": "Anterior division of the Left upper lobe",
+      "B": "Anterior division of the Right upper lobe",
+      "C": "Posterior division of the right upper lobe",
+      "D": "Posterior division of the right middle lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Posterior 1/3rd blood supply of heart:",
+    "options": {
+      "A": "LCA",
+      "B": "RCA",
+      "C": "LAD",
+      "D": "Marginal Artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "An emphysema patient presents with decrease air entry on left side and trachea is shifted to the left. The investigation of choice in her will be:",
+    "options": {
+      "A": "CT Scan",
+      "B": "MRI",
+      "C": "CXR",
+      "D": "Lung biopsy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Which of the following arteries lie behind the sternum?",
+    "options": {
+      "A": "Carotid artery",
+      "B": "Subclavian artery",
+      "C": "Internal thoracic artery",
+      "D": "Intercostal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "A 02 years old child presented with a midline swelling just below the hyoid bone. The swelling was noticed at 03 months of age and is slowly increasing in size, with no movements on protrusion of tongue, the condition most likely is:",
+    "options": {
+      "A": "Accessory thymic tissue",
+      "B": "Branchial cyst",
+      "C": "Craniphangioma",
+      "D": "Ectopic thyroid gland",
+      "E": "Thyroglossal duct cyst"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Anteroposterior radiograph of heart will take part in it's formation:",
+    "options": {
+      "A": "SVC",
+      "B": "Right ventricle",
+      "C": "Left ventricle",
+      "D": "Aorta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "What is passing through groove of mediastinum on left side?",
+    "options": {
+      "A": "Aorta",
+      "B": "Esophagus",
+      "C": "IVC",
+      "D": "Azygous vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A semiconscious patient aspirates while lying on his back the segment of the lung most likely affected would be:",
+    "options": {
+      "A": "Anterior segment of right upper lobe",
+      "B": "Apical segment of right lower lobe",
+      "C": "Posterior segment of left upper lobe",
+      "D": "Base of Both Lungs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "A patient is having pleural effusion from where pleural drainage should be done?",
+    "options": {
+      "A": "Upper border of 9th intercostal space at mid axillary line.",
+      "B": "Lower border of 9th intercostal space at mid axillary line.",
+      "C": "Lower border of 9th intercostal space at mid clavicular line.",
+      "D": "Upper border of 9th intercostal space at mid clavicular line.",
+      "E": "Diaphragmatic recess."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Dilatation of which of the following structure causes dysphagia by compressing on the esophagus?",
+    "options": {
+      "A": "LA",
+      "B": "Aortic arch",
+      "C": "Left bronchus",
+      "D": "Trachea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Neurovascular bundle lies at",
+    "options": {
+      "A": "Upper border of rib",
+      "B": "Lower border of rib",
+      "C": "Lower end of intercostal space",
+      "D": "Between external and internal intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Intercostal-brachial artery originates from which of following?",
+    "options": {
+      "A": "Arch of aorta",
+      "B": "Internal thoracic artery",
+      "C": "Posterior lateral portion of descending aorta",
+      "D": "Ascending Aorta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Costodiaphragmatic recess is present between?",
+    "options": {
+      "A": "Costal and diaphragmatic pleura",
+      "B": "Costal & visceral pleura",
+      "C": "Costal & Diaphragm",
+      "D": "Diaphragm & Ribs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Circumflex artery supplies which of following?",
+    "options": {
+      "A": "Right Atrium",
+      "B": "Right Ventricle",
+      "C": "Left ventricle and anterolateral papillary muscle",
+      "D": "Anterior surface of heart"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Which of following is single motor supply muscle?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "Mylohyoid",
+      "C": "External intercostal muscle",
+      "D": "Levatorcostorum",
+      "E": "External intercostal muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Blood supply of middle of oesophagus:",
+    "options": {
+      "A": "Superior thyroid",
+      "B": "Descending thoracic aorta",
+      "C": "inferior thyroid",
+      "D": "Left gastric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "SA node is supplied usually by:",
+    "options": {
+      "A": "Left anterior descending artery",
+      "B": "Right coronary artery",
+      "C": "Circumflex artery",
+      "D": "Posterior interventricular"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "What is site of tracheostomy?",
+    "options": {
+      "A": "C2 ring",
+      "B": "C3 ring",
+      "C": "C4 ring",
+      "D": "C5 ring"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Patient having ST elevation in lead 2 and complete heart block vessel involve",
+    "options": {
+      "A": "RCA",
+      "B": "Right marginal artery",
+      "C": "LAD",
+      "D": "LCA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Regarding pulmonary varix:",
+    "options": {
+      "A": "Opens into left atrium",
+      "B": "Opens into right atrium",
+      "C": "Opens into left ventricle",
+      "D": "Opens into right ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Three segments apical, anterior and posterior in which lobe of lung",
+    "options": {
+      "A": "Right upper",
+      "B": "Right middle",
+      "C": "Right inferior",
+      "D": "Left superior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "30 years old patient done with esophagectomy , stomach is mobilized to upper portion to anastomose with pharynx .Which artery is responsible for stomach supply now",
+    "options": {
+      "A": "Left gastric artery",
+      "B": "Right gastroepiploic",
+      "C": "Right gastrioepiploic",
+      "D": "Splenic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "During needle thoracotomy, what structure damaged first?",
+    "options": {
+      "A": "IC muscle",
+      "B": "IC nerve",
+      "C": "IC vein",
+      "D": "IC artery",
+      "E": "Internal thoracic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Right coronary artery after giving off marginal branch supplies:",
+    "options": {
+      "A": "AV node",
+      "B": "SA node",
+      "C": "Left atrium",
+      "D": "Left ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Left circumflex blocked. What affected?",
+    "options": {
+      "A": "Left atrium and left ventricle",
+      "B": "Right atrium",
+      "C": "Right ventricle",
+      "D": "Right atrium and right ventricle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Thoracic aorta passes posterior to:",
+    "options": {
+      "A": "Median arcuate ligament",
+      "B": "Lateral arcuate ligament",
+      "C": "Medial arcuate ligament",
+      "D": "Phrenicocolic ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Stab injury at 6th costal cartilage on the right side of the sternum will pierce which of the following structure?",
+    "options": {
+      "A": "Right Atrium",
+      "B": "IVC",
+      "C": "SVC",
+      "D": "Right Ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Posterior mediastinal tumour can compress:",
+    "options": {
+      "A": "Thoracic Aorta",
+      "B": "Thymu",
+      "C": "Jugular vein",
+      "D": "Azygous Vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Pregnant lady is avoided to lay on right lateral side due to compression of:",
+    "options": {
+      "A": "Aorta",
+      "B": "Azygous Vein",
+      "C": "IVC",
+      "D": "Ovaries",
+      "E": "SVC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "When measuring the CVP the reference point which best correlates to the right atrium is?",
+    "options": {
+      "A": "Anterior axillary line 4th intercostals space",
+      "B": "Midaxillary line 3th intercostals space",
+      "C": "Manubriosternal junction",
+      "D": "Midaxillary line 5th intercostals space"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Cardiac output measure by dye dilution method and dye should be measure in:",
+    "options": {
+      "A": "Right atrium",
+      "B": "Aorta",
+      "C": "Saphenous vein",
+      "D": "Pulmonary artery."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Pain from lower inferior segment of diaphragm is carried by",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Subcostal nerves",
+      "C": "Intercostal nerve",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "The subclavian vein joins the internal jugular vein to form the brachiocephalic vein at which of the following structures?",
+    "options": {
+      "A": "The outer border of first rib",
+      "B": "Behind the sternal end of clavicle",
+      "C": "Inner border of rib",
+      "D": "In front of clavicle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Narrowest point in pediatric airway:",
+    "options": {
+      "A": "cricoid",
+      "B": "thyroid",
+      "C": "trachea",
+      "D": "false vocal cord",
+      "E": "true vocal cords"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Bundle of His is supplied by:",
+    "options": {
+      "A": "RCA",
+      "B": "LAD",
+      "C": "Rt marginal artery",
+      "D": "LCA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Lymphatic drainage of thyroid:",
+    "options": {
+      "A": "Deep cervical lymph nodes",
+      "B": "Axillary lymph nodes",
+      "C": "Superficial cervical lymph nodes",
+      "D": "Pre tracheal lymph nodes",
+      "E": "Paratracheal lymph nodes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "About Esophagus:",
+    "options": {
+      "A": "Passes through right crus of diaphragm",
+      "B": "Covered by peritoneum on anterior & right surface",
+      "C": "Grooves posterior surface of liver",
+      "D": "Passes through left crus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Structure that passes through posterior mediastinum:",
+    "options": {
+      "A": "Descending Thoracic aorta",
+      "B": "SVC",
+      "C": "Thymus",
+      "D": "phrenic nerves",
+      "E": "Heart"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Nerve Passes infront of pulmonary artery:",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Bronchus",
+      "C": "Recurent laryngeal nerve",
+      "D": "Pulmonary veins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Superior parathyroid gland:",
+    "options": {
+      "A": "Lies at middle of posterior border/ surface of thyroid lobe at level of 1st tracheal ring",
+      "B": "More variable in position",
+      "C": "Just anterior to pretracheal fascia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Peripheral nerve damaged, nerve will regenerate at the rate of:",
+    "options": {
+      "A": "0.1 mm/day",
+      "B": "0.3 mm/day",
+      "C": "10mm/day",
+      "D": "0.4 mm/ day",
+      "E": "1.2 mm/day"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Ganglion found at T7 vertebra:",
+    "options": {
+      "A": "Pteregopalatine",
+      "B": "Geniculate",
+      "C": "Thoracocervical",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Normal resonance at",
+    "options": {
+      "A": "Right 2nd to 4th mid curicular line",
+      "B": "Right 3rd to 4th mid clavicular line",
+      "C": "Right 4th to 5th mid clavicular line",
+      "D": "Right 5th to 6th mid clavicular line"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "A needle piercing mid-axillary line will not damage:",
+    "options": {
+      "A": "Levator Costrum",
+      "B": "Internal intercostal muscle",
+      "C": "External intercostal muscle",
+      "D": "Innermost intercostal muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "About coronary circulation which is true:",
+    "options": {
+      "A": "Veins have similar names with arteries",
+      "B": "Arteries runs in respective atrioventricular grooves",
+      "C": "Anastornosis occur at arteriorlar level"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Which of the following veins drains into coronary sinus and itself becomes part of coronary sinus?",
+    "options": {
+      "A": "Great cardiac vein",
+      "B": "Middle cardiac vein",
+      "C": "Small carfiacvein",
+      "D": "Azygousvien",
+      "E": "Hemizygousvien"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Shoulder pain referred from pleura:",
+    "options": {
+      "A": "C3 C4 C5",
+      "B": "C2 C3 C4",
+      "C": "C3 C4",
+      "D": "C5 C6 C7",
+      "E": "C6 C7 C8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Both sides of 5th posterior intercostal spaces are supplied by:",
+    "options": {
+      "A": "Thoracic aorta",
+      "B": "Internal thoracic artery",
+      "C": "Anterior intercostal artery",
+      "D": "Musculophrenictrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Muscle which opens glottis:",
+    "options": {
+      "A": "Posterior Cricoarytenoid",
+      "B": "Lateral Cricoarytenoid",
+      "C": "Transverse arytenoid",
+      "D": "Cricothyroid",
+      "E": "Thyroarytenoid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "About thoracic aorta:",
+    "options": {
+      "A": "Starts at T4 on left side",
+      "B": "Supply lungs, esophagus & pericardium",
+      "C": "Supplies last 3 intercostal spaces",
+      "D": "Supplies first 9 intercostal spaces"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Land mark of thyroid gland is at the level of",
+    "options": {
+      "A": "C3 to T1",
+      "B": "C5 to T1",
+      "C": "C6 to T7",
+      "D": "C6 to T8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Medial arcuate ligament formed by",
+    "options": {
+      "A": "Psoas fascia",
+      "B": "Quadratus lumborum",
+      "C": "lumbar fascia",
+      "D": "Diaphragm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Thyroglossal cyst common location:",
+    "options": {
+      "A": "Above sternum",
+      "B": "Thyrohyoid region",
+      "C": "Intralingual",
+      "D": "Suprahyoid",
+      "E": "B (if infrahyoid prefer that)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Heart shaped vertebrae:",
+    "options": {
+      "A": "Thoracic vertebrae",
+      "B": "Lumber vertebrae",
+      "C": "Sacral vertebrae",
+      "D": "Coccygeal vertebrae"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Surgeon operated lady for enlarged thyroid, he ligated the superior and inferior thyroid artries as close to pole as possible. After 2 weeks she presented with hoarseness. Most likely cause could be injury to",
+    "options": {
+      "A": "Recurrent laryngeal nerve",
+      "B": "Internal laryngeal nerve",
+      "C": "External laryngeal nerve",
+      "D": "Internal thoracic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "About thyroid gland:",
+    "options": {
+      "A": "Three paired arteries",
+      "B": "Venous drainage to brachiocephalic and subclavian vein",
+      "C": "Covered by prevertebral fascia",
+      "D": "Isthmus is infront of cricoid cartilage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Regarding Bronchopulmonary segment:",
+    "options": {
+      "A": "Are not connected with each other",
+      "B": "Aerated by primary bronchioles",
+      "C": "Aerated by secondary bronchioles",
+      "D": "Aerated by tertiary bronchus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Deep cervical artery is a branch of:",
+    "options": {
+      "A": "Thyrocervical trunk",
+      "B": "Costocervical trunk",
+      "C": "vertebral artrrey",
+      "D": "Internal thoracic artrey",
+      "E": "Forsal scapular artrey"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Which of the following is branch of thyrocervical trunk",
+    "options": {
+      "A": "Inferior thyroid artery",
+      "B": "Internal thoracic artrey",
+      "C": "Vertebral artrey",
+      "D": "Superior intercostal artrey",
+      "E": "Deep cervical artrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Thymus:",
+    "options": {
+      "A": "Rich in lymphocytes",
+      "B": "Recedes after birth",
+      "C": "Develop from 3rd and 4th pharyngeal pouches",
+      "D": "Develop from 1st pharangeal pouch"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Anterior intercostal arteries which supply first 6 spaces are branches of",
+    "options": {
+      "A": "Internal thoracic artrey",
+      "B": "Musculophrenic artrey",
+      "C": "Superior intercostal",
+      "D": "Thoracic aorta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Heavy bleeding in tracheostomy due to:",
+    "options": {
+      "A": "A vein which drains into jugular vein",
+      "B": "Inferior thyroid artery",
+      "C": "Due to isthmus",
+      "D": "left gastric artrey"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Major penetrating injury to 4th intercostal space just on left side of sternum will damage:",
+    "options": {
+      "A": "Right atrium",
+      "B": "Intercostal muscle",
+      "C": "Intercostal membrane",
+      "D": "Right ventricle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Regarding intercostal nerves:",
+    "options": {
+      "A": "Only supply skin",
+      "B": "12 in number",
+      "C": "Supply only intercostal muscles",
+      "D": "Associated with sympathetic chain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Size of right bronchus",
+    "options": {
+      "A": "2.5 cm",
+      "B": "3.5 cm",
+      "C": "5cm",
+      "D": "6 cm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Hyoid bone level",
+    "options": {
+      "A": "C2",
+      "B": "C3",
+      "C": "C4",
+      "D": "C5",
+      "E": "C6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Posterior surface of heart is supplied by how many arteries:",
+    "options": {
+      "A": "Usually two in numbers",
+      "B": "Usually three in numbers",
+      "C": "Ant descending supply anterior surface",
+      "D": "Interventricular artery",
+      "E": "Right coronary artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Structure opens into right atrium ,except",
+    "options": {
+      "A": "SVC",
+      "B": "IVC",
+      "C": "anterior cardiac veins",
+      "D": "Coronary sinus",
+      "E": "right pulmonary veins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "If root of left lung is injured which structure will be spared?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Azygous vein",
+      "C": "Phrenic nerve",
+      "D": "Pulmonary ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Vagal stimulation of the heart causes:",
+    "options": {
+      "A": "Increased heart rate",
+      "B": "Increase PR interval",
+      "C": "Increase force of heart contraction",
+      "D": "Increased cardiac output"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "30 yrs old person has stab wound on right side of chest. What will happen?",
+    "options": {
+      "A": "Ipsilateral lung collapse and ipsilateral chest wall spring out",
+      "B": "Ipsilateral lung collapse and contralateral chest wall collapase",
+      "C": "No change in chest wall",
+      "D": "Contralateral lung collapse and ipsilateral chest wall collapase",
+      "E": "Ipsilateral lung collapse and contralateral spring out"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "In the chest wall, neurovascular bundle lies between:",
+    "options": {
+      "A": "External & internal intercostal muscles",
+      "B": "Internal & innermost intercostal muscles",
+      "C": "External and innermost intercostal muscles",
+      "D": "All of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Blood supply of thymus:",
+    "options": {
+      "A": "Inferior thyroid artery",
+      "B": "Costocervical trunk",
+      "C": "Thyrocervical trunk",
+      "D": "subclavian artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A patient with Pleural Effusion.On standing, You will see effusion in:",
+    "options": {
+      "A": "Costodiaphragmatic recess",
+      "B": "Cardiac Notch",
+      "C": "Oblique fissure",
+      "D": "Horizontal Fissure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "With superior thyroid, which nerve lies:",
+    "options": {
+      "A": "Recurrent laryngeal",
+      "B": "External laryngeal nerve",
+      "C": "Internal",
+      "D": "Juglar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Transverse diameter of rib cage:",
+    "options": {
+      "A": "Diaphragm",
+      "B": "Bucket handle movement",
+      "C": "Pump handle movement",
+      "D": "Joint movement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Patient post thyroidectomy. Hoarseness of voice. Loosening of vocal cords. Damage to:",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Post cricoaretynoid",
+      "C": "Thyroarytenoid",
+      "D": "Lateral coricoarytenoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Apex of lung reach:",
+    "options": {
+      "A": "2.5 cm above sternoclavicular",
+      "B": "4 cm above sternoclavicular joint",
+      "C": "2.5 cm above mid clavicle joint",
+      "D": "4 cm above mid clavicle joint"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Partial thyroidectomy done carefully to preserve which structure posteriorly:",
+    "options": {
+      "A": "Parathyroid gland",
+      "B": "Recurrent laryngeal nerve",
+      "C": "Superior thyroid artery",
+      "D": "inferior thyroid artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Isthmus of thyroid is situated over which tracheal rings",
+    "options": {
+      "A": "1, 2, 3",
+      "B": "2, 3, 4",
+      "C": "1, 2",
+      "D": "2, 3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Patient after posterior thyroidectomy develops hoarseness of voice. Examination reveals tense vocal cords. Which of the following is most likely damaged?",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Post cricoaretynoid",
+      "C": "Lateral coricoarytenoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "An accessory cervical rib arising from transverse process of cervical vertebrae may cause damage to:",
+    "options": {
+      "A": "C6",
+      "B": "C7",
+      "C": "C8",
+      "D": "T1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "A man was involved in an RTA with multiple rib fractures. He has difficulty in breathing. You notice that his abdomen is moving more during breathing. Which of the muscle is helping him breathe?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External intercostal",
+      "C": "Internal intercostal",
+      "D": "Internal intercostal",
+      "E": "Transverses thoracic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "What is the length of left bronchus?",
+    "options": {
+      "A": "2.5cm",
+      "B": "3cm",
+      "C": "5mm",
+      "D": "5cm"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Thoracic duct block causes:",
+    "options": {
+      "A": "Chylopericardium",
+      "B": "Hemopericardium",
+      "C": "Chylothorax",
+      "D": "Dependent edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "In 10 years old boy Thymus:",
+    "options": {
+      "A": "Remains as Single Lobe",
+      "B": "Extends from inferior border of thyroid to 4th Cervical",
+      "C": "Supplied by superior thyroid artery",
+      "D": "Supplied by RLN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Gall bladder pain over neck due to:",
+    "options": {
+      "A": "Sensory supply from C10 dermatome",
+      "B": "Sensory supply from T10 dermatome",
+      "C": "Sensory supply from splanchnic",
+      "D": "Sensory supply from T12 dermatome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Vagus nerve passes through:",
+    "options": {
+      "A": "Oesophageal opening",
+      "B": "Caval opening",
+      "C": "Aortic opening",
+      "D": "From central tendon of diaphragm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Phrenic nerve near its origin passes anterior to which muscle:",
+    "options": {
+      "A": "Scalene anterior",
+      "B": "Scalene Medius",
+      "C": "Sternocleidomastoid",
+      "D": "Scalene posterior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Right main bronchus as compared to left:",
+    "options": {
+      "A": "More wider",
+      "B": "More prone to obstruction by foreign body",
+      "C": "Oblique",
+      "D": "more horizontal",
+      "E": "more longer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Bifurcation of trachea at vertebral level?",
+    "options": {
+      "A": "C6",
+      "B": "T4-T5",
+      "C": "C7-T1",
+      "D": "T5 - T6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Upper fibers of external intercostal interdigitate with?",
+    "options": {
+      "A": "Rectus abdominis",
+      "B": "Serratus anterior",
+      "C": "Latissmusdorsi",
+      "D": "Sclane anterior"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "What is true about Broncho pulmonary segment?",
+    "options": {
+      "A": "3,2,5",
+      "B": "3,4,5",
+      "C": "3,5,6",
+      "D": "2,3,4",
+      "E": "1,2,3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Which one is False Rib?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7",
+      "E": "8"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "During development T lymphocyte are protected from autoimmune destruction by",
+    "options": {
+      "A": "Blood thymus barrier",
+      "B": "Protected by hassles corpuscles",
+      "C": "Plasma cells",
+      "D": "Blood brain barrier"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "A person got infection. Pus in paravertebral fascia is from",
+    "options": {
+      "A": "Subarachnoid space",
+      "B": "Pterygo palatine fossa",
+      "C": "Infratemporal fossa",
+      "D": "Para pharyngeal space"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Bronchogenic cyst is present in which compartments of mediastinum?",
+    "options": {
+      "A": "Anterior",
+      "B": "Posterior",
+      "C": "Medial",
+      "D": "Middle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Child with absent breath sounds and have a portion of intestine in:",
+    "options": {
+      "A": "Abdominal wall defect",
+      "B": "Hiatial hernia",
+      "C": "Inguinal hernia",
+      "D": "Pleuroperitoneal defect"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Maximum two point discrimination distance is present in:",
+    "options": {
+      "A": "Lips",
+      "B": "Scapula",
+      "C": "Leg",
+      "D": "Hand"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "IVC blocked upto Azygous vein dilation will be in:",
+    "options": {
+      "A": "Right ascending lumbar and right subcostal vein",
+      "B": "Subcostal vein",
+      "C": "Ascending lumbar vein",
+      "D": "Azygous vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Pericardiophrenic artery is branch of:",
+    "options": {
+      "A": "Phrenic artery",
+      "B": "Intercostal artery",
+      "C": "Internal thoracic artery",
+      "D": "Superior epigastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Muscle which increases lateral chest diameter during quite breathing?",
+    "options": {
+      "A": "Serratus anterior",
+      "B": "Sternocleidomastoid",
+      "C": "External intercostal",
+      "D": "Trapezius"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Gastric content in supine position aspiration will lodge in:",
+    "options": {
+      "A": "Right lower lobe",
+      "B": "Right upper lobe",
+      "C": "Right posterior lobe",
+      "D": "Left Posterior lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Moderator band is found in:",
+    "options": {
+      "A": "Right atrium",
+      "B": "Right ventricle",
+      "C": "Left atrium",
+      "D": "Left ventricle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Which of the following are floating ribs?",
+    "options": {
+      "A": "11th and 2nd",
+      "B": "6th",
+      "C": "10th",
+      "D": "10 - 12",
+      "E": "11 - 12"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Lateral wall of heart blood supply:",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "LCX",
+      "D": "Marginal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Lower 9 posterior intercostal arteries are the branches of:",
+    "options": {
+      "A": "Arch of aorta",
+      "B": "Decending aorta",
+      "C": "Throcovical trunk",
+      "D": "Suprascapular artrey"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "SA node is supplied by which nerve",
+    "options": {
+      "A": "Right vagus nerve",
+      "B": "Sympathetic supply via cardiac plexus",
+      "C": "Parasympathetic via cardiac plexus",
+      "D": "Sympathetic via vagal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Median arcuate ligament formed from which structure",
+    "options": {
+      "A": "Dorsal mesentry",
+      "B": "Crura of diaphragm",
+      "C": "Stomodeum",
+      "D": "Neural crest cell"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Pain in pericarditis is due to?",
+    "options": {
+      "A": "Long thoracic nerve",
+      "B": "Intercostal nerves",
+      "C": "Phrenic nerve",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Hilum of the lung is recognized by:",
+    "options": {
+      "A": "Pulmonary ligament",
+      "B": "Costomediastinal recess",
+      "C": "Location of pulmonary artery and veins entering superior and anterior to bronchus",
+      "D": "The point where trachea bifurcates"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Pulmonary bronchi are supplied by bronchial and pulmonary arteries, which of the following are supplied by pulmonary arteries?",
+    "options": {
+      "A": "Parietal pleura",
+      "B": "Visceral pleura",
+      "C": "Parenchyma of lung",
+      "D": "Alveoli"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Patient IVC blocked just above the emergence of azygous vein,Where will blood divert?",
+    "options": {
+      "A": "Left gastric vein",
+      "B": "Hepatic vein",
+      "C": "Azygous vein",
+      "D": "Splenic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Anatomical location of apex of the heart:",
+    "options": {
+      "A": "4th intercostal space in midclavicular line",
+      "B": "5th intercostal space in midclavicular line",
+      "C": "5th right intercostal space in midclavicular line",
+      "D": "8-9 cm to the left of midline in the 5th intercostals space"
+    },
+    "correct_answer": "B"
+  }
+,
+
+  {
+    "mcq_number": 201,
+    "question_text": "Pure phrenic innervation to which part of pleura?",
+    "options": {
+      "A": "Diaphragmatic pleura",
+      "B": "Mediastinal pleura",
+      "C": "Costal pleura",
+      "D": "Whole diaphragm",
+      "E": "Cervical pleura"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Which of the following lymphoid structures does not contain lymph nodules?",
+    "options": {
+      "A": "Spleen",
+      "B": "Lymph node",
+      "C": "Thymus",
+      "D": "Peyers patches"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Relation of right vagus nerve with trachea while entering:",
+    "options": {
+      "A": "Direct contact",
+      "B": "Separated by recurrent laryngeal nerve",
+      "C": "Azygos vein",
+      "D": "Separated by phrenic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "AV node blood supply by:",
+    "options": {
+      "A": "LCA",
+      "B": "RCA",
+      "C": "LADA",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Esophagus in thoracic area constricted:",
+    "options": {
+      "A": "Due to arch of aorta",
+      "B": "Left bronchus",
+      "C": "Left crus of diaphragm",
+      "D": "Bronchi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Eparterial Bronchus supplies to:",
+    "options": {
+      "A": "Right superior lobe",
+      "B": "Right inferior lobe",
+      "C": "Right middle lobe",
+      "D": "Left lower lobe",
+      "E": "Left upper lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Following Vein opens into right atrium:",
+    "options": {
+      "A": "Anterior cardiac vein",
+      "B": "Venae cordisminimi",
+      "C": "Middle cardiac vein",
+      "D": "Great cardiac vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Muscles used in quite inspiration:",
+    "options": {
+      "A": "Rectus Abdominus",
+      "B": "External Intercostal muscles",
+      "C": "External Oblique",
+      "D": "Internal Intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Which structure is damaged when needle is inserted in lower border of rib?",
+    "options": {
+      "A": "Nerve",
+      "B": "Muscle",
+      "C": "Vein",
+      "D": "Artery",
+      "E": "Lymphatic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "A man in RTA had fractured medial side of clavicle pressing posteriorly on right sternoclavicular joint. Damage to which nearby structure will be done?",
+    "options": {
+      "A": "SVC",
+      "B": "Trachea",
+      "C": "Esophagus",
+      "D": "Aorta",
+      "E": "Heart"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Right Bronchial artery arises from thoracic aorta at:",
+    "options": {
+      "A": "Second right intercostal space",
+      "B": "Second left intercostal space",
+      "C": "Right 3rd Posterior intercostal space",
+      "D": "5th intercostal space"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Muscle attached posteriorly to the lateral arcuate ligament of diaphragm",
+    "options": {
+      "A": "Quadratus lumborum",
+      "B": "Piriform",
+      "C": "Aorta",
+      "D": "Psoas",
+      "E": "illius"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Phrenic nerve supply mediastinal and diaphragmatic pleura and damage results in paralysis of diaphragm. Nerve is formed of which of the following?",
+    "options": {
+      "A": "C6",
+      "B": "C5",
+      "C": "C4",
+      "D": "C3",
+      "E": "C7"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Pericardium is",
+    "options": {
+      "A": "Visceral layer of fibrous pericardium",
+      "B": "Parietal layer of Serous Pericardium",
+      "C": "Visceral layer of Serous Pericardium",
+      "D": "Present between Fibrous and Visceral layer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Origin of inferior vena cava level is",
+    "options": {
+      "A": "L5",
+      "B": "L3",
+      "C": "L1",
+      "D": "T5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Thoracic duct drains into:",
+    "options": {
+      "A": "Right brachiocephalic vein",
+      "B": "Left brachiocephalic vein",
+      "C": "Celiac trunk",
+      "D": "Left atrium",
+      "E": "Junction of SVC and Azygous vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Aortic opening passes through which vertebral level on diaphragm?",
+    "options": {
+      "A": "T8",
+      "B": "T10",
+      "C": "L5",
+      "D": "T12",
+      "E": "L2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Absence of cartilage in respiratory and terminal ducts differentiates it from which of the following:",
+    "options": {
+      "A": "Conducting bronchioles",
+      "B": "Terminal bronchioles",
+      "C": "Trachea",
+      "D": "Alveolar duct",
+      "E": "Alveolar septum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Cutaneous branches of cervical plexus include",
+    "options": {
+      "A": "Lesser occipital and greater auricular",
+      "B": "Greater occipital",
+      "C": "Greater and lesser occipital",
+      "D": "Lesser auricular and greater Occipital"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "A patient with bronchogenic carcinoma posterior to left lung hilum which structure is likely to be damaged?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Vagus nerve",
+      "C": "Esophagus",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Brachiocephalic trunk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "In a normal person, which muscle is involved in forced expiration?",
+    "options": {
+      "A": "External intercostal",
+      "B": "Internal intercostal",
+      "C": "Diaphragm",
+      "D": "Rectus abdominis",
+      "E": "Elastic recoil"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Emboli in venous circulation will Lodge in:",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary artery branches",
+      "C": "Kidney",
+      "D": "Heart",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Xiphisternum is at level",
+    "options": {
+      "A": "At vertebral level T10",
+      "B": "At vertebral level T9",
+      "C": "At vertebral level T8",
+      "D": "At vertebral level T11"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Septomarginal band is present in",
+    "options": {
+      "A": "Left atrium",
+      "B": "Right ventricle",
+      "C": "Left ventricle",
+      "D": "Atrial septum",
+      "E": "Ventricle septum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Diaphragmatic pleura supplied by which of the following?",
+    "options": {
+      "A": "Phrenic",
+      "B": "Phrenic and Intercostal",
+      "C": "Intercostal",
+      "D": "Vagus",
+      "E": "Sixintercostal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Regarding esophageal true is:",
+    "options": {
+      "A": "Upper 1/3rd has striated skeletal muscle",
+      "B": "Esophagus is having Stratified Squamous",
+      "C": "1/3rd has Squamous epithelium",
+      "D": "2/3rd has columnar epithelium",
+      "E": "2/3rd has Skeletal muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Patient after RTA does not need VENT support because his respiration is working properly. Where is the lesion ?",
+    "options": {
+      "A": "At C5",
+      "B": "At C2",
+      "C": "Below C5",
+      "D": "Below C2",
+      "E": "At C3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Area for mitral valve auscultation is which of the following?",
+    "options": {
+      "A": "Right second intercostal space",
+      "B": "Second intercostal space",
+      "C": "Left 4th UCS left to sternum",
+      "D": "Midclavicular line of Left 5th intercostal",
+      "E": "Midaxillary line of Left 4th intercostal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Which lymphoid organ has paracarine action?",
+    "options": {
+      "A": "Thymus",
+      "B": "Spleen",
+      "C": "Lymph",
+      "D": "Tonsils",
+      "E": "Palatine tonsils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "A lab boy giving demonstration on Pulmonary function tests. He inspires then forcefully expires. Which of the following is used for forceful expiration?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External Intercostal",
+      "C": "Elastic recoil",
+      "D": "Rectus Abdominis",
+      "E": "Seratus anterior"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Large tumour in posterior mediastinum will compress:",
+    "options": {
+      "A": "Descending thoracic aorta",
+      "B": "Arch of aorta",
+      "C": "Azygous vein",
+      "D": "Thymus",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "A 63-year-old man came to emergency with complaints of back pain, weakness and shortness of breath. On examination he has an aneurysm of the abdominal aorta at aortic hiatus of diaphragm. Which of the following would most likely be compressed?",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Oesophagus",
+      "C": "Azygous vein",
+      "D": "Inferior vena cava",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Irritation of the peritoneum covering the diaphragm produces pain, which usually is referred to:",
+    "options": {
+      "A": "Left arm",
+      "B": "Epigastrium",
+      "C": "Neck and shoulder",
+      "D": "Inguinal region",
+      "E": "Medial thigh"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Left atrium and left ventricle supplied by which artery:",
+    "options": {
+      "A": "LADA",
+      "B": "RCA",
+      "C": "LCX",
+      "D": "LCA",
+      "E": "Marginal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Right Lower lobe has foreign body because it is:",
+    "options": {
+      "A": "It is wider, shorter & vertical",
+      "B": "It is horizontal wider",
+      "C": "It vertical narrower longer",
+      "D": "It is horizontal narrow long"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Right atrium infarction involves which of following?",
+    "options": {
+      "A": "Septomarginal band",
+      "B": "Pectinate muscle",
+      "C": "Crista terminalis",
+      "D": "Papillary muscle",
+      "E": "Trabeculae"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Aortic arch dilation will compress which structure?",
+    "options": {
+      "A": "Thoracic duct",
+      "B": "Left bronchus",
+      "C": "Right bronchus",
+      "D": "Vagus nerve",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "A patient with localized circumferential subendocardial wall infarct which artery is involved?",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary artery",
+      "C": "LCX",
+      "D": "Marginal",
+      "E": "Muscular Branches of heart walls"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "In Horner syndrome, damaged segement is:",
+    "options": {
+      "A": "T5-6",
+      "B": "T3-4",
+      "C": "T1-4",
+      "D": "T6-8"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Stab wound to anterior chest after crossing inter costal muscle which structure will it first come in contact with",
+    "options": {
+      "A": "Endothoracic fascia",
+      "B": "Parietal pleura",
+      "C": "Visceral pleura",
+      "D": "Costal pleural"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "A young man had injury to the neck with some sharp object 3yr ago. He notices a bulging swelling above the clavicle on sneezing and coughing. This swelling is most probably due to",
+    "options": {
+      "A": "Injury to deep fascia of neck",
+      "B": "Damage to suprapleural membrane",
+      "C": "Un-united 1st rib fracture",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A young man came with difficulty in pharyngeal swallowing. Which nerve is damaged?",
+    "options": {
+      "A": "II, V, VII, IX",
+      "B": "V, VII, IX, X, XI",
+      "C": "V, VII, IX, X",
+      "D": "IX, X, XI, XII"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Clavipectoral fascia pierced by:",
+    "options": {
+      "A": "Cephalic vein",
+      "B": "Thyrocervical trunk",
+      "C": "Medial thoracic artery",
+      "D": "Lateral pectoral nerve",
+      "E": "And: A"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "True about thoracic duct:",
+    "options": {
+      "A": "Starts from the level of the twelfth thoracic vertebra (T12) and extends to the root of the neck.",
+      "B": "Ends in external jugular vein",
+      "C": "Ascend through caval opening at L5",
+      "D": "Carries lymphatic drainage from lower limb"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Which part of lung partially fills costodiaphragmatic recess and moves in and out during inspiration?",
+    "options": {
+      "A": "Lateral",
+      "B": "Posterobasal",
+      "C": "Mediobasal",
+      "D": "Inferiobasal",
+      "E": "Lingula"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "A physician auscultates posteroinferior Border of lung at:",
+    "options": {
+      "A": "T6",
+      "B": "T8",
+      "C": "T10",
+      "D": "T11"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Both RLN severed. Which muscle will be spared?",
+    "options": {
+      "A": "Lateral cricoarytenoid",
+      "B": "Oblique arytenoid",
+      "C": "Transverse arytenoid",
+      "D": "Cricothyroid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Patient presented with shortness of breath, scratchy sound with no change in respiration. On echocardiography pericardial effusion is noted, which is best site to remove fluid?",
+    "options": {
+      "A": "Subcostal with needle angle superiorly",
+      "B": "Supracostal with needle angle inferiorly",
+      "C": "Left 5th intercostal space inferiorly",
+      "D": "Subcostal with needle angle inferiorly"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "During tracheostomy which muscles are retracted laterally?",
+    "options": {
+      "A": "Sternohyoid and Sternothyroid",
+      "B": "Stylohyoid",
+      "C": "Sternothyroid",
+      "D": "Omohyoid",
+      "E": "Suprahyoid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Sentinel lymph node biopsy in CA breast from which nodes:",
+    "options": {
+      "A": "Anterior and pectoral",
+      "B": "Medial plus lateral",
+      "C": "Inferior",
+      "D": "Paraternal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Complete loss of intercostobrachial nerve will cause",
+    "options": {
+      "A": "Sensory loss on Posterior side",
+      "B": "Sensory loss of 2nd ICS",
+      "C": "Loss of preganglionic sympathetic",
+      "D": "Loss of sweating on posterior side of arm",
+      "E": "Motor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Stab Injury at 6th Intercostal space on the right side of the sternum will pierce which of the following structure?",
+    "options": {
+      "A": "Right Atrium",
+      "B": "IVC",
+      "C": "SVC",
+      "D": "Right Ventricle",
+      "E": "Left Ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Eparterial bronchus supplies to",
+    "options": {
+      "A": "Left medial",
+      "B": "Mediobasal segment",
+      "C": "Posterior segment",
+      "D": "Right main bronchus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Specific characteristics of right ventricle are:",
+    "options": {
+      "A": "Pulmonary trunk arises",
+      "B": "Aorta terminates",
+      "C": "Has 4 Valves",
+      "D": "Great sephnous vein arises"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Right lung has how many lobe",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "2",
+      "D": "6"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "In 9th intercostal space ovarian CA surgery done which structure will be damage",
+    "options": {
+      "A": "Glosopharangeal",
+      "B": "Diaphram",
+      "C": "Percaddiophrenic artery",
+      "D": "9th intercostal nerve",
+      "E": "10 intercostal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Regarding segmental bronchus true is",
+    "options": {
+      "A": "Secondary bronchus",
+      "B": "Tertiary bronchus",
+      "C": "Primary bronchus",
+      "D": "Primary bronchus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Thyroid moves with swallowing due to which of following",
+    "options": {
+      "A": "Prevertebral fascia",
+      "B": "Pretracheal fascia",
+      "C": "Subcutaneous fat",
+      "D": "Muscles",
+      "E": "Cartilage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Vein accompanying left circumflex artery is which of the following?",
+    "options": {
+      "A": "Middle cardiac vein",
+      "B": "Anterior cardiac vein",
+      "C": "Posterior cardiac vein",
+      "D": "Thoracic vein",
+      "E": "Marginal artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "During inspiration the muscle which increases the transverse diameter is:",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External intercostal",
+      "C": "Innermost intercostal",
+      "D": "Internal intercostal",
+      "E": "Rectus Abdominis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Nerve passing between C5 and C6:",
+    "options": {
+      "A": "C5",
+      "B": "C6",
+      "C": "C4",
+      "D": "C3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "A patient With RHF and dilated right atrium.Which structure will also be dilated along with it?",
+    "options": {
+      "A": "Chorda tendinae",
+      "B": "Septomarginal band",
+      "C": "Trabeculae",
+      "D": "Papillary muscle",
+      "E": "Coronary sinus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Left lower lobe differentiated from right upper lobe by:",
+    "options": {
+      "A": "Apical segment",
+      "B": "Mediobasal",
+      "C": "Lateral and medial",
+      "D": "Inferior lingular"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Blood supply of right middle lobe of lung is:",
+    "options": {
+      "A": "Intercostal artery",
+      "B": "Bronchial artery",
+      "C": "Vertebral artery",
+      "D": "Internal carotid artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "While performing bronchoscopy first structure visualized beyond carina is?",
+    "options": {
+      "A": "Upper lobe bronchus",
+      "B": "Superior segmental bronchus",
+      "C": "Apical bronchus",
+      "D": "Middle lobe bronchus",
+      "E": "Inferior lobe bronchus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Anterior to right root of lung:",
+    "options": {
+      "A": "Aorta",
+      "B": "Azygous vein",
+      "C": "Phrenic Nerve",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Surface of left lung contains groove for:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Arch of aorta",
+      "C": "Esophagus",
+      "D": "Azygous vein",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "During the thoracic surgical procedure the surgeon should care the structure while ligating the internal thoracic artery the structure likely is:",
+    "options": {
+      "A": "Ipsilateral phrenic nerve",
+      "B": "Contralateral phrenic nerve",
+      "C": "Ipsilateral RLN",
+      "D": "Contralateral RLN"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Arch of aorta wholly lies in:",
+    "options": {
+      "A": "Superior Mediastinum",
+      "B": "Posterior Mediastinum",
+      "C": "Anterior Mediastinum",
+      "D": "Neck"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "A cardiac surgeon performing open heart surgery, what structure he should be careful of in anterior mediastinum?",
+    "options": {
+      "A": "Aorta",
+      "B": "Adrenal gland",
+      "C": "Thymus",
+      "D": "Jugular vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "In the aortic opening if Diaphragm is constricted which of the following structure will be compressed along with aorta?",
+    "options": {
+      "A": "Azygous veins and both phrenic nerve",
+      "B": "Thoracic duct and vagus nerve",
+      "C": "Azygous vein and vagus nerve",
+      "D": "Inferior vena cava",
+      "E": "Thoracic duct and azygous vein"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "The first structure encountered by bullet after piercing chest wall muscles will be:",
+    "options": {
+      "A": "Visceral pleura",
+      "B": "Parietal pleura",
+      "C": "Pleural space",
+      "D": "Endothoracic fascia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Bronchogenic CA behind the root of left lung causes compression of which structure?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Intercostal nerve",
+      "C": "Esophagus",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Aorta"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Abscess in prevertebral fascia will come",
+    "options": {
+      "A": "Superior mediastinum lateral to vertebral bodies",
+      "B": "Superior mediastinum anterior to vertebral bodies",
+      "C": "Superior mediastinum behind to vertebral bodies",
+      "D": "Anterior Mediastinum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Anterior two third interventricular septum is supplied by:",
+    "options": {
+      "A": "Right marginal artery",
+      "B": "Anterior descending artery",
+      "C": "LCX",
+      "D": "Right coronary artery",
+      "E": "Left coronary artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "During thoracocentesis Sample taken at 9th ICS, risk of damage to which structure?",
+    "options": {
+      "A": "9th IC nerve",
+      "B": "10th IC nerve",
+      "C": "Phrenic nerve",
+      "D": "Pericardiophrenic artery",
+      "E": "Internal mammary artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Muscle of forced expiration",
+    "options": {
+      "A": "Quadratus Lumborum",
+      "B": "Diaphragm",
+      "C": "External intercostal",
+      "D": "Abdominal muscles",
+      "E": "Elastic Recoil"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Left ventricle ,LBB and RBB supplied by",
+    "options": {
+      "A": "RCA",
+      "B": "LAD",
+      "C": "Posterior interventricular artery",
+      "D": "Right ventricular artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "A patient having MI Left atrium and artery infarction area involved will be:",
+    "options": {
+      "A": "Right atrium and left ventricle",
+      "B": "Left atrium",
+      "C": "Left ventricle",
+      "D": "Right atrium",
+      "E": "Inferior wall"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Which artery block causes infarct at apex of heart?",
+    "options": {
+      "A": "RCA",
+      "B": "Anterior interventricular artery",
+      "C": "LCX",
+      "D": "Marginal",
+      "E": "LCA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Pulmonary artery supply:",
+    "options": {
+      "A": "Primary bronchi",
+      "B": "Secondary bronchi",
+      "C": "Tertiary bronchi",
+      "D": "Alveoli"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Which is posterior relation of left lung hilum?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Vagus nerve",
+      "C": "Esophagus",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Brachiocephalic trunk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Penetrating chest trauma just to right of medial sternal border at 4th, 5th intercostal spaces pericardium and heart was injured, which chamber is affected?",
+    "options": {
+      "A": "Right atrium",
+      "B": "Right ventricle",
+      "C": "Left atrium",
+      "D": "Left ventricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Patient had an MI on ECG ST elevations in lead II, III and AVF are seen, vessel involved?",
+    "options": {
+      "A": "RCA",
+      "B": "RCx",
+      "C": "Marginal",
+      "D": "LCA",
+      "E": "LCx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Stab wound at left 5th ICS 4cm deep just lateral to sternum structure damage will be:",
+    "options": {
+      "A": "Hilum of Left lung",
+      "B": "Left pleura",
+      "C": "Pericardium",
+      "D": "Left bronchus",
+      "E": "IVC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "Ligamentum arteriosum is found between:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Phrenic nerve",
+      "C": "Right recurrent laryngeal nerve",
+      "D": "Left pulmonary artery and arch of aorta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Which is anterior relation of root of lung:",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Vagus nerve",
+      "C": "Oesophagus",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Brachiocephalic trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Which of the following nerve provides Motor Supply to the diaphragm?",
+    "options": {
+      "A": "Intercostal nerves",
+      "B": "Phrenic nerve",
+      "C": "Thoracodorsal nerve",
+      "D": "Sympathetic nerves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "10th intercostal nerve passes rectus at the level of:",
+    "options": {
+      "A": "Epigastric region",
+      "B": "Umbilicus",
+      "C": "Just above suprapubic region",
+      "D": "Left iliac region"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Bronchopulmonary segments in left lung?",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "7",
+      "D": "6"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Apex of heart supplied by:",
+    "options": {
+      "A": "Right marginal",
+      "B": "RCA",
+      "C": "LCA",
+      "D": "LCX",
+      "E": "Left marginal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "Vagus nerve pass through diaphragm at which level:",
+    "options": {
+      "A": "T8",
+      "B": "T12",
+      "C": "T10",
+      "D": "T9",
+      "E": "T6"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Four lumbar arteries arise from which of the following?",
+    "options": {
+      "A": "Internal illiac",
+      "B": "External illiac",
+      "C": "SMA",
+      "D": "Aorta",
+      "E": "Celiac artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "Which segment of the spinal cord provides the primary nerve supply to the lower respiratory tract, including the bronchi and bronchioles?",
+    "options": {
+      "A": "T1-T4",
+      "B": "C1-C4",
+      "C": "L1-L4",
+      "D": "T4-T6",
+      "E": "T6-T12"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "In Myocardial infarction, most common artery involved:",
+    "options": {
+      "A": "Right coronary artery",
+      "B": "Left coronary artery",
+      "C": "LCX artery",
+      "D": "Anterior descending interventricular artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Person with atrial fibrillation, now cant speak and walk having exaggerated planter reflex which artery is involved:",
+    "options": {
+      "A": "Middle cerebral artery",
+      "B": "Anterior communicating artery",
+      "C": "Posterior cerebral artery",
+      "D": "Vertebral artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Greatest risk of pneumothorax by central venous catheter is when it is placed in:",
+    "options": {
+      "A": "Brachiocephalic vein",
+      "B": "Left subclavian vein",
+      "C": "Right subclavian vein",
+      "D": "Intercostal vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Right lung has bronchogenic carcinoma, middle lobe removed surgically, segments include:",
+    "options": {
+      "A": "Apical and Lingula",
+      "B": "Medial and lateral",
+      "C": "Inferior basal",
+      "D": "Mediobasal And lateral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Difference between root of right lung from left lung is:",
+    "options": {
+      "A": "No of primary bronchi",
+      "B": "No of artries",
+      "C": "No of veins",
+      "D": "No of nerves plexus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "In quiet respiration muscle which increase vertical diameter of thorax is:",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External intercostal",
+      "C": "Rectus abdominis",
+      "D": "External oblique",
+      "E": "Internal Oblique"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "Chest drain passed to the lower border of the rib, causes damage to:",
+    "options": {
+      "A": "Intercostal nerve",
+      "B": "Intercostal vein",
+      "C": "Intercostal artery",
+      "D": "Intercostal muscles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Ductus arteriosus is present between:",
+    "options": {
+      "A": "IVC and pulmonary artery",
+      "B": "Right pulmonary artery and aorta",
+      "C": "Left pulmonary artery and aorta",
+      "D": "SVC and Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "A young boy with repeated RTI has bronchopulmonary sequestrations which will show anomaly:",
+    "options": {
+      "A": "Bronchial anomaly",
+      "B": "Veins anomaly",
+      "C": "Segmental morphology",
+      "D": "Bronchial symmetry"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Which one of the following is true about heart?",
+    "options": {
+      "A": "RCA supplies condition system of heart",
+      "B": "LAS supplies posterior 1/3rd IVS",
+      "C": "LCA gives LCX and LAD",
+      "D": "LCA gives RCA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Most common site of rib fracture is:",
+    "options": {
+      "A": "Upper Ribs",
+      "B": "Medial end of Clavicle",
+      "C": "Just anterior to angle of rib",
+      "D": "Lateral end of rib"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "In Posterolateral infarct, artery involved?",
+    "options": {
+      "A": "Posterior interventricular artery",
+      "B": "Posterior ventricular artery",
+      "C": "Left circumflex",
+      "D": "Left anterior descending",
+      "E": "Left marginal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Between stomach body and pylorus what is present:",
+    "options": {
+      "A": "Fundus",
+      "B": "Cardia",
+      "C": "Antrum",
+      "D": "Lesser sac",
+      "E": "Greater sac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Intercostal nerves are from:",
+    "options": {
+      "A": "Scapular",
+      "B": "Dorsal Rami of spinal nerves",
+      "C": "Sub Scapular",
+      "D": "Dorsal Subscapular"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Regarding LCA true is:",
+    "options": {
+      "A": "Give LCX at anterior Interventricular groove",
+      "B": "Supply SA node 90%",
+      "C": "Supply AV node 80%",
+      "D": "Give marginal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Thoracic duct starts at the level Of:",
+    "options": {
+      "A": "T8",
+      "B": "T12",
+      "C": "T10",
+      "D": "T9"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "Posterior branch at aortic bifurcation is which of following?",
+    "options": {
+      "A": "External illiac artery",
+      "B": "Median Sacral artery",
+      "C": "Femoral artery",
+      "D": "Tibial artery",
+      "E": "Internal illiac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "About Cardiac plexus:",
+    "options": {
+      "A": "Formed infront of trachea",
+      "B": "Have preganglionic sympathetic fibers from superior cervical ganglia",
+      "C": "Behind trachea",
+      "D": "Contain both sympathetic and parasympathetic fibers"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Posteriorly inferior limit of lung which we called posterior inferior lobe is at level of:",
+    "options": {
+      "A": "T10",
+      "B": "T11",
+      "C": "T12",
+      "D": "T7"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "Right bundle branch supplied by",
+    "options": {
+      "A": "RCA",
+      "B": "LCA",
+      "C": "Posterior interventricular artery",
+      "D": "Septal branch of LADA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "Bronchial artery arises from which level",
+    "options": {
+      "A": "T3-4",
+      "B": "T5-6",
+      "C": "T7-8",
+      "D": "C6-8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "From cranial to caudal in intercostal space is:",
+    "options": {
+      "A": "Artery , vein and nerve",
+      "B": "Nerve , artery and vein",
+      "C": "Vein,artery and nerve",
+      "D": "Vein ,nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "Mixed venous blood sample can be obtained from:",
+    "options": {
+      "A": "SVC",
+      "B": "IVC",
+      "C": "Right atrium",
+      "D": "Right ventricle",
+      "E": "Pulmonary arteries"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Apex beat is located in:",
+    "options": {
+      "A": "4th left intercostal space in midclavicular line",
+      "B": "3rd right intercostal space in midclavicular line",
+      "C": "5th right intercostal space in midclavicular line",
+      "D": "8-9 cm to the left of midline in the 5th intercostals space"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Child present with absent breath sounds on left side. X-ray shows normal right side and portion of intestine on left side cause is:",
+    "options": {
+      "A": "Abdominal wall defect",
+      "B": "Hiatial hernia",
+      "C": "Inguinal hernia",
+      "D": "Patent Pleuroperitoneal membrane"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Nerve supply of pericardium?",
+    "options": {
+      "A": "Left Vagus nerve",
+      "B": "Phrenic nerve",
+      "C": "Glossopharyngeal nerve",
+      "D": "Right Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "What is posterior to root of left lung",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Subclavian vein",
+      "C": "Azygous vein",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Vagus nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "A neonate is brought by his mother with cessation of breath on and off and blue discolouration of skin . On examination decrease chest movements on left side, on auscultation no breath sounds on left side. On x ray bowel loops are seen ?",
+    "options": {
+      "A": "TOF",
+      "B": "Dextrocardia",
+      "C": "Congenital Diaphragmatic hernia",
+      "D": "VGA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Artery which supplies inferior thyroid gland is branch of",
+    "options": {
+      "A": "Suprascapular artery",
+      "B": "Thyrocervical trunk",
+      "C": "Transverse cervical artery",
+      "D": "Thoracoacromial artery",
+      "E": "Dorsal scapular artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Intercostobrachial arteries arise from",
+    "options": {
+      "A": "Posterior division of Descending thoracic aorta",
+      "B": "Venteral division of thoracic aorta",
+      "C": "Dorsal division of thoracic aorta",
+      "D": "Ascending aorta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Which of the following is true regarding visceral pleura?",
+    "options": {
+      "A": "Sensitive to pain",
+      "B": "Sensitive to stretch",
+      "C": "Supply carried by lung autonomic nerves",
+      "D": "Covered by mesothelium"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "In hiatal hernia repair which structure is at risk of damage",
+    "options": {
+      "A": "Azygous vein",
+      "B": "Thoracic duct",
+      "C": "Sympathetic",
+      "D": "Superior epigastric vessel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Posteriorly inferior limit of lung which we called posterior inferior lobe is at level of:",
+    "options": {
+      "A": "10th rib",
+      "B": "9th rib",
+      "C": "12 rib",
+      "D": "7th rib"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "After gunshot Bullet enter above manubriosternal joint and exit T4 which part will be least affected",
+    "options": {
+      "A": "Heart and Pericardium",
+      "B": "Arch of aorta",
+      "C": "Trachea",
+      "D": "Esophagus",
+      "E": "Thymus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Vein accompanying Left anterior descending artery is which of the following?",
+    "options": {
+      "A": "Middle cardiac vein",
+      "B": "Anterior cardiac vein",
+      "C": "Posterior cardiac vein",
+      "D": "Great Cardiac vein",
+      "E": "Marginal artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Bronchopulmonary segments in Right Lung?",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "8",
+      "D": "10",
+      "E": "12"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "A Patient after Gastric content in supine position aspiration will lodge in which of following lobe:(repeated)",
+    "options": {
+      "A": "Apical segment of Right lower lobe",
+      "B": "Right posterior lobe",
+      "C": "Left Posterior lobe",
+      "D": "Left Upper lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "Posterior one third interventricular septum is supplied by:",
+    "options": {
+      "A": "RMA",
+      "B": "LAD",
+      "C": "LCX",
+      "D": "RCA",
+      "E": "LCA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Surgeon doing open heart surgery blood oozing from Vein anteriorly with LAD:",
+    "options": {
+      "A": "Middle cardiac vein",
+      "B": "Great cardiac vein",
+      "C": "Small cardiac vein",
+      "D": "Coronary sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "In Left circumflex blocked. Which heart part affected?",
+    "options": {
+      "A": "Left atrium anterior",
+      "B": "Left ventricle posterior",
+      "C": "Right atrium",
+      "D": "Right ventricle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "Surgeon did thoracic surgery and made incision just anterior to the sternum. Which of the following artery is most commonly at risk in this region?",
+    "options": {
+      "A": "Inferior Thyroid artery",
+      "B": "Superior thyroid artery",
+      "C": "Internal thoracic artery",
+      "D": "Internal Carotid artery",
+      "E": "Subclavian artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "A patient had surgery after which he had numbness of forearm along with difficulty in movement of hand. He was diagnosed as subclavian steal syndrome.Blood supply to which artery is compromised?",
+    "options": {
+      "A": "Internal carotid artery",
+      "B": "Maxillary artery",
+      "C": "Vertebral artery",
+      "D": "Internal jugular vien",
+      "E": "Anterior Spinal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "Medial arcuate ligament formed from which structure",
+    "options": {
+      "A": "Dorsal mesentry",
+      "B": "Crura of diaphragm",
+      "C": "Stomodeum",
+      "D": "Neural crest cell",
+      "E": "Psoas muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Superior laryngeal artery and internal laryngeal nerve passes between",
+    "options": {
+      "A": "Thyroid and cricoid",
+      "B": "Thyroid and arytenoid",
+      "C": "Hyoid and epiglots",
+      "D": "Thyroid and hyoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Medial arcuate ligament formed by",
+    "options": {
+      "A": "Thickening of Psoas fascia",
+      "B": "Quadratus lumborum",
+      "C": "Parotid Fascia",
+      "D": "Diaphragm",
+      "E": "Crus of Diaphragm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "Which nerve lies in contact with superficial cardiac plexus?",
+    "options": {
+      "A": "Right Cervical Sympathetic trunk",
+      "B": "Left Vagus nerve",
+      "C": "Brachiocephalic vein",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Right Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "Patient in RTA with difficulty in breathing due to?",
+    "options": {
+      "A": "Ipsilateral phrenic diaphragm paralysis",
+      "B": "Bilateral phrenic damage",
+      "C": "Intercostal damage",
+      "D": "Bilateral vague damage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Length of right bronchus is",
+    "options": {
+      "A": "2.5cm",
+      "B": "3 cm",
+      "C": "1 cm",
+      "D": "5 cm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Pericardiocentesis is best performed through which one of the following approach?",
+    "options": {
+      "A": "Infrasternal angle needle directed superiorly",
+      "B": "Suprasternal angle needle directed inferiorly",
+      "C": "The second intercostal space at the midclavicular line.",
+      "D": "The second intercostal space at the right sternal angle."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "During the thoracic surgical procedure the surgeon should care the structure while ligating the internal thoracic artery the structure likely is:",
+    "options": {
+      "A": "Ipsilateral phrenic nerve",
+      "B": "Contralateral phrenic nerve",
+      "C": "Aorta",
+      "D": "Contralateral RLN",
+      "E": "Vagus nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "A young man had injury to the neck with some sharp object 3yr ago.He notices a bulging swelling above the clavicle on sneezing and coughing.This swelling is most probably due to",
+    "options": {
+      "A": "Injury to deep fascia of neck",
+      "B": "Damage to suprapleural membrane",
+      "C": "Un-united 1st rib fracture",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "Groove on left lung is for:",
+    "options": {
+      "A": "Ascending aorta",
+      "B": "Descending aorta",
+      "C": "Esophagus",
+      "D": "Azygous vein",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "Parkinson's patient aspirate fluid on laying it goes in:",
+    "options": {
+      "A": "Posterior segment of right upper lobe",
+      "B": "Apical segment of right lower lobe",
+      "C": "Lateral segment of right upper lobe",
+      "D": "Right upper lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Vein accompanying left anterior descending artery is which of following?",
+    "options": {
+      "A": "Middle cardiac vein",
+      "B": "Anterior cardiac vein",
+      "C": "Posterior cardiac vein",
+      "D": "Great cardiac vein",
+      "E": "Marginal artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "Physician want to auscultate a pneumonia patient for pleural effusion at back for lower limit of lungs at tip of scapula, he will auscultate at which level:",
+    "options": {
+      "A": "T1",
+      "B": "T5",
+      "C": "T7",
+      "D": "T9"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "Parkinson's patient presented with dyspnea after aspiration in supine posture, which lobe is affected:",
+    "options": {
+      "A": "Right lower lobe",
+      "B": "Right upper lobe",
+      "C": "Right posterior lobe",
+      "D": "Left Posterior Lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Stab wound just above the xiphisternal joint at fifth intercostal cartilage just to right will damage which structure?",
+    "options": {
+      "A": "Right ventricle",
+      "B": "Right atrium",
+      "C": "IVC",
+      "D": "Liver",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "A patient with bronchogenic carcinoma posterior to left lung hilum which structure is likely to be damage?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Vagus nerve",
+      "C": "Esophagus",
+      "D": "Recurrent Laryngeal nerve",
+      "E": "Brachiocephalic trunk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "Azygous vein anterior to right root of lung",
+    "options": {
+      "A": "Aorta posterior to Left root lung",
+      "B": "Phrenic nerve posterior to root of lung",
+      "C": "Vagus nerve posterior to root of lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "Patient IVC blocked just above the emergence of azygous vein will lead to dilation of:",
+    "options": {
+      "A": "Left gastric vein",
+      "B": "Hepatic vein",
+      "C": "Hepatic artery",
+      "D": "Splenic artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "Left lower lobe lung differ from right upper lobe by not having:",
+    "options": {
+      "A": "Anterior basal",
+      "B": "Medial basal",
+      "C": "Apical Segment",
+      "D": "Lateral basal",
+      "E": "Posterior basal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "Congenital diaphragmatic hernia occur due to:",
+    "options": {
+      "A": "Absent Septum transversum",
+      "B": "Incomplete pleuroperitoneal membrane",
+      "C": "Defect in Right Muscle",
+      "D": "Defect in Left Muscle",
+      "E": "Central tendon defect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "Thoracic duct drains into:",
+    "options": {
+      "A": "Junction of internal jugular and left subclavian vein",
+      "B": "Junction of internal jugular and right subclavian vein",
+      "C": "Right subclavian vein",
+      "D": "Right internal jugular vein",
+      "E": "Right brachiocephalic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "Right Conus Artery supplies:",
+    "options": {
+      "A": "Infundibulum",
+      "B": "SA Node",
+      "C": "AV Node",
+      "D": "Atria"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "The pleuroperitoneal membrane contributes to the formation of:",
+    "options": {
+      "A": "Fibrous pericardium",
+      "B": "Parts of the diaphragm",
+      "C": "Separation of thoracic and abdominal cavities during embryonic development",
+      "D": "Pleural cavity lining"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "A patient presents with a bullet injury to the cervical region and paralysis of the respiratory muscles. Which structure is most likely affected?",
+    "options": {
+      "A": "Serratus Anterior",
+      "B": "Phrenic nerve",
+      "C": "Diaphragm",
+      "D": "Internal Intercostal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "Patient suffers a stab injury to the chest, leading to air escaping from the lung and the development of pneumothorax. What is the most likely outcome?",
+    "options": {
+      "A": "Lung collapses inward and the chest wall moves outward",
+      "B": "Lung collapses inward, and the chest wall moves inward",
+      "C": "Lung moves outward, and the chest wall moves inward",
+      "D": "Lung moves outward, and the chest wall also moves outward"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "At which level of spinal cord injury is a patient most likely to experience difficulties with ventilatory function due to impairment of the respiratory muscles?",
+    "options": {
+      "A": "Above C3",
+      "B": "Between C3 and C5",
+      "C": "Below C5",
+      "D": "Between T1 and T5",
+      "E": "Below T6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "Diaphragm is attached to which of the following fascia",
+    "options": {
+      "A": "Psoas fascia",
+      "B": "Alar fascia",
+      "C": "Transversalis fascia",
+      "D": "Sacral fascia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "Patient came with diagnosed DVT with valve defect in lower ribs. Which structure will have emboli lodged from this source?",
+    "options": {
+      "A": "Branches of pulmonary artery",
+      "B": "Branches of pulmonary veins",
+      "C": "Inferior Vena Cava",
+      "D": "Heart",
+      "E": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "Aorta Passes:",
+    "options": {
+      "A": "At root of Left Lung",
+      "B": "Behind medial arcuate Ligament",
+      "C": "Behind Median Arcuate Ligament",
+      "D": "Behind Lateral Arcuate ligament",
+      "E": "In Middle Mediastinum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "True regarding \"Descending thoracic aorta\": (Medicine Feb 2025)",
+    "options": {
+      "A": "Begins at left side of upper border of body of T4",
+      "B": "Supplies pericardium, esophagus, and lungs",
+      "C": "Supplies lower 8 intercostal spaces on both sides",
+      "D": "Becomes abdominal aorta at L2",
+      "E": "Lies in middle mediastinum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "Right intercostobrachial trunk arises from (Medicine Feb 2025)",
+    "options": {
+      "A": "Arches of aorta",
+      "B": "Anterior to aorta",
+      "C": "Anterolateral to descending thoracic aorta",
+      "D": "Post lateral to descending thoracic aorta",
+      "E": "Post to thoracic aorta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "A Foreign body is more likely to lodge in the right main bronchus because (Medicine Feb 2025)",
+    "options": {
+      "A": "It is narrower, longer and more horizontal",
+      "B": "It is wider, shorter and more vertical",
+      "C": "It is narrower, shorter and more vertical",
+      "D": "It is wider, longer and more horizontal",
+      "E": "It is wider, longer and more vertical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "A patient sustained a Gun shot piercing injury from the sternal angle at 2nd intercostal space exiting at the T4 level in the back. Which structure is most likely spared? (Medicine Feb 2025)",
+    "options": {
+      "A": "Oesophagus",
+      "B": "Trachea",
+      "C": "Arch of Aorta",
+      "D": "Heart & Pericardium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "A man sustained a shrapnel injury with some sharp object to the neck 3 months ago. He now presents with a lump in the supraclavicular region that appears after coughing & sneezing. What is the most likely cause? (Medicine Feb 2025)",
+    "options": {
+      "A": "Injury to deep fascia of root of neck",
+      "B": "Injury to the suprapleural membrane",
+      "C": "Injury to Prevertebral Fascia",
+      "D": "Injury to Precervical Fascia",
+      "E": "Un-United 1st Rib"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "After Firearm injury, the bullet will be in which area after crossing the intercostal muscles (Medicine Feb 2025)",
+    "options": {
+      "A": "Endothoracic Fascia",
+      "B": "Pleural Cavity",
+      "C": "Parietal Pleura",
+      "D": "Visceral Pleura",
+      "E": "Subcutaneous tissue"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "A 57-year-old male with intense chest pain, ruled out for cardiac pathology, is diagnosed with a hiatal hernia where the stomach herniates through the esophageal hiatus. Which part of the diaphragm directly borders this hernia? (Medicine Feb 2025)",
+    "options": {
+      "A": "Left dome of the diaphragm",
+      "B": "Right dome of the diaphragm",
+      "C": "Central tendinous insertion",
+      "D": "Costal fibers",
+      "E": "Sternal fibers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "During biopsy of Spleen, Avoid injuring pleura which is present in Costodiaphragmatic recess at the level of: (Surgery Feb 2025)",
+    "options": {
+      "A": "10th rib midaxillary line",
+      "B": "12th intercostal space midaxillary line",
+      "C": "12th intercostal space midclavicular line",
+      "D": "10th midclavicular line"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "Costal pleura separated from Internal thoracic wall by: (Surgery Feb 2025)",
+    "options": {
+      "A": "Visceral pleura",
+      "B": "Parietal pleura",
+      "C": "Pleural space",
+      "D": "Endothoracic fascia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "8 months baby presented with complaints of dyspnea on lying. On examination decreased breath sounds on left. X-ray chest done which showed intestinal loops on left side of the thorax. One of the characteristics finding of this condition: (Surgery Feb 2025)",
+    "options": {
+      "A": "Scaphoid abdomen",
+      "B": "Hiatal hernia",
+      "C": "Absence of lung",
+      "D": "Patent pleuro-peritoneal membrane canal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "Regarding pulmonary varix: (Surgery Feb 2025)",
+    "options": {
+      "A": "Opens into left atrium",
+      "B": "Opens into right atrium",
+      "C": "Present at distal end of vein",
+      "D": "Decreases Blood flow during arterial phase",
+      "E": "Increases Blood flow during venous phase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "A patient presents after a road traffic accident (RTA) with comfort on the left side of the chest and abdominal content herniation. Through which structure did the herniation most likely occur?(Surgery Feb 2025)",
+    "options": {
+      "A": "Aortic hiatus",
+      "B": "Esophageal hiatus",
+      "C": "Diaphragmatic Hiatus",
+      "D": "Caval hiatus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "Footballer developed sudden chest pain. O/E hyperresonant Percussion note, Auscultation reveals decreased air entry on left side. Cause? (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Left sided pneumothorax",
+      "B": "Left sided pleural effusion",
+      "C": "Right sided pneumothorax",
+      "D": "Right sided pleural effusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "Angle of rib is related to (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Neck of rib",
+      "B": "Shaft of rib",
+      "C": "head of rib",
+      "D": "Articular surface of rib"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "A patient present with chest trauma present with hyperresonance on left side of chest the most likely diagnosis is (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Left pneumothorax",
+      "B": "Left hemothorax",
+      "C": "Pulmonary effusion",
+      "D": "Cardiac temponade"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "A patient presents with chest trauma exhibits paradoxical chest wall movement during respiration on examination his blood pressure is 90/60mmHg what is most likely diagnosis (Radiology Feb 2025)",
+    "options": {
+      "A": "Tension pneumothorax",
+      "B": "Flail chest",
+      "C": "Hemothorax",
+      "D": "Cardiac temponade",
+      "E": "Pulmonary embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "Right lung has bronchogenic carcinoma, middle lobe removed surgically, segments include: (Radiology Feb 2025)",
+    "options": {
+      "A": "Apical and inferior Lingular",
+      "B": "Medial and lateral",
+      "C": "Inferior basal",
+      "D": "Mediobasal And lateral basal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Which muscles are involved in forceful inspiration? (Radiology Feb 2025)",
+    "options": {
+      "A": "Diaphragm + SCM + External oblique + Serratus anterior",
+      "B": "Diaphragm+ Internal intercostal",
+      "C": "Diaphragm + External intercostal + SCM + Serratus anterior + Scalene muscle",
+      "D": "Diaphragm + Sternohyoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "A 30-year-old patient is brought to the emergency department after a road traffic accident (RTA). He complains of difficulty in breathing and decreased chest movements on the affected side. Chest X-ray reveals a radiolucent (black) shadow on one side. Rib fractures are also noted. What is the most likely cause for decreased chest movement? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Fluid in the pleural cavity",
+      "C": "Hemothorax",
+      "D": "Lung Abscess",
+      "E": "Pleural effusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "A patient sustained a splinter injury from a blast, resulting in damage to the pericardium. During surgery, the pericardium was found to be damaged on the inferior side. The surgeon inserted his fingers stopped at a cul-de-sac near the base of the heart, formed by a fold of the pericardium. What is the most likely location of her fingers? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Coronary sulcus",
+      "B": "Coronary sinus",
+      "C": "Oblique sinus",
+      "D": "Costodiaphragmatic recess",
+      "E": "Costomediastinal recess"
+    },
+    "correct_answer": "C"
+  }
+]

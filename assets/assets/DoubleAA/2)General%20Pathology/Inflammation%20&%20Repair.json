@@ -1,0 +1,757 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "How long a wound takes to attain maximal tensile strength?",
+    "options": {
+      "A": "3 months",
+      "B": "1 year",
+      "C": "6 weeks",
+      "D": "10 days",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Histamine most imp mediator of source of histamine?",
+    "options": {
+      "A": "Basophils",
+      "B": "Mast cell",
+      "C": "Macrophages",
+      "D": "Eosinophils",
+      "E": "Monocyte"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Regeneration occurs in following tissues except?",
+    "options": {
+      "A": "Epidermis",
+      "B": "Liver",
+      "C": "Adrenal glands",
+      "D": "Lens",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Patient having Pleural effusion, on microscopy lymphocytes, macrophage fibroblasts and epithelioid cells found this is which type of inflammation?",
+    "options": {
+      "A": "Serous",
+      "B": "Chronic",
+      "C": "Granulomatous",
+      "D": "Acute",
+      "E": "Purulent"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Person has developed edema and increase proteins having:",
+    "options": {
+      "A": "Transudate",
+      "B": "Exudate",
+      "C": "Infection",
+      "D": "None",
+      "E": "Both A and B"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Phagocytosis in tissues by",
+    "options": {
+      "A": "Natural killer cells and lymphocytes",
+      "B": "Neutrophils and macrophages",
+      "C": "Plasma Cells",
+      "D": "White cells",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Regeneration is least affected by",
+    "options": {
+      "A": "Diabetes",
+      "B": "UV light",
+      "C": "Corticosteroids",
+      "D": "Infection",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Person met RTA and has Multiple long bone fracture which type of necrosis may be seen?",
+    "options": {
+      "A": "Caseous Necrosis",
+      "B": "Fat Necrosis",
+      "C": "Coagulative Necrosis",
+      "D": "Fibrinoid Necrosis",
+      "E": "Liquefactive Necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Healing of wound is done by:",
+    "options": {
+      "A": "Microtubules",
+      "B": "Microfilament",
+      "C": "Cytokeratin",
+      "D": "None",
+      "E": "All of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "After partial pancreatectomy type of Necrosis is:",
+    "options": {
+      "A": "Liquefactive",
+      "B": "Coagulative",
+      "C": "Fat",
+      "D": "Caseous",
+      "E": "Fibrinoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "The delay in wound healing is most commonly caused by:",
+    "options": {
+      "A": "Infection",
+      "B": "Malnutrition",
+      "C": "Foreign body",
+      "D": "Immobility",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Patient with multiple jaw draining abscesses. What will be seen in microscopy?",
+    "options": {
+      "A": "Granulomatous",
+      "B": "Granuloma with abscess",
+      "C": "Abscess only",
+      "D": "All of the above",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Opsonization is done by:",
+    "options": {
+      "A": "C5a",
+      "B": "C3b",
+      "C": "C3a",
+      "D": "C4a",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Initial response to acute inflammation is",
+    "options": {
+      "A": "Chemotaxis",
+      "B": "Margination",
+      "C": "Vasodilation",
+      "D": "Formation of prostaglandins",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Which of the immunoglobulin is important for complement fixation?",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE",
+      "D": "IgM",
+      "E": "IgD"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Type of necrosis in TB:",
+    "options": {
+      "A": "Cogulative",
+      "B": "Liquefactive",
+      "C": "Caseous",
+      "D": "Fibrinoid",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Increase ESR is due to:",
+    "options": {
+      "A": "Increase plasma proteins",
+      "B": "Fibrinogen",
+      "C": "Roulex formation",
+      "D": "Increase fibrinogen",
+      "E": "Decrease temperature"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "New blood vessels are formed by:",
+    "options": {
+      "A": "Angiogenesis",
+      "B": "Vasculogenesis",
+      "C": "Recanalization",
+      "D": "Collaterals",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A patient died of ischemic stroke, type of necrosis in brain:",
+    "options": {
+      "A": "Caugalative",
+      "B": "Liquefactive",
+      "C": "Caseous",
+      "D": "Fatty",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Patient having raised serum amylase four times having acute pancreatitis, what type of mesenteric necrosis seen:",
+    "options": {
+      "A": "Caugalative",
+      "B": "Caseous",
+      "C": "Fatty necrosis",
+      "D": "Liquefactive",
+      "E": "Fibrinoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "The features associated with healing of open wound include all except",
+    "options": {
+      "A": "Formation of granulation tissue",
+      "B": "Infection",
+      "C": "Contraction",
+      "D": "Giant cell",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Repair of inflammatory process begins by",
+    "options": {
+      "A": "24 hours",
+      "B": "5-7 days",
+      "C": "3 weeks",
+      "D": "1 week",
+      "E": "2 weeks"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Granulomatous inflammation characterized by:",
+    "options": {
+      "A": "Macrophages and Epithelioid cells",
+      "B": "Lymphocytes, and basophils",
+      "C": "B cells",
+      "D": "Antibody",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Dystrophic calcification seen in",
+    "options": {
+      "A": "Kidney",
+      "B": "Lung",
+      "C": "Gastric mucosa",
+      "D": "TB",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Boy presented with fever for few days. His cytokines like IL 1 and TNF are raised. These are raised in?",
+    "options": {
+      "A": "Acute inflammation",
+      "B": "Chronic inflammation",
+      "C": "Causes WBC recruitment",
+      "D": "Stimulates IgE production",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Liquefactive necrosis seen in:",
+    "options": {
+      "A": "Focal bacterial infection",
+      "B": "Trauma",
+      "C": "Myocardium",
+      "D": "Kidney",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Strong anaphylactic action through:",
+    "options": {
+      "A": "C5a",
+      "B": "C4a",
+      "C": "C3a",
+      "D": "C4a",
+      "E": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Chemotaxis involves:",
+    "options": {
+      "A": "Neutrophil migration away from site",
+      "B": "Neutrophil migration towards site of inflammation",
+      "C": "Neutrophil Killing",
+      "D": "Lymphocyte killing",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "In which of the following maximum chemotaxis occur?",
+    "options": {
+      "A": "Migration",
+      "B": "Acute inflammation",
+      "C": "Diapedesis",
+      "D": "Margination",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Female patient with IUCD and history of PID. Histopathology shows increase plasma cells and macrophages with interspersed lymphoid follicles. This change is called:",
+    "options": {
+      "A": "Acute inflammation",
+      "B": "Chronic inflammation",
+      "C": "Fibrinous necrosis",
+      "D": "Caseous necrosis",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Boy cut his finger and develop fever and abscess due to which",
+    "options": {
+      "A": "Coagulative necrosis",
+      "B": "Fat necrosis",
+      "C": "Fibrinoid necrosis",
+      "D": "Liquefactive necrosis",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "On histology liver shows centrally distorted area surrounded by epithelioid cells, lymphocytes and giant cells this is related to",
+    "options": {
+      "A": "Coagulative necrosis",
+      "B": "Caseous necrosis",
+      "C": "Acute hepatitis",
+      "D": "Fat necrosis",
+      "E": "Acute",
+      "F": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "ESR more than 100 is seen in:",
+    "options": {
+      "A": "RA",
+      "B": "OA",
+      "C": "Multiple Myeloma",
+      "D": "SLE",
+      "E": "Sjogren"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Which of the following is a pain mediator?",
+    "options": {
+      "A": "Bradykinin",
+      "B": "Prostaglandin",
+      "C": "Histamine",
+      "D": "C3b",
+      "E": "C3a"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "After finger cut what is the first response of body after bleeding?",
+    "options": {
+      "A": "Blood Vessel Constriction",
+      "B": "Prostaglandin",
+      "C": "Neutrophil",
+      "D": "Chemotaxis",
+      "E": "Rolling of WBC",
+      "F": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Which one of following produced by the action of lipooxygenase on arachidonic acid and is a potent chemotactic factor?",
+    "options": {
+      "A": "LTB4",
+      "B": "C5a",
+      "C": "C6a",
+      "D": "Interleukin",
+      "E": "C3a"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Patient present after RTA with redness and on arm and feel pain on movement diagnose is:",
+    "options": {
+      "A": "Chronic granulomatous",
+      "B": "Chronic inflammation",
+      "C": "Acute inflammation",
+      "D": "Subacute",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A women presented with fever and pain after surgery mediators of her symptoms is:",
+    "options": {
+      "A": "IL1+TNF",
+      "B": "LTB4",
+      "C": "C5a",
+      "D": "Prostaglandin",
+      "E": "Leukotriens"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Enzymes involved in cell remodeling of body is:",
+    "options": {
+      "A": "Myeloperoxidase",
+      "B": "Collagenase",
+      "C": "Lipase",
+      "D": "Caspase",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "33 years obese women had hysterectomy, lower segment pfannenstiel incision was given, there was serosanguinous discharge after 3 days, what is most likely cause?",
+    "options": {
+      "A": "Wound infection",
+      "B": "Wound dehiscence",
+      "C": "Anemia",
+      "D": "Inguinal hernia",
+      "E": "Wound Scar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Wound healing is not promoted by",
+    "options": {
+      "A": "Zinc",
+      "B": "Vitamin C",
+      "C": "Oxygen",
+      "D": "Cortisol"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Most common skin defense system is:",
+    "options": {
+      "A": "Skin and mucous secretion",
+      "B": "Margination",
+      "C": "Chemotaxis",
+      "D": "Macrophages",
+      "E": "Monocyte"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A patient of burn had hypotension and tachycardia most likely diagnosis is:",
+    "options": {
+      "A": "DIC",
+      "B": "Infection",
+      "C": "Normal phenomenon",
+      "D": "Cardiac arrest"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "A Patient with everted margin of Wound. Wound healing occurs beyond margin this is called",
+    "options": {
+      "A": "Hypertrophic scar",
+      "B": "Keloid",
+      "C": "Rash",
+      "D": "Deformed Scar",
+      "E": "Atrophic Scar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A girl spilled hot water develops bulla few hours after burn, Later erythma and fever. Fluid in bullae was opaque, redness and warm area around it what's the type of Inflammation?",
+    "options": {
+      "A": "Fibrinous",
+      "B": "Serous",
+      "C": "Mucinous",
+      "D": "Prulent",
+      "E": "Catharal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Marker of ischemic heart disease:",
+    "options": {
+      "A": "IL-1",
+      "B": "TNF-alpha",
+      "C": "TNF-beta",
+      "D": "CRP",
+      "E": "IL-8"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Correct sequence of events for neutrophil migration toward the site of acute is:",
+    "options": {
+      "A": "Margination, adhesion, rolling, transmigration",
+      "B": "Margination, rolling, adhesion, transmigration",
+      "C": "Rolling, adhesion, margination, transmigration",
+      "D": "Transmigration, rolling, adhesion, Margination"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Angiogenesis in wound healing is done by which of the following?",
+    "options": {
+      "A": "Metalloproteinase",
+      "B": "VEGF",
+      "C": "Collagenase",
+      "D": "TGF",
+      "E": "Elastase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Post operative infection delays wound healing because",
+    "options": {
+      "A": "Capillary loops fails to develop",
+      "B": "Fibroblasts are decrease in number",
+      "C": "Collagen is destroyed",
+      "D": "Wound packed with lymphocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Undescended testes increase risk of which of following?",
+    "options": {
+      "A": "Infertility",
+      "B": "Malignancy",
+      "C": "Enlargement of Testis",
+      "D": "Large Testis",
+      "E": "Small Testis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "First mechanism in the pathogenesis of thrombus formation",
+    "options": {
+      "A": "Immobility",
+      "B": "Endothelial injury",
+      "C": "Turbulent blood flow",
+      "D": "Hyperviscosity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "The mechanism by which phagocytosis is enhanced and leads to better killing is which of the following?",
+    "options": {
+      "A": "Opsonization",
+      "B": "Phagocytosis",
+      "C": "Chemotaxis",
+      "D": "Microbial Killing",
+      "E": "Margination"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Cause of fat necrosis in breast:",
+    "options": {
+      "A": "Peritonitis",
+      "B": "Breast Trauma",
+      "C": "RTA",
+      "D": "Fat Embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "After chemotherapy size decrease by which mechanism:",
+    "options": {
+      "A": "Atrophy",
+      "B": "Apoptosis",
+      "C": "Agenesia",
+      "D": "Necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "A patient had an abdominal surgery. After few months, the scar became enlarged and nodular, biopsy shows high collagen and fibroblasts:",
+    "options": {
+      "A": "Foreign body due to sutures",
+      "B": "Keloid scar",
+      "C": "Infection",
+      "D": "Contracture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Diapedesis refers to:",
+    "options": {
+      "A": "Migration of WBCs from intravascular compartment to interstitial space",
+      "B": "Margination of WBCs",
+      "C": "Chemotaxis",
+      "D": "Deaths of Cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Least important in wound healing is",
+    "options": {
+      "A": "Protein deficiency",
+      "B": "DM",
+      "C": "Obesity",
+      "D": "Persistent infection",
+      "E": "Foreign body"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "A 30-year-old patient presented with 3rd degree burn. He is most likely to develop:",
+    "options": {
+      "A": "Keloid",
+      "B": "Scar",
+      "C": "Contracture",
+      "D": "Wound dehiscence"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Wound contraction is the function of",
+    "options": {
+      "A": "Myofibroblasts",
+      "B": "Osteoclasts",
+      "C": "Osteocytes",
+      "D": "Fibroblasts",
+      "E": "Lymphocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Diagnosis of transudate is made upon:",
+    "options": {
+      "A": "High sodium",
+      "B": "High potassium",
+      "C": "Hypercellular",
+      "D": "Hypocellular"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "The delay in wound healing is most commonly caused by:",
+    "options": {
+      "A": "Infection",
+      "B": "Malnutrition",
+      "C": "Foreign body",
+      "D": "Immobility"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "A patient is suffering from Pseudomonas aeruginosa infection with fever. What factor can worsen this kind of infection?",
+    "options": {
+      "A": "IL-1",
+      "B": "PG-E",
+      "C": "TNF",
+      "D": "CD4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Most important cells for secondary intention healing",
+    "options": {
+      "A": "Myofibroblasts",
+      "B": "Osteoblasts",
+      "C": "Osteocytes",
+      "D": "Fibroblasts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Which type of connective tissue provides support to liver lobules and surrounding the hepatic sinusoids?",
+    "options": {
+      "A": "Elastic connective tissue",
+      "B": "Reticular connective tissue",
+      "C": "Loose connective tissue",
+      "D": "Dense irregular connective tissue"
+    },
+    "correct_answer": "B"
+  }
+]

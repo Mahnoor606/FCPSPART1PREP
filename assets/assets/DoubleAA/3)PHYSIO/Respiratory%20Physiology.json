@@ -1,0 +1,3722 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Person is in Progressive shock and his compensatory mechanisms have failed, what acid base imbalance will be present in him?",
+    "options": {
+      "A": "Metabolic acidosis with respiratory alkalosis",
+      "B": "Metabolic Alkalosis with respiratory acidosis",
+      "C": "Metabolic acidosis with respiratory acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A 49 year old man has a pulmonary embolism that completely blocks blood flow to his left lung. As a result which of the following will occur?",
+    "options": {
+      "A": "Ventilation/perfusion ratio in the left lung will be zero",
+      "B": "Systemic arterial PO2 will be elevated",
+      "C": "V/Q ratio in the left lung will be lower than right lung",
+      "D": "Alveolar PO2 in the left lung will be approximately equal to the po2 in the inspired air",
+      "E": "Alveolar PO2 in the right lung will be approximately equal to the po2 in venous blood"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Tb is transmitted by:",
+    "options": {
+      "A": "Inhalational aerosol",
+      "B": "Sexual",
+      "C": "Blood transfusion",
+      "D": "Needle",
+      "E": "Transplant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A patient breathing in decompressed chamber where the barometric pressure is 275mmHg (27000 altitudes, 1/3 atmospheric). The oxygen saturation will be?",
+    "options": {
+      "A": "20",
+      "B": "40",
+      "C": "60",
+      "D": "80",
+      "E": "100"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Blood is warmed at 37 °C for massive transfusion to cause:",
+    "options": {
+      "A": "To decrease infection",
+      "B": "To avoid reaction",
+      "C": "To decrease O2 affinity",
+      "D": "L-R shift"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Which of following has max diffusion capacity?",
+    "options": {
+      "A": "CO",
+      "B": "O2",
+      "C": "CO2",
+      "D": "Nitrogen",
+      "E": "Hydrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Majority part of blood CO2 in the form of:",
+    "options": {
+      "A": "Carbaminohemoglobin",
+      "B": "HCO3",
+      "C": "Dissolved form",
+      "D": "H2CO form"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "V/Q ratio pulmonary embolism would be:",
+    "options": {
+      "A": "Zero",
+      "B": "Increased",
+      "C": "Decreased",
+      "D": "Infinity",
+      "E": "Variable"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "V/Q decrease in which of following?",
+    "options": {
+      "A": "Dead space",
+      "B": "Airway Obstruction",
+      "C": "Embolism",
+      "D": "Low Blood flow",
+      "E": "Shunt"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "What is the function of dead space?",
+    "options": {
+      "A": "Exchange of gases",
+      "B": "Blockage of air",
+      "C": "Conditioning of air",
+      "D": "Increase While Standing",
+      "E": "Increase with age"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "FEV1/FVC increase in which of following?",
+    "options": {
+      "A": "Asthma",
+      "B": "COPD",
+      "C": "Obstructive Disease",
+      "D": "Restrictive Disease",
+      "E": "Emphysema"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Extreme left shift of Hb-O2 curve is due to which of following:",
+    "options": {
+      "A": "Hb F",
+      "B": "CO poisoning",
+      "C": "Decrease pH",
+      "D": "Increase 2-3 DPG",
+      "E": "Increase CO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Parameter that differentiate between obstructive lung disease and restrictive lung disease:",
+    "options": {
+      "A": "FEV1/FVC",
+      "B": "Lung volume",
+      "C": "FEV",
+      "D": "RV",
+      "E": "VC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Inspiratory ramp signals are produced from dorsal respiratory neurons their rate increases in response to impulses from:",
+    "options": {
+      "A": "Stretch receptors in lung",
+      "B": "Pneumotaxic centre in pons",
+      "C": "Apneustic centre",
+      "D": "Mid brain",
+      "E": "Pons"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Inspiratory capacity is related to:",
+    "options": {
+      "A": "IRV + TV",
+      "B": "ERV + TV",
+      "C": "IRV",
+      "D": "ERV+IRV",
+      "E": "TV+IRV+ERV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Which of following is higher at apex of lung then base?",
+    "options": {
+      "A": "Ventilation",
+      "B": "V/Q ratio",
+      "C": "Blood flow",
+      "D": "Venous O2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Patient ascends to high altitude has increase breathing due to:",
+    "options": {
+      "A": "Decrease arterial PO2",
+      "B": "Decrease in CSF PH",
+      "C": "Respiratory alkalosis",
+      "D": "Increase Nitrogen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Hyperventilation occurs due to which of the following?",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Decrease PO2",
+      "C": "Decrease CO2",
+      "D": "Increase HCO3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Which of following cells present in inter alveolar septum?",
+    "options": {
+      "A": "Macrophages",
+      "B": "Clara cells",
+      "C": "Stellate cells",
+      "D": "Alveolar cells",
+      "E": "Goblet cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "In zone 1 of the lung what happens?",
+    "options": {
+      "A": "Dead space low",
+      "B": "Dead space high",
+      "C": "Shunting high",
+      "D": "Shunting low"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Alveolar pressure is high which compress capillaries and reduce blood flow with normal ventilation in Zone 1 result in:",
+    "options": {
+      "A": "Alveolar dead space",
+      "B": "Dead space high",
+      "C": "Shunting high",
+      "D": "Shunting low"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "HB dissociation curve shift to left in which of following condition?",
+    "options": {
+      "A": "Hyperthermia",
+      "B": "Hypothermia",
+      "C": "Decrease PH",
+      "D": "Increase CO2",
+      "E": "Increase H ions"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Normal A/a ratio is:",
+    "options": {
+      "A": "0.1",
+      "B": "0.65",
+      "C": "0.45",
+      "D": "0.8"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Female develops cough after decrease temperature below freezing point what receptor activated?",
+    "options": {
+      "A": "Peripheral chemoreceptor",
+      "B": "Central chemoreceptor",
+      "C": "Irritant receptor",
+      "D": "J receptor",
+      "E": "Stretch receptor in lungs"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Surfactant is produced by:",
+    "options": {
+      "A": "Type 1 pneumocytes",
+      "B": "Type 2 pneumocytes",
+      "C": "Clara cells",
+      "D": "Goblet cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Peak expiratory flow measured:",
+    "options": {
+      "A": "Small airway density",
+      "B": "Lung Elasticity",
+      "C": "Predicted value of FEV1 and assess large area",
+      "D": "Stiffness of lung"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "The effect of oxygenation on carboxyhemoglobin is by:",
+    "options": {
+      "A": "Haldane effect",
+      "B": "Bohr effect",
+      "C": "Fick law",
+      "D": "Le chatelier",
+      "E": "Laplace law"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Posture is maintained during moderate exercise occurs through:",
+    "options": {
+      "A": "Increased HR",
+      "B": "Increased venous return",
+      "C": "Proprioception",
+      "D": "Rubrospinal tract",
+      "E": "Decrease pulse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Player hiked to mountain, having low PO2 and developed dyspnea the likely etiology is:",
+    "options": {
+      "A": "Anemic hypoxia",
+      "B": "Hypoxic hypoxia",
+      "C": "Decrease Erythropoietin",
+      "D": "Stagnant Hypoxia",
+      "E": "Decrease Perfusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Which of the following is detected by peripheral chemoreceptors?",
+    "options": {
+      "A": "Decrease PaO2",
+      "B": "Increase PaO2",
+      "C": "CSF PH",
+      "D": "Arterial CO2",
+      "E": "Low CO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Patient presented with Fatigue, Dizziness with low Hb and Difficulty in breathing and Diagnosed as Anemic hypoxia which of following statement is true?",
+    "options": {
+      "A": "Not responsive to oxygen therapy",
+      "B": "Corrected by Platelets",
+      "C": "Responsive to antibiotics",
+      "D": "Responsive to Prolong oxygen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "A lab boy giving demonstration on pulmonary function test He inspires and then forceful expired. Which of following is used for forceful expiration?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External Intercostal",
+      "C": "Elastic recoil",
+      "D": "Rectus Abdominus",
+      "E": "Seratus anterior"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Pressure volume relation of lung shows change in volume per change in pressure this demonstrates which of the following function in lung when volume does not change with change in pressure?",
+    "options": {
+      "A": "FRC",
+      "B": "Vital Capacity",
+      "C": "Tidal Volume",
+      "D": "ERV",
+      "E": "Lung Compliance"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "VD/VT ratio of Pa oxygen 45mmHg, mixed expired carbon dioxide 30mmHg is:",
+    "options": {
+      "A": "0.2",
+      "B": "0.33",
+      "C": "0.1",
+      "D": "0.4",
+      "E": "0.5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "A group of students were studying difference between PO2 and PCO2 in different arteries of the body. They find major differences between:",
+    "options": {
+      "A": "Aorta and Pulmonary Artery",
+      "B": "Skeletal muscle arteriole and venule",
+      "C": "Aorta and Left Ventricle",
+      "D": "Right and Left Ventricle",
+      "E": "Aorta and Superior Vena cava"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "With increasing age what will decrease?",
+    "options": {
+      "A": "Residual volume",
+      "B": "Vital capacity",
+      "C": "Pulse pressure",
+      "D": "Mean blood pressure",
+      "E": "Urine output"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Lactic acid injection was given to the patient through IV line. The patient respiratory rate increase due to:",
+    "options": {
+      "A": "Chemoreceptor in medulla",
+      "B": "Lung baroreceptor",
+      "C": "Carotid body",
+      "D": "Dorsal respiratory group"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Hypoxia causes vasoconstriction instead of vasodilation in which of the following?",
+    "options": {
+      "A": "Heart",
+      "B": "Peripheral vasoconstriction",
+      "C": "Lung",
+      "D": "Kidney",
+      "E": "Central vasoconstriction"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Which of the following change occur from sea level to 12000 feet high resident?",
+    "options": {
+      "A": "Right atrial hypertrophy",
+      "B": "Right ventricular hypertrophy",
+      "C": "Left ventricular hypertrophy",
+      "D": "Fall of p50",
+      "E": "Left shift of oxyhemoglobin dissociation curve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Group of neurons that are inactive normally is activated in medulla by increased breathing during exercise:",
+    "options": {
+      "A": "Dorsal",
+      "B": "Ventral",
+      "C": "Apneustic",
+      "D": "Pneumotaxic",
+      "E": "Chemoreceptor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "In obstructive lung disease, which capacity increases?",
+    "options": {
+      "A": "FRC",
+      "B": "Vital capacity",
+      "C": "ERV",
+      "D": "Tidal volume",
+      "E": "TLC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Peripheral chemoreceptors are stimulated by?",
+    "options": {
+      "A": "Increase PCO2",
+      "B": "Increase H+",
+      "C": "Decrease O2",
+      "D": "Decrease PCO2",
+      "E": "Decrease PH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Expiration is carried out with the help of:",
+    "options": {
+      "A": "Diaphragm",
+      "B": "Lung recoil",
+      "C": "External intercostal",
+      "D": "Abdominal muscles",
+      "E": "Intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Patient at height dead space of one third of tidal volume. PCO2 of arterial blood is 45 what will be EtCO2:",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "25",
+      "D": "60"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Regarding bronchopulmonary segment they are aerated by:",
+    "options": {
+      "A": "Primary bronchi",
+      "B": "Secondary bronchi",
+      "C": "Alveoli",
+      "D": "Tertiary bronchioles"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Amount of O2 delivery (consumption) in 70kg man during delivery in anesthesia:",
+    "options": {
+      "A": "100ml/ min",
+      "B": "150ml/ min",
+      "C": "200 ml/ min",
+      "D": "250 ml/ min"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Normal atmospheric pressure:",
+    "options": {
+      "A": "760mmhg",
+      "B": "500cm oh H2O",
+      "C": "760cmhg",
+      "D": "0atm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "The volume which is inhaled maximum then exhaled:",
+    "options": {
+      "A": "Vital capacity",
+      "B": "FEV",
+      "C": "peak flow",
+      "D": "Total lung capacity",
+      "E": "Residual volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "In patient of drowning who is alive following will be found:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Respiratory acidosis",
+      "C": "Respiratory alkalosis",
+      "D": "Metabolic acidosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "In case of carbon monoxide poisoning why the breathing is relatively normal?",
+    "options": {
+      "A": "Increased PCO2",
+      "B": "Normal PO2",
+      "C": "Decrease PO2",
+      "D": "Increase PO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Lung volume remains in the lungs after normal expiration:",
+    "options": {
+      "A": "FRC",
+      "B": "TV",
+      "C": "RV",
+      "D": "FLC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Mixed blood obtained from:",
+    "options": {
+      "A": "Right atrium",
+      "B": "Right ventricular",
+      "C": "Pulmonary vein",
+      "D": "Pulmonary artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Lung expands due to:",
+    "options": {
+      "A": "Chest wall",
+      "B": "Tracheal air pressure",
+      "C": "Diaphragm",
+      "D": "Negative pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Right Shift of O2 dissociation curve is due to:",
+    "options": {
+      "A": "Increase PH",
+      "B": "Decrease PH",
+      "C": "Decrease CO2",
+      "D": "Decrease Temperature"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Most common feature of pulmonary embolism:",
+    "options": {
+      "A": "Hemoptysis",
+      "B": "Clinically silent",
+      "C": "Pulmonary hypertension",
+      "D": "sudden death",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "FEV1 / FVC ratio less than 75% is seen in:",
+    "options": {
+      "A": "Bronchitis",
+      "B": "Pulmonary embolism",
+      "C": "Asthma",
+      "D": "Hypertension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Which of the following causes patch atelectasis?",
+    "options": {
+      "A": "Loss of water",
+      "B": "Decrease surfactant",
+      "C": "Increase surfactant",
+      "D": "Increase membrane"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Which one is diffusion limited gas?",
+    "options": {
+      "A": "O2",
+      "B": "CO",
+      "C": "CO2",
+      "D": "NO"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Which of the following is common to pulmonary and skeletal blood vessels?",
+    "options": {
+      "A": "Protein permeability",
+      "B": "Hydrostatic pressure",
+      "C": "Oncotic pressure",
+      "D": "Colloid osmotic pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Pulmonary artery supply:",
+    "options": {
+      "A": "Bronchioles",
+      "B": "Alveolar Terminal Bronchiole",
+      "C": "Alveoli",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "In pregnancy respiratory volume increases, which hormone is responsible for that?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prolactin",
+      "D": "Thyroid",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Which of the following is Lactic acid Oxygen debt?",
+    "options": {
+      "A": "3 liters",
+      "B": "11 liters",
+      "C": "2 liters",
+      "D": "3.5 liters",
+      "E": "8L"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Damage to which part of brain will result in central cease of respiration?",
+    "options": {
+      "A": "Medulla",
+      "B": "pons",
+      "C": "Midbrain",
+      "D": "Cerebrum",
+      "E": "Cerebellum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Diffusion capacity of O2:",
+    "options": {
+      "A": "Less than N2",
+      "B": "More than CO2",
+      "C": "Decreases in exercise",
+      "D": "Decrease in lung fibrosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Which if the following will not affect respiration?",
+    "options": {
+      "A": "HCO3",
+      "B": "CO",
+      "C": "CO2",
+      "D": "H+",
+      "E": "PH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "CO2 transport is example of:",
+    "options": {
+      "A": "Positive Feed back",
+      "B": "Negative Feed back",
+      "C": "Peripheral receptor",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "TLC 6 litre Residual volume 1, calculate the vital capacity:",
+    "options": {
+      "A": "4L",
+      "B": "5L",
+      "C": "6L",
+      "D": "7L",
+      "E": "4.5L"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Error in reading of pulse oximeter is due to:",
+    "options": {
+      "A": "CO",
+      "B": "Methemoglobinemia",
+      "C": "Light",
+      "D": "High CO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Mucous gland absent in:",
+    "options": {
+      "A": "Terminal Bronchioles",
+      "B": "Alveoli",
+      "C": "Tertiary Bronchus",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Woman was cycling and Reached a height where atmospheric pressure was 700mmHg. Regarding Gases which of following is true:",
+    "options": {
+      "A": "PaO2 110 and Nitrogen 583",
+      "B": "PaO2 147 and Nitrogen 553",
+      "C": "PaO2 92 and Nitrogen 608",
+      "D": "PaO2 100 and nitrogen 703"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Goblet cells in respiratory tract are present up to:",
+    "options": {
+      "A": "Trachea",
+      "B": "Primary Bronchus",
+      "C": "Secondary Bronchus",
+      "D": "Bronchi",
+      "E": "Terminal Bronchioles"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "V/Q increase in:",
+    "options": {
+      "A": "Dead space",
+      "B": "Inadequate ventilation",
+      "C": "Increase perfusion",
+      "D": "Decrease perfusion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Energy used in respiration:",
+    "options": {
+      "A": "2-5%",
+      "B": "10%",
+      "C": "8%",
+      "D": "15%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "T taut form of Hb decrease affinity for:",
+    "options": {
+      "A": "O2",
+      "B": "CO",
+      "C": "H+",
+      "D": "Oxygen",
+      "E": "All"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Regarding alveoli:",
+    "options": {
+      "A": "Surfactant avoid collapse of alveoli",
+      "B": "Produce by type 1 pneumocytes",
+      "C": "Dec compliance",
+      "D": "Surfactant increase surface tension"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "What are parasympathetic effects on lungs?",
+    "options": {
+      "A": "Increase compliance",
+      "B": "Increase restrictive work",
+      "C": "Increase physiological dead space",
+      "D": "Increase elastic work"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "True about Rodford nomogram:",
+    "options": {
+      "A": "Measure tidal volume",
+      "B": "Measure cardiac output",
+      "C": "Measure residual volume",
+      "D": "Measure TLC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Diffusion is directly proportional to increased:",
+    "options": {
+      "A": "Surface area",
+      "B": "Resistance",
+      "C": "Viscosity",
+      "D": "Velocity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Diffusion capacity of pulmonary capillary increases in:",
+    "options": {
+      "A": "Asthma",
+      "B": "Pulmonary edema",
+      "C": "Polycythemia",
+      "D": "Fibrosis",
+      "E": "CCF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Decrease arterial oxygen tension in:",
+    "options": {
+      "A": "Decrease HB",
+      "B": "CO poising",
+      "C": "Decrease atmospheric oxygen",
+      "D": "Anemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Exchange of gases from alveoli to blood:",
+    "options": {
+      "A": "Simple diffusion",
+      "B": "Passive diffusion",
+      "C": "Facilitated diffusion",
+      "D": "Pinocytosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "O2 saturation at sea level in a young adult is:",
+    "options": {
+      "A": "100%",
+      "B": "80%",
+      "C": "97%",
+      "D": "94%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Which hormone is inactivated by lungs?",
+    "options": {
+      "A": "Vasopressin",
+      "B": "Serotonin",
+      "C": "Angiotensin",
+      "D": "GABA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "What prevent collapse of lung?",
+    "options": {
+      "A": "Residual volume",
+      "B": "Vital capacity",
+      "C": "IRV",
+      "D": "Tidal volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Normal inspiratory capacity:",
+    "options": {
+      "A": "3500 ml",
+      "B": "2300 ml",
+      "C": "4600 ml",
+      "D": "5800 ml"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Increased in PCO2 in non-anesthetized patient in first minute of apnea:",
+    "options": {
+      "A": "12mmHg",
+      "B": "6mmHg",
+      "C": "8mmHg",
+      "D": "4mmHg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Posteriorly inferior limit of lung which we called posterior inferior lobe is at level of:",
+    "options": {
+      "A": "T10",
+      "B": "T11",
+      "C": "T12",
+      "D": "T7"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Vascularity in lung is seen in which phase?",
+    "options": {
+      "A": "Canalicular",
+      "B": "Alveolar",
+      "C": "Pseudocanalicular",
+      "D": "none"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Terminal bronchiole doesn't have cartilage this feature differentiates it from:",
+    "options": {
+      "A": "Conducting bronchiole",
+      "B": "Respiratory bronchiole",
+      "C": "Alveolar duct",
+      "D": "Trachea"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Lipid bilayer of cell membrane is highly soluble for:",
+    "options": {
+      "A": "CO2",
+      "B": "Glucose",
+      "C": "Urea",
+      "D": "Na"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Patient after having accident and blood loss bicarb 18 O2 curve dissociate right due to decrease in:",
+    "options": {
+      "A": "2,3 BPG",
+      "B": "PH",
+      "C": "Temperature",
+      "D": "HBF"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Patient having decrease PO2 due to which?",
+    "options": {
+      "A": "Hypoxic hypoxia",
+      "B": "Anemic hypoxia",
+      "C": "Cyanide",
+      "D": "Cardiogenic shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Example of positive feedback mechanism:",
+    "options": {
+      "A": "Child birth",
+      "B": "CO2 transport",
+      "C": "Pathway to bring cellular environment back to normal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Compliance is defined as:",
+    "options": {
+      "A": "Change in volume per unit Change in flow",
+      "B": "Change in volume per unit Change in pressure",
+      "C": "Change in volume per unit change in resistance",
+      "D": "Tendency for lungs to collapse inward and chest wall outward"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Increase compliance in:",
+    "options": {
+      "A": "Emphysema",
+      "B": "Pulmonary fibrosis",
+      "C": "Pneumonia",
+      "D": "ARDS",
+      "E": "Pulmonary edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Which one is activated in lung?",
+    "options": {
+      "A": "Angiotensin 2",
+      "B": "Angiotensin I",
+      "C": "Serotonin",
+      "D": "Bradykinin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Bradykinin release from lungs will act on which vessel?",
+    "options": {
+      "A": "Internal iliac",
+      "B": "Ductus arteriosus",
+      "C": "Umbilical",
+      "D": "External iliac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Torr is a unit of:",
+    "options": {
+      "A": "Length",
+      "B": "Weight",
+      "C": "Pressure",
+      "D": "Power"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "While performing bronchoscopy first structure visualized beyond carina is?",
+    "options": {
+      "A": "Upper lobe bronchus",
+      "B": "Superior segmental bronchus",
+      "C": "Apical bronchus",
+      "D": "Middle lobe bronchus",
+      "E": "Inferior lobe bronchus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Single breath nitrogen test is used to measure:",
+    "options": {
+      "A": "Physiological dead space",
+      "B": "Residual volume",
+      "C": "Anatomical dead space",
+      "D": "Cardiac output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "No. of divisions of lower airways:",
+    "options": {
+      "A": "17",
+      "B": "21",
+      "C": "23",
+      "D": "26"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Which of the following is less in fetus than mother?",
+    "options": {
+      "A": "PO2",
+      "B": "PCO2",
+      "C": "HB",
+      "D": "Neutrophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Size of aerosol reaching alveoli in aerolized therapy?",
+    "options": {
+      "A": "<0.5",
+      "B": "0.5 to 3",
+      "C": "3 to 10",
+      "D": "10 to 30",
+      "E": ">30"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Lung compliance is increased in:",
+    "options": {
+      "A": "Old Age",
+      "B": "Bronchoconstriction",
+      "C": "Fibrosis",
+      "D": "Negative Pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Calculate alveolar ventilation, where tidal capacity is 350 ml, dead space is 100 ml & rr is 18/min:",
+    "options": {
+      "A": "3.5 L/Min",
+      "B": "4.5 L/Min",
+      "C": "5.5 L/Min",
+      "D": "6.0 L/Min"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "T-Configuration of hemoglobin has decrease affinity for:",
+    "options": {
+      "A": "Oxygen",
+      "B": "CO2",
+      "C": "Helium",
+      "D": "Nitrogen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Directly proportional for oxygen diffusion:",
+    "options": {
+      "A": "Alveolar Capillary surface Area",
+      "B": "Thickness",
+      "C": "Fibrosis",
+      "D": "Hemoglobin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Respiratory centre is located in:",
+    "options": {
+      "A": "Medulla",
+      "B": "Pons",
+      "C": "Midbrain",
+      "D": "Cortex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Vital capacity less than 80% in:",
+    "options": {
+      "A": "Restrictive Lung disease",
+      "B": "Normal Person",
+      "C": "Tension Pneumothorax",
+      "D": "Heart Failure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Alveoli doesn't easily collapse due to the presence of:",
+    "options": {
+      "A": "Surfactant",
+      "B": "Lipids",
+      "C": "Steroids",
+      "D": "Collagen Fibers"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Terminal Bronchioles have which of the following cells:",
+    "options": {
+      "A": "Goblet Cells",
+      "B": "Clara Cells",
+      "C": "Hair Cells",
+      "D": "Sweat Gland"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Which of the following volume/capacity in the lungs after normal tidal volume expiration?",
+    "options": {
+      "A": "Residual volume",
+      "B": "FRC",
+      "C": "ERV",
+      "D": "IRV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Normal value of FEV1/FVC is:",
+    "options": {
+      "A": "1",
+      "B": "0.8",
+      "C": "2",
+      "D": "3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Goblet cells are present in which of the following parts of respiratory system:",
+    "options": {
+      "A": "Bronchi",
+      "B": "Alveolar ducts",
+      "C": "Terminal bronchioles",
+      "D": "Alveolar sacs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Calculate Alveolar Ventilation when Tidal Volume is 500 ml & Respiratory Rate is 10:",
+    "options": {
+      "A": "2500 ml",
+      "B": "3500 ml",
+      "C": "4500 ml"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Half-life of carboxyhemoglobin at 100% Oxygen:",
+    "options": {
+      "A": "20 Minutes",
+      "B": "40 - 80 Minutes",
+      "C": "6 Hours",
+      "D": "12 Hours"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Patient expired normally & then inspired maximally which of the following volume or capacity does it points toward:",
+    "options": {
+      "A": "Inspiratory Volume",
+      "B": "Inspiratory Capacity",
+      "C": "Tidal Volume",
+      "D": "Expiratory Reserve Volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Which of the following lung volume/capacity will remain in the lungs after maximum full expiration?",
+    "options": {
+      "A": "Residual volume",
+      "B": "Functional residual capacity",
+      "C": "Inspiratory reserve volume",
+      "D": "Tidal volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A/a ratio is more than:",
+    "options": {
+      "A": "25",
+      "B": "45",
+      "C": "65",
+      "D": "75"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Segment of Lung with bronchus & arterial supply is called:",
+    "options": {
+      "A": "Bronchopulmonary Segment",
+      "B": "Bronchoalveolar Segment",
+      "C": "Bronchiole",
+      "D": "Bronchi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Oxyhemoglobin curve shifts to left:",
+    "options": {
+      "A": "Haldane effect",
+      "B": "Bohr effect",
+      "C": "Ficks effect",
+      "D": "None of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Decrease in oxygen saturation without change in oxygen tension is seen in:",
+    "options": {
+      "A": "CO poisoning",
+      "B": "High Altitude",
+      "C": "Cyanide Poisoning",
+      "D": "Hypoventilation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Surfactant deficiency leads to:",
+    "options": {
+      "A": "Cardiac impairment",
+      "B": "Renal Impairment",
+      "C": "RDS",
+      "D": "GIT Abnormality"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Pulmonary hypoxic vasoconstriction occurs due to:",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Decrease PO2",
+      "C": "Increase PCO2",
+      "D": "Decrease PCO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Sudden relief of respiratory distress with oxygen. Patient has apnoea now. What is the cause?",
+    "options": {
+      "A": "Decreased arterial O2",
+      "B": "Removal of hypoxic drive",
+      "C": "Venous blood CO2 fall to 45mmhg",
+      "D": "Venous blood CO2 fall less than 25mmhg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A patient who was admitted to a hospital suddenly developed dyspnea?",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Pulmonary embolism",
+      "C": "Polycythemia",
+      "D": "Septic shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "A patient with anemia and PaO2 is decreased:",
+    "options": {
+      "A": "Anemic hypoxia",
+      "B": "Hypoxic hypoxia",
+      "C": "Secondary polycythemia",
+      "D": "Pulmonary embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "A soldier who was posted at Siachen presents to the emergency with numbness of the fingers and headache. Most probable diagnosis:",
+    "options": {
+      "A": "Pulmonary edema",
+      "B": "Pulmonary Embolism",
+      "C": "Secondary Polycythemia",
+      "D": "Polycythemia Vera"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "At apex of lungs:",
+    "options": {
+      "A": "Increase ventilation",
+      "B": "Increase V/Q",
+      "C": "Increase perfusion",
+      "D": "Decrease V/Q"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "What is the change that occurs at the 36 weeks of pregnancy?",
+    "options": {
+      "A": "Decrease in FRC",
+      "B": "Increase in FRC",
+      "C": "Increase in Hb",
+      "D": "Decrease blood volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "The high altitude would result in:",
+    "options": {
+      "A": "Increase 2,3, BPG",
+      "B": "Decrease Oxygen affinity",
+      "C": "Increase oxygen affinity",
+      "D": "No change shall occur"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Decrease of which of the following parameters occurs at the apex of lungs?",
+    "options": {
+      "A": "Oxygenation",
+      "B": "PCO2",
+      "C": "V/Q",
+      "D": "Ventilation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "The normal respiratory drive is dependent on:",
+    "options": {
+      "A": "PaO2",
+      "B": "PaCO2",
+      "C": "Nitrogen in air",
+      "D": "Altitude"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "CO2 diffuses rapidly than O2 through the alveoli due to:",
+    "options": {
+      "A": "High pressure of CO2 in the lungs",
+      "B": "High lipid solubility",
+      "C": "High water solubility",
+      "D": "High diffusion coefficient"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Segmental bronchus aerates which of the following?",
+    "options": {
+      "A": "Trachea",
+      "B": "Bronchi",
+      "C": "Bronchioles",
+      "D": "Bronchopulmonary Segment of lung"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Hering bruer reflex prevent which of following?",
+    "options": {
+      "A": "Collapse of lung",
+      "B": "Deflation",
+      "C": "Overinflation",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "During transport of oxygen and CO2. Amount of CO2 dissolved in plasma at 45mmhg is:",
+    "options": {
+      "A": "0.3%",
+      "B": "2.7%",
+      "C": "23%",
+      "D": "70%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Hb is 10g, O2 saturation 90%, PaO2 60mmhg, calculate oxygen content:",
+    "options": {
+      "A": "10",
+      "B": "13",
+      "C": "21",
+      "D": "50"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "To make it simple use the following formula:",
+    "options": {
+      "A": "Oxygen Content = Hb * 1.34",
+      "B": "Oxygen content = 10 * 1.34",
+      "C": "Oxygen Content = 13.4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "When interpreting a capnogram at?",
+    "options": {
+      "A": "Rise in baseline demonstrates hypocarbia",
+      "B": "Rise in baseline demonstrates rebreathing",
+      "C": "Rise in height demonstrates expiratory obstruction",
+      "D": "Slow rise in height demonstrates inspiratory obstruction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Alveoli are kept dry because of:",
+    "options": {
+      "A": "Alveolar macrophages",
+      "B": "Tight junction b/w capillaries",
+      "C": "Surfactants",
+      "D": "Negative intrapleural pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Lung base have high perfusion and ventilation, why?",
+    "options": {
+      "A": "High blood flow",
+      "B": "Low blood flow",
+      "C": "High diffusing capacity",
+      "D": "none"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Very small particles in respiratory tract are cleared by:",
+    "options": {
+      "A": "Cilia",
+      "B": "Mass transport",
+      "C": "Phagocytosis",
+      "D": "Diffusion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Basement membrane of lung alveoli:",
+    "options": {
+      "A": "Comprises of type 2 collagen",
+      "B": "Contributes in the formation of surfactant",
+      "C": "Has chondroitin sulphate as a constituent component",
+      "D": "It is a mucopolysaccharide",
+      "E": "Separates epithelium from endothelium in alveolar wall"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Highest oxygen tension in:",
+    "options": {
+      "A": "Pulmonary capillaries",
+      "B": "Arterial blood",
+      "C": "Venous blood",
+      "D": "Left ventricle",
+      "E": "Right Atrium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Deficiency of pulmonary surfactant leads to:",
+    "options": {
+      "A": "Increases surface tension, increases compliance",
+      "B": "Increases surface tension, decreases compliance",
+      "C": "Decreases surface tension, increases compliance",
+      "D": "Decreases surface tension, decreases compliance",
+      "E": "Increases surface tension, no effect on compliance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "During quite breathing, the expenditure out of total body energy is:",
+    "options": {
+      "A": "1%",
+      "B": "5%",
+      "C": "10%",
+      "D": "15%",
+      "E": "20%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Diameter of bronchi & bronchioles is:",
+    "options": {
+      "A": "Mainly under the control of sympathetic nervous system",
+      "B": "Under muscarinic control",
+      "C": "Narrowed due to local stimuli",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "True statement about the physiological dead space is:",
+    "options": {
+      "A": "Is not diffusion dependent.",
+      "B": "Is equal to anatomical dead space in a normal adult",
+      "C": "Does not include anatomical dead space",
+      "D": "Decreases with exercise"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Left oxygen dissociation curve occur in all except?",
+    "options": {
+      "A": "Fetal hb",
+      "B": "Increase ph",
+      "C": "Hyperthyroidism",
+      "D": "Fall of temperature"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Physiologic shunt will be present when V/Q is:",
+    "options": {
+      "A": "Infinite",
+      "B": "Zero",
+      "C": "Normal",
+      "D": "One"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "The respiratory zone extends beyond:",
+    "options": {
+      "A": "Respiratory bronchioles",
+      "B": "Terminal bronchioles",
+      "C": "Alveolar ducts",
+      "D": "Alveoli"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "During strenuous exercise, the respiratory rate increases, this is because:",
+    "options": {
+      "A": "PCO2 increases",
+      "B": "PO2 decreases",
+      "C": "PH of blood increases",
+      "D": "Hypoglycemia occurs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Pulmonary artery pressure raised in:",
+    "options": {
+      "A": "Inspiration upto total lung capacity",
+      "B": "Starvation",
+      "C": "Moderate exercise",
+      "D": "All of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "In strenuous, increase ventilation is due to:",
+    "options": {
+      "A": "Increase arterial PCO2",
+      "B": "Decrease arterial PO2",
+      "C": "Decrease Arterial PH",
+      "D": "Collateral stimulation from higher centers"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Hypoxemia in blood is sensed by:",
+    "options": {
+      "A": "Chemoreceptors",
+      "B": "Central receptors",
+      "C": "Carotid body",
+      "D": "Carotid sinus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "V/Q lower than normal in?",
+    "options": {
+      "A": "Aqueous pressure of water",
+      "B": "Increase of alveolar po2",
+      "C": "Shunt",
+      "D": "Pulmonary embolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "At 3000 feet barometric pressure should be?",
+    "options": {
+      "A": "396",
+      "B": "344",
+      "C": "240",
+      "D": "100",
+      "E": "226"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Dead space is increased by:",
+    "options": {
+      "A": "Hyperventilation",
+      "B": "Tracheostomy",
+      "C": "Intubation",
+      "D": "Hypotension",
+      "E": "Neck flexion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Physiological dead space:",
+    "options": {
+      "A": "100ml",
+      "B": "150 ml",
+      "C": "200ml",
+      "D": "250 ml",
+      "E": "300 ml"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Normal ratio of physiological and anatomical dead space:",
+    "options": {
+      "A": "1:1",
+      "B": "1:2",
+      "C": "2:1",
+      "D": "1:3",
+      "E": "1:4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "O2 dissociation curve is:",
+    "options": {
+      "A": "Sigmoid",
+      "B": "Hyperbolic",
+      "C": "Parabola",
+      "D": "Deltoid curve",
+      "E": "Helices"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Hering bruer refmex will lead to inhibition of:",
+    "options": {
+      "A": "Dorsal neuron of central respiration",
+      "B": "Apneustic center",
+      "C": "pneumotaxic center",
+      "D": "Reticular activating center"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Regarding right shift of O2 dissociation curve, what will be p50?",
+    "options": {
+      "A": "26",
+      "B": "35",
+      "C": "18",
+      "D": "22",
+      "E": "10"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "In third Trimester of pregnancy what will be decreased:",
+    "options": {
+      "A": "IC",
+      "B": "RR",
+      "C": "Vital Capacity",
+      "D": "FRC",
+      "E": "Tidal Volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "The po2 in blood at which Hb is 50% saturated with oxygen is about:",
+    "options": {
+      "A": "10mmhg",
+      "B": "26mmhg",
+      "C": "35mmhg",
+      "D": "50mmhg",
+      "E": "6mmhg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Preterm Baby with 2.3 kg weight, tidal volume will be:",
+    "options": {
+      "A": "40",
+      "B": "14",
+      "C": "17",
+      "D": "25",
+      "E": "60"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "In isotonic exercise oxygen consumption by respiratory muscle:",
+    "options": {
+      "A": "5%",
+      "B": "20%",
+      "C": "100%",
+      "D": "80%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Muscle of forced expiration:",
+    "options": {
+      "A": "Quadratus Lamborum",
+      "B": "Diaphragm",
+      "C": "External intercostal",
+      "D": "Abdominal muscles",
+      "E": "Elastic Recoil"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Which muscles are involved in forceful inspiration?",
+    "options": {
+      "A": "Abdominal + SCM + External oblique + Serratus anterior",
+      "B": "Diaphragm+ Internal intercostal",
+      "C": "Diaphragm + External intercostal + SCM + Serratus Anterior + Scalene muscle",
+      "D": "Diaphragm + External Oblique"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Best Host defense in alveoli is:",
+    "options": {
+      "A": "Nasal Cillia",
+      "B": "Lymphatics",
+      "C": "Alveolar macrophages",
+      "D": "IgA Secretion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "A boy had a car accident after which he is bed ridden. He develops DVT He came to ER with chest pain and dyspnea. What will be the findings?",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Ventilation perfusion mismatch",
+      "C": "Increase pCO2",
+      "D": "Decrease pO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Highest oxygen saturation in fetal circulation is seen in:",
+    "options": {
+      "A": "Umbilical artery",
+      "B": "Umbilical vein",
+      "C": "Aorta",
+      "D": "IVC",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Which of following has max O2:",
+    "options": {
+      "A": "Umbilical artery",
+      "B": "Pulmonary Capillary",
+      "C": "Aorta",
+      "D": "IVC",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "At normal conditions both are equal?",
+    "options": {
+      "A": "Pulmonary blood flow &venous return",
+      "B": "Venous return and cardiac output",
+      "C": "Venoun return and MAP",
+      "D": "Blood pressure and venous return"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "In the last trimester of pregnancy what change in respiratory parameters occurs?",
+    "options": {
+      "A": "Decreased FEV/FVC",
+      "B": "Decreased Vital capacity",
+      "C": "Increased lung compliance",
+      "D": "Decrease CO2",
+      "E": "Decrease tidal volume"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Patient after RTA presented with expired expiration (difficulty in expiration) which muscle is damaged?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External intersostal",
+      "C": "Abdominal muscles",
+      "D": "Sternocleidomastoid",
+      "E": "Internal intersostal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Lung compliance decrease by?",
+    "options": {
+      "A": "Supine position",
+      "B": "Increase surface tension",
+      "C": "Dead space",
+      "D": "Decrease lung volume",
+      "E": "Increase lung volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "In shallow breathing which of the following remains unchanged?",
+    "options": {
+      "A": "Alveolar ventilation",
+      "B": "Dead space",
+      "C": "Tidal volume",
+      "D": "Residual volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "In obstructive lung disease which one decrease?",
+    "options": {
+      "A": "FRC",
+      "B": "FEV1",
+      "C": "ERV",
+      "D": "RV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Critical temperature of oxygen is:",
+    "options": {
+      "A": "+30",
+      "B": "+60",
+      "C": "-118",
+      "D": "+45"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Air humidity in OT:",
+    "options": {
+      "A": "55%",
+      "B": "45%",
+      "C": "65%",
+      "D": "80%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "As compared to normal person, marathon runner has following changes:",
+    "options": {
+      "A": "Increase SV",
+      "B": "Increase SV and heart rate",
+      "C": "Decrease heart rate and increase SV",
+      "D": "Both are decreased",
+      "E": "Decrease SV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Central and peripheral chemoreceptors sensitive to:",
+    "options": {
+      "A": "CO2",
+      "B": "Arterial PH",
+      "C": "CSF PH",
+      "D": "Hypoxia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Early stage of asthmatic attack with RR 30/min will show:",
+    "options": {
+      "A": "Low arterial PCO2",
+      "B": "High arterial PCO2",
+      "C": "Low PO2",
+      "D": "Reduced lung compliance",
+      "E": "Increased airway resistance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Ground substance of alveolar duct:",
+    "options": {
+      "A": "Basement membrane",
+      "B": "Collagen",
+      "C": "Elastic fiber",
+      "D": "Alveoli"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Most common cause of physiological hypoxemia is:",
+    "options": {
+      "A": "V/Q mismatch",
+      "B": "Pulmonary shunt",
+      "C": "Diffusion defects",
+      "D": "Increase 2,3 DPG",
+      "E": "Hypoventilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "A patient of asthma having following ABGS PH 7.23, HCO3 26 and Hypercapnea likely acid base disorder is:",
+    "options": {
+      "A": "Uncompensated metabolic acidosis",
+      "B": "Compensated metabolic acidosis",
+      "C": "Respiratory alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "A patient with Na 144 PH7.34 HCO3 12 Cl 110 and anion gap 10 will have:",
+    "options": {
+      "A": "normal anion gap",
+      "B": "Hypocholernic metabolic acidosis with normal anion gap",
+      "C": "Hypercholermic metabolic acidosis with normal anion gap",
+      "D": "Hypocholremic metabolic acidosis withnormal anion gap"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "A patient ABGs reveal PH 7.54, PCO2 40 and HCO3 38 what is acid base disorder?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Compensated Respiratory Acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Uncompensated Metabolic alkalosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Decreased physiological dead space by:",
+    "options": {
+      "A": "Pneumothorax",
+      "B": "Atelectasis",
+      "C": "Emphysema",
+      "D": "Pleural effusion",
+      "E": "Hypertension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Patient present with breathlessness, PH 7.35, PCO2 60, O2 75 And HCO3 16 which acid base disorder is:",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Uncompensated metabolic acidosis",
+      "D": "Metabolic acidosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "How much tidal volume should be given to Anesthetized individual?",
+    "options": {
+      "A": "Normal",
+      "B": "Twice the normal",
+      "C": "Thrice the normal",
+      "D": "Half the normal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "In artificial respiration 60% o2 given and 40% nitrogen given after switching off artificial respiration there is brief apneic episode due to:",
+    "options": {
+      "A": "Low arterial O2 suppresing peripheral chemoreceptors",
+      "B": "Low arterial O2 suppressing central chemoreceptors",
+      "C": "Low arterial PH suppressing peripheral chemoreceptors",
+      "D": "More O2 activate Central chemoreceptor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "If a male breaths 7500ml per minut,have 12preath per minute, if his intrathoracic pressure increase 5cm H2O while breathing, how much energy consumed?",
+    "options": {
+      "A": "3000 joule/min",
+      "B": "4000 joule/min",
+      "C": "4500 joule/min",
+      "D": "5000 joule/min"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "The air-blood barrier in the lungs consists of:",
+    "options": {
+      "A": "Alveolar type I cells",
+      "B": "Alveolar type II cells",
+      "C": "Endothelial cells",
+      "D": "Pericytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Patient has history of severe dyspnea and breathlessness. After 1 week other symptoms resolved except dyspnea. ABG's shows PH 7.32, CO2 70mmhg, HCO3 35mmhg",
+    "options": {
+      "A": "Uncompensated metabolic acidosis",
+      "B": "Compensated metabolic acidosis",
+      "C": "Respiratory alkalosis",
+      "D": "Compensated respiratory acidosis",
+      "E": "Metabolic alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "During Exercise there is:",
+    "options": {
+      "A": "O2 Consumption",
+      "B": "CO2 Production",
+      "C": "Decrease ventilation",
+      "D": "Increase O2 production"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "In which condition v/q ratio is less than normal?",
+    "options": {
+      "A": "Physiological dead space",
+      "B": "Shunt",
+      "C": "Embolism",
+      "D": "Obstruction of bronchi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "In which condition v/q ratio is increased?",
+    "options": {
+      "A": "Physiological dead space",
+      "B": "Shunt",
+      "C": "Embolism",
+      "D": "Obstruction of bronchi"
+    },
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "Lung root median to branching of primary bronchus how can you identify the side of root?",
+    "options": {
+      "A": "Pulmonary artery",
+      "B": "Alveoli position",
+      "C": "Position of Pulmonary veins",
+      "D": "Bronchial varix"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Normal fluid loss in 24 hours through perspiration is:",
+    "options": {
+      "A": "200-400ml",
+      "B": "400-500ml",
+      "C": "500-600ml",
+      "D": "600-800ml"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A girl has bronchial obstruction, but alveoli are still aerated due to:",
+    "options": {
+      "A": "Dispersed cartilage in lamina",
+      "B": "Intercellular canaliculi",
+      "C": "Sinusoids",
+      "D": "Alveolar pores",
+      "E": "Fenestrations in endothelium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "The maximum FIO2 which can be administered to mother without raising risk of fibrolental hypoplasia:",
+    "options": {
+      "A": "1.0",
+      "B": "0.8",
+      "C": "0.6",
+      "D": "0.35"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Patient presented with PO2 90mmhg CO2 20mmhg and HCO3 18 with PH 7.35 what is likely cause:",
+    "options": {
+      "A": "Hypoxia",
+      "B": "Hyperventilation",
+      "C": "Metabolic alkalosis",
+      "D": "Respiratory Acidosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "During inspiration which prevents overstretching of lung:",
+    "options": {
+      "A": "Dorsal",
+      "B": "Ventral",
+      "C": "Apneustic centre",
+      "D": "Pneumotaxic centre",
+      "E": "Chemoreceptor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "COPD no metabolic disturbance pH of 80 of what will be PH:",
+    "options": {
+      "A": "7.3",
+      "B": "7.4",
+      "C": "7.5",
+      "D": "7.6"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Lowest CO2 tension in:",
+    "options": {
+      "A": "Alveoli in end inspiration",
+      "B": "Anatomic dead space in end inspiration",
+      "C": "Anatomic dead space in end expiration",
+      "D": "Pulmonary veins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Embolus in one of branch of pulmonary artery cause:",
+    "options": {
+      "A": "Increase PO2",
+      "B": "Increase Alveolar CO2",
+      "C": "Increase V/Q",
+      "D": "Decrease V/Q"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Pulmonary nodule has which type calcification?",
+    "options": {
+      "A": "Lamellar",
+      "B": "Eccentric",
+      "C": "Nodular",
+      "D": "Cresenteric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "A patient with Hb 15 oxygen content of hemoglobin is 20ml, alveolar pO2 is 40, - venous O2 is 15 what type of hypoxia is this?",
+    "options": {
+      "A": "Hypoxic",
+      "B": "Anemic",
+      "C": "Hypoxemic",
+      "D": "Histotoxic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "During inspiration what causes:",
+    "options": {
+      "A": "Increase Arterial PO2",
+      "B": "Heart failure",
+      "C": "CO Poisining",
+      "D": "Shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Regarding HB true is:",
+    "options": {
+      "A": "Carry Deoxygenated Blood",
+      "B": "Has more HBF",
+      "C": "Act as buffer as it accepts H ions",
+      "D": "It does not accept H ions"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "FRC consist of:",
+    "options": {
+      "A": "IRV -FVC",
+      "B": "ERV +IRV",
+      "C": "RV + ERV",
+      "D": "Only ERV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Oxygen toxicity occur at:",
+    "options": {
+      "A": "1 atmosphere in 24 hours",
+      "B": "Ventilation perfusion ratio",
+      "C": "100 atmosphere in 24 hours",
+      "D": "10 atmosphere in 72 hours"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Pulmonary artery clotted what will increases in affected lung site:",
+    "options": {
+      "A": "Ventilation perfusion ratio",
+      "B": "Increase PO2 in alveoli",
+      "C": "Increase CO2 in alveoli",
+      "D": "Increase CO2 in artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Regarding Fetal HB true is:",
+    "options": {
+      "A": "More CO2 binding capacity",
+      "B": "Less 2,3 DPG binding capacity",
+      "C": "More O2 binding capacity",
+      "D": "Cause tachycardia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "A patient whose perianal surgery is going on in Trendelenburg position what will increase:",
+    "options": {
+      "A": "Vital capacity",
+      "B": "RR",
+      "C": "Tidal volume",
+      "D": "Residual volume",
+      "E": "Lung compliance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "lung compared to systemic circulation has:",
+    "options": {
+      "A": "Increase resistance",
+      "B": "Decrease resistance",
+      "C": "Increase diameter",
+      "D": "Decrease area"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Group of neurons that generates basal rhythm for breathing include:",
+    "options": {
+      "A": "Dorsal",
+      "B": "Ventral",
+      "C": "Apneustic",
+      "D": "Pneumotaxic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A young female presented with diarrhea and dizziness. HCO3 18 in right shift of HB O2 curve what will be decreased:",
+    "options": {
+      "A": "Temperature",
+      "B": "H ions",
+      "C": "2,3BPG",
+      "D": "PH",
+      "E": "Pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "CO2 transports mainly in the form of:",
+    "options": {
+      "A": "HCO3",
+      "B": "Free form",
+      "C": "Bound to Chloride",
+      "D": "Dissolved in plasma",
+      "E": "Bound to sodium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "During Inspiration what decreases:",
+    "options": {
+      "A": "Systolic Hypertension",
+      "B": "Right ventricular pressure",
+      "C": "Left Ventricle contractions",
+      "D": "Thoracic arterial pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Patient has emphysema what will be the acid base imbalance present in him:",
+    "options": {
+      "A": "Raised in H ion in plasma",
+      "B": "Raise in plasma PCO2",
+      "C": "Decrease in HOC3 in plasma",
+      "D": "Positive base excess",
+      "E": "Rise in plasma PH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Dead space remained unchanged in:",
+    "options": {
+      "A": "Asthma",
+      "B": "Deep breathing",
+      "C": "Bronchoconstriction",
+      "D": "Bronchiectasis",
+      "E": "Shallow breathing"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "In diabetic patient acidosis is due to:",
+    "options": {
+      "A": "Decrease H",
+      "B": "Decrease K",
+      "C": "Decrease Bicarbonate",
+      "D": "Decrease CO2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "In asthma patient having crepts, what parameter will decrease:",
+    "options": {
+      "A": "Increase FVC",
+      "B": "Decrease FEV1",
+      "C": "Increase TLC",
+      "D": "Decrease TLC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "The cause of pulmonary edema in IHD and diabetes:",
+    "options": {
+      "A": "Bronchial obstruction.",
+      "B": "Increase hydrostatic pressure",
+      "C": "Increase oncotic pressure",
+      "D": "Vagovagal reflexes",
+      "E": "Lymphatic obstruction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Complete transection of brainstem above pons would:",
+    "options": {
+      "A": "Result in cessation of all breathing movements",
+      "B": "Prevent any voluntary holding of breath",
+      "C": "Prevent control of vertebral center over breathing from exerting any control over breathing",
+      "D": "Prevent peripheral chemoreceptors from exerting any control over ventilation",
+      "E": "Abolish Hering Breuer reflex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Oxygen delivery to tissue decreases by:",
+    "options": {
+      "A": "Decrease oxygen tension",
+      "B": "CO poisoning",
+      "C": "Cyanide poisoning",
+      "D": "Heart failure",
+      "E": "Shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "A patient ABGs reveal PH 7.54, PCO2 40 and HCO3 29 what is acid base disorder?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Compensatory Respiratory Acidosis",
+      "D": "Metabolic acidosis",
+      "E": "Uncompensated Metabolic alkalosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Hypoxic Vasoconstriction occur in which of following:",
+    "options": {
+      "A": "Kidney",
+      "B": "Spleen",
+      "C": "Lung",
+      "D": "Liver",
+      "E": "Stomach"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Decrease CO2 has occurred. What changes will occur?",
+    "options": {
+      "A": "Increase blood supply to brain",
+      "B": "Decrease blood supply to brain",
+      "C": "Increase blood supply to kidney",
+      "D": "No change",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "A sea diver after diving ascend rapidly then develops shortness of breath and joint pain. Cause is:",
+    "options": {
+      "A": "Lactic Acidosis",
+      "B": "Nitrogen bubble",
+      "C": "Excessive fatigue",
+      "D": "Excess CO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "First line macrophage of defense in lungs is:",
+    "options": {
+      "A": "Histiocytes",
+      "B": "Dust cell",
+      "C": "Dendritic cell",
+      "D": "Histamine",
+      "E": "Neutrophil"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Stagnant Hypoxia occurs in:",
+    "options": {
+      "A": "Cyanide",
+      "B": "COPD",
+      "C": "Polycythemia",
+      "D": "Severe Anemia",
+      "E": "Asthma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "What happens in whooping cough?",
+    "options": {
+      "A": "Cotton wool spot",
+      "B": "Atrophy of respiratory membrane",
+      "C": "Hyperplasia of respiratory bronchus",
+      "D": "Degeneration of Alveoli"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Surfactant production is increased in which of the following?",
+    "options": {
+      "A": "Deep breathing",
+      "B": "Increase compliance",
+      "C": "Decrease compliance",
+      "D": "Decrease elastic recoil",
+      "E": "Expiration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Absent surfactant leads to which of following?",
+    "options": {
+      "A": "Decrease oxygen tension",
+      "B": "Increase compliance",
+      "C": "Decrease compliance",
+      "D": "Decrease elastic recoil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "CO2 transport is regulated by:",
+    "options": {
+      "A": "Positive feedback",
+      "B": "Renin angiotensin system",
+      "C": "Negative feedback",
+      "D": "Central and peripheral receptors"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "A patient in RTA had head injury after which he has increase respiration and respiration is known as:",
+    "options": {
+      "A": "Cheyne stokes",
+      "B": "Laboured",
+      "C": "Hysterical",
+      "D": "Kussmaul",
+      "E": "Apnea"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "CO2 and H ions raised which one will be stimulated:",
+    "options": {
+      "A": "Carotid body",
+      "B": "Central chemoreceptor",
+      "C": "Peripheral chemoreceptor",
+      "D": "Carotid Sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Metabolic acidosis caused by:",
+    "options": {
+      "A": "Increase CO2",
+      "B": "Decrease CO2",
+      "C": "Fall in Bicarbonate",
+      "D": "Increase Bicarbonate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Fetal blood leaving placenta having oxygen is:",
+    "options": {
+      "A": "20mmhg",
+      "B": "30mmhg",
+      "C": "50mmhg",
+      "D": "60mmhg",
+      "E": "100mmhg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "In lung formation canalicular stage what will happen?",
+    "options": {
+      "A": "Increase vasculogenesis",
+      "B": "Lung bud formed",
+      "C": "Alveoli formed",
+      "D": "Bronchioles formation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "A patient with well differentiated squamous cell Carcinoma of lung, histopathology will show which of the following?",
+    "options": {
+      "A": "Loss of Polarity",
+      "B": "Pleomorphism",
+      "C": "Keratin Pearls",
+      "D": "Loss of Architecture",
+      "E": "C (FA +pathoma)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Deep inspiration leads to:",
+    "options": {
+      "A": "Increase compliance in pulmonary vasculature",
+      "B": "S2 splitting",
+      "C": "Delayed closure of semilunar valves occur",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Which of the following lung volumes or capacities can be measured by spirometry?",
+    "options": {
+      "A": "FRC",
+      "B": "Physiologic dead space",
+      "C": "RV",
+      "D": "TLC",
+      "E": "VC"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "PO2 in arterial blood is less than the PO2 in alveoli because:",
+    "options": {
+      "A": "Mixing of blood of cardiac veins into coronary sinus",
+      "B": "Oxygen need pressure gradient for diffusion",
+      "C": "Oxygen need Mix blood",
+      "D": "CO2 need high pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Feature of acid fast bacilli in TB?",
+    "options": {
+      "A": "Mycolic acids",
+      "B": "Cell wall of peptidoglycan",
+      "C": "Capsule",
+      "D": "Periplasmic space"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Increase PaCO2 will cause:",
+    "options": {
+      "A": "Hypotension",
+      "B": "Coma",
+      "C": "Tachycardia",
+      "D": "Sweating",
+      "E": "Tremors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Surfactant decrease surface tension by:",
+    "options": {
+      "A": "Increasing elastic recoil of lung",
+      "B": "Decreasing elastic recoil of lung",
+      "C": "Decreasing Surface area",
+      "D": "Decreasing Tension in bronchi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "If dead space becomes zero it is called:",
+    "options": {
+      "A": "Physiological dead space",
+      "B": "Physiological Shunt",
+      "C": "Embolism",
+      "D": "Obstruction of bronchi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Lungs remain open due to:",
+    "options": {
+      "A": "Positive intrapleural pressure",
+      "B": "Vital capacity",
+      "C": "Negative intrapleural pressure",
+      "D": "Elastic recoil",
+      "E": "Pericardial fluid surface tension"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "A man is a plumber he is having difficulty in breathing from last 1 year he is also short of breath and dyspnoeic his blood ABGS show PH7.4 HCO3 19 and PCO2 31 he has most likely:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated metabolic alkalosis",
+      "D": "Compensated metabolic acidosis",
+      "E": "Mixed metabolic acidosis and alkalosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "A patient has following ABGs PH of 7.2, HCO3 levels of 19 and PCO2 of 39 what is likely diagnosis?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Respiratory acidosis",
+      "C": "Metabolic acidosis",
+      "D": "Metabolic alkalosis",
+      "E": "Normal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Patient has COPD which help reach diagnosis:",
+    "options": {
+      "A": "V/Q=1",
+      "B": "V/Q=infinity",
+      "C": "V/Q = 0.1",
+      "D": "Physiological dead space",
+      "E": "Physiological shunt"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Respiratory muscle work against:",
+    "options": {
+      "A": "Decrease intrapleural pressure",
+      "B": "Elastic recoil of lung",
+      "C": "Volume of lung",
+      "D": "Residual volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "How the Inspiratory Reserve Volume (IRV) is calculated based on lung volumes and capacities measured during a spirometry test?",
+    "options": {
+      "A": "IRV = TV - ERV",
+      "B": "IRV = VC - TV - IC",
+      "C": "IRV = ERV - IC",
+      "D": "IRV = VC - TV - ERV"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Calculate minute ventilate if dead space is 150 ml, R/R 12 and Tidal volume is 500ml:",
+    "options": {
+      "A": "4600ml",
+      "B": "5200ml",
+      "C": "3500ml",
+      "D": "4200ml",
+      "E": "6200ml"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Vital capacity is defined as:",
+    "options": {
+      "A": "Forceful expiration",
+      "B": "Forceful inspiration",
+      "C": "Forceful inspiration than Expiration",
+      "D": "Exhale maximally then inhale"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "A person after RTA has shallow breathing that will cause:",
+    "options": {
+      "A": "Increase PH and increase CO2",
+      "B": "Decrease O2; increase PCO2; PH decreased and Increased HCO3",
+      "C": "Increased O2, Increase PH and Decrease HCO3",
+      "D": "Decreased O2 Decrease CO2 and Decrease HCO3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Diagnostic findings of metabolic alkalosis are:",
+    "options": {
+      "A": "HCO3 > 24",
+      "B": "PCO2 < 40",
+      "C": "PCO2 < 60",
+      "D": "PH > 7.4",
+      "E": "PH < 7.4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Metabolic acidosis mechanism is:",
+    "options": {
+      "A": "Loss of CO2",
+      "B": "Gain of Bicarbonates",
+      "C": "Gain of PH",
+      "D": "Loss of Bicarbonate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "A patient has PH: 7.2, HCO3: 16 & CO2: 50 what is your diagnosis?",
+    "options": {
+      "A": "Mixed metabolic acidosis and respiratory acidosis",
+      "B": "Respiratory alkalosis",
+      "C": "Respiratory acidosis compensated",
+      "D": "Metabolic alkalosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Alveoli are affected by:",
+    "options": {
+      "A": "Pulmonary veins",
+      "B": "Pores",
+      "C": "Pulmonary tree",
+      "D": "Arteries"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "After forced expiration residual volume:",
+    "options": {
+      "A": "500ml",
+      "B": "1000ml",
+      "C": "1200ml",
+      "D": "2400ml"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "If alveolar ventilation doubles and CO2 production remains constant than arterial PCO2:",
+    "options": {
+      "A": "Does not change",
+      "B": "Double",
+      "C": "Increase 4 folds",
+      "D": "Increase 16 folds",
+      "E": "Halved"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Respiratory acidosis occurs in:",
+    "options": {
+      "A": "High altitude",
+      "B": "Drowning",
+      "C": "Aspirin toxicity",
+      "D": "Diarrhea",
+      "E": "Hyperaldosteronism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "ABG's of a patient advised report shows PH: 7.3 HCO3 : 15 PCO2: 38 diagnosis?",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Respiratory alkalosis",
+      "D": "Respiratory acidosis",
+      "E": "Mixed acid base"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "On inspiration which cardiovascular parameter decreases?",
+    "options": {
+      "A": "Decrease pleural pressure",
+      "B": "Decrease abdominal pressure",
+      "C": "Decreased intrathoracic pressure with dilation of thoracic veins",
+      "D": "Decrease Vena cava pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Which of the following occurs in severe diarrhea with normal anion gap?",
+    "options": {
+      "A": "Metabolic alkalosis",
+      "B": "Metabolic Acidosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Increase Surfactant level leads to:",
+    "options": {
+      "A": "Decrease lung compliance",
+      "B": "ARDS",
+      "C": "Decrease lung mass",
+      "D": "Decrease Surface tension"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Patient with PH 7.12 , PCO2 60 and HCO3 19 cause is:",
+    "options": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Compensated metabolic alkalosis",
+      "D": "Compensated metabolic acidosis and Respiratory acidosis",
+      "E": "Mixed metabolic acidosis and Respiratory acidosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Patient is being moved on O2, 6L/min the full tank of oxygen 3.5 kg will finish in:",
+    "options": {
+      "A": "30min",
+      "B": "60 min",
+      "C": "90 min",
+      "D": "110 min",
+      "E": "130 min"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Girl doing exercise result in increase minute ventilation is due to:",
+    "options": {
+      "A": "Decrease CO2 tension in blood",
+      "B": "Increase O2",
+      "C": "Increase CO2 tension in blood",
+      "D": "Increase N2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "CO2 and O2 crosses membrane due to (Surgery Feb 2024):",
+    "options": {
+      "A": "Lipid solubility",
+      "B": "Cross structure",
+      "C": "Small size",
+      "D": "Passive diffusion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "12 Year old boy breathing, What will happen to Inhaled air in alveoli?",
+    "options": {
+      "A": "Air velocity decreases progressively",
+      "B": "Maximum velocity at bronchioles",
+      "C": "Maximum velocity at bronchi",
+      "D": "Air velocity increases progressively"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "The tidal volume is 500ml and intrapulmonary pressure increased from 0 to 5cm H20. The product of this pressure and volume relationship is an expression of:",
+    "options": {
+      "A": "FRC",
+      "B": "Lung compliance",
+      "C": "Work of breathing",
+      "D": "Vital capacity",
+      "E": "ERV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "A female patient has BP 145/90mmhg , She is pale and having deep breathing . Her Hb is 6.7g/dl. What is likely cause:",
+    "options": {
+      "A": "Hypoxic hypoxia",
+      "B": "Anemic hypoxia",
+      "C": "Decrease Erythropoietin",
+      "D": "Decrease Perfusion",
+      "E": "Decrease Perfusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "During Inspiration what will happen:",
+    "options": {
+      "A": "Systolic Hypertension",
+      "B": "Right ventricular pressure",
+      "C": "Left Ventricle contractions",
+      "D": "Thoracic arterial pressure decrease and dilated thoracic veins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Lamella forming air blood barrier are:",
+    "options": {
+      "A": "Alveolar macrophages",
+      "B": "Type 1 pneumocytes",
+      "C": "Type 2 pneumocytes",
+      "D": "Cillia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Right lung has bronchogenic carcinoma, middle lobe removed surgically, segments include:",
+    "options": {
+      "A": "Apical and Lingula",
+      "B": "Medial and lateral",
+      "C": "Anterobasal and Lateral basal",
+      "D": "Mediobasal And lateral",
+      "E": "Anterobasal and Posterobasal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "Exercise causes hyperventilation, what's the cause?",
+    "options": {
+      "A": "Central Chemoreceptors",
+      "B": "Baroreceptors",
+      "C": "Peripheral Chemoreceptors",
+      "D": "J receptor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Lung is distended due to which of the following:",
+    "options": {
+      "A": "Intra thoracic pressure",
+      "B": "Intra alveolar pressure",
+      "C": "Positive pressure",
+      "D": "Negative pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "A pt has severe problem in breathing at room air , 100% oxygen is given after which mlx arterial pressure goes to 670 mmhg and pO2 70 mmhg , cause of hypoxia in him is ?",
+    "options": {
+      "A": "Intra thoracic pressure",
+      "B": "Transpulmonary pressure",
+      "C": "V/Q mismatch",
+      "D": "Intrapleural pressure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "During inspiration what decrease:",
+    "options": {
+      "A": "Heart rate",
+      "B": "Venous return",
+      "C": "Volume of thoracic cavity",
+      "D": "Negative pleural pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "A patient has hypoxia at high altitude it will be detected by:",
+    "options": {
+      "A": "Central chemoreceptors",
+      "B": "Peripheral chemoreceptors",
+      "C": "Carotid sinus",
+      "D": "Aortic body"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Tissue unable to use oxygen despite normal oxygen:",
+    "options": {
+      "A": "normal oxygen",
+      "B": "Cyanide poisoning",
+      "C": "CO poisoning",
+      "D": "Anemic hypoxia",
+      "E": "Stagnant hypoxia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Which of the following Lung changes are present in obese persons?",
+    "options": {
+      "A": "Increase in Lung volumes",
+      "B": "Decreased Functional residual capacity",
+      "C": "Increase in chest wall compliance",
+      "D": "Increased Residual volume"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Which one of the following prevents collapse of the lung?",
+    "options": {
+      "A": "Intrapleural pressure",
+      "B": "Transpulmonary pressure",
+      "C": "Transthoracic pressure",
+      "D": "Intrathoracic pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "Muscle of forced expiration:",
+    "options": {
+      "A": "Quadratus Lumborum",
+      "B": "Internal intercostal and Diaphragm",
+      "C": "Internal intercostal and Rectus abdominis",
+      "D": "Elastic Recoil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Which of the following represents the pressure difference that acts to distend the lungs?",
+    "options": {
+      "A": "Intrapleural pressure",
+      "B": "Airway opening pressure",
+      "C": "Intrathoracic pressure",
+      "D": "Transpulmonary pressure",
+      "E": "Esophageal pressure."
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "Lamilla forming Minimum air blood barrier is:",
+    "options": {
+      "A": "Type 2 pneumocyte",
+      "B": "Alveolar macrophages",
+      "C": "Pores of Kohn",
+      "D": "Cillia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Residual volume always remain in lung due to as it:",
+    "options": {
+      "A": "Increases Alveolar collapse",
+      "B": "Decreases Alveolar collapse",
+      "C": "Decrease negative alveolar pressure",
+      "D": "Increase positive airway pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Why pulmonary edema mostly happened in basal lobe of lung:",
+    "options": {
+      "A": "Resistance to flow",
+      "B": "Lymph drainage",
+      "C": "Ventilation - lower at apex, higher at base",
+      "D": "V/Q - Higher at apex, lowest at base",
+      "E": "Regional arterial PO2 - highest at apex, lowest at base"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Which type of hypoxia is associated with decreased po2 and increased A a gradient:",
+    "options": {
+      "A": "Anemia",
+      "B": "High altitude",
+      "C": "Emphysema",
+      "D": "Right to left shunt",
+      "E": "Left to right shunt"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Right shift of oxygen dissociation curve is caused by:",
+    "options": {
+      "A": "1-Fibrosis",
+      "B": "2-V/Q Defect",
+      "C": "3-R-L Shunt",
+      "D": "TOF Right to Left Shunt"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Surfactants decrease Pulmonary surface tension by:",
+    "options": {
+      "A": "Increasing elastic recoil of lung",
+      "B": "Interspering between water molecules",
+      "C": "Decreasing the diameter of alveoli",
+      "D": "By closing the alveoli",
+      "E": "Decreased Tension in alveolar walls"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "A patient has alveolar ventilation 6000 and RR 12/min calculate dead space:",
+    "options": {
+      "A": "200ml",
+      "B": "100ml",
+      "C": "300ml",
+      "D": "450 ml"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "A Person Goes to Height of 5000 ft.What will happen?",
+    "options": {
+      "A": "Increase pCO2",
+      "B": "Increase in plasma pCO2",
+      "C": "Increase in plasma bicarbonate",
+      "D": "Lung Compliance Increases",
+      "E": "Pulmonary Capillary Vasodilation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Left Pulmonary bronchus occluded by a tumor, what will happen in capillaries supplying the area:",
+    "options": {
+      "A": "Alveolar Po2 will become equal to inspired air",
+      "B": "Alveolar Po2 will become equal to mixed venous o2",
+      "C": "Alveolar Po2 will become equal to mixed venous o2",
+      "D": "Alveolar Po2 will become less than mixed venous o2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "During exercise blood flow to lung increase to which zone:",
+    "options": {
+      "A": "Zone 1",
+      "B": "Zone 2",
+      "C": "Zone 3",
+      "D": "Combine zone 1 and 2",
+      "E": "Combine zone 2 and 3"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Surfactant presence leads to Which of Following:",
+    "options": {
+      "A": "Decrease oxygen tension",
+      "B": "Increase compliance",
+      "C": "Decrease compliance",
+      "D": "Decrease elastic recoil",
+      "E": "Increase surface tension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Conducting zone of respiratory tract ends after:",
+    "options": {
+      "A": "Respiratory bronchioles",
+      "B": "Terminal bronchiole",
+      "C": "19 divisions of tract",
+      "D": "Alveolar duct",
+      "E": "Alveolar sac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "“Hering Breuer Reflex” is due to:",
+    "options": {
+      "A": "Stretch receptors in bronchioles",
+      "B": "Irritants",
+      "C": "J receptors",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Volume is directly proportional to temperature if Pressure is kept constant:",
+    "options": {
+      "A": "Boyle's Law",
+      "B": "Charle's Law",
+      "C": "Dalton's law",
+      "D": "Henry law"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "What is the primary function of the O2 FIAL system?",
+    "options": {
+      "A": "To prevent the delivery of hypoxic mixtures",
+      "B": "To regulate cabin temperature in aircraft",
+      "C": "To monitor and control fuel levels in engines",
+      "D": "To adjust cabin lighting based on time of day"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Macrophages cell in alveoli:",
+    "options": {
+      "A": "Histiocytes",
+      "B": "Dust cell",
+      "C": "Dendritic cell",
+      "D": "epithelioid cells",
+      "E": "Langhan cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "An increase in PCO2 (partial pressure of carbon dioxide) typically leads to which of the following?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Tachycardia",
+      "C": "Bradycardia",
+      "D": "Hypotension"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "When a soldier climbs to high altitudes, which of the following metabolic abnormalities observed in him with passage of time:",
+    "options": {
+      "A": "Severe hypercapnia",
+      "B": "Respiratory acidosis",
+      "C": "Severe hypoglycemina",
+      "D": "Removal of HCO3 from body",
+      "E": "Removal of H+ from body"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "At high altitude initially respiration increase due to hyperventilation:",
+    "options": {
+      "A": "high altitude alkalinity resolution as time compensation as time compensation occur due to hyperventilation",
+      "B": "If asked where then From respiratory bronchioles to alveolar duct",
+      "C": "If asked where then From Respiratory bronchioles to alveolar duct"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "A student faints after hyperventilating. What is the most likely finding in the ABGs?",
+    "options": {
+      "A": "No change",
+      "B": "Respiratory alkalosis",
+      "C": "Acidosis",
+      "D": "Elevated PaO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "Respiratory zone where gaseous exchange occurs includes?",
+    "options": {
+      "A": "Respiratory bronchioles to alveolar duct",
+      "B": "Terminal bronchioles to alveoli",
+      "C": "Alveoli",
+      "D": "Alveolar duct",
+      "E": "Acinus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "Respiratory zone where gaseous exchange occurs includes?",
+    "options": {
+      "A": "Respiratory bronchioles to alveolar duct",
+      "B": "Terminal bronchioles to alveoli",
+      "C": "Alveoli",
+      "D": "Alveolar duct",
+      "E": "Acinus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "A patient with progressive lung disease requires an increasingly higher pressure to fill the same volume of lung. How would this affect the lung's compliance?",
+    "options": {
+      "A": "It would increase.",
+      "B": "It would stay the same.",
+      "C": "It would decrease.",
+      "D": "These variables do not affect lung compliance."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "During strenuous exercise, there is an increase in ventilation rate that matches the increase in o2 consumption. What will happen (Medicine Feb 2025):",
+    "options": {
+      "A": "Normal po2",
+      "B": "Increase pco2",
+      "C": "Increase ph",
+      "D": "Decreased pO2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Calculate Pulmonary ventilation when tidal volume is 500 & respiratory rate is 12, HR 70bpm: (Medicine Feb 2025):",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "8.5",
+      "D": "3",
+      "E": "1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Total number of divisions in Lower airway: (Medicine Feb 2025):",
+    "options": {
+      "A": "21",
+      "B": "23",
+      "C": "10",
+      "D": "19",
+      "E": "6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Which of the following is typical value of tidal volume? (Medicine Feb 2025):",
+    "options": {
+      "A": "0.5L",
+      "B": "4.6L",
+      "C": "5L",
+      "D": "1.2L",
+      "E": "0.7L"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "Which of the following is muscle of quite breathing (Medicine Feb 2025):",
+    "options": {
+      "A": "Serratus anterior",
+      "B": "Rectus abdominus muscle",
+      "C": "External Intercostal Muscle",
+      "D": "Internal Intercostal muscle",
+      "E": "Pectoralis major muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "Endotracheal intubation of new born done for resuscitation. Upon auscultation absent breath sound on right side .What is the cause of endotrachial intubation? (Medicine Feb 2025):",
+    "options": {
+      "A": "Large tongue",
+      "B": "Same angulation of Right & Left bronchi",
+      "C": "High up epiglottis",
+      "D": "Short neck",
+      "E": "Small Mouth"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Sympathetic Stimulation in fight and flight causes which of following? (Surgery Feb 2025):",
+    "options": {
+      "A": "Gluconeogenesis",
+      "B": "Decrease HR",
+      "C": "Decreased Respiratory bronchiolar resistance",
+      "D": "Miosis",
+      "E": "Increase GIT motility"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Partial pressure of O2 in blood depends upon which of the following (Surgery Feb 2025):",
+    "options": {
+      "A": "O2 dissolve in plasma",
+      "B": "Hb concentration",
+      "C": "O2 inspired in air",
+      "D": "Alveolar permeability"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "A child is blowing into a paper bag due to hyperventilation. What is the most likely change in their arterial blood gas levels? (Surgery Feb 2025):",
+    "options": {
+      "A": "Increased arterial pO2",
+      "B": "Increased arterial pCO2",
+      "C": "Increased alveolar pO2",
+      "D": "Increased Alveolar pCO2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "From where the respiratory zone of the airway Start (Surgery Feb 2025):",
+    "options": {
+      "A": "Terminal bronchiole to alveoli",
+      "B": "Alveolar duct to alveoli",
+      "C": "Respiratory bronchiole to alveoli",
+      "D": "Bronchus to bronchioles",
+      "E": "Bronchus to alveoli"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "The respiratory system undergoes changes during pregnancy under the influence of elevated progesterone levels. Which of the following changes is responsible for causing respiratory distress in pregnant women? (Gynae Feb 2025):",
+    "options": {
+      "A": "Decrease in Expiratory Reserve Volume (ERV) by 20%",
+      "B": "Decrease in Total Lung Capacity (TLC) by 50%",
+      "C": "Dyspnea due to decreased PCO2 levels",
+      "D": "Increase in Minute Ventilation by 30-40%",
+      "E": "Increase in Tidal Volume by 30- 40%"
+    },
+    "correct_answer": "A"
+  }
+]

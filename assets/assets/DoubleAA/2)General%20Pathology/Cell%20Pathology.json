@@ -1,0 +1,1226 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Pancreatic tissue in gastric mucosa is related to which of following:",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Choriostoma",
+      "C": "Metaplasia",
+      "D": "Hyperplasia",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Earliest sign of reversible cell injury:",
+    "options": {
+      "A": "Hydropic changes",
+      "B": "Myelin figures",
+      "C": "Pyknosis",
+      "D": "Cell membrane damage",
+      "E": "Lysosome Rupture"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Biopsy of stomach done, there was none specialized gastric tissue and scattered goblet cells this is related to:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Ca stomach",
+      "D": "Ulcer",
+      "E": "Hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Type of change in metaplasia is:",
+    "options": {
+      "A": "Polarity change",
+      "B": "Irreversible change",
+      "C": "Necrotic change",
+      "D": "Functional and morphological change",
+      "E": "Apoptotic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Increase in cell no is called as:",
+    "options": {
+      "A": "Atrophy",
+      "B": "Hypertrophy",
+      "C": "Hyperplasia",
+      "D": "Metaplasia",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Mechanism of apoptosis in autoimmune disease is:",
+    "options": {
+      "A": "Molecular mimicry",
+      "B": "Cross infection with virus",
+      "C": "Gain of self-tolerance",
+      "D": "Atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A young boy had injury to his thigh. After some months he presents with a mass at that spot The mass shows hemorrhage with bony trabeculae. This is most likely:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Metastatic calcification",
+      "D": "Hyperplasia",
+      "E": "Dystrophic calcification"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "After transplant liver recent size increase than previous in both donor and recipient by which mechanism?",
+    "options": {
+      "A": "Atrophy",
+      "B": "Dysplasia",
+      "C": "Hyperplasia",
+      "D": "Hypertrophy",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Cells which cant regenerate after injury is which of following?",
+    "options": {
+      "A": "Permanent cells",
+      "B": "Labile cells",
+      "C": "Skeletal muscles",
+      "D": "GIT",
+      "E": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Pathological process by activating caspases is which of following?",
+    "options": {
+      "A": "Necrosis",
+      "B": "Apoptosis",
+      "C": "Calcification",
+      "D": "Metaplasia",
+      "E": "Cytoskeletal degeneration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Type of change in metaplasia is:",
+    "options": {
+      "A": "Polarity change",
+      "B": "Irreversible change",
+      "C": "Necrotic change",
+      "D": "Epithelial change",
+      "E": "Apoptotic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "A cell was on microscopic examination large mitochondrial densities are found indicating:",
+    "options": {
+      "A": "Reversible cell injury",
+      "B": "Irreversible cell injury",
+      "C": "Apoptosis",
+      "D": "Necrosis",
+      "E": "Inflammation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Which of following is common cause of metastatic calcification in kidney?",
+    "options": {
+      "A": "Vit. A deficiency",
+      "B": "Vit. D deficiency",
+      "C": "Hyperparathyroidism",
+      "D": "Hypothyroidism",
+      "E": "Heart failure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A microbiologist was examining a slide under microscope it show cell shrinkage, condensed nuclei in cells. Irregular cell membrane of cells what is happening to tissue?",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Necrosis",
+      "C": "Reversible cell injury",
+      "D": "Irreversible cell injury",
+      "E": "Hypoxia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "After a finger cut accidentally patient develop Abcess and fever type of necrosis?",
+    "options": {
+      "A": "Wet gangrene",
+      "B": "Coagulative",
+      "C": "Liquefactive",
+      "D": "Caseous",
+      "E": "Fibrinoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Apoptosis is the guardian mechanism for cells what happens in apoptosis?",
+    "options": {
+      "A": "Cell swelling",
+      "B": "Cell shrinkage",
+      "C": "Cell membrane damage",
+      "D": "Organelle swelling",
+      "E": "Nuclear membrane damage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Gastrocnemius size is reduced after cast applied for few weeks of fracture is most likely due to:",
+    "options": {
+      "A": "Decrease Blood supply",
+      "B": "Decrease muscle caliber",
+      "C": "Denervation atrophy",
+      "D": "Decrease Actin & Myosin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Endogenous pigmentation causes:",
+    "options": {
+      "A": "Hemolysis",
+      "B": "Hemosiderin",
+      "C": "Melatonin",
+      "D": "Atrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Regeneration of liver is an example of:",
+    "options": {
+      "A": "Hypertrophy",
+      "B": "Hyperplasia",
+      "C": "Metaplasia",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Cells stain basophilia due to:",
+    "options": {
+      "A": "Ribosome",
+      "B": "Lysosomes",
+      "C": "SER",
+      "D": "Peroxisomes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Sarcoma diagnosis by:",
+    "options": {
+      "A": "Increase Vascularity",
+      "B": "Pleomorphism",
+      "C": "Metaplasia",
+      "D": "Dysplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Platelets adherence facilitated by:",
+    "options": {
+      "A": "Smooth Endothelium",
+      "B": "Rough Endothelium",
+      "C": "Prostacyclin",
+      "D": "NO"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Most prominent feature of reversible cell injury:",
+    "options": {
+      "A": "Myline figure",
+      "B": "Cellular swelling",
+      "C": "Mitochondrial dysfunction",
+      "D": "Atrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Aplasia:",
+    "options": {
+      "A": "Decrease in cell size",
+      "B": "Failure of cell production",
+      "C": "Decrease cell production",
+      "D": "Absence of organ development"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "The mucosal cells lining changes in the lower portion of esophagus is called:",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Metaplasia",
+      "C": "Anaplasia",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Microscopic features of polyarteritis nodosa:",
+    "options": {
+      "A": "Caseous necrosis",
+      "B": "Coagulative necrosis",
+      "C": "Liquefactive necrosis",
+      "D": "Fibrinoid necrosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Pap smear, thick endothelium and malignancy cells shows:",
+    "options": {
+      "A": "Squamous cervical anaplasia",
+      "B": "Metaplasia",
+      "C": "Dysplasia",
+      "D": "Squamous metaplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Parotid gland enlargement due to stone in parotid duct what will be cause of death of cells in gland?",
+    "options": {
+      "A": "Degeneration",
+      "B": "Necrosis",
+      "C": "Aplasia",
+      "D": "Apoptosis",
+      "E": "Gangrene"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Transient adhesion of WBC to endothelium:",
+    "options": {
+      "A": "Selectin",
+      "B": "Integrins",
+      "C": "ICAM",
+      "D": "VCAM",
+      "E": "Vimentin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Gastric epithelium is found in gall bladder may be due to:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Anaplasia",
+      "C": "Aplasia",
+      "D": "Atrophy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Reversible Change in cell surface size and shape:",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Metaplasia",
+      "C": "Anaplasia",
+      "D": "Hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Cell swelling in hypoxic injury is due to:",
+    "options": {
+      "A": "Entry of water from surroundings",
+      "B": "Intracellular glycogen accumulation",
+      "C": "Intracellular lipid acomulation",
+      "D": "Intracellular lipofuscin accumulation",
+      "E": "Intracellular protein accumulation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Dysplasia is recognized by:",
+    "options": {
+      "A": "Dyskeratosis",
+      "B": "Loss of polarity and architecture",
+      "C": "Pleomorphism",
+      "D": "Mitotic figures",
+      "E": "Invasion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Stab injury wound healing with abundant collagen & raised lesion projecting beyond original wound:",
+    "options": {
+      "A": "Keloid",
+      "B": "Hypertrophic Scar",
+      "C": "Granulation",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Free radicals are produced by which of the following poisoning:",
+    "options": {
+      "A": "CCL4",
+      "B": "Ethanol",
+      "C": "Opioids",
+      "D": "Aspirin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Morphological & functional change is:",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Atrophy",
+      "C": "Metaplasia",
+      "D": "Anaplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Dysplasia refers to:",
+    "options": {
+      "A": "Disordered Cellular growth",
+      "B": "Failure of cell production",
+      "C": "Decrease in cell production",
+      "D": "Increase in cell production"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Patient presented with vomiting blood, upper GI endoscopy shows columnar epithelium, 3cm above the GE junction, most likely morphological change is:",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Metaplasia",
+      "C": "Anaplasia",
+      "D": "Atrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Which of the following is the prominent step in irreversible cell injury?",
+    "options": {
+      "A": "Cell membrane damage",
+      "B": "Massive Calcium influx",
+      "C": "Cellular Swelling",
+      "D": "Mitochondrial swelling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Cellular vault is maintained by:",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Necrosis",
+      "C": "Lysosome",
+      "D": "Enzymatic Destruction",
+      "E": "Transport of mRNA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "The mechanism of gene involvement for self-destruction is termed as:",
+    "options": {
+      "A": "Necrosis",
+      "B": "Ischemia",
+      "C": "Apoptosis",
+      "D": "Cell-lysis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Pulmonary TB patient has cavitation with granulation. Type of change:",
+    "options": {
+      "A": "Dystrophic calcification",
+      "B": "Metastatic calcification",
+      "C": "Benign calcification",
+      "D": "Malignant calcification"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "A man having Hep C on histology eosinophilic granules in cytoplasm with compact chromatin:",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Necrosis",
+      "C": "Fibrosis",
+      "D": "Caseous necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Liver damage occurred, binucleated cells were found which are due to?",
+    "options": {
+      "A": "DNA without histones",
+      "B": "Histones without DNA",
+      "C": "Karyokinesis without cytokinesis",
+      "D": "RNA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Diagnostic feature of a dead cell is:",
+    "options": {
+      "A": "Pyknosis of nucleus",
+      "B": "Karyorrhexis",
+      "C": "Karyolysis",
+      "D": "Cell shrinkage",
+      "E": "Hydropic change"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "During hypertrophy?",
+    "options": {
+      "A": "Increase in DNA content.",
+      "B": "Increase in no of cells",
+      "C": "Increase Cytoplasm of cell",
+      "D": "Decrease in no of cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "What starts apoptosis?",
+    "options": {
+      "A": "BCL2",
+      "B": "P53",
+      "C": "KRAS",
+      "D": "BRCA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Nucleolus contains:",
+    "options": {
+      "A": "Large amount of DNA",
+      "B": "Increase amount of RNA",
+      "C": "Decrease amount of RNA",
+      "D": "Increase amount of ribosome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Patient smokes 20 cigarettes per day what will be change in his lungs?",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Anaplasia",
+      "C": "Dysplasia",
+      "D": "Hyperplasia",
+      "E": "Neoplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Which change makes possible for mother to lactate for whole year?",
+    "options": {
+      "A": "Lobular hypertrophy",
+      "B": "Lobular hyperplasia",
+      "C": "Ductal hypertrophy",
+      "D": "Stromal hyperplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Respiratory burst is used for:",
+    "options": {
+      "A": "Inactivation of bacteria and viruses",
+      "B": "Killing larvicidal effect",
+      "C": "Has bacteriostatic property",
+      "D": "Has bactericidal effect"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Vaginal adenosis is a type of?",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Metaplasia",
+      "C": "Atrophy",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Woman has leiomyoma and epithelium covering endometrium shows abundant stroma with a smaller number of endometrial glands. What is happening in endometrium?",
+    "options": {
+      "A": "Atrophy",
+      "B": "Hypertrophy",
+      "C": "Metaplasia",
+      "D": "Hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Which of the following shows metaplasia?",
+    "options": {
+      "A": "Vitamin B deficiency",
+      "B": "Vitamin A deficiency",
+      "C": "Vitamin C deficiency",
+      "D": "Vitamin D deficiency",
+      "E": "Vitamin E deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "A pathologist see on slide that neutrophils are utilizing oxygen. Burst O2 reaction was seen in which step it is necessary?",
+    "options": {
+      "A": "Phagocytosis",
+      "B": "Microbacterial activity of neutrophils",
+      "C": "Vascular permeability",
+      "D": "Inflammation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Ischemia, infarction and infection all cause Cell injury what is common thing that will happen due to cell injury by all of these?",
+    "options": {
+      "A": "Lipid accumulation",
+      "B": "ATP depletion",
+      "C": "Free radical production",
+      "D": "Protein Accumulation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "RBCs are kept in a solution with Containing urea What will happen?",
+    "options": {
+      "A": "Cell will shrink",
+      "B": "Cell will swell and lyse",
+      "C": "Cell will shrink and lyse",
+      "D": "Cell will shrink then swell and then lyse"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "In hypernatremia what will happen?",
+    "options": {
+      "A": "Cell Lysis",
+      "B": "Degranulation of lysosomal enzymes",
+      "C": "Cell shrinkage",
+      "D": "Cell swelling",
+      "E": "Decrease osmolarity of ICF"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A 65-year-old man having fatigue pallor and weight loss. A golden yellow Pigment seen in liver which turn blue on staining this is?",
+    "options": {
+      "A": "Hemosiderin",
+      "B": "Lipofuscin",
+      "C": "Hemoglobin",
+      "D": "Hemochromatosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "28 year old male had intestinal obstruction at terminal part of ileum. Biopsy of that part shows granulomatous epitheloid cells. What type of necrosis will be seen?",
+    "options": {
+      "A": "Caseous",
+      "B": "Coagulative",
+      "C": "Fat necrosis",
+      "D": "Liquefactive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "A 45-year-old man with a long history of alcoholism presents with severe epigastric pain nausea vomiting fever and increase in serum amylase diagnosis of acute pancreatitis superimposed on chronic pancreatitis was made in this condition which of the following types of necrosis is most characteristic?",
+    "options": {
+      "A": "Coagulative necrosis",
+      "B": "Fat necrosis",
+      "C": "Fibrinoid",
+      "D": "Caseous",
+      "E": "Liquefactive necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "What type of necrosis is seen in omentum?",
+    "options": {
+      "A": "Fat necrosis",
+      "B": "Coagulative necrosis",
+      "C": "Fibrinoid Necrosis",
+      "D": "Liquefactive Necrosis",
+      "E": "Medial necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Ionizing radiation cause damage to cell by which of following?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Free radicals",
+      "C": "Apoptosis",
+      "D": "Fatty change"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Coagulative necrosis seen in:",
+    "options": {
+      "A": "Brain",
+      "B": "Kidney",
+      "C": "Heart",
+      "D": "TB"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "A patient having Hypoxia. His PO2 measured is 65mmhg. Type of hypoxia is:",
+    "options": {
+      "A": "Anemic hypoxia",
+      "B": "Hypoxic hypoxia",
+      "C": "Cellular hypoxia",
+      "D": "Histotoxic hypoxia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A 30-year-old man sustains a left femoral fracture in a skiing accident, and his leg is placed in a plaster cast. After the leg has been immobilized for several weeks, the diameter of the left calf has decreased. This change is most likely to result from which of the following alterations in the calf muscles?",
+    "options": {
+      "A": "Most Cellular",
+      "B": "Increase Protein synthesis",
+      "C": "Decrease contractile protein synthesis",
+      "D": "Hyalinosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Apoptosis is induced by activation of:",
+    "options": {
+      "A": "Caspases",
+      "B": "Oncosuppressors",
+      "C": "Bcl 2 activation",
+      "D": "P53",
+      "E": "Nucleases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Continous contraction without gap is:",
+    "options": {
+      "A": "Partial tetanus",
+      "B": "Complete tetanus",
+      "C": "Paralysis",
+      "D": "Flacidity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Ischemia, infarction and infection all cause cell injury what is common thing that will happen due to cell injury by all of these?",
+    "options": {
+      "A": "Lipid accumulation",
+      "B": "ATP depletion",
+      "C": "ROS production",
+      "D": "Protein Accumulation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Hormone therapy against malignant condition involve which mechanism?",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Degeneration",
+      "C": "Necrosis",
+      "D": "Infarction",
+      "E": "Degeneration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "A male with long standing history of HTN died. On Autopsy his heart was found to be 600g. Reason of his increase heart size is",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Metaplasia",
+      "C": "Atrophy",
+      "D": "Hypertrophy",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A patient who is chronic alcoholic presented to his physician GPE unremarkable. Albumin - 4.1 AST 40 and ALT 40 what will be microscopic change?",
+    "options": {
+      "A": "Fatty Change",
+      "B": "Hypertrophy of SER",
+      "C": "Hyperplasia of liver",
+      "D": "Atrophy of Liver"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Type of necrosis in Breast trauma is:",
+    "options": {
+      "A": "Fat necrosis",
+      "B": "Coagulative necrosis",
+      "C": "Caseous necrosis",
+      "D": "Liquefactive necrosis",
+      "E": "Fibrinoid necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Necrosis will have:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Metastatic calcification",
+      "C": "Dystrophic calcification",
+      "D": "Atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Fastest Regeneration occur in:",
+    "options": {
+      "A": "Kidney",
+      "B": "Spleen",
+      "C": "Liver",
+      "D": "Intestine",
+      "E": "Lungs"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "A patient Chest Pain with MI suddenly on autopsy what will be findings?",
+    "options": {
+      "A": "Fibrinoid necrosis",
+      "B": "Coagulative necrosis",
+      "C": "Liquefactive necrosis",
+      "D": "Caseous necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "A 30-year-old man sustains a left femoral fracture in a skiing accident, and his leg is placed in a plaster cast. After the leg has been immobilized for several weeks, the diameter of the left calf has decreased. This change is most likely to result from which of the following alterations in the calf muscles?",
+    "options": {
+      "A": "Aplasia",
+      "B": "Hypoplasia",
+      "C": "Disuse Atrophy",
+      "D": "Dystrophy",
+      "E": "Hyalinosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Increase nuclear to cytoplasmic ratio in dysplasia leads to:",
+    "options": {
+      "A": "Abnormal RNA production",
+      "B": "Abnormal DNA production",
+      "C": "Abnormal protein synthesis",
+      "D": "Abnormal mitochondria"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Apoptosis is characterized by:",
+    "options": {
+      "A": "Nucleus fragments",
+      "B": "Plasma membrane disruptions",
+      "C": "No Host inflammation",
+      "D": "Adjacent inflammation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Cells with pleomorphic nuclei and abnormal growth this is:",
+    "options": {
+      "A": "Squamous Metaplasia",
+      "B": "Dysplasia",
+      "C": "Squamous cervical Anaplasia",
+      "D": "Adenoma",
+      "E": "Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Enzymes involved in cell remodelling of tissue:",
+    "options": {
+      "A": "Myeloperoxidase",
+      "B": "Elastase",
+      "C": "Lipase",
+      "D": "Laspase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Uncontrolled mitosis and atypical nuclei associated with:",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Dysplasia",
+      "C": "Neoplasia",
+      "D": "Atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Outline of cell is preserved in which of the following necrosis:",
+    "options": {
+      "A": "Fat",
+      "B": "Fibrinoid",
+      "C": "Coagulative",
+      "D": "Liquefactive"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Gastrocnemius size is reduced after cast applied for few weeks of fracture is most likely due to:",
+    "options": {
+      "A": "Decrease Blood supply",
+      "B": "Decrease muscle caliber",
+      "C": "Denervation atrophy",
+      "D": "Decrease protein synthesis and increase degradation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Scientist see Decrease DNA and cell activity related to:",
+    "options": {
+      "A": "Cellular Hypertrophy",
+      "B": "Cellular aging",
+      "C": "Apoptosis",
+      "D": "Necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Most common feature in Ischemia injury cytotoxic cell injury and burn injury is:",
+    "options": {
+      "A": "Lipid accumulation",
+      "B": "ATP depletion",
+      "C": "ROS production",
+      "D": "Protein Accumulation",
+      "E": "DNA damage"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A female with intraductal Breast carcinoma. All features suggestive of intraductal cancer with peripheral Desmoplasia. What's the desmoplasia ?",
+    "options": {
+      "A": "Metastasis involvement of surrounding tissues",
+      "B": "Non neoplastic proliferation of fibrous connective tissue",
+      "C": "Change of one epithelium to another",
+      "D": "Increase in Cell Size"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "A Patient presented with anuria Immediately after severe episodes of diarrhea and vomiting his Cr is 9.1 after 3 Session of dialysis patient failed to have urine output. Renal biopsy show cortical necrosis and severe acute tubular necrosis. What is cause in this patient?",
+    "options": {
+      "A": "Drug induced injury",
+      "B": "Irreversible injury",
+      "C": "Apoptosis",
+      "D": "Cell death",
+      "E": "Reversible injury"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A man got fractured of a bone in an RTA and plaster is done. After few weeks there is atrophy of the tissue, what's the reason?",
+    "options": {
+      "A": "Decrease protein regeneration",
+      "B": "Increased protein synthesis with decrease protein degradation",
+      "C": "Increased protein degradation with decrease protein synthesis",
+      "D": "Increase blood supply",
+      "E": "Decrease blood supply"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "The process of apoptosis is lost during the carcinogenic activity. Which of the following factor has anti apoptotic activity:",
+    "options": {
+      "A": "BCL",
+      "B": "BCL1",
+      "C": "BAX",
+      "D": "PKL",
+      "E": "BAK"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Young healthy patient with no comorbidities after RTA, leg stitching done he was kept on antibiotics and bone growth was normal but fluid continued to discharge from skin wound even after 3 weeks what is cause",
+    "options": {
+      "A": "Coagulopathy",
+      "B": "Foreign body",
+      "C": "Decrease blood supply",
+      "D": "Platelets function defects"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Cytoplasm was freeze fracture plasmalemma, containing intramembrane particle. What is it called?",
+    "options": {
+      "A": "E face",
+      "B": "Replica",
+      "C": "Cis face",
+      "D": "Trans face",
+      "E": "P face"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A young boy had fracture while playing football. Later he presents with swelling on the anterior thigh. Biopsy showed a bony trabeculae mass containing hemorrhage. This is most likely due to(Medicine Feb 2025)",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Anaplasia",
+      "D": "Metastatic Calcification"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A microbiologist was examining a slide under a microscope. It shows cell shrinkage, condensed nuclei, Apical blebs, increase N/C ratio & irregular cell membrane. What is happening to tissues? (Medicine Feb 2025)",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Necrosis",
+      "C": "Reversible cell injury",
+      "D": "Irreversible cell injury",
+      "E": "Apoptosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Most reliable sign of irreversible cell injury (Medicine Feb 2025)",
+    "options": {
+      "A": "Karyolysis",
+      "B": "Mitochondrial damage",
+      "C": "Pyknosis",
+      "D": "Autophagy of cell",
+      "E": "Massive Ca influx"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A patient presented Chest Pain with MI suddenly collapsed on autopsy what will be findings?(Medicine Feb 2025)",
+    "options": {
+      "A": "Fibrinoid necrosis",
+      "B": "Coagulative necrosis",
+      "C": "Liquefactive necrosis",
+      "D": "Caseous necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Muscle mass increased by doing exercise is called(Surgery Feb 2025):",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Metaplasia",
+      "C": "Atrophy",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Bone spicules found in muscle around a few months after injury to the said muscle. What type of response is this(Surgery Feb 2025)?",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dystrophic calcification",
+      "C": "Metastatic calcification",
+      "D": "Dysplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Polychromasia in RBCs due to: (Surgery Feb 2025)",
+    "options": {
+      "A": "Cytoplasmic RNA",
+      "B": "Cytoplasmic DNA",
+      "C": "Nuclear RNA",
+      "D": "Microtubules & Filaments",
+      "E": "Mast cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "A patient presented with the Chronic fever, Night sweats Headache, Lethargy, Weight loss And Cervical Lymphadenopathy Epitheloid cells in sputum. CXR shows diffuse nodular opacities in apical lobe. Which type of Necrosis is seen in enlarged lymph nodes in this scenario(Gynae & Obs Feb 2025)?",
+    "options": {
+      "A": "Non caseous necrosis",
+      "B": "Caseous necrosis",
+      "C": "Coagulative necrosis",
+      "D": "Liquefactive necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A patient presented with a Carbuncle on Nape of his Neck. It was removed. On histology, Sheets of lymphocytes with erythema & necrotic exudate were seen. Which type of inflammation is evident? (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Acute",
+      "B": "Chronic",
+      "C": "Serous",
+      "D": "Fibrinous",
+      "E": "Granulomatous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Gastric mucosa present in middle 1/3rd of Esophagus: related to (Gynae & Obs Feb 2025)?",
+    "options": {
+      "A": "Hamartoma",
+      "B": "Gastric metaplasia",
+      "C": "Choriostoma",
+      "D": "Choriocarcinoma",
+      "E": "Metastatic Carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Seen in necrosis on cellular level? (Gynae & Obs Feb 2025)?",
+    "options": {
+      "A": "Fragmented RBCs smear",
+      "B": "Spiral DNA",
+      "C": "Proteolysis of caspases",
+      "D": "Smear/Random fragmentation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Most reliable sign of irreversible cell injury(Radiology Feb 2025)",
+    "options": {
+      "A": "Cell membrane damage",
+      "B": "Mitochondrial damage",
+      "C": "Nuclear membrane damage",
+      "D": "Autophagy of cell",
+      "E": "Massive Ca influx"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Cells characteristic to “Granuloma” are(Radiology Feb 2025):",
+    "options": {
+      "A": "Giant Cells+ Plasma Cells",
+      "B": "Macrophages+Neutrophils",
+      "C": "Lymphocytes +Macrophages",
+      "D": "Giant Cells+Macrophages",
+      "E": "Giant Cells+Lymphocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "A 30-year-old man sustains a left femoral fracture in a car accident, after that he was on prolong bed rest On examination his calf muscles are atrophied which of the following is cause of his condition(Radiology Feb 2025)",
+    "options": {
+      "A": "Aplasia",
+      "B": "Metaplasia",
+      "C": "Immobilization",
+      "D": "Dystrophy",
+      "E": "High protein intake"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Hypoxic cell injury features? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Decrease Na+/K+ ATPase",
+      "B": "Increase Na+",
+      "C": "Decrease Ca++",
+      "D": "Increase pH",
+      "E": "Increase ATP"
+    },
+    "correct_answer": "A"
+  }
+]

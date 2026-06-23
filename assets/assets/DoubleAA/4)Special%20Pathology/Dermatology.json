@@ -1,0 +1,707 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "A patient with H/O of 3rd degree burn stratum corneum, spinosum and lucidum loss acid will lead to:",
+    "options": {
+      "A": "Acute water loss",
+      "B": "Pressure sensation effect",
+      "C": "Sebum",
+      "D": "Hair follicle rupture",
+      "E": "Temperature loss"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A fire fighter develops blisters on arm with little skin damage, what degree of burn it is?",
+    "options": {
+      "A": "1st degree",
+      "B": "2nd degree",
+      "C": "3rd degree",
+      "D": "4th degree",
+      "E": "5th degree"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Risk factor for the development of malignant melanoma is",
+    "options": {
+      "A": "Nitrosamine",
+      "B": "Xeroderma pigmentosa",
+      "C": "Congenital Navus",
+      "D": "Lichen Planus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A child has bald patch on scalp since birth, which is Leathary. On microscope there is papillomatosis projection's in epidermis. Dermis has abundance of sebaceous glands. What is the serious complication?",
+    "options": {
+      "A": "Basal cell CA",
+      "B": "Squamous cell CA",
+      "C": "Keratocanthoma",
+      "D": "Scaling alopecia",
+      "E": "Proliferating Trichilemmal Cyst"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A lady accidentally cut her finger in kitchen she brought to hosp and wound is sutured dr assured her that healing take place which of the following layers heal first?",
+    "options": {
+      "A": "Stratum Corneum",
+      "B": "Stratum Spongiosum",
+      "C": "Stratum Lucedum",
+      "D": "Steatum Granulosum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "In acanthosis, which layer of oral mucosa is involved?",
+    "options": {
+      "A": "Basal",
+      "B": "Cornium",
+      "C": "Spinosum",
+      "D": "Granulosum",
+      "E": "Superficialis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Marjolin ulcer seen in:",
+    "options": {
+      "A": "Tb",
+      "B": "Squamous cell CA of skin",
+      "C": "Inhalational burn",
+      "D": "HTN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Most common skin cell cancer:",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Actinic keratitis",
+      "D": "Bowen disease"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A patient having markedly inflamed lesions with clearly demarcated border on right cheek, across the nose and left cheek, these are raised lesions with well demarcated line of differentiation diagnosis:",
+    "options": {
+      "A": "SLE",
+      "B": "Cellulitis",
+      "C": "Typical erysipelas",
+      "D": "Impetigo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A farmer with horn like lesion on forehead due to:",
+    "options": {
+      "A": "Acanthosis",
+      "B": "BCC",
+      "C": "Melanoma",
+      "D": "SCC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Which of the following is the Premalignant lesions of oral cavity?",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Apthous ulcers",
+      "C": "Leukoplakia",
+      "D": "Submucosal fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Most common cause of squamous cell carcinoma?",
+    "options": {
+      "A": "Bowens disease",
+      "B": "Marjolin ulcer",
+      "C": "Actinic keratosis",
+      "D": "Leukoplakia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Neoplastic disease associated with all except",
+    "options": {
+      "A": "Dermatomyositis",
+      "B": "Acanthosis nigricans",
+      "C": "Necrobiosis lipoidica",
+      "D": "Thrombophlebitis migrans"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Premalignat nevus is",
+    "options": {
+      "A": "Compound nevus",
+      "B": "Intra I nevus.",
+      "C": "Junctional nevus",
+      "D": "BCC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Commonest Malignancy associated with acanthosis nigricans",
+    "options": {
+      "A": "Intestine",
+      "B": "Stomach",
+      "C": "Uterus",
+      "D": "Lungs",
+      "E": "Breast"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Which one is most pre-malignant?",
+    "options": {
+      "A": "Compound nevus",
+      "B": "Intra I nevus",
+      "C": "Seborrhaic keratosis",
+      "D": "Dysplastic nevus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Patient has sustained burn that isvery painful with blisters . healing of burn will take place from which layer of skin",
+    "options": {
+      "A": "Basal layer of epidermis",
+      "B": "Upper dermis",
+      "C": "Lower dermis",
+      "D": "Keratinized layer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Hairy leukoplakia associated with",
+    "options": {
+      "A": "HIV",
+      "B": "HBV",
+      "C": "HCV",
+      "D": "Leukemia",
+      "E": "Candidiasis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "First line of defense against microbial agents provided by",
+    "options": {
+      "A": "Skin",
+      "B": "Blood",
+      "C": "Blood",
+      "D": "Bones"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Lesar trelat sign seen in",
+    "options": {
+      "A": "Suberrhoic keratosis",
+      "B": "Psoriasis",
+      "C": "Melanoma",
+      "D": "Tenia capitis",
+      "E": "Pyoderma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient has finger like projections on upper lid . histopathological report showsepithelial cells along with fibrous element , diagnose is ?",
+    "options": {
+      "A": "Papilloma",
+      "B": "BCC",
+      "C": "SCC",
+      "D": "Lichen planus",
+      "E": "Malignant Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Lichen planus percentage of causing malignant lesion?",
+    "options": {
+      "A": "1- 5%",
+      "B": "6%",
+      "C": "10 - 15%",
+      "D": "15 - 20%",
+      "E": "20 - 25%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Shaft of hair is mainly composed of:",
+    "options": {
+      "A": "Stratum corneum",
+      "B": "Stratum basale",
+      "C": "Corneum &basale",
+      "D": "Cortex of hair"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "The distinctive arrangement of collagen fibers in the skin is predominantly found in",
+    "options": {
+      "A": "Reticular layer",
+      "B": "Papillary layer",
+      "C": "Hypodermis",
+      "D": "Epidermis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Melanoma marker",
+    "options": {
+      "A": "S100",
+      "B": "S200",
+      "C": "Neurobillin",
+      "D": "GFAP",
+      "E": "Vimentin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Water proofing of skin is done by",
+    "options": {
+      "A": "Keratin",
+      "B": "Desmin",
+      "C": "Vemintin",
+      "D": "Dextrin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Statement true about lichen planus",
+    "options": {
+      "A": "Inflammatory",
+      "B": "Infectious",
+      "C": "Benign",
+      "D": "Pre malignant"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Slow growing malignant tumor",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Adenocarcinoma",
+      "D": "Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Wickmann striae are features of",
+    "options": {
+      "A": "Psoriasis",
+      "B": "Lichen planus",
+      "C": "Candidiasis",
+      "D": "Leukoplakia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Female with Polyuria , polydipsia , and yellow plaque on leg , diagnosis",
+    "options": {
+      "A": "Erythema nodosum",
+      "B": "Sarcoidosis",
+      "C": "Necrobiosis lipoidica",
+      "D": "Suberrhoic keratosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "White patch in buccal mucosa indicates:",
+    "options": {
+      "A": "Candidiasis",
+      "B": "Erythroplakia",
+      "C": "Necrobiosis lipoidica",
+      "D": "Leukoplakia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Commonest premalignant condition:",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Submucosal fibrosis",
+      "C": "Leukoplakia",
+      "D": "Erythroplakia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Lentigo melanoma occurs on",
+    "options": {
+      "A": "Face",
+      "B": "Palm",
+      "C": "Sole",
+      "D": "Trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Commonest cause of premalignant change in mouth in adults",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Submucosal fibrosis",
+      "C": "Leukoplakia",
+      "D": "Erythroplakia",
+      "E": "Chronic ulcer"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Patient with Flat lesion with well-circumscribed change in skin color < 1 cm on lips, diagnosis",
+    "options": {
+      "A": "Papule",
+      "B": "Patch",
+      "C": "Nodule",
+      "D": "Plaque",
+      "E": "Macule"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Molluscum contagiosum cause by",
+    "options": {
+      "A": "Parvo virus",
+      "B": "Adeno virus",
+      "C": "Pox virus",
+      "D": "Papilloma virus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Carcinoma which rarely metastasize",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Melanoma",
+      "D": "Adenocarcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Superficial layer of skin",
+    "options": {
+      "A": "Stratum basale",
+      "B": "Stratum spinosum",
+      "C": "Stratum granulosum",
+      "D": "Stratum lucidum",
+      "E": "Stratum corneum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Location Of melanocytes in skin",
+    "options": {
+      "A": "stratum corneum",
+      "B": "stratum lucidum",
+      "C": "stratum granulosum",
+      "D": "stratum spinosum",
+      "E": "stratum basale"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Metastasis of melanoma by",
+    "options": {
+      "A": "Vertical growth",
+      "B": "Horizanta growth",
+      "C": "Depend on lymphatoc supply of area",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Carcinoma shows palisading pattern",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Melanoma",
+      "D": "Adenocarcinoma",
+      "E": "Papilloma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Child has multiple itchy popular lesion on the genitalia and fingers . similar lesions seen in younger brother . which of the following is most possible diagnosis",
+    "options": {
+      "A": "Scabies",
+      "B": "Urticaria",
+      "C": "Atopic dermatitis",
+      "D": "Allergic contact dermatitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Most common type of malignant melanoma",
+    "options": {
+      "A": "Superficial spreading",
+      "B": "Acral lentiginous",
+      "C": "Lentigo melanoma",
+      "D": "Nodular melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Neuropathic ulcers occur in",
+    "options": {
+      "A": "Bony prominences",
+      "B": "Distal toes",
+      "C": "Anterior shin",
+      "D": "Gaiter area"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Patient Has Oral Sce with betel nut and pan chewing history, mouth lesion will be:",
+    "options": {
+      "A": "Leukoplakia",
+      "B": "Erythroplakia",
+      "C": "Sub mucosal fibrosis",
+      "D": "Chronic ulcer",
+      "E": "Basal cell carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "UV exposure can cause which of the following?",
+    "options": {
+      "A": "Pulmonary fibrosis",
+      "B": "Cataract",
+      "C": "Lung cancer",
+      "D": "Teratogenesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Cause of edema in burn patient is due to which deficiency",
+    "options": {
+      "A": "Collagen",
+      "B": "Albumin",
+      "C": "Gamma globulin",
+      "D": "Water",
+      "E": "Dystrophin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Most common pre malignant lesion in adults ?",
+    "options": {
+      "A": "Leukoplakia",
+      "B": "Lichen planus",
+      "C": "Chronic ulcer",
+      "D": "Epulis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Which investigation should be done to differentiate nevus amemicus from segmental hypo melanosis?",
+    "options": {
+      "A": "Pin Prick",
+      "B": "Wood lamp examination",
+      "C": "Diascopy",
+      "D": "Fungal scraping",
+      "E": "Iodine Test"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "A young boy has Goose bumps due to:",
+    "options": {
+      "A": "Relaxation of erector pilli muscle",
+      "B": "Contraction of erector pilli muscle",
+      "C": "Epidermis",
+      "D": "Eversion of hair follicles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Diabetic patient has hot red nodules with multiple site of discharge diagnosis is:",
+    "options": {
+      "A": "Bruncle",
+      "B": "Carbuncle",
+      "C": "Fistula",
+      "D": "Cellulitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "A HIV patient develops lesion on skin his sex partner has similar lesions too which of following Skin CA associated with HIV?",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Kaposi sarcoma",
+      "C": "Lymphogranuloma verenum",
+      "D": "Burkitt lymphoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Regarding burn surface:",
+    "options": {
+      "A": "Increase burn receptors on burn surface",
+      "B": "Decrease burn receptor",
+      "C": "Increase chloride on surface",
+      "D": "Increase Discharge of Cations"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Skin seen on slide regular arrangement of fibers with lipid droplets what is this layer:",
+    "options": {
+      "A": "Stratum cornium",
+      "B": "Stratum Basale",
+      "C": "Stratum spinosum",
+      "D": "Stratum gangrenosum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "In 90% cases of anthrax where lesion is found in",
+    "options": {
+      "A": "Heart",
+      "B": "Vessel",
+      "C": "Hemartoma",
+      "D": "Skin",
+      "E": "Lungs"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "In Skin damage which layer of skin will first regenerate:",
+    "options": {
+      "A": "Stratum basale",
+      "B": "Stratum spinosum",
+      "C": "Stratum granulosum",
+      "D": "Stratum lucidum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A patient with H/O of 3rd degree Severe burn causing damage to spinosum granulosum and basalis affect will be:",
+    "options": {
+      "A": "Pressure sensation",
+      "B": "Temperature sensation",
+      "C": "Pain sensation",
+      "D": "Cutaneous water loss",
+      "E": "Errector pillae loss"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "A young medical technician had a history of acute eczematous dermatitis on his hands and wrist by wearing latest gloves. Skin was dry crusted and thickened. Eczematous reaction was cleared after 2 weeks but returned after 72 h back in job and started to grow. This is example of",
+    "options": {
+      "A": "Irritant dermatitis",
+      "B": "Type I hypersensitivity",
+      "C": "Type II hypersensitivity",
+      "D": "Type III hypersensitivity",
+      "E": "Type IV hypersensitivity contact dermatitis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Which skin layer helps in healing after knife injury?",
+    "options": {
+      "A": "Corneum",
+      "B": "Basale",
+      "C": "Spinosum",
+      "D": "Stratum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Which of following is most aggressive carcinoma?",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Melanoma",
+      "D": "Leukoplakia",
+      "E": "Lichen planus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "An old age shepherd having lesion on forehead involving 2-3 basal layers with acanthosis and atypia what is likely diagnosis?",
+    "options": {
+      "A": "Solar keratosis",
+      "B": "SCC",
+      "C": "BCC",
+      "D": "Pigemented navei"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Which of the following is the layer of epidermis only found in the Soles and palm?",
+    "options": {
+      "A": "Stratum corneum",
+      "B": "Stratum lucidum",
+      "C": "Stratum basale",
+      "D": "Stratum spinosum",
+      "E": "Stratum granulosum"
+    },
+    "correct_answer": "B"
+  }
+]

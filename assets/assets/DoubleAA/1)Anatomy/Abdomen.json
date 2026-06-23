@@ -1,0 +1,4843 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "A patient came to ER with severe electrolytes imbalance and dehydration, after initial resuscitation it was found out that she had a resection of a part of gut that she exactly not remember what that part is?",
+    "options": {
+      "A": "Jejunum",
+      "B": "Colon",
+      "C": "Ileum",
+      "D": "Stomach"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Small intestine intermittent pain is felt in:",
+    "options": {
+      "A": "Epigastric region",
+      "B": "Umbilicus",
+      "C": "Just above suprapubic region",
+      "D": "Left iliac reigon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Intestinal infarction due to SMA blocks which part of large intestine spared?",
+    "options": {
+      "A": "Appendix",
+      "B": "Ileum",
+      "C": "Asending colon",
+      "D": "Descending colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Lesser omentum contains",
+    "options": {
+      "A": "Hepatic duct",
+      "B": "Splenic Artery and CBD",
+      "C": "Hepatic artery proper, CBD and portal vein",
+      "D": "Bile duct and Gastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Patient after RTA Fracture of 11 12 ribs left side hypotension cause is:",
+    "options": {
+      "A": "Gall bladder injury",
+      "B": "Spleen Rupture",
+      "C": "Pancreass Rupture",
+      "D": "Kidney injury"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "The artery which has major blood supply to rectum is branch of:",
+    "options": {
+      "A": "Inferior mesenteric",
+      "B": "Superior mesentric",
+      "C": "Celiac",
+      "D": "Right gastric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "In appendicitis pain around the umbilicus pass thorough:",
+    "options": {
+      "A": "Sensory through T10",
+      "B": "Sympathetic nerve at T10",
+      "C": "Parasympathetic",
+      "D": "Ilioinguinal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Anterior Relation of left adrenal gland:",
+    "options": {
+      "A": "Liver",
+      "B": "IVC",
+      "C": "Aorta",
+      "D": "Lesser sac",
+      "E": "Duodenum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Appendicular artery branch of:",
+    "options": {
+      "A": "Posterior cecal",
+      "B": "Illiocolic artery",
+      "C": "SMA",
+      "D": "Celiac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Capsule of kidney prevents spread of infection:",
+    "options": {
+      "A": "True pelvis",
+      "B": "False pelvis",
+      "C": "Opposite kidney",
+      "D": "Inferior pelvis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "A known cld patient presents with Hemetemesis resulting from rupture of esophagealvarices. Bleeding from which vessel:",
+    "options": {
+      "A": "Superior mesenteric vein",
+      "B": "Right gastric vein",
+      "C": "Left gastric vein",
+      "D": "Azygous vein",
+      "E": "Inferior mesentric vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Meckel's diverticulum is commonly located at:",
+    "options": {
+      "A": "Mesenteric border of small intestine one meter above ileocecal valve",
+      "B": "Mesenteric border of small intestine two meter above ileocecal valve",
+      "C": "Antimesenteric border of small intestine one meter above ileocecal valve",
+      "D": "Antimesenteric border of small intestine two feet above ileocecal valve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Pain sensation originates from the gastric contents in the lesser sac is carried by:",
+    "options": {
+      "A": "Leesersolanchinic",
+      "B": "Greater splanchnic",
+      "C": "Autonomus",
+      "D": "Lower intercistal nerve",
+      "E": "Phrenic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Patient presented with malabsorption and anemia and from which site maximum absorption occurs:",
+    "options": {
+      "A": "Ilium",
+      "B": "Jejunum",
+      "C": "Colon",
+      "D": "Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Blood supply of first part of duodenum:",
+    "options": {
+      "A": "Gastroduodenal artery",
+      "B": "Pancreatic artery",
+      "C": "Inferior pancreatoduodenal artery",
+      "D": "Superior mesenteric artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Gastro duodenal artery is the branch of:",
+    "options": {
+      "A": "Common hepatic artery",
+      "B": "Splenic artery",
+      "C": "Celeic trunk",
+      "D": "Proper hepatic artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Arteries arise from the posterior aspect of abdominal aorta:",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Sacral arteries",
+      "C": "Iliac arteries",
+      "D": "Inferior mesenteric artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Which one is the intraperitoneal organ?",
+    "options": {
+      "A": "Aorta",
+      "B": "Pancreas",
+      "C": "1st part of duodenum",
+      "D": "Second part of duodenum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Transverse colon attaches to posterior abdominal wall by:",
+    "options": {
+      "A": "Transverse mesolocolon",
+      "B": "Ligamentum flavum",
+      "C": "Intraperitoneal ligament",
+      "D": "Gastro duodenal ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which of the following is potentially related with transverse colon:",
+    "options": {
+      "A": "Second part of duodenum",
+      "B": "Spleen",
+      "C": "Pancreas",
+      "D": "Greater curvature of stomach"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "During surgery on reaching hepatic duct one structure was seeing looping around and going towards the target organ. What structure is this?",
+    "options": {
+      "A": "Right hepatic duct",
+      "B": "Left hepatic duct",
+      "C": "Cystic duct",
+      "D": "Right Hepatic artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Fibres of greater splanchnic nerves synapse in:",
+    "options": {
+      "A": "Celiac ganglion",
+      "B": "Superior mesenteric ganglion",
+      "C": "Inferior mesenteric ganglion",
+      "D": "Hypogastric plexus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A 25 year old man presented with the complaint of post prandial bloating & abdominal cramping. He has history of passing foul smelling stool. Which investigation will give us multiple information regarding the problem?",
+    "options": {
+      "A": "Stool C & S",
+      "B": "Stool DR",
+      "C": "Serum lipid profile",
+      "D": "Ultrasound"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "As horse shoe kidney ascend from pelvis during fetal development, it remains low because gut trapped under:",
+    "options": {
+      "A": "Superior mesntric artery",
+      "B": "Aorta",
+      "C": "Inferior mesenteric artery",
+      "D": "Celiac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Inferior Boundary of epiploic foramen is:",
+    "options": {
+      "A": "Inferior Vena cava",
+      "B": "1st part of dudenun",
+      "C": "Liver",
+      "D": "Caudate lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "While doing surgery splenic vessel need to be ligated they are present in which ligament?",
+    "options": {
+      "A": "Gastro splenic",
+      "B": "Hepatosplenic",
+      "C": "Linorenal",
+      "D": "Splenigastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "A young man sustained RTA with multiple rib fracture has difficulty in breathing u noticed that his is moving more during breathing which muscle help him in breathing?",
+    "options": {
+      "A": "Diaphragm",
+      "B": "External oblique",
+      "C": "External intercostal",
+      "D": "Internal intercostal",
+      "E": "Transverses"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Pancreatic injury secretion goes into:",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Rt. paracolicguter",
+      "C": "Left paracolicguter",
+      "D": "Sub phrenic space"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Tubular organ having aggregate of lymphoid tissue:",
+    "options": {
+      "A": "Appendix",
+      "B": "Ileum",
+      "C": "Duodenum",
+      "D": "Colon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Liver attaches to Anterior abdominal wall via:",
+    "options": {
+      "A": "Coronary ligament",
+      "B": "Falciform ligament",
+      "C": "Hepatogastric ligament",
+      "D": "Inguinal ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Which of the following structure lies anterior to IVC?",
+    "options": {
+      "A": "Right testicular artery",
+      "B": "Aorta",
+      "C": "SMA",
+      "D": "Right renal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Injury to the right side of the hepatoduodenal ligament causes injury to:",
+    "options": {
+      "A": "CBD",
+      "B": "Portal vein",
+      "C": "Hepatic artery",
+      "D": "Hepatic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Lymphatic drainage of inflamed appendix:",
+    "options": {
+      "A": "Inferior mesenteric nodes",
+      "B": "Superior mesenteric nodes",
+      "C": "Celiac nodes",
+      "D": "Internal iliac nodes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Left supra renal gland supplied by:",
+    "options": {
+      "A": "Inferior phrenic artery",
+      "B": "Have posterior relation with pancreas",
+      "C": "Left suprarenal vein drained into IVC",
+      "D": "Superior mesentriicartrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "During laporotomy which layer would surgeon encounter between peritoneal layer and transversus abdominis muscle?",
+    "options": {
+      "A": "Skin",
+      "B": "Subcutaneous layer (fatty layer)",
+      "C": "Transversalis fascia",
+      "D": "External oblique",
+      "E": "Internal oblique"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Celiac plexus lies:",
+    "options": {
+      "A": "Anteriorly to Aorta",
+      "B": "Anteriorly to IVC",
+      "C": "At level of L3",
+      "D": "Right crus of diaphragm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Which is unpaired vessel of aorta?",
+    "options": {
+      "A": "Celiac Trunk",
+      "B": "Renal Artery",
+      "C": "Ovarian Artery",
+      "D": "Thyrocervical trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Pancreatica magna branch of:",
+    "options": {
+      "A": "Splenic artery",
+      "B": "Hepatic artery",
+      "C": "Celiac artrey",
+      "D": "Inferior mesentriicartrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Hepatoduodenal ligament contains which of the following structure?",
+    "options": {
+      "A": "Celiac Trunk",
+      "B": "IVC",
+      "C": "Aorta",
+      "D": "Portal Vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Posterior to head of pancreas:",
+    "options": {
+      "A": "Stomach",
+      "B": "Lesser sac",
+      "C": "Splenic vessels",
+      "D": "IVC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Lymphatic drainage of fundus of stomach:",
+    "options": {
+      "A": "Celiac",
+      "B": "Superior mesenteric nodes",
+      "C": "Splenic nodes",
+      "D": "Inferior mesenteric nodes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Inferior mesenteric artery is ligated which part of large intestine is affected:",
+    "options": {
+      "A": "Ascending and transverse",
+      "B": "Transverse only",
+      "C": "Transverse and descending colon",
+      "D": "Descending and sigmoid colon",
+      "E": "Ascending and descending colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Posterior Boundary of epiploic foramen is:",
+    "options": {
+      "A": "Inferior Vena cava",
+      "B": "1st part of duodenum",
+      "C": "Liver",
+      "D": "Caudate lobe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Alcoholic patient with Pain referred to shoulder Structure from which pain arises is:",
+    "options": {
+      "A": "Liver",
+      "B": "Gall bladder",
+      "C": "Spleen",
+      "D": "Pancreas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Notch at lesse curvature of stomach:",
+    "options": {
+      "A": "Pylorus",
+      "B": "Antrum",
+      "C": "Incisura angularis",
+      "D": "Fundus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Anterior Relation of right adrenal gland:",
+    "options": {
+      "A": "Liver",
+      "B": "IVC",
+      "C": "Aorta",
+      "D": "Lesser sac",
+      "E": "Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Which of the following is functional unit of Liver?",
+    "options": {
+      "A": "Lobule",
+      "B": "Hepatocyte",
+      "C": "Segment",
+      "D": "Hepatic acinus",
+      "E": "Sinusoids"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Child having meckel diverticulum having bleeding per rectum it is due to:",
+    "options": {
+      "A": "Volvulus",
+      "B": "Intussusception",
+      "C": "Ectopic gastric tissue",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Main renal artery enters hilum at which level?",
+    "options": {
+      "A": "L3 – L4",
+      "B": "L4 – L5",
+      "C": "L1 – 2",
+      "D": "L3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Renal capsule supplied by:",
+    "options": {
+      "A": "Interlobar artery",
+      "B": "Interlobular artery",
+      "C": "Segmental artery",
+      "D": "Renal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Nerve supply of rectus abdominis:",
+    "options": {
+      "A": "Lower six thoracic",
+      "B": "Subcostal only",
+      "C": "Last five intercostal, subcostal, ilioinguinal and illiohypogastric",
+      "D": "Last five intercostal, subcostal and ilioinguinal only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Inferior epigastric artery lateral to which hernia?",
+    "options": {
+      "A": "Direct hernia",
+      "B": "Indirect hernia",
+      "C": "Umblical hernia",
+      "D": "Epigastric hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Celiac plexus level at:",
+    "options": {
+      "A": "L4",
+      "B": "L3",
+      "C": "T9",
+      "D": "L1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Gastro easophageal junction lies at:",
+    "options": {
+      "A": "T11",
+      "B": "T12",
+      "C": "L1",
+      "D": "L3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Regarding supra renal vein, which of the following is correct?",
+    "options": {
+      "A": "Right Supra renal vein drains into Renal vein",
+      "B": "Left supra renal vein drains into renal vein",
+      "C": "Both supra renal veins drain into renal vein",
+      "D": "Right supra renal vein drains into common iliac vein",
+      "E": "Left Supra renal vein drain into IVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Most important feature of meckel diverticulum is which of following:",
+    "options": {
+      "A": "Contain Pancreatic Tissue",
+      "B": "Contain Ectopic Gastric Tissue and Pancreatic Tissue",
+      "C": "2 Feet Proximal to ileocecal valve",
+      "D": "4 Feet Proximal to ilium",
+      "E": "Contain Splenic Mucosa"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Superficial epigastric artery is a branch of:",
+    "options": {
+      "A": "External iliac",
+      "B": "Internal iliac",
+      "C": "Internal Thoracic",
+      "D": "Internal pudendal artery",
+      "E": "Femoral"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Pararenal fat is an extension of?",
+    "options": {
+      "A": "Renal fascia",
+      "B": "Peritoneum",
+      "C": "Fusion fascia",
+      "D": "Transversalis fascia",
+      "E": "Cremasteric fascia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Superficial fascia is mixture of:",
+    "options": {
+      "A": "Dense irregular and loose areolar",
+      "B": "Loose Areolar and Adipose Tissue",
+      "C": "Elastic and collagen fibres",
+      "D": "Dense regular connective and areolar",
+      "E": "Dense Elastic tissue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Patient have abdominal pain on sigmoidonscopy there is obstruction in upper part of sigmoid colon with ulcer patient have appendectomy scar that was done few year back cause of this is:",
+    "options": {
+      "A": "Crohn's disease",
+      "B": "Ulcerative colitis",
+      "C": "Diverticulosis",
+      "D": "Fatty diet",
+      "E": "Previous surgery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Patient presented with decrease peripheral pulsation with abdominal pain and creatinine kinase normal and pulsating abdominal mass with fasting glucose of 130 – 150 from last 20 years is most likely suffering from:",
+    "options": {
+      "A": "Thoracic aortic Aneurysm",
+      "B": "Abdominal Aortic Aneurysm",
+      "C": "Rupture of IVC",
+      "D": "Common lliac artery Aneurysm",
+      "E": "Superior vena Cava Aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Patient has severe anaemia there's irregular shape and size of RBC's have been seen on the part of GIT. Which part of GIT is involved in this?",
+    "options": {
+      "A": "Fundus of Stomach",
+      "B": "Colon",
+      "C": "Duodenum",
+      "D": "Pylorus of Stomach",
+      "E": "Jejunum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Transverse mesocolon is attached posteriorly by?",
+    "options": {
+      "A": "2nd part of duodenum",
+      "B": "Gastrohepatic ligament",
+      "C": "Hepatoduodenal ligament",
+      "D": "Splenorenal ligament",
+      "E": "Lesser Sac"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Left gastro epiploic artery is the branch of which of the following?",
+    "options": {
+      "A": "Splenic",
+      "B": "Hepatic",
+      "C": "Gastroduodenal artery",
+      "D": "Gastric",
+      "E": "Celiac"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Which of the following structures is between celiac plexus and SMA?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Liver",
+      "C": "Stomach",
+      "D": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Most common cause of bleeding in duodenal ulcer on posterior wall is by which artery?",
+    "options": {
+      "A": "Superior pancreatic duodenal artery",
+      "B": "Inferior pancreatic duodenal artery",
+      "C": "Gastro duodenal artery",
+      "D": "Right gastroepiploic artery",
+      "E": "Left gastroepiploic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "A medical student is examining a slide under the microscope but he is unable to differentiate the gallbladder different from the colon; the point which will help him in differentiating the gallbladder from colon histologically will be?",
+    "options": {
+      "A": "Muscular layer arranged in 3 layers in the gallbladder wall",
+      "B": "Columnar epithelium in gallbladder wall",
+      "C": "Peyer's patches in the gallbladder wall",
+      "D": "No submucosa in the gallbladder wall",
+      "E": "No serosa in the gallbladder wall"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Left gastric artery is branch of which of following?",
+    "options": {
+      "A": "Celiac artery",
+      "B": "Splenic artery",
+      "C": "Hepatic artery",
+      "D": "SMA",
+      "E": "IMA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Patient presented with RHC pain dermatome for cholecystitis include:",
+    "options": {
+      "A": "T3 – 9",
+      "B": "T10 – 12",
+      "C": "T7 – 9",
+      "D": "T8 – T12",
+      "E": "T7 – L1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Anterior to hilum of right kidney is:",
+    "options": {
+      "A": "Liver",
+      "B": "Pancreas",
+      "C": "2nd Part of duodenum",
+      "D": "Gall Bladder",
+      "E": "Hepatic Flexure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Which of the following runs along the superior margin of Pancreas?",
+    "options": {
+      "A": "Splenic vein",
+      "B": "Portal vein",
+      "C": "Superior mesenteric vein",
+      "D": "Splenic artery",
+      "E": "Aorta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Microscopic slide show Glands in tissue submucosa. Which organ is this?",
+    "options": {
+      "A": "Fundus of stomach",
+      "B": "Duodenum",
+      "C": "Jejunum",
+      "D": "Ilium",
+      "E": "Colon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Valvulae Conniventes is found in which part of GIT?",
+    "options": {
+      "A": "Ilium",
+      "B": "Jejunum",
+      "C": "Colon",
+      "D": "Stomach",
+      "E": "Sigmoid colon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Hepatic veins drains into which of following?",
+    "options": {
+      "A": "IVC",
+      "B": "Portal Vem",
+      "C": "Jugular vein",
+      "D": "Renal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Which structure lies anterior to the uncinate process of pancreas?",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Superior mesenteric vessels",
+      "C": "Greater sac",
+      "D": "Portal triad",
+      "E": "Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Free margin of falciform ligament contains which of following?",
+    "options": {
+      "A": "Ligamentum teres",
+      "B": "Portal vein",
+      "C": "Ligamentum venosum",
+      "D": "Ligament of treitz",
+      "E": "Hepatic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Left gastric vein drains into:",
+    "options": {
+      "A": "Portal vein",
+      "B": "SM vein",
+      "C": "Splenic vein",
+      "D": "Hepatic vein",
+      "E": "Renal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Which one is more sensitive to pain?",
+    "options": {
+      "A": "parietal",
+      "B": "visceral",
+      "C": "all of the above",
+      "D": "none of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Structure in front of 2nd part of duodenum is which of following?",
+    "options": {
+      "A": "Bile duct",
+      "B": "Head of pancreas",
+      "C": "Colic flexure",
+      "D": "Transverse mesocolon",
+      "E": "Quadrate lobe"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Which of following vein dilated in portal Hypertension?",
+    "options": {
+      "A": "Left gastric vein",
+      "B": "Left suprarenal",
+      "C": "Inferior epigastric",
+      "D": "Superior mesenteric",
+      "E": "Inferior phrenic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Posterior branch at aortic bifurcation is which of following?",
+    "options": {
+      "A": "External illiac artery",
+      "B": "Median Sacral artery",
+      "C": "Femoral artery",
+      "D": "Tibial artery",
+      "E": "Internal illiac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Rectus sheath above arcuate line is formed by:",
+    "options": {
+      "A": "Internal oblique and transverse abdominis",
+      "B": "External and internal oblique aponeurosis",
+      "C": "Transverse abdominis aponeurosis",
+      "D": "Internal oblique aponeurosis",
+      "E": "Rectus muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "A patient's intestine does not gets back to. Diagnosis is:",
+    "options": {
+      "A": "Gastroschisis",
+      "B": "Omphalocele",
+      "C": "Meckel's diverticulum",
+      "D": "Intassusception",
+      "E": "Volvulus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Artery Present at the base of pyramids:",
+    "options": {
+      "A": "Arcuate",
+      "B": "Lobar",
+      "C": "Interlobar",
+      "D": "Interlobular",
+      "E": "Segmental"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Artery with thick elastic fibres is:",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary artery",
+      "C": "Brachial artery",
+      "D": "Femoral artery",
+      "E": "Renal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "At L1 level on CT scan shows which structure?",
+    "options": {
+      "A": "SMA origin from aorta",
+      "B": "Inferior vena cava origin",
+      "C": "Splenic vein passing above pancreas",
+      "D": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Patient in OT, surgery is undergoing. Patient needs bladder emptying, surgeon passed needle to upper surface of bladder vessel at risk of damage is:",
+    "options": {
+      "A": "Deep Circumflex artery",
+      "B": "Superficial Circumflex artery",
+      "C": "Inferior epigastric",
+      "D": "Superior epigastric",
+      "E": "Iliohypogastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Lumbar triangle anterior boundary is formed by:",
+    "options": {
+      "A": "Posterior border of external oblique",
+      "B": "Anterior border of external oblique",
+      "C": "Latissimus Dorsi",
+      "D": "External jotercostal",
+      "E": "Iliac crest"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Gastric carcinoma involving the left upper side of stomach will spread first to which lymph node?",
+    "options": {
+      "A": "Superior mesenteric nodes",
+      "B": "Celiac nodes",
+      "C": "PancreaticoSplenic nodes",
+      "D": "Inferior mesenteric nodes",
+      "E": "Gastroepiploic nodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Four lumbar arteries arise from which of following?",
+    "options": {
+      "A": "Internal illiac",
+      "B": "External illiac",
+      "C": "SMA",
+      "D": "Aorta",
+      "E": "Celiac artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Lesser sac bounded by:",
+    "options": {
+      "A": "Superiorly there is caudate lobe of liver",
+      "B": "Inferiorly there transverse colon",
+      "C": "Posteriorly bounded by aorta",
+      "D": "On left side there is epiploic forameu",
+      "E": "On right side the is gastrosplenic ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Meckel's diverticulum is defect of which part of gut?",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ileum",
+      "C": "Large intestine",
+      "D": "Colon",
+      "E": "Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Origin of External Oblique is:",
+    "options": {
+      "A": "Cartilage of 7-8 Ribs",
+      "B": "External surface of Rib 5-12",
+      "C": "9th and 10th rib",
+      "D": "External surface of Rib 1-4",
+      "E": "Cartilage of 9 9-10 Ribs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Lesser and greater sac are separated all over except at one place:",
+    "options": {
+      "A": "Epiploic foramen",
+      "B": "Latcrally",
+      "C": "Jugular foramen",
+      "D": "Quadrate lobe",
+      "E": "1st part of Duodenum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "In the transverse cut section which structure is not visible at T11 but visible at T12 behind the stomach?",
+    "options": {
+      "A": "Gallbladder",
+      "B": "Spleen",
+      "C": "Aorta",
+      "D": "IVC",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A patient having esophageal mass During esophagectomy stomach is mobilised to the upper portion of thorax to anastomosis with pharynx which artery is mobilized for stomach supply?",
+    "options": {
+      "A": "Short gastric",
+      "B": "Right gastric",
+      "C": "Left gastric",
+      "D": "Right gastroepiploic",
+      "E": "Left gastroepiploic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "In paramediao approach incision artery can be damaged is:",
+    "options": {
+      "A": "Inferior epigasuic",
+      "B": "Superior Epigastric",
+      "C": "Internal illiac",
+      "D": "External illiac",
+      "E": "Uterine artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "External oblique fibres interdigitate with which of following:",
+    "options": {
+      "A": "Serratus anterior",
+      "B": "Trapezius",
+      "C": "Sternocleidomastoid",
+      "D": "Latissimus dorsi",
+      "E": "Rhomboid major"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Iliolumbar is branch of which of the following?",
+    "options": {
+      "A": "Femoral artery",
+      "B": "Tibial artery",
+      "C": "Internal iliac artery",
+      "D": "Abdominal aorta",
+      "E": "Vesicle artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "CBD opens into",
+    "options": {
+      "A": "1st part of deuodenum",
+      "B": "2nd part of deuodenum",
+      "C": "3rd part of deuodenum",
+      "D": "jeujenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Regarding houston valves true:",
+    "options": {
+      "A": "Transverse plicae",
+      "B": "Semilunar valve of colon",
+      "C": "Transverse valves of colon",
+      "D": "Oblique valves"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Portal vein is present in free edge of:",
+    "options": {
+      "A": "Epiploic foramen",
+      "B": "Greater sac",
+      "C": "Lesser omentum",
+      "D": "Bild duct"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Root value of thoracic splanchnic nerve in renal and supraenal plexus:",
+    "options": {
+      "A": "T5-L1",
+      "B": "T1-T2",
+      "C": "T2-T3",
+      "D": "T3-T4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "In duodenal ulcer,which lymph node is involved?",
+    "options": {
+      "A": "Superior mesenteric",
+      "B": "Superior mesenteric + Celiac",
+      "C": "Inferior mesenteric",
+      "D": "Inferior mesenteric +Celiac",
+      "E": "Celiac"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Hepatodudonal contents include:",
+    "options": {
+      "A": "Hepatic artery, Portal vein and CBD",
+      "B": "CBD only",
+      "C": "Hepatic Duct",
+      "D": "Hepatic artery and Hepatic Duct"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Posterior relation of head of pancreas is:",
+    "options": {
+      "A": "PUJ",
+      "B": "Pelvic brim",
+      "C": "Psoas muscle",
+      "D": "Opening at bladder"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Which vein is tributary of portal vein?",
+    "options": {
+      "A": "Inferior epigastric artery",
+      "B": "Superior rectal vein",
+      "C": "Left renal vein",
+      "D": "Hemiazygous vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Tubular structure with absorptive surface area & numerous lymphoid tissues:",
+    "options": {
+      "A": "Appendix",
+      "B": "Colon",
+      "C": "Cecum",
+      "D": "Rectum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "On Radiograph Transverse cut section structure not visible at T11 but Visible at T12 behind the stomach:",
+    "options": {
+      "A": "Tail of Pancreas",
+      "B": "Spleen",
+      "C": "Aorta",
+      "D": "IVC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Structure lying anterior to aorta:",
+    "options": {
+      "A": "Azygous Vein",
+      "B": "Celiac plexus",
+      "C": "IVC",
+      "D": "IJV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Right gastroepiploic artery is branch of",
+    "options": {
+      "A": "Celiac",
+      "B": "Gastroepiploic",
+      "C": "Splenic",
+      "D": "Hepatic",
+      "E": "Gastrodeuodenal"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Colon removed will lead to:",
+    "options": {
+      "A": "Electrolytes & Water Imbalance",
+      "B": "Water Imbalance",
+      "C": "Electrolyte Imbalance",
+      "D": "Fatty Stool"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Bare area of the liver is limited by which of the following structures:",
+    "options": {
+      "A": "Ligamentum arteriosum",
+      "B": "Falciform ligament",
+      "C": "Coronary ligament",
+      "D": "Ligamentum venosum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "The endocrine portion of pancreas is derived from",
+    "options": {
+      "A": "Mesoderm",
+      "B": "Endoderm",
+      "C": "Ectodenn",
+      "D": "Neuro ectoderm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Short gastric arteries are branches of",
+    "options": {
+      "A": "Splenic",
+      "B": "Celiac",
+      "C": "Left gastric",
+      "D": "Right gastiric",
+      "E": "Gastrodeuidenal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Most difficult complication to manage after Bartholin 2 surgery?",
+    "options": {
+      "A": "Subphrenicabcess",
+      "B": "Paralytic ileus",
+      "C": "Hemorhage",
+      "D": "Dumping syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Pain caused by passage of stone going down the lower end of the left ureter, may be referred to:",
+    "options": {
+      "A": "Epigastric",
+      "B": "Penis",
+      "C": "Lumbar region",
+      "D": "Hypogastric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Left kidney is not related anteriorly to:",
+    "options": {
+      "A": "Diaphragm",
+      "B": "Spleen",
+      "C": "Stomach",
+      "D": "Pancreas",
+      "E": "Coils of jeujenum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Lymphatic drainage of appendix:",
+    "options": {
+      "A": "Superior mesenteric lymph nodes",
+      "B": "Inferior mesenteric lymph nodes",
+      "C": "Iliac nodes",
+      "D": "Celiac nodes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Ulcer on posterior wall of Gastric antrum will lead to acute abscess/Peritonitis in which of the following space?",
+    "options": {
+      "A": "Greater Sac",
+      "B": "Lesser Sac",
+      "C": "Right Sub hepatic Space",
+      "D": "Right Posterior sub phrenic space"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Female with arterial disease.Pulsatile mass on examination originating from",
+    "options": {
+      "A": "T11 - L1",
+      "B": "T12 - L2",
+      "C": "L1 - L3",
+      "D": "L2 - L4",
+      "E": "T8- T11"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Segmentations in intestine are shown by:",
+    "options": {
+      "A": "Haustrations",
+      "B": "Epiploicae appendices",
+      "C": "Valvulae Conniventes",
+      "D": "Peyer patches"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Left Supra Renal vein drains into which of the following?",
+    "options": {
+      "A": "IVC",
+      "B": "Left Renal Vein",
+      "C": "Right Renal Vein",
+      "D": "Common Iliac Vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Which of the following is importance of Fusion fascia?",
+    "options": {
+      "A": "Position",
+      "B": "Lymphatic Drainage",
+      "C": "Vascular Structures",
+      "D": "Innervation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Bleeding into lesser omentum by damage to:",
+    "options": {
+      "A": "Left Gastric Artery",
+      "B": "Gastroduodenal artery",
+      "C": "Right Gastroepiploic artery",
+      "D": "Celiac Trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "35 year old man with perforated gastric ulcer complains of pain in his stomach, it is observed that pain comes from peritoneal irritation by gastric contents in lesser sac, which of the following nerves contains sensory nerve fibers that conveys this sharp stabbing pain",
+    "options": {
+      "A": "Greater splanchnic nerve",
+      "B": "Lower intercostal nerve",
+      "C": "White rami communicates",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "In appendicitis. Pain radiates to which of the following area?",
+    "options": {
+      "A": "Umbilicus",
+      "B": "Pelvic region",
+      "C": "Epigastric",
+      "D": "Right Shoulder"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "What is the relation of left renal vein anteriorly?",
+    "options": {
+      "A": "IVC",
+      "B": "SMA",
+      "C": "Phrenic nerve",
+      "D": "Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "The pain from the gastric ulcers is referred to:",
+    "options": {
+      "A": "Epigastrium",
+      "B": "Hypochondrium",
+      "C": "Shoulder",
+      "D": "Right iliac fossa",
+      "E": "Umbilicus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "79 years old man suffering from ischemia of suprarenal galnds, this condition comes from rapid occulusion of direct branches of which of the following artries",
+    "options": {
+      "A": "Aorta, inferior phrenic, renal artries",
+      "B": "Superior mesentric, inf mesenteric, renal artries",
+      "C": "Inferior mesentric, renalartries, inferior phrenic",
+      "D": "Renal, splenic and inferior mesenteric",
+      "E": "Aorta, splenic and inferior phrenic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Patient presented to the emergency room after multiple fractures. What will be the first intervention?",
+    "options": {
+      "A": "Fluid resuscitation",
+      "B": "Take X-ray",
+      "C": "Referral on the spot",
+      "D": "CT Scan"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "A patient presented with severe fluid loss due to diarrhea that resulted in metabolic acidosis and hypokalemia. The site involved is:",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ileum",
+      "C": "Stomach",
+      "D": "Colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "About adrenal glands:",
+    "options": {
+      "A": "Left adrenal vein drains into renal vein",
+      "B": "Right adrenal vein drains into renal vein",
+      "C": "Left adrenal vein drains into IVC",
+      "D": "Right adrenal vein drains left adrenal gland"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "While examining radiographs of 48 years patient, a physician is trying to distinguish the jeujenum from illeum. He has observed that jeujenum has",
+    "options": {
+      "A": "More fat in its mesentry",
+      "B": "Shorter vasa recta",
+      "C": "Few mesentric arterial arcades",
+      "D": "Few plicae circularis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "67 year old mnn with history of cirrhosis was in seen in ER. In this patient with portal hypertension, Which of the following veins is most likely dilated?",
+    "options": {
+      "A": "Inferior phrenic",
+      "B": "Superior phrenic",
+      "C": "Suprarenal",
+      "D": "Right colic",
+      "E": "Inferior mesentric"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A patient who has undergone ileum Resection, What should be given?",
+    "options": {
+      "A": "Vitamin B12",
+      "B": "Iron",
+      "C": "Vitamin A",
+      "D": "Vitamin E",
+      "E": "Vitamin C"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "A diabetic patient with abdominal pain, severe vomiting and visible peristalsis and audible sound on examination, the condition is:",
+    "options": {
+      "A": "GERD",
+      "B": "Achalasia",
+      "C": "Crohn Disease",
+      "D": "Pyloric stenosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "The surgeon will ligate all the arteries that send branches to stomach. Which of the following artries might be spared?",
+    "options": {
+      "A": "Left gastroepiploicartrey",
+      "B": "Proper hepatic artery",
+      "C": "Gastroduodenalartrey",
+      "D": "Inferior pancreaticoduodenal artery",
+      "E": "Splenic artrcy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Which part of the intestine does Entamoeba Histolytica reside in?",
+    "options": {
+      "A": "Duodenum",
+      "B": "Jejunum",
+      "C": "Transverse colon",
+      "D": "Ascending colon",
+      "E": "Cecum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Which of the following pair of veins forms s portocaval anastomosis?",
+    "options": {
+      "A": "Hepatic veins and IVC",
+      "B": "Inferior and Superioe Epigastriv veins",
+      "C": "Left and right gastric veins",
+      "D": "Superior and middle rectal veins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Artery present anterior to the 3rd part of the duodenum:",
+    "options": {
+      "A": "Inferior mesenteric artery",
+      "B": "Superior mesenteric artery",
+      "C": "Left Gastric artery",
+      "D": "Celiac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A person got a stab wound 3cm vertically on lateral right side of linea alba. Initially, he was fine but then developed hypotension & shock. Which vessel is most likely damaged?",
+    "options": {
+      "A": "IVC",
+      "B": "Superior mesenteric Artery",
+      "C": "Inferior Mesenteric Artery",
+      "D": "Abdominal Aorta",
+      "E": "Ileal branch of superior mesenteric artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "The most common organ injured during blunt trauma is:",
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Pancreas",
+      "D": "Kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "The ecchymosis of flank seen in patients with acute pancreatitis is named after:",
+    "options": {
+      "A": "Trousseau",
+      "B": "Cullen",
+      "C": "Grey turner",
+      "D": "Good Pasteur"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Structure found 2 feet away from ileocecal junction, at anti-mesenteric border is most likely:",
+    "options": {
+      "A": "Omphalocele",
+      "B": "Meckel's diverticulum",
+      "C": "Volvulus",
+      "D": "Gastroschisis",
+      "E": "Intussusception"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Downward displacement of enlarged spleen is prevented by?",
+    "options": {
+      "A": "Linorenal ligament",
+      "B": "Phrenicocolic ligament",
+      "C": "Sigmoid colon",
+      "D": "Upper pole of right kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Free end of small intestine occupies:",
+    "options": {
+      "A": "Right upper quadrant",
+      "B": "Left upper quadrant",
+      "C": "Right iliac fossa",
+      "D": "Lower infracolic part"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Posterior relation of First part of duodenum is:",
+    "options": {
+      "A": "Aorta",
+      "B": "IVC",
+      "C": "Left Gastric Artery",
+      "D": "Gastroduodenal artery",
+      "E": "Splenic Artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "First 2 cm of duodenum is supplied by which artery?",
+    "options": {
+      "A": "Right gastric Artery",
+      "B": "Superior pancraticoduodenal Artery",
+      "C": "Inferior pancraticoduodenal Artery",
+      "D": "Celiac Artery",
+      "E": "Hepatic Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Which structure lies anterior to pancreas?",
+    "options": {
+      "A": "CBD",
+      "B": "SMA",
+      "C": "Pylorus",
+      "D": "Lesser Sac",
+      "E": "1st part of Duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Ovarian artery is branch of:",
+    "options": {
+      "A": "Femoral",
+      "B": "Celiac",
+      "C": "Abdominal aorta",
+      "D": "SMA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Renal pyramid is supplied by:",
+    "options": {
+      "A": "Interlobar artery",
+      "B": "Interlobular artery",
+      "C": "Inferior phrenic artery",
+      "D": "Aorta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Portal vein to liver runs in which ligament?",
+    "options": {
+      "A": "Ligamentum teres",
+      "B": "Hepatoduodenal",
+      "C": "Phrenicocolic",
+      "D": "Dorsolateral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Which structure lies anterior to inferior vena cava?",
+    "options": {
+      "A": "Portal Vein",
+      "B": "Right gonadal vessel",
+      "C": "Renal artery",
+      "D": "Inferior phrenic artery",
+      "E": "Sacral artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Which of following structure is anterior to pancreas?",
+    "options": {
+      "A": "Right renal artery",
+      "B": "Right renal vein",
+      "C": "Left renal artery",
+      "D": "SMA & SMV",
+      "E": "IMA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Regarding Bile duct, Which of the following is true?",
+    "options": {
+      "A": "Posterior portal vein",
+      "B": "Right to hepatic artery",
+      "C": "Anterior to pancreas",
+      "D": "Posterior to duodenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Which of following structure is present between stomach and pancreas?",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Greater sac",
+      "C": "Small intestine",
+      "D": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Terminal ileum resection causes",
+    "options": {
+      "A": "Increased water content in faeces",
+      "B": "Decreased fat content",
+      "C": "Increased bile salt absorption",
+      "D": "Decreased water content in faeces"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Pyloric ulcer ruptured abscess initially goes to:",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Right sub hepatic",
+      "C": "Left sub hepatic",
+      "D": "Greater sac"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "What lies posterior to uncinate process of pancreas?",
+    "options": {
+      "A": "Aorta",
+      "B": "SMA",
+      "C": "IVC",
+      "D": "IMA",
+      "E": "Celiac"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "A 50 year old man known to have hepatoma develops dependent edema with dilated abdominal walls veins. The most likely structure involved in this patient is:",
+    "options": {
+      "A": "Hepatic artery",
+      "B": "Hepatic vein",
+      "C": "Inferior vena cava",
+      "D": "Portal Vein",
+      "E": "Right side of the heart"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Difference between right and left kidney?",
+    "options": {
+      "A": "Size",
+      "B": "Weight",
+      "C": "Colour",
+      "D": "Relation at hilum",
+      "E": "None"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Vein dilated in Portal hypertension:",
+    "options": {
+      "A": "Left gastric vein",
+      "B": "Inferior mesenteric",
+      "C": "Inferior venal cava",
+      "D": "Superior mesentric vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Appendices epiploicae are present in:",
+    "options": {
+      "A": "Rectum",
+      "B": "Duodenum",
+      "C": "Sigmoid colon",
+      "D": "Jejunum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Pancreatic insufficiency leads to deficiency of which of the following vitamins?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin B3",
+      "C": "Vitamin B1",
+      "D": "Vitamin D"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "All of these supply the first 2cm of duodenum except:",
+    "options": {
+      "A": "Supraduodenal artery",
+      "B": "Common hepatic artery",
+      "C": "Gastro duodenal artery",
+      "D": "Superior pancreaticoduodenal artery",
+      "E": "Right gastroepiploic artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Which structure is not present in lesser omentum?",
+    "options": {
+      "A": "Portal vein",
+      "B": "Bile duct",
+      "C": "Left gastric artery",
+      "D": "Hepatic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "After cholecystectomy, Drain placed in:",
+    "options": {
+      "A": "Left subphrenic compartment",
+      "B": "Right paracolic gutter",
+      "C": "Right subhepatic compartment",
+      "D": "Right subphrenic compartment",
+      "E": "Upper right infracolic compartment"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Pancreatic bed includes all except;",
+    "options": {
+      "A": "Splenic artrey",
+      "B": "Left kidney",
+      "C": "Left renal vein",
+      "D": "Left crus of diaphragm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Inferior epigastric artery is a branch of:",
+    "options": {
+      "A": "External iliac",
+      "B": "Internal iliac",
+      "C": "Sup epigastric",
+      "D": "Internal pudendal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Esophegectomy done. Stomach is mobilized to upper portion for anastomosis with pharynx. Which artrey is responsible for stomach supply now?",
+    "options": {
+      "A": "Right gastroepiploic artery",
+      "B": "Right gastric artrey",
+      "C": "Lest gastroepiploic artery",
+      "D": "Left gastric artrey",
+      "E": "Inferior mesentric artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Anterior duodenal perforation contents will move into?",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Right iliac fossa",
+      "C": "Hepatorenal pouch",
+      "D": "Right posterior sub phrenic",
+      "E": "Right anterior sub phrenic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "1st branch of abdominal aorta:",
+    "options": {
+      "A": "IVC",
+      "B": "Inferior phrenic",
+      "C": "Celiac trunk",
+      "D": "Splenic",
+      "E": "Short gastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Three segments apical, anterior and posterior in which lobe of lung?",
+    "options": {
+      "A": "Right upper",
+      "B": "Right middle",
+      "C": "Right inferior",
+      "D": "Left superior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Which of following drains into superior mesenteric lymph nodes?",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ileum",
+      "C": "Small intestine",
+      "D": "Large intestine",
+      "E": "Rectum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "During endoscopy of a 32 yr old woman, ulcer found on posterior wall of stomach. It is likely to cause bleeding by causing damage to?",
+    "options": {
+      "A": "Left gastric artery",
+      "B": "Gastro duodenal artery",
+      "C": "Splenic artery",
+      "D": "right gastric artrey"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Tumor at Porta Hepatis. What is compressed?",
+    "options": {
+      "A": "Common bile duct",
+      "B": "Portal vein",
+      "C": "Hepatic artery",
+      "D": "Hepatic vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Contents from cecum to ileum are prevented by:",
+    "options": {
+      "A": "Ileocecal valve",
+      "B": "Ileocecal sphincter",
+      "C": "Ileocecal pump",
+      "D": "Pyloric sphincter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "About Small intestine, true is:",
+    "options": {
+      "A": "6 to 8 meters long",
+      "B": "7 to 9 meters long",
+      "C": "10 to 11 meters long",
+      "D": "8 inches",
+      "E": "6 inches"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Common bile duct relation to pancreatic head:",
+    "options": {
+      "A": "Posterior",
+      "B": "Lateral",
+      "C": "Medial",
+      "D": "Anterior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Supply of Foregut is primarily derived from:",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Superior mesentric",
+      "C": "Inferior mesentric",
+      "D": "Lumber artries",
+      "E": "Median sacral"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Splenic artery course throughout:",
+    "options": {
+      "A": "Along superior border of neck and body of pancreas postcnorly",
+      "B": "Anteriorly to neck and body of pancreas",
+      "C": "Anterior to head of pancreas",
+      "D": "Inferior to head of pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Middle colic artery is a branch of:",
+    "options": {
+      "A": "Superior mesentric artery",
+      "B": "Inferior mesentric",
+      "C": "Left colic",
+      "D": "Inferior pancreaticodeuoden lartrey",
+      "E": "Inferior phrenic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Pancreas is anteriorly bounded from:",
+    "options": {
+      "A": "Transverse colon",
+      "B": "Bile duct",
+      "C": "Portal vien",
+      "D": "Splenic viien",
+      "E": "Psoas muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Renal vein lies posterior to:",
+    "options": {
+      "A": "Aorta",
+      "B": "Inferior vena cava",
+      "C": "Superior mesntric vein",
+      "D": "Suprior vena cava",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "After total gastrectoniy, Patient who receives no further treatment will usually develop?",
+    "options": {
+      "A": "Symptoms to decreased absorption of iron",
+      "B": "Symptoms due to decreased absorptoon of Vitamin B12",
+      "C": "Exaggerated fluctuations in plasma glucose levels after meals",
+      "D": "Exaggerated fluctuations in blood volume",
+      "E": "All of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Blood supply of gall bladder is:",
+    "options": {
+      "A": "Superior pancreatic duodenal artery",
+      "B": "Sup mesenteric artery",
+      "C": "Cystic artery",
+      "D": "Right hepatic art",
+      "E": "Left hepatic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Splenic vessels present in which ligament:",
+    "options": {
+      "A": "Phrenicocolic ligament",
+      "B": "Splenorenal ligament",
+      "C": "Cardinal ligament",
+      "D": "Coronary ligament",
+      "E": "Ligament of treitz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Child with unilateral hydronephrosis. Site of obstruction:",
+    "options": {
+      "A": "Post ureteral stricture",
+      "B": "PUJ",
+      "C": "VUJ",
+      "D": "lateral wall of pelvis",
+      "E": "medial wall of pelvis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Transpyloric plane is located at",
+    "options": {
+      "A": "Lower border of L1",
+      "B": "Upper border of L1",
+      "C": "Lower border of T1",
+      "D": "Lower border of T2",
+      "E": "Upper border of L2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Left adrenal gland drains into:",
+    "options": {
+      "A": "Left renal vein",
+      "B": "Right renal vien",
+      "C": "IVC",
+      "D": "aorta",
+      "E": "SVC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Gall bladder pain is felt over neck due to:",
+    "options": {
+      "A": "Sensory supply from mid cervical dermatome",
+      "B": "Sensory supply from T10 dermatome",
+      "C": "Sensory supply from splanchnic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Nerve supply of anterior abdominal wall:",
+    "options": {
+      "A": "T7 – L1",
+      "B": "T6 – T9",
+      "C": "T4 – T5",
+      "D": "T5 – T6"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "True about kidney and relations of different structures passing through it:",
+    "options": {
+      "A": "Left renal vien is posterior to aorta and left renal artrey",
+      "B": "Perinephric fat is outside renal fascia",
+      "C": "Adrenals not covered in fascia",
+      "D": "Left renal vien is anterior to aorta and left renal artrey"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Posteriorly lesser sac has all of the following except:",
+    "options": {
+      "A": "Right kidney",
+      "B": "Left suprarenal gland",
+      "C": "Right suprarenal gland",
+      "D": "Left kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Most common position of appendix:",
+    "options": {
+      "A": "Retrocecal",
+      "B": "Subcecal",
+      "C": "Pelvic",
+      "D": "Pre ileal",
+      "E": "Post ileal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Direct inguinal hernia is located:",
+    "options": {
+      "A": "Medial to epigastric artery",
+      "B": "Lateral to epigastric artery",
+      "C": "Medial to inferior phrenic artery",
+      "D": "Medial to inferior mesentric artery",
+      "E": "Lateral to inferior phrenic artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Level of renal artery:",
+    "options": {
+      "A": "L1",
+      "B": "L2",
+      "C": "L3",
+      "D": "L4",
+      "E": "L5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Highest potassium loss will be through:",
+    "options": {
+      "A": "Colon",
+      "B": "Ileum",
+      "C": "Stomach",
+      "D": "Jejunum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Which one of the following structures is present at free edge of lesser omentum?",
+    "options": {
+      "A": "Bile duct, Cystic artery, Portal vein",
+      "B": "Bile duct, Hepatic artery, Portal vein",
+      "C": "Hepatic vein, Heaptic artery, Portal vein",
+      "D": "Hepatic vein, Cystic artery, Portal vein"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "Jejunum is supplied by:",
+    "options": {
+      "A": "SMA",
+      "B": "IMA",
+      "C": "Pancreaticoduodenal artery",
+      "D": "inferior phrenic artrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "In open laparotomy, Surgeon recognizes left kidney by:",
+    "options": {
+      "A": "Dark color",
+      "B": "Begins from T12 to L4",
+      "C": "Anterior relation with stomach, pancrease, descending colon, spleen, jejunum",
+      "D": "Anterior relation with pancrease, descending colon, spleen, jejunum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Superior Mesenteric Artery is located at:",
+    "options": {
+      "A": "L1",
+      "B": "T12",
+      "C": "L3",
+      "D": "L2",
+      "E": "L5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Ischemia from hepatic flexure to middle of transverse colon. Artery involved is:",
+    "options": {
+      "A": "Middle colic",
+      "B": "Ileocolic",
+      "C": "Superior mesenteric artery",
+      "D": "Marginal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Supply of Midgut, Root value:",
+    "options": {
+      "A": "T8-T12",
+      "B": "S2S3S4",
+      "C": "T6-T9",
+      "D": "Greater spanchntc nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Regarding sigmoid colon:",
+    "options": {
+      "A": "Continues as rectum at S5",
+      "B": "Is infront of pelvic brim /Begins at pelvic brim",
+      "C": "It does not have teniae coli",
+      "D": "Receives innervation from S1-3",
+      "E": "In sigmoid no mesocolon attached"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Renal column has:",
+    "options": {
+      "A": "Minor calyx",
+      "B": "Arcuate arteries",
+      "C": "Interlobar arteries",
+      "D": "interlobular artries",
+      "E": "sigmoidal artries"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Correct about Duodenum:",
+    "options": {
+      "A": "1st, 2nd and 3rd part retroperiitonim",
+      "B": "3rd part related to right kidney",
+      "C": "25cm long",
+      "D": "Contain arterial arcades",
+      "E": "Ampula of vater opens in posterolateral"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Autonomic supply of jejunum:",
+    "options": {
+      "A": "Greater and lesser splanchnic nerves",
+      "B": "Pelvic splanchnic nerves",
+      "C": "Vagus nerve",
+      "D": "Hypogastric nerves"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Regarding Large intestine, Most Accurate is:",
+    "options": {
+      "A": "Caecum may have a diameter of 9cm",
+      "B": "Transverse colon supplied by right colic",
+      "C": "Appendix is rarely retro caecal",
+      "D": "20% have mesentery attached to ascending colon",
+      "E": "Descending colon lies medial to left kidney Cecum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "True about Kidney:",
+    "options": {
+      "A": "Cuboidal epitheliurn in parietal layer of bowman capsule",
+      "B": "Podocytes on visceral layer of bowman capsule",
+      "C": "DCT longer than PCT",
+      "D": "Glomerulus has single arteriole"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Right iliac fossa pain referred to umbilicus:",
+    "options": {
+      "A": "T10",
+      "B": "T8",
+      "C": "L1",
+      "D": "L2",
+      "E": "L3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "True statement regarding kidneys is:",
+    "options": {
+      "A": "Is wrapped in a fascial sheath alongwith its Adrenal gland",
+      "B": "Hilum is at the level of L4",
+      "C": "Pelvis of ureter lies between the renal artery & renal vein at the hilum.",
+      "D": "Related posteriorly to ribs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Which structure partly overlies the right suprarenal gland anteriorly?",
+    "options": {
+      "A": "Aorta",
+      "B": "Inferior vena cava",
+      "C": "Left hepatic vein",
+      "D": "Right crus of the diaphragm",
+      "E": "Right renal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Surgeon doing open abdominal surgery. HO spills 1 L NS drip on patient's pelvic brim, fluid will go into?",
+    "options": {
+      "A": "Right left paracolic gutter",
+      "B": "Spleen",
+      "C": "Back",
+      "D": "pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "What comes from Vitelline duct:",
+    "options": {
+      "A": "Meckle diverticulum",
+      "B": "Ligamentum arteriosum",
+      "C": "Ligamentum venosum",
+      "D": "Coronary ligament",
+      "E": "Urachus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Regarding Abdominal aorta. True is:",
+    "options": {
+      "A": "Commences at L1",
+      "B": "Gives phrenic arteries at commencement",
+      "C": "Gives supra renal arties bilaterally",
+      "D": "Commences at L3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Nerve supply of transversus abdominis:",
+    "options": {
+      "A": "Lower intercostal nerves",
+      "B": "Lower intercostal, liohypogastric, ilioinguinal",
+      "C": "Lower intercostal, hypogastric, subcostal",
+      "D": "12th thoracic nerve",
+      "E": "all of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Which of the following is most appropriate about liver in late fetus?",
+    "options": {
+      "A": "Covers most of body",
+      "B": "5% of total body weight",
+      "C": "Nodular liver",
+      "D": "Absent"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Arterial branch of celiac trunk:",
+    "options": {
+      "A": "Right gastrodeuodenal",
+      "B": "Gastrodeudenal",
+      "C": "Right Epiploic",
+      "D": "Proper Hepatic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "True about IVC:",
+    "options": {
+      "A": "Commences at L5",
+      "B": "Commences at L1",
+      "C": "Commences at T1",
+      "D": "Commences at L2",
+      "E": "Commences at L3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Liver weight",
+    "options": {
+      "A": "1.4 kg",
+      "B": "2.4kg",
+      "C": "3.4 kg",
+      "D": "4.4 kg"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Which of the following structures connects Liver to the lesser curvature of the stomach?",
+    "options": {
+      "A": "Lesser omentum",
+      "B": "Peritoneal ligament",
+      "C": "Hepatogastric ligament",
+      "D": "Falciform ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "SMA and IMA anastomose at which of these:",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Splenic flexure",
+      "C": "Marginal artery",
+      "D": "Hepatic artery",
+      "E": "Cystic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Left accessary hepatic artery is branch of?",
+    "options": {
+      "A": "SMA",
+      "B": "IMA",
+      "C": "Inferior pancreatioduodenal",
+      "D": "Gastroepipolic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Which vessel lies anterior to left lower portion of body of pancreas?",
+    "options": {
+      "A": "IVC",
+      "B": "SMA",
+      "C": "Common hepatic",
+      "D": "IMA",
+      "E": "Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Cystic artery is the branch of:",
+    "options": {
+      "A": "Gastroduodenal artery",
+      "B": "Right Gastric artery",
+      "C": "Right hepatic artery",
+      "D": "Left Hepatic artery",
+      "E": "Left Gastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "A patient presented with pain in Right hypochondrium, Nasuea and jaundice. Pain is going to shoulder region and upper back. Which condition is associated?",
+    "options": {
+      "A": "Appendicitis",
+      "B": "Hepatitis",
+      "C": "UTI",
+      "D": "Cholecystitis",
+      "E": "Urethritis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Right and left lobe of liver is divided by:",
+    "options": {
+      "A": "Right hepatic vein",
+      "B": "Left hepatic vein",
+      "C": "Middle hepatic vein",
+      "D": "Right portal vein",
+      "E": "Left portal vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Rights & Left subphrenic space is divided by?",
+    "options": {
+      "A": "Falciform ligament",
+      "B": "Morrison pouch",
+      "C": "Foramen of Winslow",
+      "D": "Lesser omentum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Most dependent part in which drain is placed after cholecystectomy?",
+    "options": {
+      "A": "Right sub hepatic space",
+      "B": "Right supra hepatic",
+      "C": "Sub phrenic",
+      "D": "Infra colic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Tributary of portal vein:",
+    "options": {
+      "A": "Inferior rectal vein",
+      "B": "Hemiazygous",
+      "C": "Inferior epigastic vein",
+      "D": "Left renal vein",
+      "E": "Lumbar veins"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Maximum loss of Fluid occurs through which part of Gut?",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ilium",
+      "C": "Colon",
+      "D": "Duodenum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Right Accessory hepatic artery arises from",
+    "options": {
+      "A": "Celiac",
+      "B": "SMA",
+      "C": "IMA",
+      "D": "Short gastric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "A patient has liver cirrhosis. Route of hepatic biopsy is",
+    "options": {
+      "A": "T10 midaxillary line",
+      "B": "T11 mid clavicular line",
+      "C": "Subcostal angle",
+      "D": "Substernal angle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Organ least likely to be affected in infarction:",
+    "options": {
+      "A": "Intestine",
+      "B": "Pancreas",
+      "C": "Kidney",
+      "D": "Spleen",
+      "E": "Liver"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Nerve block for upper abdominal viscera:",
+    "options": {
+      "A": "Epidural",
+      "B": "Celiac block",
+      "C": "Lumbar sympathetic",
+      "D": "Spinal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Pulsating abdominal aortic aneurysm most common site:",
+    "options": {
+      "A": "T12-L2",
+      "B": "S2-4",
+      "C": "S1-3",
+      "D": "S4-5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "True regarding Relation of splenic artery?",
+    "options": {
+      "A": "Inferior to Pancreas",
+      "B": "Runs along upper border of body of pancreas and tail",
+      "C": "Parallel to spleen",
+      "D": "Run at upper border of gall bladder"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "CA of tail of pancreas resected. Damage in which ligament occurs:",
+    "options": {
+      "A": "Gastrohepatic",
+      "B": "Gastrosplenic",
+      "C": "Falciform",
+      "D": "Linorenal",
+      "E": "Gastrodudenal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Main pancreatic duct opens into:",
+    "options": {
+      "A": "Dudenal first 2cm",
+      "B": "2nd part of medial dudenum",
+      "C": "1st part of lateral dudenum",
+      "D": "3rd part of dudenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Structure at Medial side of Lesser omentum:",
+    "options": {
+      "A": "Hepatodudenal ligament",
+      "B": "Gastridudenal ligament",
+      "C": "Falciform ligament",
+      "D": "Hepatogastric ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Artery arising directly from the celiac truck:",
+    "options": {
+      "A": "Common hepatic artery",
+      "B": "Hepatic artery proper",
+      "C": "Gastroduodenal",
+      "D": "Superior pancreaticoduodenal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Parts of CBD include:",
+    "options": {
+      "A": "Supraduodenal, Intraduodenal and Retroduodenal",
+      "B": "Intraperitoneum",
+      "C": "Retroduodenal and retropelvic",
+      "D": "Supraduodenal and Retroduodenal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Supply of proximal bile duct is by which artery:",
+    "options": {
+      "A": "Right hepatic",
+      "B": "Left hepatic",
+      "C": "Cystic",
+      "D": "Gastroduodenal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "A patient with peptic ulcer has epigastric pain carried by which of the following nerve?",
+    "options": {
+      "A": "Intercostal nerve",
+      "B": "Greater splanchnic nerve",
+      "C": "Lesser splanchnic nerve",
+      "D": "Least splanchnic nerve",
+      "E": "Epigastrive artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Nerve supply of intercostal muscles is",
+    "options": {
+      "A": "Dorsal scapular nerve",
+      "B": "C2_C3",
+      "C": "Dorsal rami of spinal nerves",
+      "D": "Long thoracic nerves"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Lymphatic drainage of greater curvature of stomach is:",
+    "options": {
+      "A": "Celiac node",
+      "B": "Superior mesenteric node",
+      "C": "Inferior mesenteric node",
+      "D": "Paraaortic node",
+      "E": "Splenic node"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Stomach circular muscles get thicker in:",
+    "options": {
+      "A": "Fundus",
+      "B": "Antrum",
+      "C": "Pylorus",
+      "D": "Cardiac",
+      "E": "Gastroduodenal orifice"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "During Cholycystectomy, Which artery will be damaged?",
+    "options": {
+      "A": "Hepatic artery",
+      "B": "Splenic artery",
+      "C": "Aorta",
+      "D": "Cystic artery",
+      "E": "Celiac artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Gastrosplenic ligament contains which of the following?",
+    "options": {
+      "A": "Hepatic artery",
+      "B": "Gastric vessel",
+      "C": "Splenic vein",
+      "D": "Splenic artery",
+      "E": "Left Gastroepiploic artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Surgeon accidently cut some nerve from vagal trunk. Which part of GIT will be least affected?",
+    "options": {
+      "A": "Cecum",
+      "B": "Ascending colon",
+      "C": "Sigmoid colon",
+      "D": "Transverse colon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Carcinoma of head of pancreas will compress which of the following structure?",
+    "options": {
+      "A": "Hepatic duct",
+      "B": "CBD",
+      "C": "IVC",
+      "D": "Hepatic vein",
+      "E": "Portal vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Commonest site of duodenal ulcer perforation is:",
+    "options": {
+      "A": "1st part",
+      "B": "At the junction of first and second part",
+      "C": "2nd part",
+      "D": "Duodenal cap"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "A surgeon is performing pancreaticoduodenectomy, to prevent maximum blood loss which artery should be ligated anterior to 2nd part of duodenum?",
+    "options": {
+      "A": "Splenic artery",
+      "B": "Superior pancreaticoduodenal artery",
+      "C": "Inferior pancreaticoduodenal artery",
+      "D": "Left gastroepiploic",
+      "E": "Inferior mesenteric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "A 58-year-old man is admitted to a hospital with severe abdominal pain, nausea and vomiting resulting in dehydration. Emergency CT scan reveals a tumour located between the celiac trunk and the superior mesenteric artery. Which of the following structures is likely compressed by this tumour?",
+    "options": {
+      "A": "Fundus of the stomach",
+      "B": "Neck of the pancreas",
+      "C": "Transverse colon",
+      "D": "Hepatopancreatic ampulla",
+      "E": "Duodenojejunal junction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "A day following hysterectomy, a patient complains of severe pain in the right upper lumbar region of the back. Which of the following structures was most likely damaged during the surgery?",
+    "options": {
+      "A": "Inferior mesenteric artery",
+      "B": "Internal iliac artery",
+      "C": "Uterine artery",
+      "D": "Pudendal nerve",
+      "E": "Ureter"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "During fight, A person hit other with knife and causes Stab at stomach bed. Which artery will be damaged?",
+    "options": {
+      "A": "SMA",
+      "B": "Hepatic artery",
+      "C": "IMA",
+      "D": "Splenic artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Teenager playing with Gun suddenly injured the other at right side just lateral to rectus abdominis at the level of 9th intercostal cartilage tip. Structure injured most likely is:",
+    "options": {
+      "A": "Fundus of gall bladder",
+      "B": "Antrum of stomach",
+      "C": "Right adrenal gland",
+      "D": "Right ureter",
+      "E": "Head of pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Fenestrated capillaries mostly found in:",
+    "options": {
+      "A": "Skin",
+      "B": "Spleen",
+      "C": "Stomach",
+      "D": "Kidney",
+      "E": "Brain"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Sympathetic supply of jejunum is from?",
+    "options": {
+      "A": "L1, L2 nerves",
+      "B": "S2, S3, S4 nerve",
+      "C": "Greater and lesser splanchnic nerves",
+      "D": "Pelvic splanchnic nerves",
+      "E": "Vagus nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Surgeon identifies rectum in lower abdominal surgery by:",
+    "options": {
+      "A": "Appendices epiploecae",
+      "B": "Located posterior to prostate",
+      "C": "Forms medial wall of ischiorectal fossa",
+      "D": "Presence of complete muscular coat"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Abdominal muscles' nerve supply is which of the following?",
+    "options": {
+      "A": "T7-L1",
+      "B": "T5-L1",
+      "C": "T6-L2",
+      "D": "T4-8",
+      "E": "T10-L3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "SMA switched to IMA at which of the following place?",
+    "options": {
+      "A": "Descending colon",
+      "B": "Transverse colon",
+      "C": "Sigmoid colon",
+      "D": "Dudenum",
+      "E": "Ilium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Due to IMA blockage, Which part of intestine undergoes ischemia?",
+    "options": {
+      "A": "Transverse colon and sigmoid colon",
+      "B": "Descending colon and sigmoid colon",
+      "C": "Descending colon and transverse colon",
+      "D": "Dudenum and Ascending colon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "In damage of Splenic artery, Which part of stomach will be affected?",
+    "options": {
+      "A": "Posterior",
+      "B": "Lateral",
+      "C": "Incisura",
+      "D": "Gastric Fundus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Posterior to the third part of duodenum is:",
+    "options": {
+      "A": "Right kidney",
+      "B": "Inferior vena cava",
+      "C": "Liver",
+      "D": "Head of pancreas",
+      "E": "Lesser Sac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "Houlton,s valve located at",
+    "options": {
+      "A": "Sigmoid colon",
+      "B": "Rectum colon",
+      "C": "Ascending colon",
+      "D": "Decendeing colon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Which of the following is formed from ventral and dorsal primordium?",
+    "options": {
+      "A": "Liver",
+      "B": "Spleen",
+      "C": "Pancreas",
+      "D": "Gall bladder",
+      "E": "Stomach"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Gastroduodenal artery is branch of:",
+    "options": {
+      "A": "SMA",
+      "B": "IMA",
+      "C": "Splenic artery",
+      "D": "Hepatic artery",
+      "E": "Gastric artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Accessory Pancreatic duct if present drains:",
+    "options": {
+      "A": "Lower Head of pancreas",
+      "B": "Upper head of pancreas",
+      "C": "Tail",
+      "D": "Uncinate",
+      "E": "Inferior"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Most common site of duodenal ulcer",
+    "options": {
+      "A": "Ampulla",
+      "B": "Duodenal cap",
+      "C": "Mid part",
+      "D": "Mesentery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "Total abdominal hysterectonty done of woman and 1 L normal saline is used to wash the wound. It touches the pelvic brim and goes into:",
+    "options": {
+      "A": "Left Paracolic",
+      "B": "Right paracolic",
+      "C": "Subphrenic",
+      "D": "Pelvis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Impotant structure in preventing reflux of cecal material into ileum:",
+    "options": {
+      "A": "Iliocecal valve",
+      "B": "Perastalisis",
+      "C": "Mucosal fold",
+      "D": "Rectal fold"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Left colic flexure related to:",
+    "options": {
+      "A": "Stomach",
+      "B": "Kidney",
+      "C": "Spleen",
+      "D": "Liver",
+      "E": "Intestine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Phrenicolic ligament damaged. It supports which structure?",
+    "options": {
+      "A": "Liver",
+      "B": "Kidney",
+      "C": "Spleen",
+      "D": "Gall bladder",
+      "E": "Duodenum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Renal part which runs from renal cortex to medulla between renal columns is:",
+    "options": {
+      "A": "Renal Cortex",
+      "B": "Renal pyramid",
+      "C": "Bowman capsule",
+      "D": "DCT"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Artery running at the back or floor of stomach that is likely to cause bleeding is:",
+    "options": {
+      "A": "Gastroduodenal artery",
+      "B": "Short gastric artery",
+      "C": "Left gastric artery",
+      "D": "Splenic artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "A patient having abdominal pain. Upon investigation, Distal 3rd of duodenum necrosed. Which artery is involved?",
+    "options": {
+      "A": "Superior pancreaticoduodenal",
+      "B": "Celiac",
+      "C": "Aorta",
+      "D": "Inferior pancreaticoduodenal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "While taking graft of rectus abdominis there is damage of suprapubic area there is risk of damage to which artery?",
+    "options": {
+      "A": "Deep Circumflex artery",
+      "B": "Superficial Circumflex artery",
+      "C": "Inferior epigastric",
+      "D": "Internal iliac",
+      "E": "Iliohypogastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Lesser omentum contains",
+    "options": {
+      "A": "Hepatic duct",
+      "B": "Splenic Artery and CBD",
+      "C": "Hepatic artery proper, CBD and portal vein",
+      "D": "Bile duct and Gastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "Stab wound on right side below and lateral to umbilicus will cause injury to?",
+    "options": {
+      "A": "Peritoneum",
+      "B": "Hepatic vein",
+      "C": "Hepatic artery",
+      "D": "IVC",
+      "E": "Renal artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "IVC forms at level of which vertebral body?",
+    "options": {
+      "A": "T10",
+      "B": "L5",
+      "C": "T8",
+      "D": "L6",
+      "E": "T12"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "During suprapubic catheterization, a transverse incision is given. Which of the following is most likely to he damaged?",
+    "options": {
+      "A": "Superior epigastric artery",
+      "B": "Deep circumflex artery",
+      "C": "Inferior epigastric artery",
+      "D": "Femoral artery",
+      "E": "Cremasteric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "A man had penetrating injury in Right lumbar region. What is the sequence of layers to be pierced?",
+    "options": {
+      "A": "Skin, Scarpa's fascia, Camper fascia, external oblique aponeurosis, internal oblique aponeurosis",
+      "B": "Skin, Camper's fascia, Scarpa's fascia, external oblique aponeurosis, internal oblique aponeurosis, transversus abdominis aponeurosis",
+      "C": "Skin, Camper's fascia, external oblique aponeurosis, internal oblique aponeurosis",
+      "D": "Skin, Scarpa's fascia, Camper's fascia, external oblique aponeurosis, internal oblique aponeurosis, transversus abdominis aponeurosis",
+      "E": "Skin, Scarpa's fascia, external oblique aponeurosis, internal oblique aponeurosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "Adrenal medulla is supplied by:",
+    "options": {
+      "A": "Least splanchinic nerve",
+      "B": "Lesser splanchinic nerve",
+      "C": "Subcostal nerves",
+      "D": "Greater splanchnic nerve",
+      "E": "Intercosal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Patient presented with bleeding from the posterior duodenal ulcer rupture. Which of the following artery is responsible for this?",
+    "options": {
+      "A": "Superior pancreaticoduodenal",
+      "B": "SMA",
+      "C": "Gastroduodenal artery",
+      "D": "Celiac artery",
+      "E": "Splenic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Liver is held in the upper part of a abdominal cavity by",
+    "options": {
+      "A": "Abdominal muscle tone",
+      "B": "Attachment of hepatic veins to inferior vena cava",
+      "C": "Attachment to diaphragm",
+      "D": "Intra abdominal pressure",
+      "E": "Peritoneal ligaments"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Lesser omentum:",
+    "options": {
+      "A": "Attaches to duodenum",
+      "B": "Forms falciforn ligament",
+      "C": "Related to right renal gland",
+      "D": "Left renal gland and left kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Anterior to left suprarenal gland is:",
+    "options": {
+      "A": "Liver",
+      "B": "Lesser sac",
+      "C": "Aorta",
+      "D": "IVC",
+      "E": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Patient was diagnosed with liver disease and ascities and ascitic tap needs to be done. Needle passed in lower abdomen. Which artery should be avoided to cut?",
+    "options": {
+      "A": "Superior eigastric artery",
+      "B": "Inferior epigastric artery",
+      "C": "Cremasteric Artery",
+      "D": "Celiac Trunk",
+      "E": "Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "Child presents with pain in lumbar region. Stone at pelviureteric junction. Pain arising from which segment?",
+    "options": {
+      "A": "T11",
+      "B": "L1",
+      "C": "L2",
+      "D": "L5",
+      "E": "T10"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Firearm injury to RIF which escaped through left lumbar region and affects root of mesentery. Artery affected will be:",
+    "options": {
+      "A": "Inferior phrenic",
+      "B": "Superior phrenic",
+      "C": "SMA",
+      "D": "Celiac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "A patient came with epigastric pain & heartburn. On endoscopy, Perforation of 1st part of duodenum was seen. Which artery is eroded in duodenal ulcer?",
+    "options": {
+      "A": "Gastroepiploic artery",
+      "B": "Gastroduodenal artery",
+      "C": "Right gastric artery",
+      "D": "Left gastric artery",
+      "E": "Splenic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Structure damaged during hysterectomy during the ligation of uterine artery at the level of ischial spine is:",
+    "options": {
+      "A": "Ovarian artery",
+      "B": "Urethra",
+      "C": "Internal iliac artery",
+      "D": "Ureter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "Structure passing anterior to third part of duodenum is:",
+    "options": {
+      "A": "Aorta",
+      "B": "SMA",
+      "C": "IMA",
+      "D": "Cystic artery",
+      "E": "Hepatic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "A pathalogist wants to pass dye to the liver. It will reach through?",
+    "options": {
+      "A": "Ligamentum teres",
+      "B": "Ligamentum arteriosum",
+      "C": "Hepatoduodenal ligament",
+      "D": "Ligamentim hepaticum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Blood supply of upper 2cm of duodenum by:",
+    "options": {
+      "A": "Inferior pancreaticoduodenal artey",
+      "B": "Superior pancreaticoduodenal artey",
+      "C": "Right gastric artery",
+      "D": "Hepatic artery",
+      "E": "Splenic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Nerve supply to adrenal medulla:",
+    "options": {
+      "A": "Postganglionic sympathetic",
+      "B": "Parasympathetic",
+      "C": "Preganglionic greater thoracic splanchnic",
+      "D": "Lower thoracic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "Abdominal angina is due to which artery block?",
+    "options": {
+      "A": "Celiac",
+      "B": "SMA",
+      "C": "IMA",
+      "D": "Splenic",
+      "E": "Gastric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "The ascent of horse shoe shaped kidney is prcvented by:",
+    "options": {
+      "A": "External iliac artery",
+      "B": "Internal iliac artery",
+      "C": "Superior mesenteric artery",
+      "D": "Inferior vena cava",
+      "E": "Inferior mesenteric artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "First branch of abdominal aorta:",
+    "options": {
+      "A": "Superior mesenteric",
+      "B": "Celiac trunk",
+      "C": "Suprarenal",
+      "D": "Inferior mesenteric"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Anterior to distal CBD is",
+    "options": {
+      "A": "Lesser sac",
+      "B": "Greater sac",
+      "C": "Omentum",
+      "D": "Pancreas"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Anteverted and anteflexed position of uterus is due to:",
+    "options": {
+      "A": "Transverse ligament",
+      "B": "Uterosacral ligament",
+      "C": "Round ligament",
+      "D": "Cardinal ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "On barium swallow feathery appearance in left abdomen is due to:",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ileum",
+      "C": "Stomach",
+      "D": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "Inferior boundary of lumbar triangle is:",
+    "options": {
+      "A": "Posterior boundary by latissimus dorsi.",
+      "B": "Iliac crest.",
+      "C": "Posterior border of qudratouslamborum.",
+      "D": "Posterior border of extemal obliquemusclc",
+      "E": "Serratus anterior"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Superior rectal artery is hranch of:",
+    "options": {
+      "A": "SMA",
+      "B": "Celiac artery",
+      "C": "Inferior mesenteric",
+      "D": "Internal pudendal",
+      "E": "Internal iliac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Aponeurotic fibers of internal oblique form which structure?",
+    "options": {
+      "A": "Transverse facialis",
+      "B": "Internal oblique",
+      "C": "External oblique",
+      "D": "Conjoint tendon",
+      "E": "Internal fascia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Main support of liver:",
+    "options": {
+      "A": "Falciform ligament",
+      "B": "Peritoneal ligament",
+      "C": "Diaphragm",
+      "D": "Attachment of hepatic vessels with IVC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "A surgeon during splenectomy ligated artery at hilum. If not ligated, then it could cause damage to:",
+    "options": {
+      "A": "Body of pancreas",
+      "B": "Fundus of stomach supply",
+      "C": "Head of pancreas",
+      "D": "Alpha cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "Gastroduodenal artery found behind which of these:",
+    "options": {
+      "A": "Pancreas",
+      "B": "Spleen",
+      "C": "First part of dudenum",
+      "D": "4th part of dudenurn"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Liver carcinoma of inferior surface. Blood supply to this area is from:",
+    "options": {
+      "A": "SMA",
+      "B": "Abdomina aorta",
+      "C": "IVC",
+      "D": "IMA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Which vessel is involved in portal hypertension?",
+    "options": {
+      "A": "Portal vein",
+      "B": "SMA",
+      "C": "IMA",
+      "D": "IVC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "Short gastric artery is branch of which of the following?",
+    "options": {
+      "A": "Celiac artery",
+      "B": "Splenic artery",
+      "C": "Hepatic artery",
+      "D": "SMA",
+      "E": "IMA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "Ureter crosses at:",
+    "options": {
+      "A": "Bifurcation of common iliac",
+      "B": "Anterior to psoas",
+      "C": "Posterior to psoas",
+      "D": "Anterior to mesentry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Ligament of trietz attaches duodenum to which of the following:",
+    "options": {
+      "A": "Inferior vena cava",
+      "B": "Deudenojejunal flexure to Diaphragm",
+      "C": "Jejunal flexure to IVC",
+      "D": "Deudenum to abdominal wall"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "3rd part of CBD in relation to pancreas?",
+    "options": {
+      "A": "Lies posteriorly",
+      "B": "Lies anteriorly",
+      "C": "Embedded in pancreas",
+      "D": "Lies medial to the head of pancreas"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "A middle aged women presented in OPD with complaint of pain in the epigastric region posterior thoracic wall and right shoulder after a fatty meal. The pain is originating from:",
+    "options": {
+      "A": "Appendix",
+      "B": "Gall bladder",
+      "C": "Kidney and ureter",
+      "D": "Diaphragm",
+      "E": "Spleen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Preganglionic supply of adrenal gland is by:",
+    "options": {
+      "A": "Greater thoracic splanchnic nerve",
+      "B": "Lesser thoracic splanchnic nerve",
+      "C": "Least thoracic splanchnic nerve",
+      "D": "Posterior vagal trunk",
+      "E": "Anterior vagal trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Profuse bleeding after Cholycysttectomy due to damage to which artery?",
+    "options": {
+      "A": "Hepatic artery",
+      "B": "Splenic artery",
+      "C": "Aorta",
+      "D": "Cystic artery",
+      "E": "Celiac artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "Which blood vessel primarily supplies the proximal portion of the common bile duct (CBD)?",
+    "options": {
+      "A": "Superior mesenteric artery",
+      "B": "Splenic artery",
+      "C": "Hepatic artery",
+      "D": "Gastroduodenal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "At which vertebral level does the renal artery typically enters the hilum of the kidney?",
+    "options": {
+      "A": "T10",
+      "B": "L2",
+      "C": "L4",
+      "D": "L3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Mesentery enclosing fats arc called?",
+    "options": {
+      "A": "Haustrations",
+      "B": "Villi",
+      "C": "Appendices epiploicae",
+      "D": "Payer's patches"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Rights & left sub phrenic space is divided by?",
+    "options": {
+      "A": "Falciform ligament",
+      "B": "Morrison pouch",
+      "C": "Foramen of Winslow",
+      "D": "Lesser omentum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Patient underwent tubal ligation. Post operative, Her abdomen was reopened due to slippage of ligature and hemorrhage. Bleeding most probably from which artery?",
+    "options": {
+      "A": "Ovarian Artery",
+      "B": "Internal iliac Artery",
+      "C": "Uterine artery",
+      "D": "Ovarian vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Blood supply to uterus is from:",
+    "options": {
+      "A": "Uterine artery",
+      "B": "Ovarian artery",
+      "C": "Ovarian + Uterine artery",
+      "D": "Vesicle artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Which branch of renal artery supplies network around glomerulus:",
+    "options": {
+      "A": "Interlobular",
+      "B": "Interlobar",
+      "C": "Segmental",
+      "D": "Arcuate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "Descent of ovary out of abdomen is prevented by:",
+    "options": {
+      "A": "Inguinal ligament",
+      "B": "Rectus muscle",
+      "C": "Narrow inguinal canal",
+      "D": "Uterus",
+      "E": "Bladder"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Middle esophagous supplied by which of the following?",
+    "options": {
+      "A": "Inferior Thyroid artery",
+      "B": "Descending thoracic aorta",
+      "C": "Left Gastric artery",
+      "D": "Celiac artery",
+      "E": "Right gastric artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Esophagus passes through?",
+    "options": {
+      "A": "Aorta",
+      "B": "Left crus of Diaphragm",
+      "C": "Right crus of Diaphragm",
+      "D": "Vagal opening"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Ceoliac trunk branch is:",
+    "options": {
+      "A": "Common hepatic artery",
+      "B": "Splenic artery",
+      "C": "Marginal artery",
+      "D": "Aorta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "Infection in kidney pus upto gerota fascia, with fascia intact it can spread to:",
+    "options": {
+      "A": "Opposite kidney",
+      "B": "Inferior to pelvis",
+      "C": "Superior to pelvis",
+      "D": "Any where"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Small fat filled outpouchcs on external surface of colon are called:",
+    "options": {
+      "A": "Epiploic appendages",
+      "B": "Haustrations",
+      "C": "Teniae coliae",
+      "D": "Diverticulum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "After strangulated femoral hernia repair, Which one is at risk of damage;",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Femoral artery",
+      "C": "Inferior epigastric artey",
+      "D": "Sephanous vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "Transition from skeletal to smooth muscle in git occurs at:",
+    "options": {
+      "A": "Upper esophagus",
+      "B": "Middle esophagus",
+      "C": "Lower esophagus",
+      "D": "Gastroesophageal junction"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "A bullet hit a person from superiur iliac region and goes out at 4th lumbar region, there was massive blood on laparotomy. Which major vessel is hit at the root of mesentey?",
+    "options": {
+      "A": "Superior mesenteric vessel",
+      "B": "Inferior mesenteric vessel",
+      "C": "IVC",
+      "D": "Aorta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "Ureter damaged while ligating ovarian artery at:",
+    "options": {
+      "A": "Pelvic brim",
+      "B": "2cm from ischial spine",
+      "C": "Behind Broad ligament",
+      "D": "When crosses common iliac artery",
+      "E": "At bifurcation of iliac vessels"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Posterior wall gastric ulcer pain carried by:",
+    "options": {
+      "A": "Lesser Splanchnic Nerve",
+      "B": "Greater Splanchnic Nerve",
+      "C": "Least Splanchnic Nerve",
+      "D": "Intercostal Nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Gluteal cramp due to Atherosclerosis of:",
+    "options": {
+      "A": "Internal iliac artery",
+      "B": "External iliac artery",
+      "C": "Aorta",
+      "D": "Femoral nerve",
+      "E": "Obturator nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "Patient has history of fecaluria, which structure separates the bladder and rectum:",
+    "options": {
+      "A": "Dorsolateral ligament",
+      "B": "Denonvilliar's Fascia",
+      "C": "Perineal fascia",
+      "D": "Perineal membrane"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "A surgeon was repairing tip of femoral hernia sac, which vessel is at risk of injury most commonly?",
+    "options": {
+      "A": "Medial circumflex femoral",
+      "B": "Superficial epigastric artery",
+      "C": "External iliac",
+      "D": "Internal iliac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Splenic vein relation/ course is:",
+    "options": {
+      "A": "Inferior to pancreas",
+      "B": "Superior to body and tail of pancreas",
+      "C": "Lies in Head of pancreas",
+      "D": "Lies in uncicate process"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Lymph nodes related to descending and sigmoid colon?",
+    "options": {
+      "A": "Inferior mesenteric Lymph nodes",
+      "B": "Superior mesenteric Lymph nodes",
+      "C": "Celiac lymph nodes",
+      "D": "Aortic lymph nodes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "Relation of terminal CBD with head of pancreas:",
+    "options": {
+      "A": "Anterior",
+      "B": "Superior",
+      "C": "Lateral",
+      "D": "Medial",
+      "E": "Posterior"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "A surgeon while performing splenectomy, there was massive necrosis on fundal region of stomach. Which of the following vessels is injured during this procedure which supply the fundus of the stomach:",
+    "options": {
+      "A": "Short gastric arteries",
+      "B": "Gastroduodenal artery",
+      "C": "Hepatic artery",
+      "D": "Cystic artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "In hematoemesis vessel running in ligament is not ligated. Which ligament it is:",
+    "options": {
+      "A": "Splenorenal",
+      "B": "Hepatocolic",
+      "C": "Hepatogastric",
+      "D": "Splenogastic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "Dudenum is in retroperitoneum:",
+    "options": {
+      "A": "All except 3rd part",
+      "B": "All except first part",
+      "C": "3rd part only",
+      "D": "Whole Dudenum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Surgeon nick hepatodudenal ligament during surgery from right side which structure Should be preserved?",
+    "options": {
+      "A": "Portal vein",
+      "B": "CBD",
+      "C": "Cystic artery",
+      "D": "Gastric artery",
+      "E": "Hepatic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "Patient presents with pain in lumbarregion. Stone at pelviureteric junction. Pain arising from which segment?",
+    "options": {
+      "A": "T11",
+      "B": "L1",
+      "C": "T12",
+      "D": "L5",
+      "E": "S1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "Related to sqaumaocolumnr junction true is:",
+    "options": {
+      "A": "Z line",
+      "B": "GE junction",
+      "C": "B ring",
+      "D": "A ring"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Cremasteric spermatic fascia is derived from:",
+    "options": {
+      "A": "External oblique",
+      "B": "Internal oblique",
+      "C": "Fascia transversalis",
+      "D": "Transversus abdominus",
+      "E": "Superficial fascia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "A newly married female came with Right iliac fossa pain Her TLC 12000 she has fever and vomiting Her LMP 3 weeks back likely diagnose",
+    "options": {
+      "A": "Appendicitis",
+      "B": "Salpingitis",
+      "C": "Uterine Fibroid",
+      "D": "Ectopic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "While doing surgery splenic vessel need to be ligated they are present in which ligament?",
+    "options": {
+      "A": "Gastro splenic",
+      "B": "Hepatosplenic",
+      "C": "Linorenal",
+      "D": "Splenigastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "Structure present at free edge of Lesser omentum include",
+    "options": {
+      "A": "Hepatic duct",
+      "B": "Splenic Artery and CBD",
+      "C": "Hepatic artery proper, CBD and portal vein",
+      "D": "Bile duct and Gastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "Artery accompanying lymph nodes along descending and sigmoid colon is",
+    "options": {
+      "A": "Left colic",
+      "B": "IMA",
+      "C": "SMA",
+      "D": "Aorta",
+      "E": "Celiac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "An old man with perforated gastric ulcer complains of pain in his stomach, it is observed that pain comes from peritoneal irritation by gastric contents in lesser sac, which of the following nerves contains sensory nerve fibers that conveys this sharp stabbing pain",
+    "options": {
+      "A": "Greater splanchnic nerve",
+      "B": "Lower intercostal nerve",
+      "C": "White rami communicates",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "While examining radiographs of 48 years patient, a physician is trying to distinguish the jeujenum from illeum. He has observed that jeujenum has",
+    "options": {
+      "A": "More fat in its mesentry",
+      "B": "Shorter vasa recta",
+      "C": "Few mesenteric arterial arcades",
+      "D": "Few plicae circularis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "During Surgery of Pheochromocytoma, Right Supra Renal vein is ligated to prevent surge of Catecholamines. Right Supra renal drains into which of the following?",
+    "options": {
+      "A": "IVC",
+      "B": "Left Renal Vein",
+      "C": "Right Renal Vein",
+      "D": "Common Iliac Vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "Renal capsule is supplied by:",
+    "options": {
+      "A": "Interlobular artery",
+      "B": "Arcuate artery",
+      "C": "Intra lobular artery",
+      "D": "Segmental artery",
+      "E": "Directly from Kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "Lateral boundary of deep inguinal ring is made of:",
+    "options": {
+      "A": "Transversus abdominus",
+      "B": "Fascia transversalis and conjoined tendon",
+      "C": "Conjoined tendon",
+      "D": "Fascia transversalis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "A surgery is done. There is damage to suprapubic area leading to compromised blood supply to Internal thoracic artery. Rectus abdominus will still be supplied by:",
+    "options": {
+      "A": "Deep circumflex artery",
+      "B": "Superficial Epigastric",
+      "C": "Inferior epigastric artery",
+      "D": "Musculophrenic artery",
+      "E": "Deep Epigastric artel"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "Opening of Left gastric vein into",
+    "options": {
+      "A": "Portal vein",
+      "B": "SM vein",
+      "C": "Splenic vein",
+      "D": "Hepatic vein",
+      "E": "Renal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "During hiatal hernia repair there is damage to nerve affecting intestine which part will be spared",
+    "options": {
+      "A": "Jejunum",
+      "B": "Ilium",
+      "C": "Ascending colon",
+      "D": "Sigmoid colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "A person who was chronic alcoholic had hematoemesis. The damaged organ in this patient had neoplasm which extend to inferior surface blood supply to this area is from",
+    "options": {
+      "A": "SMA",
+      "B": "Abdomina aorta",
+      "C": "IVC",
+      "D": "Celiac artery",
+      "E": "Thoracic aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "Perinephric fat is an extension of?",
+    "options": {
+      "A": "Renal fascia",
+      "B": "Peritoneum",
+      "C": "Fusion fascia",
+      "D": "Transversalis fascia",
+      "E": "Cremasteric fascia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "Coelic block given to patient which part of intestine not affected",
+    "options": {
+      "A": "Dudenun",
+      "B": "Jejunum",
+      "C": "Sigmoid colon",
+      "D": "ilium"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "Ulcer leak in posterior stomach wall with collection in lesser sac causing irritation will carry sensation by",
+    "options": {
+      "A": "Parasympathetic",
+      "B": "Sympathetic",
+      "C": "Greater splanchnic",
+      "D": "Pelvic Splanchnic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "Injury to medial most structure in hepatodeudenal ligament is",
+    "options": {
+      "A": "Hepatic artery",
+      "B": "Portal vein",
+      "C": "Bile duct",
+      "D": "Hepatic vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "38 years old lady presented with diarrhea water and electrolyte imbalance and weakness on further investigations she is dehydrated and part of her gut was respected 3 months back she doesn't remember which part the structure most likely resected is?",
+    "options": {
+      "A": "Large intestine",
+      "B": "Ileum",
+      "C": "Colon",
+      "D": "Jejumum",
+      "E": "Sigmoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "During thoracic surgery, internal thoracic artery is ligated- To perfuse rectus abdominis, Flow increases to which artery:",
+    "options": {
+      "A": "Inferior epigastric",
+      "B": "Superficial epigastric",
+      "C": "External iliac",
+      "D": "Superior mesenteric",
+      "E": "Inferior mesenteric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "Teenager playing with Gun suddenly injured the at right side just lateral to rectus sheath at the level of 9th intercostal cartilage tip. Structure injured most likely is:",
+    "options": {
+      "A": "Fundus of gall bladder",
+      "B": "Adrenal Gland",
+      "C": "2nd Part of Duodenum",
+      "D": "Right Kidney",
+      "E": "Head of pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "During Cystoscopy, there's artery damaged which Is?",
+    "options": {
+      "A": "Superior mesenteric",
+      "B": "Left gastric",
+      "C": "Short gastric",
+      "D": "Inferior mesenteric",
+      "E": "Inferior epigastric"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "Which artery is involved in the anastomosis between the Superior Mesenteric Artery (SMA) and the Inferior Mesenteric Artery (IMA)?",
+    "options": {
+      "A": "Segmental artery",
+      "B": "Marginal artery",
+      "C": "Celiac trunk",
+      "D": "Common iliac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "Pain in the epigastric region is primarily carried by which nerve or nerve system?",
+    "options": {
+      "A": "Sympathetic splanchnic nerves",
+      "B": "Parasympathetic splanchnic nerves",
+      "C": "Abdominal visceral nerves",
+      "D": "Phrenic nerve",
+      "E": "Intercostal nerves"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "A patient undergoing ascitic tap for ascites, fluid at costodiaphragmatic recess where to pass needle?",
+    "options": {
+      "A": "T10 midaxillary",
+      "B": "T10 mid clavicle",
+      "C": "T9 mid clavicle",
+      "D": "T8 mid clavicle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "A 50 year old man known to have hepatoma develops dependent edema with dilated abdominal walls veins. The most likely structure involved in this patient is:",
+    "options": {
+      "A": "IVC",
+      "B": "Hepatic artery",
+      "C": "Portal vein",
+      "D": "Bile duct",
+      "E": "Renal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "Which vessel, when affected by a hematoma, is most likely to cause dilation of the abdominal veins?",
+    "options": {
+      "A": "Aorta",
+      "B": "Internal jugular vein",
+      "C": "Femoral artery",
+      "D": "Inferior vena cava (IVC)",
+      "E": "Renal artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "A patient came with acute intestinal obstruction for investigation xray is advised on x ray what will be the feature jejunum seen",
+    "options": {
+      "A": "Valvulae conniventes",
+      "B": "Plicae circulares",
+      "C": "Villi",
+      "D": "Crypts of Lieberkühn",
+      "E": "Ileocecal valve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "Inferior mesenteric artery is ligated which part of large intestine is affected:",
+    "options": {
+      "A": "Ascending and transverse",
+      "B": "Transverse only",
+      "C": "Transverse and descending colon",
+      "D": "Descending and sigmoid colon",
+      "E": "Ascending and descending colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "Pampiniform Plexus Present in:",
+    "options": {
+      "A": "Spermatic cord",
+      "B": "Inguinal Canal",
+      "C": "Mesovarium",
+      "D": "Deep Inguinal Ring"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "A patient came with epigastric pain heartburn on endoscopy perforation of 1st part of duodenum was seen which artery is erroded in duodenal ulcer?",
+    "options": {
+      "A": "Gastroepiploic artery",
+      "B": "Gastroduodenal artery",
+      "C": "Right gastric artery",
+      "D": "Left gastric artery",
+      "E": "Splenic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "Proximal part of CBD is supplied by",
+    "options": {
+      "A": "Inf mesenteric artery",
+      "B": "Sup mesenteric artery",
+      "C": "Cystic artery",
+      "D": "Right hepatic artery",
+      "E": "Left hepatic artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Structure present between celiac trunk and superior mesenteric artery is?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Stomach",
+      "C": "Spleen",
+      "D": "Duodenum",
+      "E": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "Superior pancreaticoduodenal artery is a branch of:",
+    "options": {
+      "A": "Short gastric artery",
+      "B": "Gastroduodenal artery",
+      "C": "Splenic artery",
+      "D": "Left Gastric artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "A patient had bleeding due to a duodenal ulcer. While operating, the surgeon accidentally hit a vessel behind the posterior boundary of epiploic foramen, causing pooling of blood. Which vessel was damaged?",
+    "options": {
+      "A": "Splenic artery",
+      "B": "Aorta",
+      "C": "Splenic Vein",
+      "D": "Portal vein",
+      "E": "IVC"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 386,
+    "question_text": "An elderly patient presents with Fever, Malaise & lower abdominal pain. O/E, there is tenderness in the left iliac fossa. and a history of loose stools with blood. What is the most appropriate investigation to perform?",
+    "options": {
+      "A": "X ray",
+      "B": "Colonoscopy",
+      "C": "Sigmoidoscopy",
+      "D": "CT Abdomen",
+      "E": "Barium enema"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 387,
+    "question_text": "A patient Presented to ER with Pain in Right Iliac Fossa. A plan of appendectomy was being considered. O/E, Palpation of Left iliac fossa Elicited severe pain in Right iliac fossa. Which sign is being mentioned in this scenario?",
+    "options": {
+      "A": "Rovsing sign",
+      "B": "Obturator Sign",
+      "C": "Psoas sign",
+      "D": "Rebound Tenderness"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 388,
+    "question_text": "Patient Febrile with suspicion of Acute Appendicitis. Exploration reveals a hard 2.5cm yellowish colored mass on the base of Appendix. What to do next?",
+    "options": {
+      "A": "Remove the Appendix",
+      "B": "Right hemicolectomy",
+      "C": "Limited right hemicolectomy",
+      "D": "Take tissue for Biopsy, Perform Wash out & Close the Abdomen",
+      "E": "Right Extensive Colectomy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 389,
+    "question_text": "3rd Part of CBD supplied hy:",
+    "options": {
+      "A": "Cystic artery and left hepatic artery",
+      "B": "Right hepatic artery",
+      "C": "Cystic artery and left gastric artery",
+      "D": "SMA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 390,
+    "question_text": "Hepatoduodenal ligament contains which of the following structure?",
+    "options": {
+      "A": "Celiac Trunk",
+      "B": "IVC",
+      "C": "Aorta",
+      "D": "Hepatic Artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 391,
+    "question_text": "A hernia located medial to the pubic tubercle and passing through the deep inguinal ring is most likely:",
+    "options": {
+      "A": "Indirect hernia",
+      "B": "Direct hernia",
+      "C": "Femoral hernia",
+      "D": "Spigelian hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 392,
+    "question_text": "Acute kindly infection lymph drainage:",
+    "options": {
+      "A": "Inferior mesenteric lymph nodes",
+      "B": "Inferior Phrenic lymph nodes",
+      "C": "Lumbar lymph nodes",
+      "D": "Internal Iliac lymph nodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 393,
+    "question_text": "Demarcation of Upper GIT from Lower GIT is shown by:",
+    "options": {
+      "A": "Ligament of treitz",
+      "B": "Superior mesenteric artery",
+      "C": "Falciform ligament",
+      "D": "Tail of pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 394,
+    "question_text": "Tail of pancreas is present in which of the following ligament?",
+    "options": {
+      "A": "Hepatoduodenal ligamnet",
+      "B": "Gastrohepatic ligament",
+      "C": "GastroColic ligament",
+      "D": "Gastrosplenic ligamnet",
+      "E": "Linorenal ligamnet"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 395,
+    "question_text": "Splenic artery relation to the pancreas",
+    "options": {
+      "A": "Behind the upper border of pancreas",
+      "B": "Anterior to the tail of pancreas",
+      "C": "Posterior to the tail of Pancreas",
+      "D": "Behind the aorta",
+      "E": "Anterior to body of pancreas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 396,
+    "question_text": "If SMA is occluded which structure will he spared?",
+    "options": {
+      "A": "Ascending and transverse colon",
+      "B": "Transverse colon",
+      "C": "Descending & Sigmoid colon",
+      "D": "Appendix",
+      "E": "Ascending colon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 397,
+    "question_text": "Patient Underwent Mastectomy. Flap from suprapubic area of rectus abdominis used for Breast Reconstruction during surgery. which artery needs to be grafted along with it?",
+    "options": {
+      "A": "Superficial epigastric artery",
+      "B": "Superior epigastric artery",
+      "C": "Inferior epigastric artery",
+      "D": "Internal Thoracic artery",
+      "E": "Musculophrenic Artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 398,
+    "question_text": "A bullet hit a person from superior iliac region and goes out at 4th lumbar region, there was massive blood on laparotomy which major vessel is hit at the root of mesentery?",
+    "options": {
+      "A": "Right Renal vein",
+      "B": "Inferior mesenteric vessel",
+      "C": "Left renal vein",
+      "D": "Aorta",
+      "E": "Portal vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 399,
+    "question_text": "Accessory pancreatic duct if present drains:",
+    "options": {
+      "A": "Lower part of head of pancreas",
+      "B": "Upper part of head of pancreas",
+      "C": "Uncinate Process",
+      "D": "Tail of Pancreas",
+      "E": "Neck of Pancreas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 400,
+    "question_text": "Blood supply of the fundus of the stomach?",
+    "options": {
+      "A": "Short gastric vessels",
+      "B": "Right gastroepiploic artery",
+      "C": "Splenic artery",
+      "D": "Celiac Trunk"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 401,
+    "question_text": "A young, muscular male who regularly performs strength training exercise in gym presents with a mass in the inguinal region, persisting for 6 months. The mass has now become tender and strangulated, leading to a diagnosis of an indirect inguinal hernia. What is the most likely cause?",
+    "options": {
+      "A": "Patent processus vaginalis",
+      "B": "Weak abdominal musculature",
+      "C": "Narrow walls of the inguinal canal",
+      "D": "Wide ring in external Obliue",
+      "E": "Patent pleuroperitoneal membrane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 402,
+    "question_text": "Surgeon was removing Carcinoma at tail of Pancreas. It will lead to damage of:",
+    "options": {
+      "A": "Lienorenal ligament",
+      "B": "Gastrosplenic ligament",
+      "C": "Greater Curvature",
+      "D": "Falciform ligament",
+      "E": "Gastroduodenal Ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 403,
+    "question_text": "60 years old patient Presented with Dyphagia for both Solids & Liuids along with Weight loss & Malaise. O/E, Enlarged Left supraclavicular lymph nodes. Esophagus barium study shows “Shouldering of esophagus.” Investigation of choice:",
+    "options": {
+      "A": "CT",
+      "B": "MRI",
+      "C": "PET Scan",
+      "D": "Endoscopic Biopsy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 404,
+    "question_text": "Vagus, parasympathetic & thoracic greater splanchnic end on?",
+    "options": {
+      "A": "Distal 1/3 of transverse colon",
+      "B": "Sigmoid Colon",
+      "C": "Junction of Transverse colon",
+      "D": "Duodenojejunal Flexure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 405,
+    "question_text": "A 30 year old male patient present to the emergency department with history of abdominal pain that begin diffusely around the umbilicus and then migrated to RLQ he also reports fever, nausea, and vomiting on physical examination rebound tenderness was positive later diagnosed as a case of acute appendicitis. Which of the following is responsible for the reffered pain around the umbilicus (Medicine Feb 2025)",
+    "options": {
+      "A": "T11",
+      "B": "T10",
+      "C": "T8",
+      "D": "T12",
+      "E": "L1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 406,
+    "question_text": "A patient present aortic aneurysm at the its bifurcation while surgery on this aortic aneurysm which of the following structure is at the risk of damage (Medicine Feb 2025)",
+    "options": {
+      "A": "Ureter",
+      "B": "Testicular artery",
+      "C": "External iliac artery",
+      "D": "Obturator nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 407,
+    "question_text": "Ischemia of lower third of Duodenum is artery involved is (Medicine Feb 2025)",
+    "options": {
+      "A": "Superior pancreatoduodenal artery",
+      "B": "Inferior pancreatoduodenal artery",
+      "C": "Supraduodenal artery",
+      "D": "left gastric artery",
+      "E": "Gastroduodenal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 408,
+    "question_text": "Surgeon accidentally cut some nerve from vagal trunk. Which part of GIT will be least affected? (Medicine Feb 2025)",
+    "options": {
+      "A": "Ascending colon",
+      "B": "Cecum",
+      "C": "Transverse colon",
+      "D": "Sigmoid colon"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 409,
+    "question_text": "Right side of abdomen is not covered with sac. Diagnosis is: (Medicine Feb 2025)",
+    "options": {
+      "A": "Gastroschisis",
+      "B": "Omphalocele",
+      "C": "Meckel's diverticulum",
+      "D": "Intussusception",
+      "E": "Volvulus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 410,
+    "question_text": "During a cholcystectomy, the cystic artery is damaged. Which vessel should be clamped to control bleeding? (Medicine Feb 2025)",
+    "options": {
+      "A": "Celiac trunk",
+      "B": "Phrenic artery",
+      "C": "Hepatic artery proper",
+      "D": "Superior mesenteric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 411,
+    "question_text": "Structure damaged during Hiatal hernia surgery repair? (Surgery Feb 2025)",
+    "options": {
+      "A": "Azygous vein",
+      "B": "Thoracic duct",
+      "C": "Vagus nerve",
+      "D": "Sympathetic Nerves",
+      "E": "Gastric artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "45-year-old female with a history of a lower segment cesarean section (LSCS) 2 days ago presents with an epigastric swelling that appears on standing and coughing. On examination, no palpable defect is noted. What is the most likely diagnosis? (Surgery Feb 2025)",
+    "options": {
+      "A": "Epigastric hernia",
+      "B": "Incisional hernia",
+      "C": "Femoral Hernia",
+      "D": "Paraumbilical hernia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 413,
+    "question_text": "A patient presented with pain & Absolute constipation. O/E, Abdominal distension & an incisional scar seen. On the right side of the scar, there is a swelling that is bulging outwards & tender. X-ray reveals Dilated small bowel loops & Multiple air fluid levels. Most probable diagnosis? (Surgery Feb 2025)",
+    "options": {
+      "A": "Acute Intestinal obstruction",
+      "B": "Chronic Intestinal obstruction",
+      "C": "Volvulus",
+      "D": "Strangulated Incisional hernia",
+      "E": "Obstructed Hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 414,
+    "question_text": "A patient develops abdominal bloating and constipation after surgery. Despite adequate hydration, there is no passage of flatus or stool after 72 hours of laparotomy. What is the investigation of choice?(Gynae & Ohs Feb 2025)",
+    "options": {
+      "A": "USG abdomen",
+      "B": "CT abdomen",
+      "C": "MRI",
+      "D": "X-ray abdomen erect and supine"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 415,
+    "question_text": "A 30 year old male patient present in surgery OPD with indirect inguinal hernia he states that he went to gym daily and lift heavy weights which of the following is cause of hernia in this patient (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Abdominal muscle weakness",
+      "B": "Patent processus vaginalis",
+      "C": "Chronic Constipation",
+      "D": "Heavy lifting weight at gym",
+      "E": "Trauma to groin at gym"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 416,
+    "question_text": "A 40 Years old manual worker presents with a swelling in the groin. O/E: mass is found to be just above and lateral to the pubic tubercle. It is reducible. On applying pressure on the internal ring there is no cough impulse seen. What is the most probable dx? (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Inguinal hernia",
+      "B": "Hydrocele",
+      "C": "Femoral hernia",
+      "D": "Strangulated hernia",
+      "E": "Lipoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 417,
+    "question_text": "A female patient with the history of 3 sections presents with epigastric swelling and a non palpable defect and cough impulse positive the most likely diagnosis is (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Incisional hernia",
+      "B": "Epigastric hernia",
+      "C": "Divarication of recti",
+      "D": "Paraumblical hernia",
+      "E": "Umblical hernia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 418,
+    "question_text": "A 45 year old male present with fever, severe abdominal pain, nausea, vomiting and constipation on examination there was irreducible lump in the lower abdomen which was tender, erthymatous and very painful what is most likely diagnosis (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Strangulated hernia",
+      "B": "Intestinal obstruction",
+      "C": "Incarcerated hernia",
+      "D": "Appendicitis",
+      "E": "Abdominal wall hematoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 419,
+    "question_text": "A child after RTA present in OPD having left flank pain on examination there was tenderness in left side BP was 90/60 which of the following investigation u will order (Radiology Feb 2025)",
+    "options": {
+      "A": "Sigmoidoscopy",
+      "B": "Colonoscopy",
+      "C": "CT abdomen",
+      "D": "MRI",
+      "E": "Ultrasound whole abdomen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 420,
+    "question_text": "A patient present with appendicitis and after 4 days, a fluid collection is noted at caudal site the most appropriate management option (Radiology Feb 2025)",
+    "options": {
+      "A": "Open and drain the fluid",
+      "B": "IV antibiotics",
+      "C": "Placement of drain",
+      "D": "Laproscopic drainage"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 421,
+    "question_text": "During inguinal hernia repair surgery, which nerve is most at risk of injury?(Radiology Feb 2025)",
+    "options": {
+      "A": "Ilioinguinal nerve. iliohypogastric nerve, and genital branch of the genitofemoral nerve",
+      "B": "Ilioinguinal nerve and genitofemoral nerve",
+      "C": "Obturator nerve and lateral femoral cutaneous nerve",
+      "D": "Femoral nerve and pudendal nerve",
+      "E": "Sciatic nerve and posterior femoral cutaneous nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 422,
+    "question_text": "What might the cause of visceral pain in abdomen? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "increase distension of viscera and contraction of viscera",
+      "B": "stretch in capsule of viscera",
+      "C": "pressure on ligaments mesentry and vessels",
+      "D": "Ischemia of Visceral tissue"
+    },
+    "correct_answer": "A"
+  }
+]

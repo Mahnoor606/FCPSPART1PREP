@@ -1,0 +1,772 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Intervertebral herniation between 5th and 6th vertebral disc will damage:",
+    "options": {
+      "A": "4th spinal nerve",
+      "B": "5th spinal nerve",
+      "C": "6th spinal nerve",
+      "D": "7th spinal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Best site of lumbar puncture:",
+    "options": {
+      "A": "Above L4",
+      "B": "Above L2",
+      "C": "Above L3",
+      "D": "Below L5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Commonest site of lumbar puncture is:",
+    "options": {
+      "A": "L4-L5",
+      "B": "L2-L3",
+      "C": "S1-S2",
+      "D": "L1-L2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Regarding vertebra:",
+    "options": {
+      "A": "Thoracic has kidney shaped",
+      "B": "C7 has long spine",
+      "C": "Lumber vertebra have heart shape body"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Eight thoracic vertebra does not make synovial jonts with which of the following structures",
+    "options": {
+      "A": "Head to eighth rib",
+      "B": "Tubercle of eighth rib",
+      "C": "Superior articular process",
+      "D": "Body of seventh thoracic vertebra"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "The movement at the following joint permits a person to look towards the right or left",
+    "options": {
+      "A": "Atlanto-occipital joint",
+      "B": "Atlanto-axial joint",
+      "C": "C2-C3 joint",
+      "D": "C3-C4 joint"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "The following joint permits do not movement of head",
+    "options": {
+      "A": "Atlanto-occipital joint",
+      "B": "Atlanto-axial joint",
+      "C": "C2-C3 joint",
+      "D": "C3-C4 joint"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "The lumbar region of the vertebral column permits all of the following movements except",
+    "options": {
+      "A": "Flexion",
+      "B": "Extension",
+      "C": "Lateral",
+      "D": "Rotation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Regarding lumber puncture which one is correct",
+    "options": {
+      "A": "Between L4 and L5",
+      "B": "CSF pressure in mm of Hg",
+      "C": "spine fully extended",
+      "D": "Angle of needle must be 45 degree"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "True about vertebral columns",
+    "options": {
+      "A": "31 vertebrae",
+      "B": "7 cervical vertebrae",
+      "C": "30 pairs of spinal nerves",
+      "D": "6 lumber vertebra"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Following is true regarding cervical spinal nerves",
+    "options": {
+      "A": "All part arises from neural crest cells",
+      "B": "Emerge through intervertebral foramen",
+      "C": "Dorsal root ganglion is intraspinal",
+      "D": "C1 has sensory supply",
+      "E": "C7 nerve leaves through C7-T1 foramen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Which is not punctured during lumbar puncture",
+    "options": {
+      "A": "Dura matter",
+      "B": "Ligmentum flavum",
+      "C": "Longitudinal spinal ligament",
+      "D": "Skin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "True about vertebral venous plexus",
+    "options": {
+      "A": "Has no communication",
+      "B": "Lies in epidural space",
+      "C": "Is formed by two vertebral veins",
+      "D": "none of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "In adults, spinal cord ends at",
+    "options": {
+      "A": "L1",
+      "B": "L2",
+      "C": "L3",
+      "D": "L4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "In neonates,spinal cord ends at the level of lower border of:",
+    "options": {
+      "A": "L2 vertebra",
+      "B": "L3 vertebra",
+      "C": "L4 vertebra",
+      "D": "L5 vertebra",
+      "E": "S1 vertebra"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Needle inserted at paramedian vertebral canal pierces",
+    "options": {
+      "A": "Anterior spinal ligament",
+      "B": "posterior spinal ligament",
+      "C": "Supraspinal ligament",
+      "D": "Interspinal ligament",
+      "E": "Ligamentum flavum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Blood supply of vertebral column",
+    "options": {
+      "A": "Vertebral artery",
+      "B": "Spinal artery",
+      "C": "Medullary artery",
+      "D": "All of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Dorsal rami of the carvical nerves innervate",
+    "options": {
+      "A": "Extension of Trunk",
+      "B": "Stabilizers of shoulders",
+      "C": "Abductor pollices",
+      "D": "Extension of limbs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Spinal cord is suspended",
+    "options": {
+      "A": "Alar ligment",
+      "B": "Filum terminate",
+      "C": "Denticulate ligament",
+      "D": "Conusmedullaris"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "In internal carotid artery damage. At what vertebral tubercle you will press to stop bleeding",
+    "options": {
+      "A": "3rd",
+      "B": "4th",
+      "C": "5th",
+      "D": "6th",
+      "E": "7th"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "A typical cervical vertebra can be differenciated from thoracic vertebra by",
+    "options": {
+      "A": "Foramen transversarium",
+      "B": "Triangular vertebral canal",
+      "C": "Heavy vertebral body",
+      "D": "Superior facet on upper body"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Vertebra having no Spinous process:",
+    "options": {
+      "A": "T1",
+      "B": "C1",
+      "C": "T3",
+      "D": "T4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Fusion of L5 vertebra with S1 vertebra is called",
+    "options": {
+      "A": "Lordosis",
+      "B": "Lumbarization",
+      "C": "Sacralization",
+      "D": "Scoliosis",
+      "E": "Pot's disease"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Accessory cervical rib attaches",
+    "options": {
+      "A": "C7",
+      "B": "T1",
+      "C": "T2",
+      "D": "C6",
+      "E": "C5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Heart shaped vertebrae are",
+    "options": {
+      "A": "Thoracic",
+      "B": "Cervical",
+      "C": "Lumbar",
+      "D": "Sacral"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "In unexplained hypotension which part of vertebra should be examined",
+    "options": {
+      "A": "Upper cervical",
+      "B": "Lumbar",
+      "C": "Thoracic",
+      "D": "Lower cervical"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "The iliac crest is palpable at the level of which of the vertebra",
+    "options": {
+      "A": "12th thoracic",
+      "B": "2nd lumber",
+      "C": "4th lumbar",
+      "D": "1st sacral",
+      "E": "5th dacral"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "The C7 vertebra develops from somite:",
+    "options": {
+      "A": "C6",
+      "B": "C7",
+      "C": "C6-C7",
+      "D": "C7-C8"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "All of the following statements concerning the cervical rib are incorrect except",
+    "options": {
+      "A": "It arises from C7 vertebra",
+      "B": "It can cause compression of 7th cervical artery",
+      "C": "It doesn't cause compression of subclavian artey",
+      "D": "Bony lump in the lower part of neck due to cervical rib is never palpable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "T2 Articulates with",
+    "options": {
+      "A": "Rib 1 and 2",
+      "B": "Transverse process of 2nd rib",
+      "C": "Cervical Ribs",
+      "D": "Rib 2 and 3"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Ganglion at C7 vertebrae is",
+    "options": {
+      "A": "CervicoThoracic",
+      "B": "Pterygo-palatine",
+      "C": "Geniculate",
+      "D": "Sphenopalatine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Which ligament supports odontoid process of axis on",
+    "options": {
+      "A": "Posterior longitudinal ligament",
+      "B": "Anterior longitudinal ligament",
+      "C": "Tranverse ligament",
+      "D": "Ligamentum nuchae"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "What is appropriate about denticulate ligament:",
+    "options": {
+      "A": "Joins dura",
+      "B": "joins adjacent vertebra",
+      "C": "Extension of dura",
+      "D": "Extension of filum terminate",
+      "E": "Extension of Pia matter"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Women got a blow to the neck region and afterwards pupil reduced in size and cannot be dilated in dark, most likely lesion is at",
+    "options": {
+      "A": "CN4",
+      "B": "CN6",
+      "C": "CN3",
+      "D": "Cervical sympathetic chain"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "In which of following vertebrae involved but not spinal cord",
+    "options": {
+      "A": "Chordoma",
+      "B": "Anencephaly",
+      "C": "Meningomyelocele",
+      "D": "Spina bifida"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Most medial fibers of erector spinae",
+    "options": {
+      "A": "Attached to spine of vertebra",
+      "B": "Attached to ligament nuchae",
+      "C": "Attached to laminae",
+      "D": "Attached to Traverse spines"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Sensory nerve supply of back of head at occiput",
+    "options": {
+      "A": "Greater Occipital nerve",
+      "B": "Lesser Occipital nerve",
+      "C": "Temporal nerve",
+      "D": "Auricular nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Suboccipital nerve supply",
+    "options": {
+      "A": "Rectus capitus anterior",
+      "B": "Rectus capitus posterior",
+      "C": "latissmus dorsi",
+      "D": "None of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Which of the following nerve is formed by the first cervical third and fourth nerves.",
+    "options": {
+      "A": "Transverse Cervical",
+      "B": "Auricotemporal",
+      "C": "Occipital",
+      "D": "Maxillary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Cervical spinal cord contains:",
+    "options": {
+      "A": "Ventral horn",
+      "B": "medial horn",
+      "C": "dorsal horn",
+      "D": "Ventral & dorsal horn"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Which of the following is present at the level of cervical vertebral 2",
+    "options": {
+      "A": "Middle cervical ganglion",
+      "B": "Inferior cervical ganglion",
+      "C": "Stellate ganglion",
+      "D": "Vertebral ganglion",
+      "E": "Superior cervical ganglion"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Number of cervical somites, vertebrae and nerves",
+    "options": {
+      "A": "7,7,7",
+      "B": "7,8,7",
+      "C": "8,8,8",
+      "D": "8,7,8"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Dorsal ramus of 2nd cervial nerve:",
+    "options": {
+      "A": "Greater auricular",
+      "B": "Greater occipital",
+      "C": "Lesser occipital",
+      "D": "Supraclavicular",
+      "E": "transverse cervical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Which muscles cause vertebral column motility",
+    "options": {
+      "A": "Latismus dorsi",
+      "B": "Deltoid",
+      "C": "Intercostal muscles",
+      "D": "Deep back muscles"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Connection b/w centrum and neural arch is by:",
+    "options": {
+      "A": "Lamina",
+      "B": "Pedicle",
+      "C": "Pedicle and body",
+      "D": "None of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "The cauda equina is defined as:",
+    "options": {
+      "A": "Collection of blood vessels below L1",
+      "B": "Collection of spinal nerves below L1",
+      "C": "Collection meningeal tissue below L1",
+      "D": "Collection of spinal nerves above L1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Ligament pierced at last during Epidural is:",
+    "options": {
+      "A": "Posterior spinal ligament",
+      "B": "Anterior spinal ligament",
+      "C": "Supraspinous ligament",
+      "D": "Interspinal ligament",
+      "E": "Ligamentum flavum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "After gunshot injury to spinal cord patent cannot extend the knee at which level injury to spinal cord occur:",
+    "options": {
+      "A": "L2-3",
+      "B": "L3-4",
+      "C": "L4-5",
+      "D": "L5-S1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Lymphatic drainage at base of T10 vertebral level:",
+    "options": {
+      "A": "Lumbar",
+      "B": "Vertebral",
+      "C": "Anterior Axillary",
+      "D": "Sternal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Which vertebrae Is with bifid spinous process:",
+    "options": {
+      "A": "Lumbar",
+      "B": "Thoracic",
+      "C": "Cervical",
+      "D": "Sacral"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Patient with lower backache and pain radiating to thigh and leg, and shows disc herniation at L4-L5, Which nerve root is compressed?",
+    "options": {
+      "A": "L3",
+      "B": "L4",
+      "C": "L6",
+      "D": "L5",
+      "E": "L1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Muscles of back are supplied by",
+    "options": {
+      "A": "Dorsal rami",
+      "B": "Dorsal rami of Spinal nerve",
+      "C": "Intercostal nerve",
+      "D": "Long thoracic nerve",
+      "E": "Accessory nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Kyphosis is an accentuated or abnormal curvature of which region of the spine?",
+    "options": {
+      "A": "Cervical",
+      "B": "Thoracic",
+      "C": "Lumbar",
+      "D": "Sacral",
+      "E": "Coccygeal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "If one does a laminectomy to expose the spinal cord, which ligament must be removed?",
+    "options": {
+      "A": "Anterior longitudinal",
+      "B": "Denticulate",
+      "C": "Ligamentum flavum",
+      "D": "Ligamentum nuchae",
+      "E": "Posterior longitudinal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Lumber vertebra provides attachment to vertebral column",
+    "options": {
+      "A": "Anterior Longitudinal ligament",
+      "B": "Posterior Longitudinal ligament",
+      "C": "Muscles of thigh",
+      "D": "Transverse abdominis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Woman having lordosis this involves which part of vertebrae?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Spinal",
+      "C": "Lumbar",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "For the formation of sacral angle which vertebrae is involved:",
+    "options": {
+      "A": "L1",
+      "B": "L2",
+      "C": "L3",
+      "D": "L4",
+      "E": "L5"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Hyperextension of neck, diagnosed as Hangman fracture in which there is:",
+    "options": {
+      "A": "Fracture of Atlas vertebra",
+      "B": "Fracture of Odontoid process of axis",
+      "C": "Fracture of Transverse process of axis",
+      "D": "Fracture of Spinous process of axis",
+      "E": "Base of skull"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "After an accident patient broke his neck and died of bony fragment going into spinal cord. The fragment of bone is derived from which bone?",
+    "options": {
+      "A": "Atlas",
+      "B": "Axis",
+      "C": "C7",
+      "D": "C6",
+      "E": "C3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Preganglionic sympathetic fibers pass through:",
+    "options": {
+      "A": "Dorsal Rami of spinal nerves",
+      "B": "Posterior column",
+      "C": "Anterior column",
+      "D": "Ventral Rami of spinal nerves"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Boy involved in Road traffic accident. Hyperextension of Neck resulted in fracture of Atlas & slip to lateral area in that axis. This is most commonly termed as:",
+    "options": {
+      "A": "Hangman fracture",
+      "B": "Jefferson fracture",
+      "C": "Galeazzi fracture",
+      "D": "Benette fracture",
+      "E": "Monteggia Fracture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Herniated disc causing sensory changes in specific dermatome due to compression of",
+    "options": {
+      "A": "Anterior horn",
+      "B": "Posterior horn",
+      "C": "Intermediate horn",
+      "D": "Dorsal ramus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Boy involved in Road traffic accident. Hyperextension of Neck resulted in fracture of Atlas & slip to lateral area in that axis. This is most commonly termed as: (Medicine Feb 2025)",
+    "options": {
+      "A": "Hangman fracture",
+      "B": "Jefferson fracture",
+      "C": "Galeazzi fracture",
+      "D": "Benette fracture",
+      "E": "Monteggia Fracture"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Herniated disc causing sensory changes in specific dermatome due to compression of (Medicine Feb 2025)",
+    "options": {
+      "A": "Anterior horn",
+      "B": "Posterior horn",
+      "C": "Intermediate horn",
+      "D": "Dorsal ramus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Muscles of the back are supplied by: (Surgery Feb 2025)",
+    "options": {
+      "A": "Dorsal rami of spinal nerves",
+      "B": "Dorsal root of spinal nerves",
+      "C": "Ventral root of spinal nerves",
+      "D": "Ventral primary rami",
+      "E": "Lateral branches of Perforating arteries"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Lumbar puncture needle after passing through intraluminal space passes which structure: (Gyane & Ohs Feb 2025)",
+    "options": {
+      "A": "Posterior spinal ligament",
+      "B": "Anterior spinal ligament",
+      "C": "Supraspinous ligament",
+      "D": "Interspinal ligament",
+      "E": "Ligamentum flavum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Sensory changes in a specific dermatome by a herniated intervertebral disc is due to compression on the (Radiology Feb 2025)",
+    "options": {
+      "A": "Spinal nerve + Posterior root",
+      "B": "Posterior Primary ramus",
+      "C": "Anterior root",
+      "D": "Anterior Primary ramus",
+      "E": "Anterior Grey Horn"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "After piercing posterior longitudinal ligament in LP. Which space is reached? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Epidural",
+      "B": "Subdural",
+      "C": "Subarachnoid",
+      "D": "Dura"
+    },
+    "correct_answer": "A"
+  }
+]

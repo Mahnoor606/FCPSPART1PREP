@@ -1,0 +1,2903 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "A 40 year patient with painless testicular mass, Doctor decided for radiotherapy, which on is sensitive to radiation?",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Seminoma",
+      "C": "Germ cell tumor",
+      "D": "Embryonal Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Which of following is IUCD complication?",
+    "options": {
+      "A": "Ca cervix",
+      "B": "Vaginal discharge",
+      "C": "Metaplasia of endocervix",
+      "D": "Fistula",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "Female gravida 3, para 2 Previous 2 child have some karyotype abnormality, but female physically normal this is related to",
+    "options": {
+      "A": "Deletion of q arm",
+      "B": "Isochromosomes",
+      "C": "Robertson",
+      "D": "Inversion Chromatid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Biopsy of specimen CA showing fibrovascular septa, and scattered calcifications giving like sand grain appearance. Which tissue most likely it is?",
+    "options": {
+      "A": "Lung",
+      "B": "Colon",
+      "C": "Breast tissue",
+      "D": "Thyroid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A woman and man have history of recurrent pregnancy, their clinical and genetic history is unremarkable, but all pregnancies end-up still birth how will you investigate?",
+    "options": {
+      "A": "Southern blot",
+      "B": "Tandem mass spectroscopy",
+      "C": "Next generation sequencing",
+      "D": "Karyotyping",
+      "E": "FISH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Most cheap & cost effective easy method for screening of cervical cancer:",
+    "options": {
+      "A": "Ultrasound",
+      "B": "Biopsy",
+      "C": "Pap Smear",
+      "D": "Vaccination",
+      "E": "Cone Biopsy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Female 28 weeks gestation diagnosed with polyhydramnios on USG Which of Following associated with it?",
+    "options": {
+      "A": "Duodenal atresia",
+      "B": "Anencephaly",
+      "C": "Pulmonary hypoplasia",
+      "D": "IUGR",
+      "E": "Cleft Palate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Phenotypically female having primary amenorrhea and karyotype XY what is diagnose:",
+    "options": {
+      "A": "5Alpha reductase deficiency",
+      "B": "Androgen insensitivity syndrome",
+      "C": "Adrogenital",
+      "D": "Turner syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A 48 years old female having no menstruation from 6 month most likely reason is:",
+    "options": {
+      "A": "Decrease estrogen increase FSH and LH",
+      "B": "Decrease estrogen increase FSH decrease LH",
+      "C": "Increase estrogen and increase FSH",
+      "D": "Increase estrogen and decrease FSH and LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "A young male having scrotal mass and raised LDH probable diagnosis is which of following?",
+    "options": {
+      "A": "Hydrocele",
+      "B": "Omphocele",
+      "C": "Testicular lymphoma",
+      "D": "Seminoma",
+      "E": "Teratoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Effect of multiparty on cervix is:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Anaplasia",
+      "D": "Hypertrophy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "20 weeks pregnant women with miscarriage presented with nipple discharge what is possible cause?",
+    "options": {
+      "A": "Pregnancy induced prolactinoma",
+      "B": "Mastitis",
+      "C": "Ovarian Failure",
+      "D": "High GnRH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "70 year lady with vaginal bleeding D/C on exam type of precancerous change highest chance of developing endometrial CA and will be indication for hysterectomy is:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Complex hyperplasia with Atypia",
+      "D": "Hyperplasia",
+      "E": "Hyperplasia with Typia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A Young girl with bilateral ovarian mass consist of hair and teeth diagnose is:",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Cystic hygroma",
+      "C": "Choriocarcinoma",
+      "D": "Brenner tumor",
+      "E": "Teratoma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A patient with ambiguous genitalia and karyotype 46xx diagnosis is:",
+    "options": {
+      "A": "CAH",
+      "B": "Mixed gonadal dysgenesis",
+      "C": "Testicular feminization syndrome",
+      "D": "Androgen insensitivity syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Patient presented with penile discharge, upon pressing urethra white discharge oozed out, the patient was diagnosed as Neisseria gonorrhea which complication can now occur?",
+    "options": {
+      "A": "Sacroiliitis",
+      "B": "Aortitis",
+      "C": "Epididymitis",
+      "D": "Prostatitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "58 years old obese and diabetic lady underwent endometrial sampling for post-menopausal bleeding history reveal moderately differentiated endometrial adenocarcinoma the most common pattern of spread is:",
+    "options": {
+      "A": "Lymphatic spread",
+      "B": "Direct extension to adjacent structures",
+      "C": "Exfoliation of malignant cells via fallopian tube",
+      "D": "Hemtogenous spread"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A patient with Delayed puberty having small testis with Large legs and Gynecomastia and Karyotype is 47 XXY most suitable diagnose is:",
+    "options": {
+      "A": "True Hermaphrodite",
+      "B": "Noonan syndrome",
+      "C": "Marfan syndrome",
+      "D": "Klinefelter Syndrome",
+      "E": "Edward Syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Which of following tumor spread through hematogenous route most commonly?",
+    "options": {
+      "A": "Choriocarcinoma",
+      "B": "Small cell CA of lung",
+      "C": "Medullary CA of thyroid",
+      "D": "Oat cell carcinoma of lung",
+      "E": "Endometrial carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A man with normal external genitalia married but had no kids he had normal ejaculation period but semen analysis showed azospermia cause may be in:",
+    "options": {
+      "A": "Epididymis",
+      "B": "Sertoli cell Defect",
+      "C": "Defect of Vas deference",
+      "D": "Seminiferous tubules",
+      "E": "Defect in Prostate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "FSH in male is produced by Sertoli cells.",
+    "options": {
+      "A": "Leydig cells",
+      "B": "Sertoli cells",
+      "C": "Pituitary gland",
+      "D": "Hypothalamus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "A 45y old patient is bleeding from the nipple but no mass is palpable no axillary Lymphnode palpable what is the likely cause of this condition?",
+    "options": {
+      "A": "Ductal CA in situ",
+      "B": "Invasive lobular carcinoma",
+      "C": "Intraductal papilloma",
+      "D": "Fibrocystic Change",
+      "E": "Fat Necrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A patient presented with urgency of urine, Fever and Lethargy. He gave a history of Weight Loss and Diagnosed as a case of Bladder Carcinoma. The causative organism is which of following?",
+    "options": {
+      "A": "Compylobacter",
+      "B": "Schistosoma",
+      "C": "E. coli",
+      "D": "EBV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "17 ketosteroid increase in:",
+    "options": {
+      "A": "Conns syndrome",
+      "B": "Adrenogenital syndrome",
+      "C": "Cushing syndrome",
+      "D": "Addison Disease",
+      "E": "Marfan Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "In Adrogenital Syndrome:",
+    "options": {
+      "A": "High 17 ketosteroids low cortisol and high pregnanolone",
+      "B": "Low 17 ketosteroids",
+      "C": "Normal level",
+      "D": "Increase ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "A lady had obstructed labor for 2 days, urine leaked after 10 days, what could be the cause?",
+    "options": {
+      "A": "Vesico vaginal fistula",
+      "B": "UTI",
+      "C": "Stress incontinence",
+      "D": "Urge incontinence",
+      "E": "Ureter damage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Patient having complain of urgency and dysuria and raised PSA and diagnosed as prostate carcinoma it involves which of the following lobe most commonly:",
+    "options": {
+      "A": "Anterior",
+      "B": "Posterior",
+      "C": "Lateral",
+      "D": "Median",
+      "E": "Inferior lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A young boy presented with painless swelling in the scrotum with no other complication, he gave history of hit by ball very hard on scrotal area 4 months back what is possible diagnose:",
+    "options": {
+      "A": "Hydrocele",
+      "B": "Hematoma",
+      "C": "Hemartoma",
+      "D": "Hematocele"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Most commonly diagnosed breast cancer:",
+    "options": {
+      "A": "Phylloids tumor",
+      "B": "Fibroadenoma",
+      "C": "Intraductal pappilloadenoma",
+      "D": "Invasive ductal carcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "An old lady presented with bone pain. Ultrasound reveals normal Calcium, Phosphorous and PTH. Lady is having osteoporosis what is etiology of this:",
+    "options": {
+      "A": "High Progesterone",
+      "B": "Low Estrogen",
+      "C": "Low FSH",
+      "D": "Low Calcitonin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Husband wife want to conceive what will you counsel them about chance of pregnancy?",
+    "options": {
+      "A": "When estrogen level decrease",
+      "B": "During menstruation",
+      "C": "At time of LH surge",
+      "D": "At secretory phase"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Genotype in child what's true",
+    "options": {
+      "A": "Xy indicated a one bar body",
+      "B": "Xxx have wide space hip",
+      "C": "Xx/yy trye harmaphrodite",
+      "D": "Xr have true Hermaphrodite",
+      "E": "XO is normal female"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Couple married 2 year ago female did not conceive her menstrual cycle is normal. The phase which indicate the ability of an girl when ovulation start is",
+    "options": {
+      "A": "At menarche",
+      "B": "After 1 year",
+      "C": "After 2 year",
+      "D": "After 3 year",
+      "E": "After 4 year"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "6 years old girl presented to OPD with excessive facial & chest hair, adult size external genitalia & deepening of voice. She also gives history of two siblings death suffering from same condition which test would best confirm the diagnosis:",
+    "options": {
+      "A": "Karyotyping",
+      "B": "FSH and LH",
+      "C": "Testosterone",
+      "D": "DHEA suppression test",
+      "E": "17 hydroxy progesterone"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "The number of maternal death to the live birth:",
+    "options": {
+      "A": "Maternal mortality ratio",
+      "B": "Maternal mortality rate",
+      "C": "Neonatal mortality ratio/Maternal ratio",
+      "D": "Neonatal mortality rate/Maternal ratio"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "A Post Menopausal lady having lieomyoma present with abnormal uterine bleeding her cytology report reveal Increase endometrial stroma and Few Glands what is likely cause:",
+    "options": {
+      "A": "Apoptosis",
+      "B": "Atrophy",
+      "C": "Hyperplasia",
+      "D": "Hypertrophy",
+      "E": "Dysplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Female with infertility married for 10 years, irregular menses 2 – 3 times per year, facial hair and obesity. What is at risk of developing?",
+    "options": {
+      "A": "Cushing disease",
+      "B": "Endometrial carcinoma",
+      "C": "Type 1 DM",
+      "D": "Adrenal atrophy",
+      "E": "Addison Disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "60 year old man presented in opd with complain of hematuria and inc urinary frequency on DRE there is stony hard mass felt that is prostatic lymphatic drainage of it:",
+    "options": {
+      "A": "Deep inguinal",
+      "B": "Internal Iliac and Sacral",
+      "C": "Superficial inguinal",
+      "D": "Common iliac",
+      "E": "Para aortic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A young girl 9 years old having normal menstruation, enlarged clitoris due to",
+    "options": {
+      "A": "CAH/ Androgenital",
+      "B": "CNS Tumor",
+      "C": "Gondal tumor",
+      "D": "Vaginal tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "30 week pregnant lady tell that she has consumed moderate amount of alcohol during 1st trimester what is risk to baby?",
+    "options": {
+      "A": "Microcephaly",
+      "B": "Delayed birth",
+      "C": "Edward Syndrome",
+      "D": "Epicanthal fold",
+      "E": "Short Nasal Bridge"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "HSV 2 causes which of following?",
+    "options": {
+      "A": "Cervicitis",
+      "B": "CA Endometrium",
+      "C": "CA Ovary",
+      "D": "CA Breast"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "68 years old women with poor dietary habits and sedentary life style having fracture of femur neck most suitable cause is:",
+    "options": {
+      "A": "Post menopausal low estrogen",
+      "B": "Decrease vitamins",
+      "C": "Sedentary life",
+      "D": "Rest",
+      "E": "Infection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Female with oligomenorrhea karyotype 46XX/45X0 associated features is:",
+    "options": {
+      "A": "Wide nipple and depressed nasal bridge",
+      "B": "Gonadal dysgenesis",
+      "C": "Short stature, prominent simian crease",
+      "D": "Webbed neck"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Gold standard investigation for placenta previa?",
+    "options": {
+      "A": "Pelvic USG",
+      "B": "Pelvic MRI",
+      "C": "Transvaginal USG",
+      "D": "Doppler USG",
+      "E": "Examination under GA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Factor link With Penile CA?",
+    "options": {
+      "A": "Hypopadis",
+      "B": "Phimosis",
+      "C": "Bowens disease",
+      "D": "Lichen planus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "A woman was asked to go for hysterectomy after endometrial biopsy because of:",
+    "options": {
+      "A": "Atypical endometrial hyperplasia",
+      "B": "Granuloma",
+      "C": "Typical Changes of Benign",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Ovary tumor with different tissue in:",
+    "options": {
+      "A": "Seminima",
+      "B": "Teratoma",
+      "C": "Lymphoma",
+      "D": "Granulosa tumor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "A Female patient with bone fracture and abnormal menses cause is:",
+    "options": {
+      "A": "Low Progesteron",
+      "B": "Low estrogen",
+      "C": "Low HCG",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "CA cervix caused by:",
+    "options": {
+      "A": "HSV",
+      "B": "HPV",
+      "C": "CMV",
+      "D": "EBV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Increase AFP Seen in:",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Yolk Sac Tumor",
+      "C": "Seminoma",
+      "D": "Bone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Partial hydatidiform mole how to present:",
+    "options": {
+      "A": "46Xy",
+      "B": "47Xxy",
+      "C": "69xxy",
+      "D": "47XXX"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Breast fat necrosis most common cause:",
+    "options": {
+      "A": "Infection",
+      "B": "Trauma",
+      "C": "Malignancy",
+      "D": "Inflammation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Tumor containing all the three germ cell layers is:",
+    "options": {
+      "A": "Yolk sac tumor",
+      "B": "Seminoma",
+      "C": "Teratoma",
+      "D": "Granulosa cell tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "When a patient undergoes bilateral oophorectomy hysterectomy what will happen?",
+    "options": {
+      "A": "Increase estrogen",
+      "B": "Increase LH",
+      "C": "Decrease estrogen",
+      "D": "Decrease FSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Prostate cancer first metastasizes to:",
+    "options": {
+      "A": "Liver",
+      "B": "Breast",
+      "C": "Brain",
+      "D": "Bone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A normal looking girl came to you with primary amenorrhea o/e having short blind vagina, with normal multivulva, scanty pubic hair growth and normal breast and absent uterus her type of karyotype is:",
+    "options": {
+      "A": "46XX",
+      "B": "47XXY",
+      "C": "46XY",
+      "D": "45O"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A young female having bilateral ovarian mass on histopath mass consist of hairs, teeth, epithelial cells, cartilages and gut cells diagnosis:",
+    "options": {
+      "A": "Sex chord tumor",
+      "B": "Endodermal sinus tumor",
+      "C": "Cystic teratoma",
+      "D": "Dysgerminoma",
+      "E": "Choriocarcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Antibodies against FSH in male will cause:",
+    "options": {
+      "A": "Increase Sperm count",
+      "B": "Decreasce Sperm count",
+      "C": "Decrease Bone growth",
+      "D": "Decrease Prolactin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "A 18years old girl present with hx of amenorrhea otherwise normal appearance and secondary sexual characteristics. On USG absent ovaries and uterus. what is the cause?",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Androgen Insensitivity Syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Down syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "18-year-old girl with lump in right breast non tender no enlarged lymph node noted diagnosis:",
+    "options": {
+      "A": "CA in situ",
+      "B": "Invasive ductal Ca",
+      "C": "Fibroadenoma",
+      "D": "Traumatic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Spermatogenesis is stimulated by:",
+    "options": {
+      "A": "FSH",
+      "B": "Testosterone",
+      "C": "LH",
+      "D": "FSH and testosterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Patient with adrenogenital syndrome? High 17 ketosteroids high cortisol high pregnelone",
+    "options": {
+      "A": "Low 17 ketosteroids high cortisol and low pregnelone",
+      "B": "Low 17 ketosteroids high cortisol and high pregnelone",
+      "C": "High 17 ketosteroids high cortisol and low pregnelone",
+      "D": "High 17 ketosteroids high cortisol and high pregnelone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "A patient has gynecomastia and tall karyotyping is xxy 47:",
+    "options": {
+      "A": "Klinefelter syndrome",
+      "B": "Turner syndrome",
+      "C": "Down syndrome",
+      "D": "Patau syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "One of the following drugs causes endometrial hyperplasia:",
+    "options": {
+      "A": "Progesterone hormone",
+      "B": "Clomiphene citrate",
+      "C": "Estrogens",
+      "D": "Combined oral contraceptive pills",
+      "E": "Bromocriptine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "An old man had urine incontinence and he didn't do anything for treatment for few years. So what was the type of problem?",
+    "options": {
+      "A": "Prostate CA",
+      "B": "Benign prostate hyperplasia",
+      "C": "Urethral stricture",
+      "D": "Bladder CA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A girl with normal secondary sexual development with secondary amenorrhea on Usg uterus absent. Defect is in:",
+    "options": {
+      "A": "Paramesonephric duct",
+      "B": "Mesonephric duct",
+      "C": "Seminal vesicle",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Female at gestational age 34 having symphysio-fundal height of 28 weeks. Cause may be?",
+    "options": {
+      "A": "Anencephaly",
+      "B": "Esophageal atresia",
+      "C": "Renal agenesis",
+      "D": "Tracheo esophageal fistula"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "In a Pregnant lady to diagnose early neural tube defect, which one of the following used?",
+    "options": {
+      "A": "Ultrasound",
+      "B": "Amniocentesis",
+      "C": "B HCG",
+      "D": "X-ray abdomen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "An old man presented with urinary symptoms, after examination, doctor made a diagnosis of benign prostatic hypertrophy, which zone of prostate is involved in this condition:",
+    "options": {
+      "A": "Central zone",
+      "B": "Peripheral zone",
+      "C": "Transitional zone",
+      "D": "Anterior zone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Old aged man with testicular swelling & raised LDH is most likely suffering from:",
+    "options": {
+      "A": "Seminoma",
+      "B": "Lymphoma",
+      "C": "Embryonal Carcinoma",
+      "D": "Yolk Sac tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Leiomyoma is:",
+    "options": {
+      "A": "Benign Epithelial tumor",
+      "B": "Benign mesenchymal tumor",
+      "C": "Malignant tumor",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A 20 year old lady has amenorrhea for the past 6 months but otherwise reportedly normal, cause:",
+    "options": {
+      "A": "Anovulation",
+      "B": "PCOS",
+      "C": "Precocious Puberty",
+      "D": "Granulosa Cell Tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "A lady who has Normal Menstrual cycle of 28 days and now since 12 hrs her estradiol level is on peak and progesterone is not detectable. What can be the possible cause?",
+    "options": {
+      "A": "Beginning of menstruation",
+      "B": "Ovulation",
+      "C": "Degeneration of corpus leuteum",
+      "D": "Secretory Phase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Ectopic pregnancy diagnosis is done by which of the following?",
+    "options": {
+      "A": "Transabdominal USG",
+      "B": "TVS (TransVaginal USG)",
+      "C": "CT Scan Abdomen",
+      "D": "X-Ray Abdomen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Eight years old girl with well developed breast and pubic hair is due to:",
+    "options": {
+      "A": "Granulosa cell tumor",
+      "B": "CAH",
+      "C": "Theca cell tumor",
+      "D": "Normal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "In adrenogenital syndrome urine contains which substance?",
+    "options": {
+      "A": "17-alpha ketosteroids",
+      "B": "18- alpha ketosteroids",
+      "C": "24,25 progesterone",
+      "D": "24 pregnolone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Most common side effect of IUCD:",
+    "options": {
+      "A": "PID",
+      "B": "Purulent discharge",
+      "C": "Irregular vaginal bleeding",
+      "D": "Infections"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Low level of cholesterol in premenopausal women and protection from thromboembolism is done by:",
+    "options": {
+      "A": "Progesterone",
+      "B": "HCG",
+      "C": "Estrogen",
+      "D": "LH",
+      "E": "FSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Prolong use of ocp will increase risk of:",
+    "options": {
+      "A": "Thromboembolism",
+      "B": "Breast cancer",
+      "C": "Endometrial carcinoma",
+      "D": "Ovarian carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Female of 35 yr present with increase central obesity hyperpigmentation over the body which one is responsible for her changes?",
+    "options": {
+      "A": "Fsh",
+      "B": "Acth",
+      "C": "Lh",
+      "D": "TRH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Most serious side effects of estrogen in postmenopausal:",
+    "options": {
+      "A": "Thromboembolism",
+      "B": "Endometrial Ca",
+      "C": "Breast Ca",
+      "D": "Ovarian carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Lady is in labor, she has been administered oxytocin but she is not responding to it, the reason lies in the fact of:",
+    "options": {
+      "A": "Decrease oxytocin receptors on myometrium",
+      "B": "Resistance to oxytocin",
+      "C": "No oxytocin receptors present at all",
+      "D": "Drug interaction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Failure rate of IUCD is:",
+    "options": {
+      "A": "2-5 %",
+      "B": "3-5 %",
+      "C": "5-10 %",
+      "D": "Less than 1%"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "In developmental stages scanty hair, triangular shaped hairline appears in:",
+    "options": {
+      "A": "Stage 1",
+      "B": "Stage 2",
+      "C": "Stage 3",
+      "D": "Stage 4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Granulosa cell tumour has:",
+    "options": {
+      "A": "Call Exner Bodies",
+      "B": "Estrogen Bodies",
+      "C": "Lutein Cyst",
+      "D": "Asteroid bodies"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Which of the following is true hermaphrodite?",
+    "options": {
+      "A": "XXY",
+      "B": "XXX",
+      "C": "XYY",
+      "D": "XO"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Turner syndrome is associated with:",
+    "options": {
+      "A": "Normal Ovaries",
+      "B": "Streak Ovaries",
+      "C": "Postural Hypotension",
+      "D": "Anemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "6 years old girl presented to OPD with excessive facial & chest hair, adult size external genitalia & deepening of voice. She also gives history of two siblings death suffering from same condition which test would best confirm the diagnosis:",
+    "options": {
+      "A": "Alpha Hydroxylase deficiencies",
+      "B": "21 Hydroxylase",
+      "C": "12 Beta Hydroxylase",
+      "D": "22 Hydroxylase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Mother worry about her young auxiliary hair which secondary sexual character cause is",
+    "options": {
+      "A": "DHEA",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Androstendione"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "An eight year old girl brought by mother with breast development and appearance of pubic/ axillary hair cause is",
+    "options": {
+      "A": "Gonadal tumours",
+      "B": "CNS tumour",
+      "C": "Congenital adrenal hyperplasia",
+      "D": "Idiopathic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "40 Weeks pregnant women have irregular uterine contractions which of following drugs will be beneficial for this lady?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "Oxytocin",
+      "D": "Prolactin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Pap smear positive by:",
+    "options": {
+      "A": "HPV 18",
+      "B": "HPV 16",
+      "C": "Chlamydia",
+      "D": "Trichomonas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Most important cause of male infertility:",
+    "options": {
+      "A": "Kline filter syndrome",
+      "B": "Cryptorchidism",
+      "C": "Down syndrome",
+      "D": "Mullian of ejaculatory duct"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Which of the following zone is most commonly involved in BPH?",
+    "options": {
+      "A": "Peripheral zone",
+      "B": "Middle zone",
+      "C": "Anterior zone",
+      "D": "Central/periurethral zone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "In a 60 year old female with breast cancer and osteoporosis HX of ischemic heart disease which should be given?",
+    "options": {
+      "A": "Raloxifen",
+      "B": "Bisphosphonates",
+      "C": "Vitamin D",
+      "D": "Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "In which of the following AFP is raised?",
+    "options": {
+      "A": "Seminoma",
+      "B": "Teratoma",
+      "C": "Embryonal carcinoma",
+      "D": "Sertoli cell tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Long term use of HRT with positive family history of breast CA. Now increased risk of developing?",
+    "options": {
+      "A": "Breast CA",
+      "B": "Endometrial CA",
+      "C": "Lung carcinoma",
+      "D": "Cervical carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "In female Patient of HIV Virus cause which of following",
+    "options": {
+      "A": "Endometrium ca",
+      "B": "Ovarian",
+      "C": "CA Cevix",
+      "D": "Leukemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Primigravida taking iron tablets, lots of fresh green vegetables, what deficiency she is at risk:",
+    "options": {
+      "A": "Ca 2+",
+      "B": "Vit. B12",
+      "C": "Folic acid",
+      "D": "Phosphate",
+      "E": "Vitamin A"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "A Pregnant lady visited gynecologist for Dilatation n curettage on microscopic examination which type of precancerous change will be indication for hysterectomy?",
+    "options": {
+      "A": "Squamous",
+      "B": "Complex hyperplasia",
+      "C": "Simple hyperplasia",
+      "D": "Metaplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A case of Androgen insensitivity syndrome was referred to your clinical. What investigation you will not do in this case?",
+    "options": {
+      "A": "Serum 17 OH progesterone",
+      "B": "Testosterone level after stimulation with HCG",
+      "C": "FSH and LH",
+      "D": "Ultrasound abdomen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Married man had no children for few years and was diagnosed as sterile with azospermia. What is investigation of choice?",
+    "options": {
+      "A": "Serum FSH and serum LH",
+      "B": "Serum prolactin",
+      "C": "Serum testosterone",
+      "D": "Semen analysis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Secondary oocyte is surrounded by corona radiata, which of the following layer contributes to the formation of corona radiata?",
+    "options": {
+      "A": "Granulosa cells",
+      "B": "Theca internal cells",
+      "C": "Theca external cells",
+      "D": "Germ cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Progesterone works in contraceptive pills by:",
+    "options": {
+      "A": "Spermicidal action",
+      "B": "Induces uterine contraction",
+      "C": "Inhibits ovulation",
+      "D": "Inhibits maturation of ovarian follicles"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Pineal gland tumor compression in 10 years old boy causes decreased secretion of melatonin what could be other possibility in this patient:",
+    "options": {
+      "A": "Delayed puberty",
+      "B": "Early puberty",
+      "C": "Increase serotonin",
+      "D": "Increase Tryptophan"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "In the absence of 17 a-hydroxylase, which of following conversion reaction will be stopped:",
+    "options": {
+      "A": "Cholesterol to pregnolone",
+      "B": "Progesterone to pregnolone",
+      "C": "Stuff. check book for its deficiency",
+      "D": "Stoppage of pregnolone to 17 hydroxyprogesterone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Patient with Irregular PV bleeding of 42 years old with uterine hyperplasia shows",
+    "options": {
+      "A": "Inc progesterone",
+      "B": "Decrease estrogen",
+      "C": "Increase estrogen",
+      "D": "Increase prolactin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A non-pregnant patient has fasting glucose 122 after OGT 1 hour 198 and 2 hrs 194. Diagnosis?",
+    "options": {
+      "A": "Normal glucose tolerance",
+      "B": "Impaired DM",
+      "C": "Sec d.m",
+      "D": "Over d.m",
+      "E": "Something lag"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Mother of 12 children with progressive dizziness and fatigue with angular stomatitis since 3 months with low mcv cause?",
+    "options": {
+      "A": "Iron deficiency anemia",
+      "B": "Megaloblastic anemia",
+      "C": "Aplastic anemia",
+      "D": "Vitamin C deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "External genitalia of male development are due to?",
+    "options": {
+      "A": "Dihydrotestosterone",
+      "B": "Testosterone",
+      "C": "Estogen",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Female has menopause at age of 46 year significant possibility of her daughter to have menopause at this age is",
+    "options": {
+      "A": "3 times",
+      "B": "2 times",
+      "C": "5 times",
+      "D": "10 times"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "A women presented with vulvur itching and pinkish purulent discharge. What is the cause is",
+    "options": {
+      "A": "Trichomonas vaginalis",
+      "B": "Chlamydia",
+      "C": "Gonorhea",
+      "D": "Lactobacillus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A lady with per vaginal bleeding, history of bleeding disorders and having dead fetus First step in management would be",
+    "options": {
+      "A": "Blood transfusion",
+      "B": "Clotting studies",
+      "C": "Streptokinase therapy",
+      "D": "Platelets transfusion",
+      "E": "Evacuation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A 32 years old G2+P1+0 presented with Gestational Amenorrhea of 33 weeks. She complains of severe headache and vomiting. Her Bp is 180/90mmHg. She also has history of Fits during last pregnancy. Which antihypertensive drug you will immediately give to this patient?",
+    "options": {
+      "A": "MgSo4",
+      "B": "Hydralazine",
+      "C": "Methyl Dopa",
+      "D": "Captopril",
+      "E": "Diuretic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A lady with 36 weeks pregnancy which one decreases?",
+    "options": {
+      "A": "Respiratory rate",
+      "B": "Tidal Volume",
+      "C": "Inspiratory capacity",
+      "D": "TLC",
+      "E": "Vital Capacity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Positive nitrogen balance is seen in",
+    "options": {
+      "A": "Starvation",
+      "B": "Malnutrition",
+      "C": "Immediately after post surgery",
+      "D": "Normal pregnancy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A new born baby is born to a 20 year old primigravida. On examination the baby has amputated limb. The most likely cause is",
+    "options": {
+      "A": "Cord prolapse",
+      "B": "Alcoholism in mother",
+      "C": "Umbilical knots",
+      "D": "Amniotic bands"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A 27 year old male having testicular tumor of non seminomatous type lab findings will be",
+    "options": {
+      "A": "PSA",
+      "B": "Acid phosphatase",
+      "C": "B-HCG",
+      "D": "Fructose"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "A lady suffering from CA breast undergo total mastectomy develop edema of right lower limb which of the following can be the reason of this edema?",
+    "options": {
+      "A": "Decrease plasma protein",
+      "B": "Increase hydro static pressure",
+      "C": "Lymphatic obstruction",
+      "D": "Metastatic involvement of lymph nodes",
+      "E": "Venous obstruction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A lady with 26 weeks gestation has uterine height of 24 weeks. On sonography there is no fetal parts and shows snow storm appearance, Likely Diagnose is",
+    "options": {
+      "A": "Choriocarcinoma",
+      "B": "Complete mole",
+      "C": "Partial mole",
+      "D": "Down Syndrome",
+      "E": "Edward Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Electrolyte imbalance in hyperemesis gravidarum is:",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypoglycemia",
+      "C": "Hyperkalemia",
+      "D": "Hypokalemia",
+      "E": "Hyponatremia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Study on STD's, one group of boys had penile ulcers and other group had no ulcers, non ulcerating lesions were due to:",
+    "options": {
+      "A": "Chlamydia",
+      "B": "Candida",
+      "C": "Gonorrhea",
+      "D": "Treponema pallidum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Stage 4 CA cervix drains which lymph node?",
+    "options": {
+      "A": "Inguinal",
+      "B": "Internal iliac",
+      "C": "External iliac",
+      "D": "Common iliac",
+      "E": "Pudendal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Peau'd orange appearance of breast occurs in malignancy of breast due to distortion of:",
+    "options": {
+      "A": "Lobules of Breast",
+      "B": "Suspensory Ligaments of Breast",
+      "C": "Lymphatics of Breast",
+      "D": "Longitudinal Ligament of Breast"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A male with history of sexual activity present with painless elevation and irregular eversion on scrotum may treated likely condition is:",
+    "options": {
+      "A": "Condyloma",
+      "B": "Lymphogranuloma",
+      "C": "Syphilis",
+      "D": "Nisseria"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Primigravida died during delivery due to some complication. Most common cause in our country is:",
+    "options": {
+      "A": "Malnutrition",
+      "B": "Sepsis",
+      "C": "Hemorrhage",
+      "D": "Tb"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "4 year old child present with testicular swelling, ill lined granular sheets, bands and microcysts, most likely it is:",
+    "options": {
+      "A": "Choriocarcinoma",
+      "B": "Leydig cell tumor",
+      "C": "Seminoma",
+      "D": "Yolk sac tumor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Young female having pain in inferolateral region of abdomen prior to 2 weeks of onset of menstruation, but hemodynamically stable. Diagnosis is",
+    "options": {
+      "A": "Ectopic pregnancy",
+      "B": "Mittelschmerz",
+      "C": "Acute appendicitis",
+      "D": "Chronic appendicitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Primigravida having family history of PIH of mother and Sister percentage in Primary Gravida would be",
+    "options": {
+      "A": "14.1%",
+      "B": "12.3%",
+      "C": "14.2%",
+      "D": "5%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Female 17 year old 5'2 height with primary amenorrhea, absent secondary sexual characteristics O/E well develop Normal breast and Blind Vagina. USG confirm absent of uterus. Most likely karyotype of this is",
+    "options": {
+      "A": "47XXY",
+      "B": "46XY",
+      "C": "45XO",
+      "D": "47XXX",
+      "E": "45XX"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 131,
+    "question_text": "A patient having Thymoma with bilateral ptosis and proximal muscle weakness what test will help in diagnosis?",
+    "options": {
+      "A": "Acetylcholine number",
+      "B": "Acetylcholine receptor antibodies",
+      "C": "Anti calcium channel antibodies",
+      "D": "Anti sodium channel antibodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Female on steroid for 7 years came for tooth extraction. First to treat?",
+    "options": {
+      "A": "Buffalo bump",
+      "B": "Moon face",
+      "C": "Hirtutism",
+      "D": "Hyperglycemia",
+      "E": "Mood changes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "A girl with polycystic ovarian syndrome will have increased?",
+    "options": {
+      "A": "Insulin and LH",
+      "B": "LH",
+      "C": "ACTH",
+      "D": "Growth hormones",
+      "E": "FSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "G6 pain, white watery vaginal discharge most suitable Diagnose is:",
+    "options": {
+      "A": "Chrioamionitis",
+      "B": "UTI",
+      "C": "Toxoplasmosis",
+      "D": "Pyelonephritis",
+      "E": "Appendicitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "8 Year old girl with breast development and early pubic hair development. Parents should be counselled that",
+    "options": {
+      "A": "No treatment",
+      "B": "Tell Parents detail and its consequences",
+      "C": "It will heal",
+      "D": "No risk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "A sexually active 23-year-old man has dysuria and a yellow urethral exudate. Gram stain of the exudate shows numerous neutrophils, many that contain intracellular gram-negative diplococci. He has had three similar episodes of urethritis over the past 2 years. Which of the following properties of the infecting organism best explains the reinfection?",
+    "options": {
+      "A": "Antigenic variation",
+      "B": "Catalase",
+      "C": "Inhibition of B-lymphocyte function",
+      "D": "Inhibition of T-lymphocyte function",
+      "E": "Polysaccharide capsule"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "After delivery of 4th baby mother had amenorrhea fatigue and gradual loss of pubic and axillary hair due to",
+    "options": {
+      "A": "Pituitary tumor",
+      "B": "Amyloidosis",
+      "C": "Pituitary Necrosis",
+      "D": "TB"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Complete mole is:",
+    "options": {
+      "A": "Dipliodv",
+      "B": "Triplodiy",
+      "C": "Monoplodiy",
+      "D": "Tetraplodiy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Mother has history of hemolytic disease of new born and now she is having 26 weeks of pregnancy. What should be done?",
+    "options": {
+      "A": "Check fetal Rh D antigen",
+      "B": "Mother's serial antibodies",
+      "C": "Indirect coombs on mother",
+      "D": "None of above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Early diagnose of preeclampsia done by:",
+    "options": {
+      "A": "Cortisol monitoring",
+      "B": "HbA1c",
+      "C": "Early BP monitoring",
+      "D": "Regular LFT"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A female with breast mass of 5 x6 cm rubbery mass large sheets of cells and calcium spicules likely diagnose is",
+    "options": {
+      "A": "Phylloid tumor",
+      "B": "Fibroadenoma",
+      "C": "Ductal carcinoma",
+      "D": "Lobular carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Cervical pap smear shows 2/3rd epithelium has atypical, disorganized cells with loss of polarity, high N/C ratio and pleomorphism",
+    "options": {
+      "A": "Moderate dysplasia",
+      "B": "Carcinoma in situ",
+      "C": "Metaplasia",
+      "D": "Carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Ovarian CA tumor marker is",
+    "options": {
+      "A": "CEA",
+      "B": "CA 15-3",
+      "C": "CA 19-9",
+      "D": "AFP",
+      "E": "CA 125"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "A patient with testicular tumor and primitive glomerular structure is most likely",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Seminoma",
+      "C": "Embryonal carcinoma",
+      "D": "Teratoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "An Old patient presents with enlarged prostate and there is marked increase in PSA up to 20ng/ml having weight loss MRI done and bony metastasis observed. What is the route of spread of prostate CA to vertebrae?",
+    "options": {
+      "A": "Lumbar plexus",
+      "B": "Pampiniform plexus",
+      "C": "Vertebral venous plexus",
+      "D": "Pelvic plexus",
+      "E": "Sacral plexus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Patient with testicular mass. It was diagnosed as a yolk sac Tumor. What is follow up marker for this patient?",
+    "options": {
+      "A": "AFP",
+      "B": "HCG",
+      "C": "LDH",
+      "D": "HCG +LDH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A female came with her son who presented with one testicle absent. On Examination you found right testes normal and swelling in left inguinal region. What is the risk",
+    "options": {
+      "A": "Bleeding",
+      "B": "Infection",
+      "C": "Atrophy",
+      "D": "Precursor affect",
+      "E": "Malignancy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "A baby presented with enlarge clitoris and sex chromatin positive diagnosis is",
+    "options": {
+      "A": "Ovarian dysgenesis",
+      "B": "Turner syndrome",
+      "C": "Klinfilter syndrome",
+      "D": "Congenital adrenal hyperplasia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "True Hermaphrodite karyotype is",
+    "options": {
+      "A": "XY",
+      "B": "XO",
+      "C": "XYY",
+      "D": "YY",
+      "E": "XX/XX"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Which is the Pre eclampsia triggering factor ?",
+    "options": {
+      "A": "Fetal Endothelial dysfunction",
+      "B": "Fetoplacental circulation compromise",
+      "C": "Release of factor from placenta",
+      "D": "Low oxygen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "55 year old man with painless testicular swelling and LDH raised what is your diagnosis?",
+    "options": {
+      "A": "Teratoma",
+      "B": "Choriostoma",
+      "C": "Lymphoma",
+      "D": "NYD tumor",
+      "E": "Granulosa cell tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "A patient has complete mole(Hydatiform mole) And grape like appearance on Ultrasound what investigation will be done",
+    "options": {
+      "A": "Increase AFP",
+      "B": "Increase CEA level",
+      "C": "Increase beta HCG",
+      "D": "Low HCG",
+      "E": "Increase CA 19-9"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A Girl presented to her physician with concern both her mother and sister died of metastatic breast cancer before 40 year age She is worried about herself which of the following gene is mutated",
+    "options": {
+      "A": "Multiparity",
+      "B": "APC",
+      "C": "RAS",
+      "D": "BRCA-1 Mutation",
+      "E": "Fibroadenoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Rh -ve mother start developing antibodies against rh +ve baby",
+    "options": {
+      "A": "Last trimster of 1st pregnancy",
+      "B": "Last trimster of 2nd pregnancy",
+      "C": "After delivery of 1st baby",
+      "D": "After confirmation of 2nd pregnancy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "At birth a baby girl has meconium in her vagina and no anal opening. What type of birth defect does she have?",
+    "options": {
+      "A": "Imperforate anus",
+      "B": "Imperforate anus with rectoaal fistula",
+      "C": "Imperforate anus with rectovaginal fistula",
+      "D": "Rectoanal fistula",
+      "E": "Rectovaginal fistula"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Tumour known to secrete excessive estrogen",
+    "options": {
+      "A": "Granulosa theca cell tumour",
+      "B": "Endometrial CA",
+      "C": "Cervical CA",
+      "D": "Cervical Polyp"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "A patient with obstructive azoospermia may have raised",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgG",
+      "D": "IgA",
+      "E": "IgE"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A 60 years old women is brought with bleeding per vagina. She is diabetic & hypertensive & one year back she was diagnosed as having carcinoma of endometrium. What can be most probable diagnosis for this bleeding p/v?",
+    "options": {
+      "A": "Carcinoma of colon",
+      "B": "Carcinoma of endometrium",
+      "C": "Endometrial metaplasia",
+      "D": "Carcinoma of cervix",
+      "E": "Cervical erosion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Clear cell tumor of ovary is:",
+    "options": {
+      "A": "Mucous carcinoma",
+      "B": "Serous carcinoma",
+      "C": "Teratoma",
+      "D": "Granulosa tumor",
+      "E": "Acinous carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "A female patient Delivered a baby Bay has tuft of hairs at back mother was taking diet rich in proteins and carbohydrates but deficient in fruits and vegetables. What is the reason of this condition?",
+    "options": {
+      "A": "Iron deficiency",
+      "B": "Folic acid deficiency",
+      "C": "Vitamin B12 deficiency",
+      "D": "Vitamin K deficiency",
+      "E": "Vitamin E deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "A primigravida presented in Labour for 2 hr at -2 station. Ultrasound showed a dead hydrocephalous baby.where would gynaecologist insert the needle to drain the CSF?",
+    "options": {
+      "A": "Anterior fonatanalle",
+      "B": "Posterior fontanalle",
+      "C": "Sagittal suture",
+      "D": "Coronal suture",
+      "E": "Lateral fontanale"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "A 35 years old lady recently lost her husband in a car accident she was psychologically disturbed and developed amenorrhea the most likely cause is",
+    "options": {
+      "A": "Decrease prolactin",
+      "B": "Increase CRH",
+      "C": "Decrease dopamine",
+      "D": "Decrease ACTH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "In hydrocele fluid accumulated in",
+    "options": {
+      "A": "Tunica Albugenia",
+      "B": "Tunica Vaginalis",
+      "C": "Tunica Medica",
+      "D": "Scrotum",
+      "E": "Parietal peritoneum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Multigravida came with bleeding due to failure of coagulation due to intrauterine fetus death. what is the initial management?",
+    "options": {
+      "A": "Evacuation",
+      "B": "Heparin",
+      "C": "Warfarin",
+      "D": "Coagulation profile"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "60 year old man with painless testicular swelling, biopsy shows mature stem cells. What is your diagnosis?",
+    "options": {
+      "A": "Teratoma",
+      "B": "Choriostoma",
+      "C": "Lymphoma",
+      "D": "Mixed tumor",
+      "E": "Granulosa cell tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Which of the following liver disease is most fatal in pregnancy?",
+    "options": {
+      "A": "Acute viral hepatitis",
+      "B": "Drug induced hepatitis",
+      "C": "Fatty liver of pregnancy",
+      "D": "Intrahepatic cholestastis",
+      "E": "Obstructed jaundice"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "A pregnant women at 14 week of gestation complaones of hyperemesis gravidarum along with the passage of vesicles and bleeding per vaginally what is your diagnosis?",
+    "options": {
+      "A": "Abortion",
+      "B": "Ectopic pregnancy",
+      "C": "GTD",
+      "D": "Appendicitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "After miscarriage female bleed heavily what is best regimen for management",
+    "options": {
+      "A": "Antibiotics, ffp, Packed Rbcs, Evacuation and transmine",
+      "B": "heparin, normal saline, packed rbs and platelets and evacuation",
+      "C": "transamine, packed rbcs and platelets",
+      "D": "Dextrose saline"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "24 year old woman pregnant in second trimester pregnancy terminate, spontaneous abortion occur how many chromosome will be present",
+    "options": {
+      "A": "69",
+      "B": "47",
+      "C": "46",
+      "D": "23"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "A girl with cyclical lower abdominal pain every month with amenorrhea presented to you. P/A exam normal.Hymen ring normal",
+    "options": {
+      "A": "Didelphys uterus",
+      "B": "Bicornuate uterus",
+      "C": "Imperforate hymen",
+      "D": "Cervical atresia",
+      "E": "Vaginal septum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "During childbirth, if there is a significant decrease in anal tone, what diagnostic test can be used to assess and monitor the anal sphincter function?",
+    "options": {
+      "A": "Ultrasound imaging",
+      "B": "X-ray examination",
+      "C": "Magnetic resonance imaging (MRI)",
+      "D": "Anal manometry",
+      "E": "Transvaginal scan"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Boy with sudden increase in height, 2ndary sexual characteristics and enlarge penis with gonadotrophins are normal, lesion of:",
+    "options": {
+      "A": "Leydig cell tumors",
+      "B": "Pituitary",
+      "C": "Increase gonadotrophins",
+      "D": "Hypothalamua"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "A pregnant lady came with premature rupture of membrane she is suspected to have chorioamnionitis. To confirm intra amniotic infection which test should be done?",
+    "options": {
+      "A": "Amniotic fluid culture",
+      "B": "Cytokine",
+      "C": "IL 8",
+      "D": "IL 6",
+      "E": "TNF"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Bilateral testes removed will result in",
+    "options": {
+      "A": "Anxiety",
+      "B": "Lose of libido",
+      "C": "Increase sex drive",
+      "D": "Increase testosterone",
+      "E": "Irritability and hot flashes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "An Old patient presents with enlarged prostate and there marked weight loss MRI done and bony metastasis and lytic lesion observed. What finding will be there?",
+    "options": {
+      "A": "Increased AFP",
+      "B": "PSA >11.2",
+      "C": "Raised Estradiol",
+      "D": "Increase CEA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "There is variation in incidence of preeclampsia most significant change in fall of this is due to:",
+    "options": {
+      "A": "Unanimous definition of disease",
+      "B": "Decrease induction of Labour",
+      "C": "Decrease edema of pregnant women",
+      "D": "Fall in maternal and perinatal mortality"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Band syndrome causes:",
+    "options": {
+      "A": "Oligohydramnios",
+      "B": "Polyhydramnios",
+      "C": "Atresia",
+      "D": "Anencephlay"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Most common cause of subfertility?",
+    "options": {
+      "A": "Autoimmune",
+      "B": "Anovulation",
+      "C": "Premature ovarian failure",
+      "D": "Low FSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "A 24 years old married female having secondary amenorrhea her FSH n LH levels are high, u/s of pelvis doesn't show any uterine abnormality. What can be possible cause?",
+    "options": {
+      "A": "Ovarian tumor",
+      "B": "Autoimmunity",
+      "C": "Gonadal failure",
+      "D": "Dysgerminoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "A female Pregnancy got terminated at 20th week now having nipple discharge after procedure this is most likely:",
+    "options": {
+      "A": "Hyperprolactinemia of pregnancy",
+      "B": "Prolactinoma",
+      "C": "Drug induced prolactinoma",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Old age patient having recurrent UTI PSA 3.5 on DRE enlarged firm prostate this is likely:",
+    "options": {
+      "A": "Pyelonephritis",
+      "B": "Prostate Adenocarcinoma",
+      "C": "BPH",
+      "D": "UTI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "27 years old woman presented with the complaints of weight gain, menorrhoea and fatigue. Last year, she experienced a complicated delivery requiring a 2units of blood transfusion. She was unable to breastfeed. On examination she has dry skin and hypotension. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Conn disease",
+      "B": "Sheehan syndrome",
+      "C": "Addison syndrome",
+      "D": "Nelson syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Patient at 20 weeks gestation, passing clots and vesicles, what finding will be present?",
+    "options": {
+      "A": "Increase AFP",
+      "B": "Increase CEA level",
+      "C": "Increase Beta HCG",
+      "D": "Low HCG",
+      "E": "Increase CA 19-9"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Ovarian Cancer first metastasizes to:",
+    "options": {
+      "A": "Another ovary",
+      "B": "External iliac nodes",
+      "C": "Uterus",
+      "D": "Inguinal lymph nodes",
+      "E": "Paraaortic lymph nodes"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Progesterone is given to patient what's will be it's complication?",
+    "options": {
+      "A": "Acne",
+      "B": "Premenstrual tension",
+      "C": "Swelling",
+      "D": "Hump",
+      "E": "Mastalgia"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "After how much time repeated semen analysis should be done",
+    "options": {
+      "A": "1 month",
+      "B": "2month",
+      "C": "4 month",
+      "D": "2 weeks"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Indication to start treatment of complete mole?",
+    "options": {
+      "A": "Age above 30",
+      "B": "Beta HCG>20000",
+      "C": "Increase B-HCG at first sample",
+      "D": "No treatment"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "The pathogenesis behind Hydatidiform mole is?",
+    "options": {
+      "A": "Abnormal trophoblastic proliferation",
+      "B": "Decrease vascular supply",
+      "C": "Abnormal conception",
+      "D": "Karyotyping abnormality"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "A patient presented at 20 weeks of gestation with passage of masses, clots and vesicles. What lab finding will be present?",
+    "options": {
+      "A": "Increased AFP",
+      "B": "Increased CEA",
+      "C": "Increased Beta HCG",
+      "D": "Low Beta HCG",
+      "E": "Inc CA 19.9"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Female having family history of Hypertension. Her sister also had preeclampsia. What are chances of preeclampsia in primigravida.",
+    "options": {
+      "A": "2.3%",
+      "B": "5.7%",
+      "C": "12.3%",
+      "D": "14.1%",
+      "E": "14.5%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "A 65 years old diabetic lady presented with a history of post menopausal bleeding for 7 months. She has been hypertensive for 6 years. She had her menopause 7 years back. Now her endometrial thickness is 15mm. What's your diagnosis?",
+    "options": {
+      "A": "Adenomyosis",
+      "B": "Endometrioisis",
+      "C": "Simple hyperplasia",
+      "D": "Endometrial adenocarcinoma",
+      "E": "Adenocarcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Risk to stop Estrogen therapy in postmenopausal female after giving it for 3 years:",
+    "options": {
+      "A": "Alzehimer",
+      "B": "Migraine",
+      "C": "DVT",
+      "D": "Liver Disease",
+      "E": "Endometrioisis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "A 6 year old girl with axillary and pubic hair and vaginal spotting. There is no development of secondary sexual characteristics. What's the diagnosis?",
+    "options": {
+      "A": "Congenital adrenal hyperplasia",
+      "B": "Granulosa theca cell tumor",
+      "C": "Sertoli leydig cell tumor",
+      "D": "Dermoid cyst",
+      "E": "Idiopathic Precocious Puberty"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "16 weeks pregnant lady with ultrasound finding of increased amniotic fluid. She was advised to do Beta HCG and after two weeks AFP. Later on AFP comes out to be raised. What is likely diagnosis",
+    "options": {
+      "A": "Spina bifida occulta",
+      "B": "Renal ageneis",
+      "C": "Down syndrome",
+      "D": "Anencephaly",
+      "E": "Dextrocardia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "A 27 year old male having testicular tumor of non seminomatous type lab findings will be",
+    "options": {
+      "A": "PSA",
+      "B": "Acid phosphatase",
+      "C": "B-HCG",
+      "D": "Fructose",
+      "F": "ALP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "After vasectomy ductus defence ligated on upper part of scrotum. Ejaculate after 2 months will contain:",
+    "options": {
+      "A": "Seminal and prostatic fluid",
+      "B": "Sperms + Seminal Fluid",
+      "C": "Sperm count decrease",
+      "D": "Prostatic fluid and sperm only",
+      "E": "Sperm+Seminal Fluid+Prostatic Fluid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "A young male having scrotal mass and raised LDH probable diagnosis is which of following?",
+    "options": {
+      "A": "Hydrocele",
+      "B": "Omphocele",
+      "C": "Testicular lymphoma",
+      "D": "Seminoma",
+      "E": "Teratoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "A female having curly white vaginal discharge along with intense itching.l swap sample shows pseudohyphae.Casuative agent?",
+    "options": {
+      "A": "Gononrrhea",
+      "B": "Syphilis",
+      "C": "Candida albicans",
+      "D": "Chlamydia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "A 26 year old healthy woman with regular menstrual cycle was a passenger in bus which met an accident. She was uninjured but her husband and son died in ensuing years her menses ceased and she had frequent nightmares about the accident the most likely reason for her amenorrhea is",
+    "options": {
+      "A": "Decrease CRH secretion",
+      "B": "Decrease dopamine secretion",
+      "C": "Increase CRH secretion",
+      "D": "Increase growth hormone secretion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "After cesarean section, female presented with incontinence and there is a significant decrease in anal tone, what monitor the anal sphincter function?",
+    "options": {
+      "A": "Ultrasound imaging",
+      "B": "X-ray examination",
+      "C": "Magnetic resonance imaging (MRI)",
+      "D": "Anal manometry",
+      "E": "Transvaginal scan"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "40 year female with heavy bleeding since six month on /off, endometrial biopsy shows endometrial hyperplasia cause is:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone",
+      "E": "Antions"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Patient came with generalized edema. Urine complete examination reveal Proteinuria. Cause of Edema in kidney disease is:",
+    "options": {
+      "A": "Portal HTN",
+      "B": "Low Oncotic Pressure",
+      "C": "Increase hydrostatic pressure",
+      "D": "Increase oncotic pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "A CSS officer presents with a deranged semen analysis report showing a pH of 7.2, a sperm count of 14 million, and low motility. He is concerned about his results. After what duration should his semen analysis be repeated?",
+    "options": {
+      "A": "Repeat sperm count in 2 weeks",
+      "B": "In 8 weeks",
+      "C": "In 12 weeks",
+      "D": "As soon as possible",
+      "E": "In 10 weeks"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Testes develop at:",
+    "options": {
+      "A": "38 Weeks",
+      "B": "26 Weeks",
+      "C": "32 Weeks",
+      "D": "40 Weeks"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Sperm synthesis temperature:",
+    "options": {
+      "A": "28'C",
+      "B": "42'C",
+      "C": "36'C",
+      "D": "20'C"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "A 32-year-old woman presents with irregular periods and is diagnosed with a prolactinoma. What is the most likely cause of her irregular menstrual cycles?",
+    "options": {
+      "A": "Diminished dopamine levels",
+      "B": "Pressure effects on FSH & LH secretion",
+      "C": "Suppression of GnRH secretion",
+      "D": "Increased estrogen levels"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "34 Years old female patient, Having children, presents with oligomenorrhea, U/S shows Bilaterally enlarged ovaries What other symptoms might this patient exhibit?",
+    "options": {
+      "A": "Increase in estrogen",
+      "B": "Hirsutism",
+      "C": "Increased FSH & LH",
+      "D": "Prolactinoma",
+      "E": "B(PCOS)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "A 2 years old child presented with bilaterally undescended testes. Investigation of Choice.",
+    "options": {
+      "A": "MRI",
+      "B": "CT Scan",
+      "C": "USG Abdomen",
+      "D": "Karyotyping",
+      "E": "Contrast"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "A male patient was presents in OPD, On physical examination he is tall and has small testes and has gynecomastia which of the following investigation will reach the diagnosis",
+    "options": {
+      "A": "Bar body",
+      "B": "Ultrasound",
+      "C": "CT scan",
+      "D": "Karyotyping",
+      "E": "FSH and LH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "year old male patient present in surgery OPD with a right inguinal mass On physical examination cough sign was negative and surgeon cannot get above the swelling which is your diagnosis",
+    "options": {
+      "A": "Testicular tumor",
+      "B": "Hydrocele",
+      "C": "Hematocele",
+      "D": "Inguinal hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "In a twin gestation, one fetus is noted to have significantly lower amniotic fluid index of 3 as (AFI) compared to the other which is having AFI of 18... diagnosis?",
+    "options": {
+      "A": "Twin-twin transfusion syndrome (TTTS)",
+      "B": "Intrauterine growth restriction (IUGR) of the second twin",
+      "C": "Intrauterine growth restriction (IUGR) of the first twin",
+      "D": "Chromosomal abnormality",
+      "E": "Renal Agenesis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "An unmarried young woman presents to the ER with heavy menstrual bleeding, severe abdominal pain, and fluid in the pouch of Douglas. On laparoscopy, a ruptured ovarian cyst is observed. What is the most likely diagnosis?",
+    "options": {
+      "A": "Ruptured ovarian cyst",
+      "B": "Ruptured ectopic pregnancy",
+      "C": "Pelvic inflammatory disease",
+      "D": "Endometriosis",
+      "E": "A(Ruptured Endometriotic Cyst)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Pregnant woman Presents with Increasing Bp. Investigations reveal elevated liver Enzymes & Low platelets. Hb was 10g/dL and bilirubin 1.4mg/dL(Normal 0.1- 1.2mg/dL).Diagnosis:",
+    "options": {
+      "A": "HELLP",
+      "B": "Eclampsia",
+      "C": "Pre Eclampsia",
+      "D": "Cholestasis of pregnancy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "A 30 year old female patient presented in Gynae OPD with vaginal bleeding On ultrasound there was grape like mass as a case of complete mole through which of the following u will monitor the patient",
+    "options": {
+      "A": "Beta-HCG",
+      "B": "AFP",
+      "C": "CBC",
+      "D": "WBC count",
+      "E": "Karyotyping"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Female with 2 kids wants contraception. Failure rate of IUCD is:",
+    "options": {
+      "A": "2-5 %",
+      "B": "3-5 %",
+      "C": "10%",
+      "D": "Less than 1%"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "On In utero study its revealed that there is absent vagina and testes with abdomen and scrotum cause is",
+    "options": {
+      "A": "Increased LH",
+      "B": "Decreased Testosterone in mother",
+      "C": "Decreased Estrogen",
+      "D": "Testosterone producing tumor in mother"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "6- year-old male child presents with hirsutism and ambiguous genitalia. Laboratory findings reveal elevated urinary 17-ketosteroids and an abnormal XX chromosome karyotype. What is the most likely diagnosis?",
+    "options": {
+      "A": "Congenital Adrenal Hyperplasia",
+      "B": "Androgen insensitivity syndrome",
+      "C": "Mixed Gonadal Dysgenesis",
+      "D": "Fetal aromatase deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "woman with a family history of ovarian carcinoma in her mother presents with complaints of irregular menstrual periods. A histopathological examination of the ovary is performed. Which type of ovarian follicle is most likely to be observed?",
+    "options": {
+      "A": "Primordial follicle",
+      "B": "Primary follicle",
+      "C": "Pre-antral follicle",
+      "D": "Antral follicle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "A 45-year-old woman presents with abdominal pain and vaginal bleeding. A hysterectomy is performed and shows a benign tumor of the uterus derived from a smooth muscle cell forming spindles on Histology of Endometrium. What is the appropriate diagnosis?",
+    "options": {
+      "A": "Angiomyolipoma",
+      "B": "Leiomyoma",
+      "C": "Rhamdomyoma",
+      "D": "NF1",
+      "E": "Leimyosarcoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A patient with known history of Left sided varicocele having Sperm's motility of 15% & total sperm count is 10 million. Which condition is he suffering from?",
+    "options": {
+      "A": "Azoospermia",
+      "B": "Oligospermia",
+      "C": "Asthenozoospermia",
+      "D": "Teratozoospermia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "A patient had uncomplicated C section with pfannenstiel incision. After 1 week, she presented with fever, hypotension and tenderness. O/E foul smelling discharge from vagina. Investigation reveal normal TLC. Cause is",
+    "options": {
+      "A": "Chorioamnionitis",
+      "B": "Nectrozing fasciitis",
+      "C": "Septic thrombophlebitis",
+      "D": "Pelvic hematoma",
+      "E": "Myxedema peritonei"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "A male presents with infertility. All lab values, including testosterone, LH, and FSH, are normal, while prolactin is borderline raised (28). What is the most likely cause of infertility?",
+    "options": {
+      "A": "Hypogonadotropic hypogonadism",
+      "B": "Primary hypogonadism",
+      "C": "Antibodies against testes/testosterone",
+      "D": "Blockage at the level of vas deferens",
+      "E": "Hyperprolactinemia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "A female antenatal patient at 18 weeks of pregnancy presents with intense abdominal pain and tenderness. On examination, Irregular abdominal girth & the fundal height corresponds to 24 weeks. Investigations reveal TLC count of 1500/ul. R/E shows 4 pus cells.What is the most likely cause of her condition?",
+    "options": {
+      "A": "Pregnancy with fibroid",
+      "B": "Twisted ovarian cyst",
+      "C": "UTI",
+      "D": "Acute appendicitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "A 25 Years old obese married woman presented with infertility for 2years. On examination hirsutism and acne was present, Labs showed in LH: FSH ratio 3:1 Most common cause of PCOS:",
+    "options": {
+      "A": "Mature ovarian failure",
+      "B": "Prolactinoma",
+      "C": "Hypothyroidism",
+      "D": "PCOS"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "A 14 year old female patient presents in Gynae OPD with cyclical abdominal pain and primary amenorrhea on examination secondary sexual characteristics were well developed and on abdominal examination there was palpable abdominal mass on vaginal examination there was pinkish intact hymen membrane which of following is your diagnosis",
+    "options": {
+      "A": "Didelphys uterus",
+      "B": "Bicornuate uterus",
+      "C": "Imperforate hymen",
+      "D": "Cervical atresia",
+      "E": "Transverse Vaginal septum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "A 6-hour-old baby boy has been born to primigravida 8 hours in the 2nd stage of labor and a low APGAR score. He is limp, dusky, and grunting. The profiles of ABGs most likely reflect his condition as:",
+    "options": {
+      "A": "pH - 7.21; PCO2 - 72 mmHg; O2 sat. - 52%; HCO3 - 28 mmol/l",
+      "B": "pH - 7.23; PCO2 - 42 mmHg; O2 sat. - 55%; HCO3 - 14 mmol/l",
+      "C": "pH - 7.28; PCO2 - 48 mmHg; O2 sat. - 78%; HCO3 - 17 mmol/l",
+      "D": "pH - 7.19; PCO2 - 55 mmHg; O2 sat. - 75%; HCO3 - 16 mmol/l",
+      "E": "pH - 7.43; PCO2 - 40 mmHg; O2 sat. - 92%; HCO3 - 27 mmol/l"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "The female counterpart of seminoma, a common germ cell tumor in males, is",
+    "options": {
+      "A": "Embryonal carcinoma",
+      "B": "Immature teratoma",
+      "C": "Dysgerminoma",
+      "D": "Yolk sac tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "A female patient on hormone replacement therapy (HRT) presents with kidney stones. Which component of HRT is most likely responsible?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Testosterone",
+      "D": "Cortisol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "The presence of anti-FSH autoantibodies will lead to a decrease in which parameter?",
+    "options": {
+      "A": "Sperm count",
+      "B": "Testosterone",
+      "C": "DHEA",
+      "D": "LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "A 55-year-old woman presents with hot flashes, night sweats, and vaginal dryness. Laboratory tests show elevated FSH levels and an ultrasound reveals atrophic ovaries. What is the most likely diagnosis?",
+    "options": {
+      "A": "Polycystic ovary syndrome (PCOS)",
+      "B": "Premature ovarian failure",
+      "C": "Menopause",
+      "D": "Ovarian cancer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Which of the following is cause of increased androgens in PCOS?",
+    "options": {
+      "A": "Elevated insulin and LH",
+      "B": "Elevated LH only",
+      "C": "Estrogen",
+      "D": "FSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Which of the following is management of women undergoing postpartum haemorrhage after vaginal delivery if her Hb is 6.5g/dl and APTT 35s and PT is 11s",
+    "options": {
+      "A": "FFP",
+      "B": "Cryoprecipitate",
+      "C": "RBC concentrate",
+      "D": "Whole blood",
+      "E": "Fresh whole blood"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "40 years old females presents with bloody discharge from nipples ,no symptom of pruritus on examination of breast no any mass was palpable ,on lab investigation prolactin was normal which of the following is your diagnosis?",
+    "options": {
+      "A": "Ductal ectasia",
+      "B": "Intraductal papilloma",
+      "C": "Fibrocystic breast disease",
+      "D": "Breast Ca"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "26 year old female presents with normal menstrual history now presents with Deepening of voice, acne, hirsutism, irregular menses, On abdominal examination right ovarian mass palpable likely cause is:",
+    "options": {
+      "A": "Granulosa cell tumour",
+      "B": "Sertoli leydig cell tumour",
+      "C": "Dysgerminoma",
+      "D": "Serous adenocarcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "A 13 year old girl with menarche at age 10, now presents with oligomenorrhea and a right ovarian compact mass of about 8 cm, most likely cause is:",
+    "options": {
+      "A": "Granulosa cell tumour",
+      "B": "Sertoli leydig cell tumour",
+      "C": "Pituitary adenoma",
+      "D": "Mature Teratoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "A male underwent vasectomy, and he was suggested to use for contraception until?",
+    "options": {
+      "A": "8weeks",
+      "B": "Until surgery scars recovers",
+      "C": "Until next menstruation period of his partner",
+      "D": "Until semen is sperm free",
+      "E": "Until vasogram shows occlusion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "A 27 year old female patient presents in active labour with 7cm cervical dilation undergoes a manual amniotomy. Shortlyafter the procedure, she develops vaginal bleeding, and the fetal heart rate drops to 100bpm, what is the most appropriate next step in management?",
+    "options": {
+      "A": "Perform Simpson forceps delivery",
+      "B": "Apply ventose cup for assisted delivery",
+      "C": "Observe and wait for fetal heart rate return to 110bpm",
+      "D": "Proceed with immediate C section",
+      "F": "Blood transfusion reaction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "A 28 year old female patient in a labour is exhausted and requires an assisted vaginal delivery which of the following is most important factor in determining the choice of instruments?",
+    "options": {
+      "A": "Indication, training and experience",
+      "B": "Maternal consent, training and experience with the instruments",
+      "C": "Written consent, Training, and experience",
+      "D": "Experience & Material"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "A postpartum women experiences excessive bleeding, after delivering a normal, healthy placenta. What is the most appropriate initial management?",
+    "options": {
+      "A": "Bimanual compression",
+      "B": "Fundal (uterine) massage",
+      "C": "Empty clots from the uterus and vagina",
+      "D": "IV access",
+      "E": "Laproscopy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "How menopause is defined?",
+    "options": {
+      "A": "Amenorrhea for 1 year and hot flashes",
+      "B": "Amenorrhea for 1 year and atrophied ovaries",
+      "C": "Decreased levels of estrogen and increased levels of LH",
+      "D": "Increased levels of FSH and LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "A 25 years old female patient presents with per vaginal spotting since last night, her urine pregnancy test is positive, on Ultrasound there is a mass adjacent to the ovary what is the diagnosis?",
+    "options": {
+      "A": "Ovarian Torsion",
+      "B": "Tubal pregnancy (Ectopic)",
+      "C": "Ovarian Cyst",
+      "D": "Pelvic Inflammatory disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "A couple is on ovulation induction for 3 months, they want to know the fate of all developing follicles, which of the following best describes their outcome?",
+    "options": {
+      "A": "Degeneration",
+      "B": "Atresia",
+      "C": "Regression",
+      "D": "Ovulation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "A woman presents with a complaint of dyspareunia and dry vagina which of the following the treatment you will advised her?",
+    "options": {
+      "A": "HRT",
+      "B": "use water based or silicon based lubricants during intercourse",
+      "C": "Topical Estrogen Cream",
+      "D": "Antibiotics"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "25yrs old multiparous-woman presented with lower abdominal pain, on histology it showed solid cystic areas intermixed but on Laparoscopy it was semisolid with brown Centre & diagnosed as chocolate cyst. Treatment of Choice:",
+    "options": {
+      "A": "Ascard",
+      "B": "Clomiphine",
+      "C": "Danazol (Endometrioma)",
+      "D": "OCPS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Which of the following are male type features in PCOS",
+    "options": {
+      "A": "Weight gain",
+      "B": "Acne",
+      "C": "Obesity",
+      "D": "Histrutism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "A pregnant woman diagnosed with IUD fetus and thrombosis what is most appropriate next step in management?",
+    "options": {
+      "A": "Immediate delivery",
+      "B": "Start anticoagulation",
+      "C": "Immediate C section",
+      "D": "Discharge her and ask her to follow up in next week"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "A 25y old female patient presents with 8 weeks abortion which of the following hormonal levels are decrease in this patient causing miscarriage?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "FSH",
+      "D": "LH",
+      "E": "HCG"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Onset of puberty is due to:",
+    "options": {
+      "A": "Sensitivity to estradiol",
+      "B": "Increased production of gonadotropins",
+      "C": "Decrease in gonadal hormones",
+      "D": "FSH",
+      "E": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "To distinguish between primary and secondary hypogonadism in a patient presenting a tumor and decreased testosterone, which parameter is most relevant?",
+    "options": {
+      "A": "Luteinizing hormone (LH)",
+      "B": "Cortisol",
+      "C": "Follicle-stimulating hormone (FSH)",
+      "D": "Prolactin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Which of the following is a protective factor against endometrial carcinoma in an obese woman?",
+    "options": {
+      "A": "Smoking",
+      "B": "Polycystic ovary syndrome (PCOS)",
+      "C": "Late menarche",
+      "D": "Diabetes",
+      "E": "Sedentary lifestyle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "A young man is diagnosed with a testicular tumor. After resection, it was classified as non-seminomatous. Which of the following markers will be elevated?",
+    "options": {
+      "A": "ALP (Alkaline Phosphatase)",
+      "B": "Acid Phosphatase",
+      "C": "Beta-hCG",
+      "D": "PSA (Prostate-Specific Antigen)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A female patient presents with a feeling of fullness in the lower pelvis/abdomen and is diagnosed with glandular ovarian carcinoma. Histopathological examination reveals that all the tumor tissue has the same microscopic morphology. How would this tumor be classified?\"",
+    "options": {
+      "A": "Well-differentiated",
+      "B": "Poorly differentiated",
+      "C": "Moderately differentiated",
+      "D": "Undifferentiated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "A person is taking Oxygen. He will be Exhausted at:",
+    "options": {
+      "A": "100 oxygen for 24 hrs",
+      "B": "100 oxygen for 72 hrs",
+      "C": "100 oxygen at 1 atm",
+      "D": "100 oxygen at 760air"
+    },
+    "correct_answer": "B"
+  },
+   {
+    "mcq_number": 255,
+    "question_text": "Adenocarcinoma of colon first metastasize to:",
+    "options": {
+      "A": "Liver",
+      "B": "Mesocolic lymph",
+      "C": "Lung",
+      "D": "Bone",
+      "E": "Breast"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "In portal HTN following vein is likely to be dilated:",
+    "options": {
+      "A": "Esophageal",
+      "B": "Right gastric",
+      "C": "Azygous vein",
+      "D": "Inferior epigastric",
+      "E": "Inferior phrenic"
+    },
+    "correct_answer": "A"
+  }
+]

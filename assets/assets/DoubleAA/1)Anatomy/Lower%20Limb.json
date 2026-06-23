@@ -1,0 +1,3912 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Lateral side of foot is supplied by:",
+    "options": {
+      "A": "L3",
+      "B": "S1",
+      "C": "L4",
+      "D": "T1",
+      "E": "L2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "A boy fell from height, compression of sole of foot of which of following",
+    "options": {
+      "A": "Anterior arch of foot",
+      "B": "Superior arch of foot",
+      "C": "Tendon of peroneus longus",
+      "D": "Inferior arch of foot"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "A boy had fall from height of 10 feet his talus bone was fractured. Talus is related to which arch in the foot:",
+    "options": {
+      "A": "Medial",
+      "B": "Lateral",
+      "C": "Medial and Horizontal",
+      "D": "Horizontal",
+      "E": "Vertical"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Vertical group of inguinal lymph nodes receive drainage from?",
+    "options": {
+      "A": "Lower limb",
+      "B": "Upper limb",
+      "C": "Anal canal",
+      "D": "Big Thumb",
+      "E": "Rectum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A patient unable to rotate foot medially but can rotate laterally. Which group of muscles damaged:",
+    "options": {
+      "A": "Tibialis anterior/tibialis posterior",
+      "B": "Tibialis ant/ flexor digitorum",
+      "C": "Flexor pollicis longus",
+      "D": "Tibialis posterior/Flexor Hallucis longus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "External oblique muscle forms which ligament that lies in between the anterior superior iliac spine and pubic symphysis?",
+    "options": {
+      "A": "Lacunar ligament",
+      "B": "Inguinal ligament",
+      "C": "Femoral ligament",
+      "D": "Scrotal ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A Patient with C Section 5 weeks ago and at the site of scar there is hard, tender, irregular swelling due to:",
+    "options": {
+      "A": "Incisional hernia",
+      "B": "Scarring and deformation",
+      "C": "Infection",
+      "D": "Protruded omentum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Knee extended and locked in midstance position, due to lesion in which nerve?",
+    "options": {
+      "A": "Sciatic",
+      "B": "Obturator",
+      "C": "Femoral",
+      "D": "Tibial",
+      "E": "Popliteal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Which vein is used in Venepuncture:",
+    "options": {
+      "A": "Small saphenous vein",
+      "B": "Great sephanous vein",
+      "C": "Sural Nerve",
+      "D": "Femoral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Damage to the common peroneal nerve results in inability to:",
+    "options": {
+      "A": "Evert and dorsiflex the foot",
+      "B": "Plantar flex the foot",
+      "C": "Invert the foot",
+      "D": "Loss of innervation of medial side of the leg"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Small saphenous vein is accompanied by",
+    "options": {
+      "A": "Sural Nerve",
+      "B": "Tibial Nerve",
+      "C": "Femoral Nerve",
+      "D": "Sciatic Nerve",
+      "E": "Obturator Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Great sephanous vein passes through which of the following?",
+    "options": {
+      "A": "Fossa ovalis",
+      "B": "Inguinal canal",
+      "C": "Femoral canal",
+      "D": "Pubic tubercle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "An old patient presents with short leg which is laterally rotated. Which fracture is suspected?",
+    "options": {
+      "A": "Tibia",
+      "B": "Pubis",
+      "C": "Neck of Femur",
+      "D": "Hip",
+      "E": "Hip joint dislocation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Neck of femoral hernia lies:",
+    "options": {
+      "A": "Medial and below pubic tubercle",
+      "B": "Lateral and below pubic tubercle",
+      "C": "Medial and below inguinal ligament",
+      "D": "Lateral and below inguinal ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A Multiparous woman having non tender swelling in front of thigh below inguinal ligament, it is expansile and pulsatile, no history of fever and enlargement on Straining. Most likely Diagnosis is:",
+    "options": {
+      "A": "Femoral hernia",
+      "B": "Saphenavarix",
+      "C": "Femoral artery aneurysm",
+      "D": "Psoas abscess",
+      "E": "Inguinal hernia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A female patient presented with Incisional hernia. Which layer comes out first after skin and subcutaneous fats?",
+    "options": {
+      "A": "Cremesteric Fascia",
+      "B": "Transversalis Fascia",
+      "C": "Internal oblique",
+      "D": "Rectus Abdominis",
+      "E": "Conjoint tendon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Terminal branch of anterior tibial artery is which of the following?",
+    "options": {
+      "A": "Lateral Plantar Artery",
+      "B": "Fibular Artery",
+      "C": "Dorsalis Pedis Artery",
+      "D": "Perforating Branch of Fibular Artery",
+      "E": "Peroneal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A man has been rejected by army due to flat foot. Medial arch of foot has main support from which muscle?",
+    "options": {
+      "A": "Peroneus longus",
+      "B": "Peroneus Tertius",
+      "C": "Lateral Flexor digitorum",
+      "D": "Tibialis anterior muscle",
+      "E": "Flexor Hallucis longus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "During Anesthesia, Which nerve is commonly injured in lower limb?",
+    "options": {
+      "A": "Median nerve",
+      "B": "Ulnar nerve",
+      "C": "Common peroneal nerve",
+      "D": "Sciatic nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Popliteal fossa lymph nodes involved in infection. Primary site infected will be:",
+    "options": {
+      "A": "Lateral dorsal surface of foot",
+      "B": "Medial side of foot",
+      "C": "Medial side of calf",
+      "D": "Posterior side of calf",
+      "E": "Medial side of thigh"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Deep plantar artery is branch of:",
+    "options": {
+      "A": "Popliteal",
+      "B": "Peroneal",
+      "C": "Posterior interosseous",
+      "D": "Anterior interosseous",
+      "E": "Dorsalis pedis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Which vascular part of fibula is used for bone grafting?",
+    "options": {
+      "A": "Middle",
+      "B": "Upper",
+      "C": "Lateral",
+      "D": "Medial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "L5 root value damage results in which of the following?",
+    "options": {
+      "A": "Ankle drop",
+      "B": "Weak dorsiflexion",
+      "C": "Loss of eversion",
+      "D": "Loss of sensory supply"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Footballer got injury to lateral malleolus. What will happen?",
+    "options": {
+      "A": "Loss of eversion",
+      "B": "Loss of inversion",
+      "C": "Loss of sensation of foot",
+      "D": "Loss of plantarflexion",
+      "E": "Loss of sensation of dorsum of foot"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "On upper part of piriformis, which one passes?",
+    "options": {
+      "A": "Superior gluteal artery",
+      "B": "Inferior gluteal artery",
+      "C": "Inferior epigastric artery",
+      "D": "Genital branch of genitofemoral nerve",
+      "E": "Superior epigastric artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Pain due to ovary felt at medial side of thigh due to which nerve involvement?",
+    "options": {
+      "A": "Obturator",
+      "B": "Sciatic",
+      "C": "Femoral",
+      "D": "Pudendal",
+      "E": "Tibial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Highest point of iliac crest at level of:",
+    "options": {
+      "A": "L5",
+      "B": "L4",
+      "C": "Anterior superior iliac spine",
+      "D": "Inguinal ligament",
+      "E": "Posterior spine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "During Right inguinal hernia surgery, which structure is most probably seen",
+    "options": {
+      "A": "Pampiniform plexus",
+      "B": "Spermatic cord",
+      "C": "Femoral vien",
+      "D": "Obturator vein",
+      "E": "Femoral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Abduction of hip joint is limited by:",
+    "options": {
+      "A": "Pubofemoral",
+      "B": "Ileofemoral",
+      "C": "Ischiofemoral",
+      "D": "Hamstring muscle",
+      "E": "Abdominal wall"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Which of the following muscle causes hip and knee flexion?",
+    "options": {
+      "A": "Sartorius",
+      "B": "Adductor magnus",
+      "C": "Semitendinosus",
+      "D": "Gracilis",
+      "E": "Semi membranous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Saphnous nerve is terminal branch of which of the following?",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Posterior Cutaneous Femoral nerve",
+      "C": "Superficial Peroneal nerve",
+      "D": "Anterior Cutaneous femoral nerve",
+      "E": "Sciatic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Linea aspera of femur joins upward and medially to:",
+    "options": {
+      "A": "Pectineal line",
+      "B": "Intertrochanteric line",
+      "C": "Gluteal tuberosity",
+      "D": "All"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Which of the following ligament limits extension of Hip joint?",
+    "options": {
+      "A": "Pubofemoral",
+      "B": "Iliofemoral",
+      "C": "Ischiofemoral",
+      "D": "Hamstring muscle",
+      "E": "Abdominal wall"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Soleus muscle nerve supply is:",
+    "options": {
+      "A": "Femoral",
+      "B": "Popliteal",
+      "C": "Sural",
+      "D": "Tibial",
+      "E": "Obturator"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Psoas muscle insertion is at:",
+    "options": {
+      "A": "Greater trochanter",
+      "B": "Lesser trochanter",
+      "C": "Tubercle",
+      "D": "Shaft",
+      "E": "Iliatuberosities"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Referred pain from ureteric colic is felt in thigh due to the involvement of the following nerve:",
+    "options": {
+      "A": "Subcostal",
+      "B": "Iliohypogastric",
+      "C": "Ilioinguinal",
+      "D": "Genitofemoral"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "A patient presented with foot drop. Nerve involved?",
+    "options": {
+      "A": "Common peroneal nerve",
+      "B": "Superficial peroneal",
+      "C": "Femoral nerve",
+      "D": "Obturator nerve",
+      "E": "Tibial nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Athlete ran and felt pain in leg. Next day, he noticed swelling around the ankle joints although painful but able to stand on toes:",
+    "options": {
+      "A": "Plantaris",
+      "B": "Acchiles",
+      "C": "Politeus",
+      "D": "Plantaris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Patient in 40s presented with dilated and tortuous superficial veins with no other abnormality present. What's the cause?",
+    "options": {
+      "A": "Congenital absence",
+      "B": "Incompetence/ incomplete closure of valves",
+      "C": "Valve degeneration",
+      "D": "increase pressure of vien"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "A player had an injury on lateral side of knee, which artery is at risk of damage?",
+    "options": {
+      "A": "Anterior tibial artery",
+      "B": "Posterior tibial artery",
+      "C": "Obturator artery",
+      "D": "Femoral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Femoral pulse can be felt at:",
+    "options": {
+      "A": "Femoral canal",
+      "B": "Mid inguinal point",
+      "C": "Adductor canal",
+      "D": "Mid part below inguinal canat"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Tibial portion of sciatic lost, flexion of knee possible due to:",
+    "options": {
+      "A": "Long head of bicep femoris",
+      "B": "Short head of bicep femoris",
+      "C": "Tibialis anterior",
+      "D": "Tibialisposterior"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Muscle attached by aponeurosis:",
+    "options": {
+      "A": "Palmaris longus",
+      "B": "Orbicularis oculi",
+      "C": "Gastrocnemius",
+      "D": "Orbicularis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Blood supply to head of femur:",
+    "options": {
+      "A": "Medial Circumflex",
+      "B": "Retinacular",
+      "C": "Cylindrical",
+      "D": "Tibial"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Artery running with deep peroneal nerve:",
+    "options": {
+      "A": "Posterior Tibial",
+      "B": "Anterior Tibial",
+      "C": "Femoral",
+      "D": "Obturator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Patient in RTA has fracture of neck of fibula presented with inability to do eversion and dorsiflexion of foot. The damage has occurred to which nerve?",
+    "options": {
+      "A": "Peroneus longus",
+      "B": "Peroneusbrevis",
+      "C": "Tibial nerve",
+      "D": "Common peroneal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Patient sustained injuries in RTA, and then presented with gait problem. On examination he was asked to stand on his left leg, while doing so his Right pelvis sinks. Which of the following is most probably damaged?",
+    "options": {
+      "A": "Left gluteus maximus",
+      "B": "Left gluteus medius",
+      "C": "Right gluteusmedius",
+      "D": "Right gluteus minimus",
+      "E": "Right gluteus maximus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Adductor longus nerve supply?",
+    "options": {
+      "A": "Anterior part of obturator nerve",
+      "B": "Posterior part of obturator nerve",
+      "C": "Femoral nerv",
+      "D": "Tibial Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Adult femoral head blood supply?",
+    "options": {
+      "A": "Medial and lateral circumflex artery",
+      "B": "Obturator artery",
+      "C": "Nutrient artery",
+      "D": "Tibial"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "The muscle involved in unlocking of knee joint is:",
+    "options": {
+      "A": "Popliteus",
+      "B": "Quadricep",
+      "C": "Gluteus maximus",
+      "D": "Gluteus Minimus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Long head of bicep femoris is innervated by:",
+    "options": {
+      "A": "Fibular nerve",
+      "B": "Femoral nerve",
+      "C": "Tibial nerve",
+      "D": "Deep peroneal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Muscle causing eversion of foot:",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Tibialis posterior",
+      "C": "Extensor digitorum longus",
+      "D": "Peroneus longus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Which of the following is intra articular",
+    "options": {
+      "A": "Popliteus",
+      "B": "MCL",
+      "C": "LCL",
+      "D": "Bicep femoris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Inguinal ligament is formed by the aponeurosis of:",
+    "options": {
+      "A": "External oblique muscle",
+      "B": "Internal oblique muscle",
+      "C": "Pisiforms",
+      "D": "Transverse abdominus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Deltoid ligament restricts:",
+    "options": {
+      "A": "Dorsiflexion",
+      "B": "Plantar flexion",
+      "C": "Inversion",
+      "D": "Eversion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Muscle responsible for dorsiflexion:",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Tibialis posterior",
+      "C": "Gastrocnemius",
+      "D": "Rectus femoris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Patient had difficulty in standing and waddling gait. Nerve involved:",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Femoral nerve",
+      "C": "Obturator nerve",
+      "D": "Superior gluteal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Infection of big toe is carried to which of the following lymph nodes:",
+    "options": {
+      "A": "Medial group of superficial inguinal lymph node",
+      "B": "Lateral group of superficial inguinal lymph node",
+      "C": "Vertical group of superficial inguinal lymph node",
+      "D": "Femoral lymph nodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Foot drop involves which nerve:",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Sup peroneal nerve",
+      "C": "Anterior tibial nerve",
+      "D": "Dorsalis pedis nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Superficial inguinal ring is formed by",
+    "options": {
+      "A": "Psoas facia",
+      "B": "Facia transversalis",
+      "C": "External oblique aponeurosis",
+      "D": "Internal oblique muscle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Which of the following is not attached to greater trochanter?",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Gluteus minimus",
+      "C": "Obturaterinternus",
+      "D": "Priformis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Eversion of foot is caused by",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Proneus Longus",
+      "C": "Tibialis posterior",
+      "D": "Flexor polices longus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Root value of femoral nerve:",
+    "options": {
+      "A": "L1- L2",
+      "B": "L2 – L4",
+      "C": "S1",
+      "D": "T10 – T12"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Adductor canal pus compression causes damage to which structure:",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Saphenous nerve",
+      "C": "Superficial femoral artery",
+      "D": "Sural Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Cremasteric muscle nerve supply:",
+    "options": {
+      "A": "Genitofemoral",
+      "B": "Femoral",
+      "C": "Obturato",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A young boy is brought to the hospital after a bicycle accident and possible pelvic fracture. While awaiting a computed tomography (CT) scan of his pelvis, a physician proceeds with a focal neurologic examination. In testing the child's reflexes, which of the following nerves would carry afferent impulses of the cremasteric reflex?",
+    "options": {
+      "A": "Subcostal Nerve",
+      "B": "Lateral Femoral Cutaneous Nerve",
+      "C": "Genito-Femoral Nerve",
+      "D": "Iliohypogastric Nerve",
+      "E": "Femoral Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Aponeurosis of internal oblique muscle forms:",
+    "options": {
+      "A": "Conjoint tendon",
+      "B": "External oblique",
+      "C": "Transversfascua",
+      "D": "Deep ring"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "If a patient develops fracture of head of fibula, nerve damaged that will lead to foot drop will be:",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "CPN",
+      "C": "Femoral nerve",
+      "D": "Sciatic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "60-year-old develop pain in calf muscles after walking 100yards Pain due to:",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Popliteal vein",
+      "C": "Tibial artery",
+      "D": "Femoral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Loss of Knee Jerk due to damage to",
+    "options": {
+      "A": "L3",
+      "B": "L4",
+      "C": "L5",
+      "D": "L6"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Anterior cruciate ligament injury tibia dislocation",
+    "options": {
+      "A": "Anterior",
+      "B": "Anteromedial",
+      "C": "Anterolateral",
+      "D": "Posterior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Numbers of valves in saphenous vein:",
+    "options": {
+      "A": "20",
+      "B": "15",
+      "C": "30",
+      "D": "5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Footballer had a hard blow on lateral side of knee, the structure likely damaged is:",
+    "options": {
+      "A": "Lateral collateral ligament",
+      "B": "Anterior cruciate ligament",
+      "C": "Medial collateral ligament",
+      "D": "Medial meniscus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Structure damaged at neck of fibula:",
+    "options": {
+      "A": "Anterior tibial artery",
+      "B": "Posterior tibial artery",
+      "C": "Tibial nerve",
+      "D": "Tibial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Abdominal contents bulge through vaginal process with covering of spermatic cord?",
+    "options": {
+      "A": "Direct",
+      "B": "Indirect",
+      "C": "Femoral",
+      "D": "Umbilical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Regarding L4 dermatome:",
+    "options": {
+      "A": "Front of Foot",
+      "B": "Front of calf",
+      "C": "Skin around knee",
+      "D": "Medial side of calf"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Fracture of acetabulum posterolaterally which bones are fractured?",
+    "options": {
+      "A": "Pubis",
+      "B": "Sacrum",
+      "C": "Ischium & ilium",
+      "D": "Public symphysis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Medial to femoral hernia:",
+    "options": {
+      "A": "Lacunar ligament",
+      "B": "Pectineal ligament",
+      "C": "Medially – Lacunar ligament",
+      "D": "Laterally – Femoral vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Muscles of abduction of Hip:",
+    "options": {
+      "A": "Gluteus medius +Minimus",
+      "B": "Gluteus maximus",
+      "C": "Obturator internus",
+      "D": "Piriformis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "32-year-old carpenter fell from the roof. The lateral longitudinal arch of his foot was flattened from fracture and displacement of the keystone for the arch. Which of the following bones is damaged?",
+    "options": {
+      "A": "Calcaneu",
+      "B": "Cuboid bone",
+      "C": "Head of the talus",
+      "D": "Medial cuneiform",
+      "E": "Navicular bone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Venous thrombosis most commonly present in:",
+    "options": {
+      "A": "Lung",
+      "B": "Leg",
+      "C": "Heart",
+      "D": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Femoral artery is branch of:",
+    "options": {
+      "A": "Internal iliac artery",
+      "B": "External iliac artery",
+      "C": "Internal pudendal",
+      "D": "External pudendal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Most common source of pulmonary embolism is",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Popliteal vein",
+      "C": "Saphenous vein",
+      "D": "Superficial veins"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "A 35 year old male laborer presented with acute sudden pain radiating along the posterior aspect of the left lower limb, his symptoms started after lifting heavy container 03 days back, on examination straight leg raising is restricted to only 30 degree on the left side decreased sensation along lateral boarder of left foot weakness of left flexor hallucis longus and diminished ankle jerk this patient has compression of which of the following:",
+    "options": {
+      "A": "S1 root",
+      "B": "S3 root",
+      "C": "S4 root",
+      "D": "S5 root",
+      "E": "Sciatic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Head of femur blood supply in children:",
+    "options": {
+      "A": "Retinacular Artery",
+      "B": "Circumflex Artery",
+      "C": "Obtuator Artery",
+      "D": "Arcuate Artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Nerve that passes through superficial inguinal ring:",
+    "options": {
+      "A": "Sciatic Nerve",
+      "B": "Femoral Nerve",
+      "C": "Ilioinguinal Neve",
+      "D": "Obtrurator Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Femoral sheath is formed by",
+    "options": {
+      "A": "Internal Iliaca& Fascia Transversalis",
+      "B": "Fascia Lata& Fascia Iliaca",
+      "C": "Fascia Posas&Iliaca",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Squash Player lesser trochanter of femur injured which of the following muscle damaged",
+    "options": {
+      "A": "Psoas",
+      "B": "Sartorius",
+      "C": "Gluteus medius",
+      "D": "Gluteus Maximus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Stability of knee joint is by:",
+    "options": {
+      "A": "Vastus Medialis",
+      "B": "Vastus Lateralis",
+      "C": "Sartorius",
+      "D": "Adductor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Supply of lateral skin of knee:",
+    "options": {
+      "A": "Obturator nerve",
+      "B": "Femoral nerve",
+      "C": "Sciatic Nerve",
+      "D": "Common peroneal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Which of the following is the main pillar of medial longitudinal arch of the foot:",
+    "options": {
+      "A": "Talus",
+      "B": "Calcaneum",
+      "C": "Cuboid",
+      "D": "Cuneiform"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Blow at anterior inferior iliac spine, muscle damaged in pelvic avulsion:",
+    "options": {
+      "A": "Sartorius",
+      "B": "Rectus Femoris",
+      "C": "Obturator internus",
+      "D": "Hamstrings"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Operating on the inguinal hernia, surgeon found that the hernia is immediately medial to inferior epigastric artery, what type of hernia was the surgeon operating",
+    "options": {
+      "A": "Indirect inguinal hernia",
+      "B": "Direct inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Umbilical hernia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Lateral side of foot and from the back and lateral side of calf lymphatic drains into:",
+    "options": {
+      "A": "Vertical group Lymph node",
+      "B": "Horizontal group lymph nodes",
+      "C": "Deep Inguinal lymph nodes",
+      "D": "Popliteal lymph nodes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Which of the following nerve supplies obturator externus muscle:",
+    "options": {
+      "A": "Anterior division of obtuator nerve",
+      "B": "Posterior division of obtruator nerve",
+      "C": "Femoral nerve",
+      "D": "Sciatic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Superficial thrombophlebitis involves which of the following?",
+    "options": {
+      "A": "Saphenous Vein",
+      "B": "Deep veins",
+      "C": "Asymptomatic",
+      "D": "Perforators"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Which of the following Hernia is associated with herniation through Hesselbach's triangle?",
+    "options": {
+      "A": "Indirect Inguinal hernia",
+      "B": "Direct Inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Lumber hernia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "At Mc Burney's point during appendectomy, the structure likely to be damaged is:",
+    "options": {
+      "A": "Femoral Nerve",
+      "B": "Iliohypogastric Nerve",
+      "C": "Deep Circumflex Artery",
+      "D": "Superficial Circumflex Artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Which of the following muscle leads to Knee flexion & hip extension?",
+    "options": {
+      "A": "Sartotius",
+      "B": "Semitendinosus",
+      "C": "Adductor magnus",
+      "D": "Rectus Femoris"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Common peroneal nerve relation to bicep femoris tendon in popliteal fossa:",
+    "options": {
+      "A": "Medial",
+      "B": "Lateral",
+      "C": "Anterior",
+      "D": "Posterior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Which of the following muscle flexes the hip joint?",
+    "options": {
+      "A": "Gluteus Maximus",
+      "B": "Adductor magnus",
+      "C": "Semimembraneous",
+      "D": "Psoas"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "An old man falls from the bed, fractured the neck of femur. Cause of osteoporosis:",
+    "options": {
+      "A": "Poor diet",
+      "B": "Decrease blood supply",
+      "C": "Old age",
+      "D": "Hormonal insufficiency"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "The nerve supply to the gracillis muscle is from:",
+    "options": {
+      "A": "Pudendal nerve",
+      "B": "Iliohypogastric nerve",
+      "C": "Obturator nerve",
+      "D": "Both obturator and pudendal nerves"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "The nerve that causes dorsiflexion of the foot",
+    "options": {
+      "A": "Popliteal nerve",
+      "B": "Deep peroneal nerve",
+      "C": "Tibialnerv",
+      "D": "Saphenous nerv",
+      "E": "Superficial peroneal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Medial border of inguinal triangle is formed by:",
+    "options": {
+      "A": "Lateral border of rectus abdominis",
+      "B": "Inguinal ligament",
+      "C": "Inferior epigastric vessels",
+      "D": "Medial boardier of rectus abdominis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "A patient with Sciatic nerve compression, root value is",
+    "options": {
+      "A": "S1",
+      "B": "S2",
+      "C": "S3",
+      "D": "S4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Superficial inguinal LN drains:",
+    "options": {
+      "A": "Lower body of uterus",
+      "B": "Cervix",
+      "C": "Vagina above hymen",
+      "D": "Ureter",
+      "E": "Vagina below hymen"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Root value of femoral and Obturator nerve?",
+    "options": {
+      "A": "L2 - L3",
+      "B": "S1 – S2",
+      "C": "T2 – T6",
+      "D": "L1 – L2",
+      "E": "L2 – L3 – L4"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Damage to lateral thigh lateral popliteal nerve and eversion lost related to",
+    "options": {
+      "A": "L2",
+      "B": "L3",
+      "C": "Sciatic",
+      "D": "L4"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Dual nerve supply to which muscle?",
+    "options": {
+      "A": "Soleus",
+      "B": "Adductor femoris",
+      "C": "Adductor Magnus",
+      "D": "Gastrocnemius"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Dorsum of foot is supplied by which of the following nerve?",
+    "options": {
+      "A": "Sural",
+      "B": "Saphenous",
+      "C": "Tibial",
+      "D": "Superficial peroneal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Inversion of foot by which muscle?",
+    "options": {
+      "A": "Peroneus longus.",
+      "B": "Peroneus tertius.",
+      "C": "Tibialis posterior & anterior",
+      "D": "Gastrocnemius"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A young man presents with complaint of low grade fever, generalized weakness, backache and swelling in front of thigh. On examination he has swelling above and below the inguinal ligament which disappears on lying down diagnosis?",
+    "options": {
+      "A": "Aneurysm of femoral Artery",
+      "B": "Femoral hernia",
+      "C": "Inguinal hernia",
+      "D": "Psoas abscess",
+      "E": "Saphenavarix"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Regarding the pubic symphysis, what type of joint is it?",
+    "options": {
+      "A": "Fibrous",
+      "B": "Condyloid",
+      "C": "Synovial",
+      "D": "Primary Cartilaginous",
+      "E": "Secondary Cartilaginous"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Patient having positive trendelenburg sign muscles involved:",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Sartorius muscle",
+      "C": "Gluteus medius and minimus",
+      "D": "Psoas"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "If contents go into processes vaginalis, and through the spermatic cord, what hernia?",
+    "options": {
+      "A": "Direct inguinal hernia",
+      "B": "Indirect inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Indirect inguinal hernia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A young lady complains of lower limb pain radiating to the back of the thigh below knee joint upto medial melleolus which root value of nerve involved:",
+    "options": {
+      "A": "L1",
+      "B": "L2",
+      "C": "L3",
+      "D": "L4",
+      "E": "L5"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Regarding vessels of lower limb:",
+    "options": {
+      "A": "Cruciate anastomosis is b/w femoral artery and external iliac artery",
+      "B": "Short saphenous starts from medial side of foot",
+      "C": "Long saphenous ends in mid thigh",
+      "D": "Femoral vein is lateral to femoral canal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "In some children Dorsalis pedis Artery is missing congenitally. Then dorsum of foot will be supplied by which artery",
+    "options": {
+      "A": "Plantar Arch",
+      "B": "Lateral plantar artery",
+      "C": "Peroneal artery",
+      "D": "Medial plantar artery",
+      "E": "1st metatarsal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "A child with infection blood is needed for lab studies. Vensection done. Which structure will be damaged",
+    "options": {
+      "A": "Saphenous nerve",
+      "B": "Common peroneal nerve",
+      "C": "Superficial peroneal nerve",
+      "D": "Tibial nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Patient presented with injury to lower legs, it was found that tibial part of sciatic nerve was damaged but still there was some flexion remaining in knee, what nerve is there:",
+    "options": {
+      "A": "Short head of bicep femoris",
+      "B": "Long head of bicep femoris",
+      "C": "Obtuatorartrey",
+      "D": "Retinacularatrey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A 30 year female presented to ER after accident with short left leg and rotated laterally what is cause",
+    "options": {
+      "A": "Hip dislocation",
+      "B": "Inferior gluteal N damag",
+      "C": "Sup gluteal N damage",
+      "D": "Femur Neck Fracture"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Gluteus Maximus:",
+    "options": {
+      "A": "Covers pyriformis",
+      "B": "Arises from gluteal tubercle",
+      "C": "Supplied by inferior gluteal nerve",
+      "D": "Supplied by superior gluteal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Regarding Vastus medialis:",
+    "options": {
+      "A": "Supplied by femoral branch",
+      "B": "Attached to intertrochanteric line",
+      "C": "Attached to petala",
+      "D": "Attached to medial tubrcl with wastsintermedius and adductor magnus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Most effective in preventing DVT:",
+    "options": {
+      "A": "Intermittent Pneumatic compressions",
+      "B": "Low dose of LMWH",
+      "C": "Low dose of unfractioned heparin",
+      "D": "Warfarin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Regarding Great saphenous vein:",
+    "options": {
+      "A": "Forms behind medial malleolus",
+      "B": "Ends at 3.5cm below and lateral to pubic tubercle",
+      "C": "Receives only one tributary before joining femoral vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "A woman developed sciatic nerve compression at L5, what will happen?",
+    "options": {
+      "A": "Weakness of plantar flexors",
+      "B": "Weakness of dorsiflexors",
+      "C": "Absent ankle reflex",
+      "D": "Brisk ankle reflex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Peroneal artery is branch of",
+    "options": {
+      "A": "Posterior tibial artery",
+      "B": "Lateral plantar artery",
+      "C": "Medial plantar artery",
+      "D": "Anterior tibial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Structure from medial to lateral in femoral triangle:",
+    "options": {
+      "A": "Nerve, Artery, Vein",
+      "B": "Vein, Artery, Nerve",
+      "C": "Nerve, Vein, Artery",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Inversion and eversion of foot on which joint:",
+    "options": {
+      "A": "Subtalar joint",
+      "B": "Calcaneocuboid.",
+      "C": "Talo-navicular",
+      "D": "Calcaneofibular joint"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Which of the following muscle is a flexor of thigh at the hip joint?",
+    "options": {
+      "A": "Gracillis",
+      "B": "Obturator externus",
+      "C": "Adductor brevis",
+      "D": "Psoas major",
+      "E": "Tensor fasciae latae"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Newly born child having ossification center at which of following?",
+    "options": {
+      "A": "Distal end of femur",
+      "B": "Proximal end of tibia",
+      "C": "Proximal end of humerus",
+      "D": "Proximal Ulna"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Gracilis muscle is innervated by which of the following?",
+    "options": {
+      "A": "Obturator nerve",
+      "B": "Sciatic nerve",
+      "C": "Pudendal nerve",
+      "D": "Femoral nerve",
+      "E": "Anus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Adductor canal formed by",
+    "options": {
+      "A": "Vastus medialis and Adductor of thigh",
+      "B": "Vastus lateralis",
+      "C": "Gluteus maximus and medius",
+      "D": "Adductor and Gluteus maximus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "A patient got Leg injury while going on a lift. Dorsiflexion lost due to Damaged nerve?",
+    "options": {
+      "A": "Superficial peroneal",
+      "B": "Deep peroneal",
+      "C": "Common peroneal at fibular neck",
+      "D": "Tibial Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Which of following muscle causes Extension without Knee Flexion?",
+    "options": {
+      "A": "Sartorious",
+      "B": "Adductor magnus",
+      "C": "Semitendinous",
+      "D": "Gracilis",
+      "E": "Semi membranous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Lateral part of foot damaged during drill exercise of army cadet in PMA. Lymphatic drainage of it:",
+    "options": {
+      "A": "Superficial inguinal",
+      "B": "External illiac",
+      "C": "Internal illiac",
+      "D": "Popliteat",
+      "E": "Paraaortic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "In femoral hernia neck of sac lies below and lateral to",
+    "options": {
+      "A": "Inferior epigastric artery",
+      "B": "Inguinal ligament",
+      "C": "Femoral nerve",
+      "D": "Pubic tubercle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Bone that is devoid of Muscle attachment?",
+    "options": {
+      "A": "Lateral cuneiform",
+      "B": "Medial cuneiform",
+      "C": "Talus",
+      "D": "Cuboid",
+      "E": "Navicular"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Nerve supply to lower limbs originate from",
+    "options": {
+      "A": "Lumbar + Sciatic nerve",
+      "B": "Lumbar + Femoral nerve",
+      "C": "Femoral nerve",
+      "D": "Sciatic nerve",
+      "E": "Lumbar plexus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Person playing cricket hit hard by ball on anterior surface of thigh which vessels is damaged ?",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Tibial artery",
+      "C": "Obturatory artery",
+      "D": "Femoral profunda artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Femoral hernia lies ?",
+    "options": {
+      "A": "Above inguinal ligament",
+      "B": "Below inguinal ligament",
+      "C": "Below lucunar ligament",
+      "D": "Above lucunar ligament",
+      "E": "Above pubic tubercle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Which nerve runs inferiorly along with anterior tibial artery ?",
+    "options": {
+      "A": "Tibial",
+      "B": "Sural",
+      "C": "Deep peroneal",
+      "D": "Sciatic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Nerve supply of medial side of knee ?",
+    "options": {
+      "A": "L2",
+      "B": "L3",
+      "C": "L4",
+      "D": "L5"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Gluteal region injection site is",
+    "options": {
+      "A": "Superomedial quadrant",
+      "B": "Superolateral quadrant",
+      "C": "Inferolateral quadrant",
+      "D": "Inferomedial quadrant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Lumbar hernia protrudes from",
+    "options": {
+      "A": "Superior lumber triangle",
+      "B": "Inferior lumber triangle",
+      "C": "Medial to intercostal",
+      "D": "Lateral to intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Inferior inguinal ligament thickened to form:",
+    "options": {
+      "A": "Fascia of abdomen",
+      "B": "Fascia of thigh",
+      "C": "Fascia of pelvis",
+      "D": "Lacunar ligament",
+      "E": "Inguinal sac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Which one passes through sciatic notch?",
+    "options": {
+      "A": "Adductor longus",
+      "B": "Adductor magnus",
+      "C": "Tibial nerve",
+      "D": "Piriformis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Nerve damaged in blow to lateral side of knee?",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Common peroneal nerve",
+      "C": "Tibial nerve",
+      "D": "Sural nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Anterior dislocation of Tibia ligament damaged is:",
+    "options": {
+      "A": "Anterior cruciate ligament",
+      "B": "Posterior cruciate ligament",
+      "C": "Collateral ligament",
+      "D": "Both Anterior Posterior",
+      "E": "Deltoid ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "A patient after sciatic nerve injury is having difficulty from sitting to standing position. Which muscle will be likely injured?",
+    "options": {
+      "A": "Gluteal muscles",
+      "B": "Hamstring",
+      "C": "Popliteus",
+      "D": "Obturator internus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "70-year-old women fallen from bed & femur was fractured, radiograph shows signs of osteoporosis. What is the probable cause?",
+    "options": {
+      "A": "Diminished Blood Supply",
+      "B": "Decrease Endocrine Activity",
+      "C": "Disuse Atrophy",
+      "D": "Decrease Nutrition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Posterior cruciate Ligament resists:",
+    "options": {
+      "A": "Anterior displacement of Tibial",
+      "B": "Posterior displacement of femur",
+      "C": "Anterior displacement of Fibula",
+      "D": "Posterior displacement of tibia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "In adults, Injury to neck of femur. Which artery will be damaged?",
+    "options": {
+      "A": "Medial Circumflex",
+      "B": "Lateral circumflex",
+      "C": "Retinacular artery",
+      "D": "Posterior circumflex Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Boy jump from height and talus is injured now has pain in foot. What will happen now?",
+    "options": {
+      "A": "Deltoid ligament weakness",
+      "B": "Medial longitudinal arch affected",
+      "C": "Lateral longitudinal arch affected",
+      "D": "Transverse arch affected",
+      "E": "Lateral ligament affected"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Patient presents with severe pain inthe ankle and develops ecchymosis on the second day. He can stand on his toes but its painful what is the cause:",
+    "options": {
+      "A": "Rupture of Achilles tendon",
+      "B": "Rupture of plantaris tendon",
+      "C": "Rupture of tibial tendon",
+      "D": "Medial Malleolous damage",
+      "E": "Lateral Malleolous damage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Plantaris is supplied by which nerve?",
+    "options": {
+      "A": "Peroneal nerve",
+      "B": "Femoral nerve",
+      "C": "Obturator nerve",
+      "D": "Tibial nerve",
+      "E": "Popliteal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "After Automobile accident female cannot flex and medially rotate thigh while climbing and Running due to damage:",
+    "options": {
+      "A": "Tensor fascia latae",
+      "B": "Quadratus femoris",
+      "C": "Gastrocnemius",
+      "D": "Sartorius"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "After femoral hernia repair, swelling over incision site due to damage of?",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Femoral artery",
+      "C": "Inferior epigastricartery",
+      "D": "Sephanous vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Injury by a pierced rod lateral to tendon of extensor hallucis longus .Which artery will be injured?",
+    "options": {
+      "A": "Femoral",
+      "B": "Anterior Tibial",
+      "C": "Dorsalis pedis",
+      "D": "Popliteal",
+      "E": "Posterior Tibial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Loss of anterior thigh sensation due to damage",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Sciatic nerve",
+      "C": "Obtrurator nerve",
+      "D": "Gluteal nerve",
+      "E": "Femoral branch of genitofemoral nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Plantar surface of foot cutaneous innervation?",
+    "options": {
+      "A": "Sural nerve",
+      "B": "Sephanous nerve",
+      "C": "Tibial nerve",
+      "D": "Deep peroneal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "In Achilles tendon rupture, patient unable to do:",
+    "options": {
+      "A": "Dorsiflexion",
+      "B": "Plantarflexion",
+      "C": "Lateral rotation",
+      "D": "Medial rotation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Weaver's bottom is:",
+    "options": {
+      "A": "Pateller bursitis",
+      "B": "Prepattellar bursitis",
+      "C": "Ischial bursitis",
+      "D": "Olecrenon bursitis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Hip fracture in area associated with sartorius:",
+    "options": {
+      "A": "Anterior superior iliac spine",
+      "B": "Ishial spine",
+      "C": "Ilium",
+      "D": "Pubis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "A patient came after RTA, having lesion at L5 and sciatica. What are the findings:",
+    "options": {
+      "A": "Flaccid paralysis",
+      "B": "Absent knee jerk",
+      "C": "Positive babinski sign",
+      "D": "Spastic paralysis",
+      "E": "Upgoingplantars"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Nerve to ligamentum teres capitus is:",
+    "options": {
+      "A": "Femoral",
+      "B": "Obturator",
+      "C": "Medial temporal",
+      "D": "Lateral circumflex femoral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Sole of foot sensation disturbance and loss of plantar flexion due to involvement of which nerve?",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Sural nerve",
+      "C": "Sciatic nerve",
+      "D": "Femoral nerve",
+      "E": "Popliteal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Anterior dislocation of femur on tibia. Ligament damaged is:",
+    "options": {
+      "A": "Anterior cruciate ligament",
+      "B": "Posterior cruciate ligament",
+      "C": "Collateral ligament",
+      "D": "Both Anterior Posterior",
+      "E": "Deltoid ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "After trauma, there is injury to illioinguinal nerve there will be",
+    "options": {
+      "A": "Lateral thigh sensation lost",
+      "B": "Loss of Dorsiflexion",
+      "C": "Cremasteric reflex and Medial thigh sensation lost",
+      "D": "Loss of Testicular reflex and lateral thigh sensation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "After Sciatic nerve injury which muscle will be spared?",
+    "options": {
+      "A": "Bicep femoris",
+      "B": "Adductor Magnus",
+      "C": "Semitendinous",
+      "D": "Gluteus maximus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Ball Hit on anterior thigh there will be damage to",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Profunda femoris",
+      "C": "Obturator nerve",
+      "D": "Sciatic nerve",
+      "E": "Sural nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "A person who got bullet injury on Posterior thigh which muscle will be spared?",
+    "options": {
+      "A": "Bicep femoris",
+      "B": "Semitendinous",
+      "C": "Semimembranous",
+      "D": "Gluteus maximus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Thigh adducted, medially rotated and flexed by:",
+    "options": {
+      "A": "Sartorious",
+      "B": "Gluteus maximus",
+      "C": "Semimembranous",
+      "D": "Obturator internus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "A patient whose cuboid bone crushed by & run over accident by light vehicle which muscle will be affected",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Peroneus Longus",
+      "C": "Peroneus Tertius",
+      "D": "Tibialis posterior"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Sprained ankle resulting from excessive eversion most likely demonstrates which structure is damage?",
+    "options": {
+      "A": "Talofibular ligament",
+      "B": "Deltoid ligament",
+      "C": "Tendon calcaneus",
+      "D": "Interosseous ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Pain of indirect inguinal hernia is due to compression of which nerve in inguinal canal?",
+    "options": {
+      "A": "Iliohypogastric",
+      "B": "Ilioinguinal",
+      "C": "Femoral",
+      "D": "Obturator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Injection given 2cm below and lateral to the pubic tubercle. Damaged nerve will be",
+    "options": {
+      "A": "Femoral",
+      "B": "Obturator",
+      "C": "Tibial",
+      "D": "Sciatic",
+      "E": "Sural"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Content most likely to be seen in inguinal canal of female is",
+    "options": {
+      "A": "Suspensory ligament",
+      "B": "Cardinal ligament",
+      "C": "Round ligament and ilioinguinal nerves",
+      "D": "Spermatic cord",
+      "E": "Spermatic cord and inguinal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Deep inguinal ring is formed by which of the following?",
+    "options": {
+      "A": "Fascia transversalis",
+      "B": "Fascia transversalis and conjointtendon",
+      "C": "Conjoined tendon",
+      "D": "External oblique fascia",
+      "E": "Internal oblique fascia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Nerve supply of Obturator internus is from",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Femoral plexus",
+      "C": "Sacral plexus",
+      "D": "Sciatic nerve",
+      "E": "Lumbar plexus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Structure not in spermatic cord but present in Inguinal canal:",
+    "options": {
+      "A": "Pampiniform plexus",
+      "B": "Epididymys",
+      "C": "Ilioinguinal nerve",
+      "D": "Ductus deference"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Trauma to Lateral side of foot, lymphatics involved will be:",
+    "options": {
+      "A": "Vertical group LN",
+      "B": "Popliteal LN",
+      "C": "Horizontal LN",
+      "D": "Medial group LN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Lymphatic drainage of tumour at anal verge:",
+    "options": {
+      "A": "Superficial inguinal LNs",
+      "B": "Deep inguinal LNs",
+      "C": "Lumbar lymph nodess",
+      "D": "Pelvic lymph nodes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Which muscle cause Hip flexion and medial rotation",
+    "options": {
+      "A": "Sartorius",
+      "B": "Semitendinosus",
+      "C": "Adductor Magnus",
+      "D": "Psoas major"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Patient has Fracture of Knee or femur distal end will cause injury to which deep structure in popliteal fossa",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Popliteal vein",
+      "C": "Nerve",
+      "D": "Lymphatic's"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Adductor muscles of thigh are supplied by:",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Sciatic nerve",
+      "D": "Common fibular nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Dorsalis pedis is terminal branch of",
+    "options": {
+      "A": "Tibialis posterior",
+      "B": "Popliteal",
+      "C": "Tibialis anterior",
+      "D": "Femoral"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Waddling gait is caused by damaged to which of the following nerve?",
+    "options": {
+      "A": "Inferior gluteal nerve",
+      "B": "Superior gluteal nerve",
+      "C": "Sciatic Nerve",
+      "D": "Femoral Nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Deep peroneal nerve supplies which muscle?",
+    "options": {
+      "A": "Tibialis posterior",
+      "B": "Gastrocnemius",
+      "C": "Sartorius",
+      "D": "Popliteus",
+      "E": "Extensor digitorum longus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Loss of inversion of foot, Nerve involved will be:",
+    "options": {
+      "A": "Common peroneal nerve",
+      "B": "Deep peroneal nerve",
+      "C": "Superficial peroneal nerve",
+      "D": "Femoral nerve",
+      "E": "Tibial nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Great saphenous vein graft taken from",
+    "options": {
+      "A": "Lateral malleolus",
+      "B": "Tibial tuberosity",
+      "C": "Posterior to Lateral melleolus",
+      "D": "Anterior to medial malleolus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "A patient present with foot drop and unable to do dorsiflexion and eversion of foot which nerve is damaged?",
+    "options": {
+      "A": "Common peroneal nerve",
+      "B": "Sciatic nerve",
+      "C": "Tibial nerve",
+      "D": "Sural nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Meniscal tear occurs in",
+    "options": {
+      "A": "Full knee extension",
+      "B": "Mid Extension",
+      "C": "Extended knee and Lateral rotation",
+      "D": "Partial hip rotation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "A patient has difficulty in going downhill due to involvement of which muscle",
+    "options": {
+      "A": "Popliteus",
+      "B": "Adductor Longus",
+      "C": "Biceps femoris",
+      "D": "Sartorius"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Main support of longitudinal arch of foot is formed by which structure?",
+    "options": {
+      "A": "Head of Talus",
+      "B": "Sustantaculum Tali",
+      "C": "Cuboid",
+      "D": "Medial cuneiform",
+      "E": "Calcaneum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Athlete playing high jump now presented with pain in gluteal region. On examination he cannot flex hip and extend knee at same time. Damage to which of the following?",
+    "options": {
+      "A": "Avulsion of anterior iliac spine",
+      "B": "Ischial tuberosity fracture",
+      "C": "Public symphysis fracture",
+      "D": "Neck of femur fracture"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "A runner has pain upon moving against resistance at knee joint which muscle will be damaged",
+    "options": {
+      "A": "Soleus",
+      "B": "Sartorius",
+      "C": "Popliteus",
+      "D": "Gluetus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Foot is permanently dorsiflexed and everted. Which nerve is damaged?",
+    "options": {
+      "A": "Common Peroneal Nerve",
+      "B": "Superficial Peroneal Nerve",
+      "C": "Deep Peroneal Nerve",
+      "D": "Saphenous Nerve",
+      "E": "Tibial Nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "A patient had fall in trauma on duty doctor is unable to find vein for cannula which vein is best for IV in lower limb?",
+    "options": {
+      "A": "Small sephnous vein",
+      "B": "Great sephanous vein",
+      "C": "Sural Nerve",
+      "D": "Femoral"
+    },
+    "correct_answer": "B"
+  }
+, {
+    "mcq_number": 201,
+    "question_text": "Lower limb supplied by:",
+    "options": {
+      "A": "MCA",
+      "B": "ACA",
+      "C": "PCA",
+      "D": "Basilar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "Structure passing above piriformis is:",
+    "options": {
+      "A": "Inferior gluteal nerve",
+      "B": "Pudendal nerve",
+      "C": "Sciatic nerve",
+      "D": "Superior gluteal nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Fracture of head of femur, lead to avascular necrosis of head artery involved is which of following?",
+    "options": {
+      "A": "Lateral circumflex",
+      "B": "Descending branch lateral circumflex",
+      "C": "Medial Circumflex Artery",
+      "D": "Femoral Artery",
+      "E": "Tibial Artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "A patient got injury on medial side of knee and there is loss of sensation on medial side of leg and foot due to damage of which nerve:",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Obturator nerve",
+      "C": "Saphenous nerve",
+      "D": "Tibial nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Common peroneal nerve damage at:",
+    "options": {
+      "A": "Shaft of femur",
+      "B": "Neck of fibula",
+      "C": "Neck of femur",
+      "D": "Angle of Tibia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Herniation causes loss of ankle reflex which of following is root value of knee jerk?",
+    "options": {
+      "A": "L1-2",
+      "B": "L2-3",
+      "C": "L4",
+      "D": "L4-5",
+      "E": "S1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Knee reflex root value is:",
+    "options": {
+      "A": "L3",
+      "B": "L4",
+      "C": "S1,2",
+      "D": "S3,4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "The vein that is used in coronary bypass:",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Tibial vein",
+      "C": "Popliteal vein",
+      "D": "Great sephneous vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "In Anterior tibial syndrome involving musculofascial compartment which artery involved?",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Dorsal padis artery",
+      "C": "Anterior tibial artery",
+      "D": "Posterior tibial artery",
+      "E": "Sural artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Women works with bend knees, swelling and pain in knee due to involvement of:",
+    "options": {
+      "A": "Infrapatellar bursa",
+      "B": "Popliteal bursa",
+      "C": "Prepatellar bursa",
+      "D": "Semitendinosus bursa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "What is palpated Midway between Ischial tuberosity and greater trochanter:",
+    "options": {
+      "A": "Piriformis",
+      "B": "Tibial nerve",
+      "C": "Sciatic nerve",
+      "D": "Superior gluteal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Structure related to medial meniscus:",
+    "options": {
+      "A": "LCL",
+      "B": "PCL",
+      "C": "Tibial collateral ligament",
+      "D": "Medial ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Deep peroneal nerve runs between:",
+    "options": {
+      "A": "3rd and fourth toe space",
+      "B": "First and 2nd toe space",
+      "C": "Medial to ankle",
+      "D": "Along fifth toe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Which of the following muscles is attached on lesser trochanter of femur?",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Gluteus minimus",
+      "C": "Gluteus medius",
+      "D": "IlioPsoas muscle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Which of following muscle causes hip Flexion with knee extended?",
+    "options": {
+      "A": "Sartorius",
+      "B": "Rectus femoris",
+      "C": "Semitendinosus",
+      "D": "Gracilis",
+      "E": "Semi membranous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "During Hip Surgery vessel to head of femur ligated which artery is main source of this vessel?",
+    "options": {
+      "A": "Internal iliac",
+      "B": "External iliac",
+      "C": "Popliteal",
+      "D": "Tibial",
+      "E": "Femoral"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Wood fell down on laborers dorsum of foot between 1st and 2nd metatarsal bone- artery most like damaged will be:",
+    "options": {
+      "A": "Dorsalis pedis",
+      "B": "Medial plantar",
+      "C": "Lateral plantar",
+      "D": "Arcuate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Venesection of patient done now which nerve is likely to be damaged",
+    "options": {
+      "A": "Superficial peroneal nerve",
+      "B": "Deep peroneal nerve",
+      "C": "Sural nerve",
+      "D": "Tibial nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "A woman who is bedridden having SOB develop thromboembolism most likely source is:",
+    "options": {
+      "A": "Popliteal vein",
+      "B": "Deep veins of legs",
+      "C": "Saphenous vein",
+      "D": "Tibial vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Myotome of muscles causing extension of knee:",
+    "options": {
+      "A": "L1-L2",
+      "B": "L2-L3",
+      "C": "L3-L4",
+      "D": "L5-S1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "Most powerful flexor of hip:",
+    "options": {
+      "A": "Adductor Magnus",
+      "B": "Sartorius",
+      "C": "Gluteus medius",
+      "D": "Iliopsoas"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Great sephanous vein is approached at which site?",
+    "options": {
+      "A": "Anterior to medial malleolus",
+      "B": "Posterior to medial malleolus",
+      "C": "Lateral to medial malleolus",
+      "D": "Medial to lateral malleolus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Heavy bleeding after injury between base of 1st and 2nd tarsal bones, which artery is involved?",
+    "options": {
+      "A": "Popliteal",
+      "B": "Peroneal",
+      "C": "Posterior interosseous",
+      "D": "Anterior interosseous",
+      "E": "Dorsalis pedis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Injury of adductor hallucis, artery related is?",
+    "options": {
+      "A": "Popliteal",
+      "B": "Peroneal",
+      "C": "Posterior interosseous",
+      "D": "Anterior interosseous",
+      "E": "Dorsalis pedis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Nerve supply of medial plantar side of foot:",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Sural nerve",
+      "C": "Sciatic nerve",
+      "D": "Femoral nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Which one passes through greater sciatic foramen?",
+    "options": {
+      "A": "Adductor longus",
+      "B": "Adductor magnus",
+      "C": "Tibial nerve",
+      "D": "Piriformis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Which of the following is posterior division of sacral plexus?",
+    "options": {
+      "A": "Inferior Gluteal nerve",
+      "B": "Iuperior gluteal nerve",
+      "C": "Inferior gluteal nerve",
+      "D": "Common peroneal nerve",
+      "E": "Tibial nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "There is History of fracture, patient's knee flexors relaxed, examiner grasps tibial heads with both hands, leg moves anteriorly. Which ligament is damaged?",
+    "options": {
+      "A": "Lateral meniscus",
+      "B": "Posterior cruciate ligament",
+      "C": "Medial meniscus",
+      "D": "Anterior cruciate ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Sesamoid bone is:",
+    "options": {
+      "A": "Clavicle",
+      "B": "Patella",
+      "C": "Femur",
+      "D": "Fibula"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "If you palpate midway between ischial tuberosity and greater trochanter it will be right above:",
+    "options": {
+      "A": "Superior gluteal nerve",
+      "B": "Piriformis",
+      "C": "Sacrospinous ligament",
+      "D": "Infraspinous ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Patient is not able to perform plantar flexion due to damage of which nerve:",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Popliteal vein",
+      "C": "Tibial nerve",
+      "D": "Femoral nerve",
+      "E": "Superficial peroneal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Deep and anterior structure in popliteal fossa:",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Popliteal vein",
+      "C": "Tibial nerve",
+      "D": "Common peroneal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Plantar arch is branch from:",
+    "options": {
+      "A": "Popliteal",
+      "B": "Peroneal",
+      "C": "Posterior interosseous",
+      "D": "Anterior interosseous",
+      "E": "Dorsalis pedis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Playing child got ankle sprain resulting in damage to:",
+    "options": {
+      "A": "Lateral malleolus",
+      "B": "Medial malleolus",
+      "C": "Menisci tear",
+      "D": "Both a& b"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Medial arch of foot is supported by which ligament?",
+    "options": {
+      "A": "Calcaneonavicular",
+      "B": "Deltoid",
+      "C": "Calcaneofibular",
+      "D": "Talofibular"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Muscles have different classifications according to their actions and features they are divided in different groups and sub groups, according to one classification, which of the following muscle is white muscle:",
+    "options": {
+      "A": "Masseter",
+      "B": "Temporalis",
+      "C": "Gastrocnemius",
+      "D": "Buccinators"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Loss of dorsiflexion and sensation on lateral dorsum due to damage of:",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Femoral nerve",
+      "C": "Tibial nerve",
+      "D": "Deep peroneal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Structure passing through fossa ovalis is:",
+    "options": {
+      "A": "Small sephnous vein",
+      "B": "Femoral vein",
+      "C": "Great sephnous vein",
+      "D": "Femoral artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "A primigravida with prolong labour in lithotomy position was unable to walk properly after delivery. She could not dorsiflex her right foot, which nerve got pressed?",
+    "options": {
+      "A": "Common peroneal",
+      "B": "Sacral plexus",
+      "C": "Sciatic nerve",
+      "D": "Disc slipped"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Common peroneal nerve related to bicep femoris:",
+    "options": {
+      "A": "Medially",
+      "B": "Posteriorly",
+      "C": "Anteriorly",
+      "D": "Laterally"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Femoral hernia gets strangulated due to?",
+    "options": {
+      "A": "Compression of femoral vein",
+      "B": "Compression of femoral artery",
+      "C": "Narrow neck of sac",
+      "D": "Wide neck of sac"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Directly related to hip joint",
+    "options": {
+      "A": "Obturator Externus",
+      "B": "Sciatic Nerve Anteriorly",
+      "C": "Psoas Bursa Posteriorly",
+      "D": "Gluteus Medius",
+      "E": "Inferiorly/Posteriorly"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Knee reflex root value is:",
+    "options": {
+      "A": "L2",
+      "B": "L3,4",
+      "C": "S1,2",
+      "D": "S3,4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Strongest ligament in body is:",
+    "options": {
+      "A": "Ischiofemoral",
+      "B": "Iliofemoral",
+      "C": "Pubofemoral",
+      "D": "Rectofemoral",
+      "E": "Puborectal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "A patient has Pus in lumbar area which spread down. Which muscle is involved?",
+    "options": {
+      "A": "Sartorius",
+      "B": "Psoas",
+      "C": "Quadratus",
+      "D": "Gluteus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Operating on the inguinal hernia, surgeon found that the hernia is immediately lateral to inferior epigastric artery, what type of hernia was the surgeon operating",
+    "options": {
+      "A": "Indirect inguinal hernia",
+      "B": "Direct inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Umbilical hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Injection given at supero lateral quadrant to avoid damage to :",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Superior Gluteal nerve",
+      "C": "Inferior gluteal nerve",
+      "D": "Femoral nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Damage to adductor canal which structure will be spared ?",
+    "options": {
+      "A": "Femoral artery",
+      "B": "Femoral vein",
+      "C": "Sphenous nerve",
+      "D": "Obturator nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "In femoral hernia, Structure in femoral sheath?",
+    "options": {
+      "A": "Femoral canal",
+      "B": "Femoral artery",
+      "C": "Femoral vein",
+      "D": "Obtrurator nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Medial meniscus attached to knee through which liagment?",
+    "options": {
+      "A": "Lateral collateral",
+      "B": "Anterior cruciate",
+      "C": "Medial collateral",
+      "D": "Posterior cruciate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "A patient presents with massive thromboembolism. What's the site of it's origin ?",
+    "options": {
+      "A": "Popliteal veins",
+      "B": "Deep veins of upper limb",
+      "C": "Tibial artery",
+      "D": "Tibial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "A lady presents after a trauma in a lift, on examination loss of dorsal sensation of Left foot with loss of dorsiflexion and loss of eversion at talotarsal joint. Which of the following nerve is damaged",
+    "options": {
+      "A": "Deep peroneal nerve",
+      "B": "Common peroneal nerve",
+      "C": "Distal nerve at neck of fibula",
+      "D": "Sciatic nerve lesion at mid thigh"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A 25 Year old male with swelling at left inguinal region with positive cough impulse it moves inward when ipsilateral testes is retracted downward it is painful this is likely",
+    "options": {
+      "A": "Congenital Encysted Hydrocele",
+      "B": "Inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Incisional hernia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Patient did hyperextension of lower limb and now in semiflexed position due to involvement of?",
+    "options": {
+      "A": "Medial menisci",
+      "B": "Patellar bursa",
+      "C": "Posterior cruciate ligament",
+      "D": "Anterior cruciate ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Injury to thigh ,what will be damaged at apex of femoral triangle?",
+    "options": {
+      "A": "Femoral artery",
+      "B": "Femoral vein",
+      "C": "Femoral nerve",
+      "D": "Profunda femoris artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "A patient got firearm injury to lower limb and develop foot drop there is loss of dorsiflexion due to damage at",
+    "options": {
+      "A": "Shaft of femur",
+      "B": "Neck of fibula",
+      "C": "Neck of femur",
+      "D": "Angle of Tibia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "While walking muscle that supports the opposite leg to be straight",
+    "options": {
+      "A": "Obtrurator internus",
+      "B": "Obturator medius",
+      "C": "Gluteus medius",
+      "D": "Adductor Magnus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "A person got ankle injury result in damage to medial malleolus and deltoid ligament this occur due to which of these",
+    "options": {
+      "A": "Lateral rotation",
+      "B": "Inversion of foot",
+      "C": "Excessive eversion of foot",
+      "D": "Medial rotation of thigh"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Most medial in popliteal Fossa:",
+    "options": {
+      "A": "Popliteal artery",
+      "B": "Popliteal vein",
+      "C": "Saphenous nerve",
+      "D": "Femoral nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Most superficial content in adductor canal:",
+    "options": {
+      "A": "Femoral vein",
+      "B": "Femoral artery",
+      "C": "Popliteal artery",
+      "D": "Sephnous vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Abdominal pain and distension and absent cremasteric reflex due to",
+    "options": {
+      "A": "Iliohypogastric",
+      "B": "Ilioinguinal",
+      "C": "Genitofemoral",
+      "D": "Posterior cutaneous nerve of thigh"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Which of the following is attached to medial meniscus?",
+    "options": {
+      "A": "Tibial Collateral Ligament",
+      "B": "Anterior Cruciate Ligament",
+      "C": "Posterior Cruciate Ligament",
+      "D": "Medial Ligament",
+      "E": "Popliteus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Unconscious boy of age 11, brought in the state of shock in Emergency. No peripheral vein accessible. Which vein of lower limb will be chosen for venesection in emergency?",
+    "options": {
+      "A": "Dorsal venous arch",
+      "B": "Femoral vein",
+      "C": "Great saphenous",
+      "D": "Popliteal",
+      "E": "Small saphenous"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Sprained ankle resulting from excessive inversion most likely demonstrates which structure is damage?",
+    "options": {
+      "A": "Anterior Talofibular ligament",
+      "B": "Deltoid ligament",
+      "C": "Tendon calcaneus",
+      "D": "Interosseous ligament",
+      "E": "Calcaneonavicular ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "A patient got trauma on lower limb and there is loss of sensation on medial side of knee with pain extending to toe.Which nerve will be damaged?",
+    "options": {
+      "A": "Deep peroneal",
+      "B": "Superficial peroneal",
+      "C": "Tibial",
+      "D": "Femoral",
+      "E": "Sephnous"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Which of the following major vessels gives main contribution in anastomosis around hip joint?",
+    "options": {
+      "A": "Internal iliac",
+      "B": "Femoral",
+      "C": "External iliac",
+      "D": "Obturator",
+      "E": "Pudendal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Patient has hx of renal TB. Fascia above & below thigh continuous with fascia of",
+    "options": {
+      "A": "Iliopsoas",
+      "B": "Rectus femoris",
+      "C": "Obturator fascia",
+      "D": "Cremasteric fascia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "Adductor Magnus is supplied by",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Sciatic nerve",
+      "C": "Obturator nerve",
+      "D": "Tibial nerve",
+      "E": "Common peroneal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "Bicep femoris supplied by",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Sciatic nerve",
+      "C": "Obturator nerve",
+      "D": "Tibial nerve and peroneal nerve",
+      "E": "Deep peroneal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "A lady presents after a trauma in a lift, on examination loss of dorsal sensation of Left foot with loss of dorsiflexion and loss of eversion at talotarsal joint. Which of the following nerve is damaged",
+    "options": {
+      "A": "Deep peroneal nerve",
+      "B": "Common peroneal nerve",
+      "C": "Deep peroneal nerve at neck of fibula",
+      "D": "Sciatic nerve lesion at mid thigh"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Indirect inguinal hernia occurs due to defect in:",
+    "options": {
+      "A": "Conjoint tendon",
+      "B": "Transversalis fascia",
+      "C": "Lucunar ligament",
+      "D": "External oblique muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Operating on the inguinal hernia, surgeon found that the hernia is immediately lateral to inferior epigastric artery, what type of hernia was the surgeon operating",
+    "options": {
+      "A": "Indirect inguinal hernia",
+      "B": "Direct inguinal hernia",
+      "C": "Femoral hernia",
+      "D": "Umbilical hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "In Ankle injury patient got faint due to injury to",
+    "options": {
+      "A": "Lateral calcaneus",
+      "B": "Body of talus",
+      "C": "Tail of talus",
+      "D": "Neck of talus",
+      "E": "Lower end of fibula"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Which muscle gets Dual blood supply by Tibial portion and CPN portion of Sciatic nerve",
+    "options": {
+      "A": "Adductor Magnus",
+      "B": "Bicep femoris",
+      "C": "Semitendinosus",
+      "D": "Gluteal maximus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Lateral wall of deep ring of inguinal canal attaches",
+    "options": {
+      "A": "Transversus abdominis",
+      "B": "Internal oblique",
+      "C": "Fascia transversalis",
+      "D": "External oblique"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Damage to adductor canal which structure will be spared",
+    "options": {
+      "A": "Femoral artery",
+      "B": "Femoral vein",
+      "C": "Sphenous nerve",
+      "D": "Obturator nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "In case of excessive inversion anterior talocalcaneal ligament is usually damage, along with it which fracture will most likely present",
+    "options": {
+      "A": "Lower end of tibia",
+      "B": "Lower end of fibula",
+      "C": "Lower end of femur",
+      "D": "Upper end of femur"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "Sciatic and obturator nerve both supply which muscle?",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Adductor Magnus",
+      "C": "Gluteus Longus",
+      "D": "Adductor Magnus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Superficial inguinal ring\" is formed by?",
+    "options": {
+      "A": "Fascia transversalis",
+      "B": "Internal oblique aponeurosis",
+      "C": "Fascia transversalis and conjoined tendon",
+      "D": "External oblique aponeurosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Patient did hyperextension of lower limb and now in semiflexed position due to involvement of?",
+    "options": {
+      "A": "Medial menisci",
+      "B": "Patellar bursa",
+      "C": "Posterior cruciate ligament",
+      "D": "Anterior cruciate ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Sprained ankle resulting from excessive inversion most likely demonstrates which structure is damage?",
+    "options": {
+      "A": "Lateral ligament",
+      "B": "Deltoid ligament",
+      "C": "Anterior talofibular",
+      "D": "Interosseous ligament",
+      "E": "Calcaneonavicular ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "A patient got firearm injury to lower limb and develop foot drop there is loss of dorsiflexion due to damage at",
+    "options": {
+      "A": "Shaft of femur",
+      "B": "Neck of fibula",
+      "C": "Neck of femur",
+      "D": "Angle of Tibia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Patient sustained injuries in RTA, and then presented with gait problem. On examination he was asked to stand on his left leg, while doing so his left pelvis sinks. Which of the following is most probably damaged?",
+    "options": {
+      "A": "Left gluteus maximus",
+      "B": "Right gluteus medius and minimus",
+      "C": "left gluteusmedius",
+      "D": "Right gluteus medius",
+      "E": "Right gluteus maximus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "While walking muscle that supports the opposite leg to be straight",
+    "options": {
+      "A": "Obtrurator internus",
+      "B": "Obturator medius",
+      "C": "Gluteus medius",
+      "D": "Adductor Magnus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Which Ligament stabilizes the Hip joint? When u stand the ligament is taut & when you sit the ligament is relaxed?",
+    "options": {
+      "A": "Iliofemora Ligament",
+      "B": "Pubofemoral Ligament",
+      "C": "Ischiofemoral Ligament",
+      "D": "Sacrotuberous Ligament",
+      "E": "Sacrospinous Ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "During Right inguinal hernia surgery, which structure is most probably seen?",
+    "options": {
+      "A": "pampiniform plexus",
+      "B": "Spermatic cord",
+      "C": "Femoral vien",
+      "D": "Obturator vein",
+      "E": "Femoral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "Greater sciatic foramen is located near greater sciatic notch.Which structure passes through it?",
+    "options": {
+      "A": "Piriformis",
+      "B": "Gluteus maximus",
+      "C": "Gluteus medius",
+      "D": "Obturator externus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Hyperextension of leg above table caused by",
+    "options": {
+      "A": "Sartorius",
+      "B": "Semimembranous",
+      "C": "Rectus femoris",
+      "D": "Gluteus minimus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "Injury to knee with semiflexed, femur moved posteriorly cause damage to which ligament?",
+    "options": {
+      "A": "ACL Collateral",
+      "B": "Posterior cruciate",
+      "C": "Medial Collateral",
+      "D": "Lateral Collateral"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Which muscle action primarily causes the thigh to flex and laterally rotated limb in a neck of femur fracture?",
+    "options": {
+      "A": "Sartorius",
+      "B": "Iliopsoas",
+      "C": "Adductors",
+      "D": "Gluteus maximus",
+      "E": "Gluteus medius"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "A boy had fall from height of 10 feet his talus bone was fractured. What will be affected",
+    "options": {
+      "A": "Medial longitudinal arch",
+      "B": "Lateral longitudinal arch",
+      "C": "Inversion",
+      "D": "Eversion",
+      "E": "Transverse arch"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "Stab injury to thigh with nerve damaged in adductor canal?",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Sciatic nerve",
+      "C": "Popliteal nerve",
+      "D": "Obturator nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "Medial Boundary of Inguinal Canal is formed by:",
+    "options": {
+      "A": "Lateral wall of Rectus Abdominis muscle",
+      "B": "Lateral wall of Transversus Abdominis muscle",
+      "C": "Lateral To inferior Epigastric Vessels",
+      "D": "Lateral internal intercostal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "A woodworker presented with Injury at the base of 1st and 2nd metatarsal bone.Artery damaged will be:",
+    "options": {
+      "A": "Medial Plantar artery",
+      "B": "Dorsalis Pedis artery",
+      "C": "Lateral plantar artery",
+      "D": "Anterior Tibial artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Unconscious boy of age 11, brought in the state of shock in Emergency. No peripheral vein accessible- Which vein of lower limb will be chosen for venesection in emergency?",
+    "options": {
+      "A": "Dorsal venous arch",
+      "B": "Femoral vein",
+      "C": "Great saphenous",
+      "D": "Popliteal",
+      "E": "Small saphenous"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "A boy was standing and his friend pushed him from behind- The hip joint was locked in this position what structure prevents femoral head to displace in anterior direction?",
+    "options": {
+      "A": "Ischiofemoral",
+      "B": "Iliofemoral",
+      "C": "Pubofemoral",
+      "D": "Rectofemoral",
+      "E": "Punorectal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "A man stand from sitting poistion which reflex involve",
+    "options": {
+      "A": "Stretch reflex",
+      "B": "Flexor reflex",
+      "C": "Vestibular reflex",
+      "D": "Spinal reflex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Lumber plexus supply which muscle",
+    "options": {
+      "A": "Adductor of thigh",
+      "B": "Abductor of thigh",
+      "C": "Abdominal muscles",
+      "D": "Gluteal muscles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "A patient whose patellar tendon struct +ve anterior drawer sign with leg knee joint when there is?",
+    "options": {
+      "A": "Damage to tubular collateral ligaments",
+      "B": "Damage to tibial collateral ligaments",
+      "C": "Damage Anterior cruciate ligaments",
+      "D": "In patellar fracture"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Muscle responsible for dorsiflexion:",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Tibialis posterior",
+      "C": "Gastrocnemius",
+      "D": "Rectus femoris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "Dorsiflexion of foot by:",
+    "options": {
+      "A": "Peronous tertius"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "A patient develops a swollen and tender lymph node in his popliteal fossa. An infected skin lesion in which of the following sites would most likely induce lymphadenopathy in this region?",
+    "options": {
+      "A": "Lateral side of the dorsum of the foot",
+      "B": "Lateral side of the thigh",
+      "C": "Medial side of the leg below the knee",
+      "D": "Medial side of the sole of the foot"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "In a patient, hernia becomes obvious on coughing, lying medial to pubic tubercle:",
+    "options": {
+      "A": "Direct hernia",
+      "B": "Indirect hernia",
+      "C": "Umbical hernia",
+      "D": "Epigastric hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "In a patient with damage to the deep plantar arch, which of the following is affected?",
+    "options": {
+      "A": "Posterior tibial artery",
+      "B": "Dorsalis pedis artery",
+      "C": "Fibular artery",
+      "D": "Anterior tibial artery",
+      "E": "Medial plantar artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Nail on wood fell down on laborers dorsum of foot between 1st and 2nd metatarsal bone- Artery most like damaged will be:",
+    "options": {
+      "A": "Dorsalis pedis",
+      "B": "Medial plantar",
+      "C": "Lateral plantar",
+      "D": "Arcuate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Which nerve is responsible for numbness in the medial thigh and medial leg?",
+    "options": {
+      "A": "Sural",
+      "B": "Saphenous",
+      "C": "Tibial",
+      "D": "Gluteal",
+      "E": "Femoral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "A patient presents with sudden onset of severe gluteal pain and discomfort. Upon examination, it is noted that the pain seems to radiate to the posterior aspect of the thigh. The physician suspects that a gluteal spasm may be compressing nearby structures.Which artery is most likely to be compressed or affected by a gluteal spasm in this case?",
+    "options": {
+      "A": "External iliac artery",
+      "B": "Internal iliac artery",
+      "C": "Femoral artery",
+      "D": "Lateral iliac artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "A patient whose +ve anterior drawer sign with leg pulled anteriorly is seen clinically in knee joint when there is ?",
+    "options": {
+      "A": "Damage to fabular collateral ligaments",
+      "B": "Damage to tibial collateral ligaments",
+      "C": "Anterior cruciate ligaments",
+      "D": "In patellar fracture"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "A patient with injury to neck of fibula and there is Loss of dorsiflexion and sensation on lateral dorsum due to damage of",
+    "options": {
+      "A": "Sciatic nerve",
+      "B": "Femoral nerve",
+      "C": "Tibial nerve",
+      "D": "Deep peroneal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Stab injury to anterior thigh leading to loss of knee jerk and medial thigh sensation lost nerve involved would be",
+    "options": {
+      "A": "Tibial nerve",
+      "B": "Femoral nerve",
+      "C": "Sephnous nerve",
+      "D": "Sciatic nerve",
+      "E": "Sural nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Hernia medial to Pubic tubercle crossing deep inguinal ring is:",
+    "options": {
+      "A": "Direct Inguinal Hernia",
+      "B": "Indirect Inguinal Hernia",
+      "C": "Femoral Hernia",
+      "D": "Umbilical hernia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Which ligament prevents extensive flexion at hip joint with knee Extended?",
+    "options": {
+      "A": "Ischiofemoral",
+      "B": "Iliofemoral",
+      "C": "Pubofemoral",
+      "D": "Rectofemoral",
+      "E": "Punorectal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "All of the following attach to greater trochanter except",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Obturator internus",
+      "C": "Gluteus Medius",
+      "D": "Gluteus Minimus",
+      "E": "Piriformis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "A patient presents with a right groin swelling located lateral and inferior to the pubic tubercle. What is the most likely diagnosis?",
+    "options": {
+      "A": "Hydrocele",
+      "B": "Indirect hernia",
+      "C": "Femoral hernia",
+      "D": "Varicocele"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Boy while playing damaged Medial meniscus. What will happen?",
+    "options": {
+      "A": "Damage to MCL",
+      "B": "Swelling & Dislocation at patella",
+      "C": "Locking of Knee",
+      "D": "Unlocking of Knee"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "A trauma patient with severe bleeding is pale and hypotensive. Peripheral IV access is not achievable, and the femoral vein cannot be located for cannulation as it is extremely weak. What is the next step to administer fluids?",
+    "options": {
+      "A": "Saphenous vein (cutdown)",
+      "B": "Central venous line through the subclavian vein",
+      "C": "Femoral vein cutdown",
+      "D": "Interosseous line"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "If medial meniscus is damaged, what will happen:",
+    "options": {
+      "A": "Femur rotates on tibia",
+      "B": "Spontaneous locking and unlocking phenomena",
+      "C": "Do not repair quickly",
+      "D": "Tibia rotates on femur"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Patient presented with complain of Backache. Longest nerve Sciatic nerve arise from",
+    "options": {
+      "A": "Lumbar plexus",
+      "B": "Sacral plexus",
+      "C": "Lumbosacral plexus",
+      "D": "Coccygeal plexus",
+      "E": "Thoracolumbar plexus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "A boy sustains an injury to the sole of his foot, resulting in profuse bleeding from the plantar artery. The injured plantar artery is a branch of which artery?",
+    "options": {
+      "A": "Peroneal artery",
+      "B": "Anterior tibial artery",
+      "C": "Dorsalis pedis artery",
+      "D": "Posterior tibial artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Massive pulmonary embolism arises from",
+    "options": {
+      "A": "Popliteal vein",
+      "B": "Femoral artery",
+      "C": "Saphenous vein",
+      "D": "Tibial vein",
+      "E": "Pelvic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Which of the following muscle will effected if sciatic nerve is damage",
+    "options": {
+      "A": "Hamstrings",
+      "B": "Iliopsoas muscle",
+      "C": "Gluteal muscles",
+      "D": "Adductor longus",
+      "E": "Quadriceps"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Danger area of buttock region",
+    "options": {
+      "A": "Gluteal muscles",
+      "B": "Sciatic nerve",
+      "C": "Piriformis muscle",
+      "D": "Superior gluteal nerve",
+      "E": "Sacral plexus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "A patient with a history of Spinal tuberculosis develops an infection that spreads through the fascia in the thigh. This infection is continuous with the fascia from the lumbar region and eventually extends to the groin and inguinal region. Which muscle or fascia is most likely involved in this scenario?",
+    "options": {
+      "A": "Iliopsoas",
+      "B": "Rectus femoris",
+      "C": "Cremasteric fascia",
+      "D": "Femoralis fascia",
+      "E": "Adductor Magnus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "A patient with history of Trauma. O/E, There is Loss of eversion but dorsiflex along with Loss of sensations on dorsum of foot. Which muscle will be most likely affected by lesion of the involved nerve?",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Tibialis tertius",
+      "C": "Fibularis longus",
+      "D": "Tibialis Posterior",
+      "E": "Abductor Hallucis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Women works with bend knees, swelling and pain of knee due to involvement of:",
+    "options": {
+      "A": "Infrapatellar bursa",
+      "B": "Popliteal bursa",
+      "C": "Prepatellar bursa",
+      "D": "Semitendinosus bursa",
+      "E": "Supra- patellar bursa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Surgeon was doing Femur & Hip transplant surgery. If all the arteries of cruciate anastomosis are ligated in a patient undergoing femur head joint implantation, which artery will still supply femoral head?",
+    "options": {
+      "A": "1st perforating branch",
+      "B": "Inferior gluteal artery",
+      "C": "Superior gluteal artery",
+      "D": "Lateral circumflex femoral artery",
+      "E": "Medial circumflex femoral artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Wood fell down on laborers dorsum of foot near nail between 1st and 2nd metatarsal bone-Artery most like damaged will be:",
+    "options": {
+      "A": "Dorsalis pedis",
+      "B": "Medial plantar",
+      "C": "Lateral plantar",
+      "D": "Anterior tibial",
+      "E": "Peroneal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Patient has history of trauma to Gluteal region after which adduction of thigh is lost. Which of the following nerve is responsible for loss of Adduction?",
+    "options": {
+      "A": "Obturator Nerve",
+      "B": "Femoral Nerve",
+      "C": "Sciatic Nerve",
+      "D": "Tibial Nerve",
+      "E": "Inferior Gluteal Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Nerve supply of the obturator externus",
+    "options": {
+      "A": "Posterior branch of obturator nerve",
+      "B": "Femoral nerve",
+      "C": "Lateral cutaneous femoral Nerve",
+      "D": "Nerve to obturator internus",
+      "E": "Sciatic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "The Femoral Pulse is most likely palpated at",
+    "options": {
+      "A": "Mid Inguinal point",
+      "B": "At apex of femoral triangle",
+      "C": "In the middle of the thigh",
+      "D": "Just lateral to the pubic tubercle",
+      "E": "Mid point of inguinal ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Extension of Hip is restricted By",
+    "options": {
+      "A": "Iliofemoral ligament",
+      "B": "Sacrotuberous ligament",
+      "C": "Sacroiliac Ligament",
+      "D": "Ischiofemoral ligament",
+      "E": "Pubofemoral ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Which of the following nerve supply the vastus lateralis muscle",
+    "options": {
+      "A": "Obturator nerve",
+      "B": "Femoral nerve",
+      "C": "Sciatic nerve",
+      "D": "Illioinguinal nerve",
+      "E": "Pudendal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Saphenous nerve is branch of",
+    "options": {
+      "A": "Lateral cutaneous nerve of leg",
+      "B": "Medial cutaneous nerve of leg",
+      "C": "Obturator nerve",
+      "D": "Superior peroneal nerve",
+      "E": "Femoral nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "Damage to the obturator nerve would result in the loss of motor supply to which of the following muscles?",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Sartorius",
+      "C": "Gracilis",
+      "D": "Semimembranosus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "A patient presents with pain and tenderness in the posterior knee region. Which muscle or tendon is most likely affected?",
+    "options": {
+      "A": "Plantaris",
+      "B": "Gastrocnemius",
+      "C": "Popliteus",
+      "D": "Hamstrings"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "A man presents with a fibular fracture, but the common peroneal (fibular) nerve is not damaged. He has lost the ability for eversion, but there is no foot drop. Which muscle is most likely damaged?",
+    "options": {
+      "A": "Tibialis anterior",
+      "B": "Tibialis posterior",
+      "C": "Fibularis longus",
+      "D": "Fibularis tertius",
+      "E": "Adductor longus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "A 55 years old Diabetic patient presents with chronic ischemic foot pain. Doppler ultrasound reveals occlusion of dorsalis pedis artery, with compensatory blood supply from artery of posterior leg, which artery is providing collateral circulation?",
+    "options": {
+      "A": "Anterior tibial artery",
+      "B": "Posterior tibial artery",
+      "C": "Popliteal artery",
+      "D": "Peroneal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "Which nerve is primarily involved in Tarsal Tunnel Syndrome?",
+    "options": {
+      "A": "Lateral plantar nerve",
+      "B": "Medial plantar nerve",
+      "C": "Posterior tibial nerve",
+      "D": "Anterior tibial nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "Tb spine, swelling above and below same side inguinal ligament. Which muscle fascia involved in tracking pus?",
+    "options": {
+      "A": "Gluteus maximus",
+      "B": "Psoas major",
+      "C": "Sartorius",
+      "D": "Adductor magnus",
+      "E": "Adductor longus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Measuring BP from dorsalis pedis in standing position, what will be observation ?",
+    "options": {
+      "A": "Higher than radial",
+      "B": "Lower than radial",
+      "C": "Equal to radial BP",
+      "D": "Unpredictable variation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Doctor asked a junior to check the patellar reflex. Where to hit?",
+    "options": {
+      "A": "Medial collateral ligament",
+      "B": "Medial patellar retinaculum",
+      "C": "Lateral patellar retinaculum",
+      "D": "Patellar ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "Patient with ankle sprain due to excessive inversion while playing. Ligament damaged?",
+    "options": {
+      "A": "Deltoid",
+      "B": "Anterior talofibular",
+      "C": "Posterior talofibular",
+      "D": "Calcaneonavicular"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "Common peroneal nerve most commonly damage at (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Behind neck of fibula",
+      "B": "where is divides into superficial and deep peroneal nerves",
+      "C": "In the popliteal fossa",
+      "D": "At Proximal thigh",
+      "E": "Lateral aspect of knee"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Which of the following layer is encountered immediately after the transverse abdominis muscle in the abdominal wall (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Fascia transversalis",
+      "B": "Rectus abdominus",
+      "C": "External oblique muscle",
+      "D": "Rectus sheath",
+      "E": "peritoneum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Adductors of thigh nerve supply? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Femoral nerve",
+      "B": "Sciatic nerve",
+      "C": "Obturator nerve",
+      "D": "Tibial nerve and Common peroneal nerve",
+      "E": "Deep peroneal nerve"
+    },
+    "correct_answer": "C"
+  }
+]

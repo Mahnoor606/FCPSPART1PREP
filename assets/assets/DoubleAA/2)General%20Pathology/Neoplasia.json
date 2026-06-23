@@ -1,0 +1,3474 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Professor took biopsy of lungs CA, and some student asked about its growth and then the professor said its 1cm and it needs to divide many times to make 10^9 (1 billion) cells, then they asked how many times a cell has to divide to reach this number?",
+    "options": {
+      "A": "30 times",
+      "B": "500 times",
+      "C": "1000 times",
+      "D": "100000 times"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Most common cause of squamous cell carcinoma is:",
+    "options": {
+      "A": "Bowens disease",
+      "B": "Marjolin ulcer",
+      "C": "Actinic keratosis",
+      "D": "Leukoplakia",
+      "E": "Erythroplakia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "The risk of Lichen planus changing in to malignancy is?",
+    "options": {
+      "A": "1-10%",
+      "B": "10-15%",
+      "C": "11-14%",
+      "D": "0-5%",
+      "E": "5%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Common Premalignant lesion of oral cavity is which among following?",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Paget disease",
+      "C": "Actinic keratosis",
+      "D": "Leukoplakia",
+      "E": "Submucosal fibrosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A scientist was experimenting on mice, he gave croton oil several times to mice in a week, then asked about how promoters causes carcinogenesis:",
+    "options": {
+      "A": "DNA damage",
+      "B": "Inhibiting apoptosis",
+      "C": "RNA damage",
+      "D": "Clonal expansion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Mechanism of cancer formation:",
+    "options": {
+      "A": "Initiator and promoters",
+      "B": "Only initiator cause carcinoma",
+      "C": "Initiator followed by promotor causing carcinoma",
+      "D": "Multiple initiators",
+      "E": "Promotor followed by initiator causing carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Tumor Suppressor gene is:",
+    "options": {
+      "A": "BRCA",
+      "B": "RET",
+      "C": "P53",
+      "D": "BCL",
+      "E": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Bladder cancer in a chemical industry worker is due to:",
+    "options": {
+      "A": "Vinyl chloride",
+      "B": "Aniline dye",
+      "C": "Irritation",
+      "D": "Arsenic",
+      "E": "Vinyl chloride"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "P53 is a tumor suppressor gene, when it is absent or mutated it may indicate:",
+    "options": {
+      "A": "Cell survival",
+      "B": "Apoptosis",
+      "C": "Cell death",
+      "D": "Cell necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Malignancy of tumor is determined by which following feature?",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Metastasis",
+      "C": "Decrease N/C ratio",
+      "D": "Dysplasia",
+      "E": "Anaplasia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Grading of carcinoma shows:",
+    "options": {
+      "A": "Dysplasia",
+      "B": "No proximity to basement membrane",
+      "C": "Mitosis inside cell",
+      "D": "Invasion",
+      "E": "Degree of differentiation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Common premalignant condition:",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Submucosal fibrosis",
+      "C": "Leukoplakia",
+      "D": "Erythroplakia",
+      "E": "Ulcer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Bladder cancer in a chemical industry worker due to:",
+    "options": {
+      "A": "Vinyl chloride",
+      "B": "Aniline dye",
+      "C": "Irritation",
+      "D": "Arsenic",
+      "E": "Vinyl chloride"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Characteristic feature of metastasis:",
+    "options": {
+      "A": "Up regulation of cadherin",
+      "B": "Up regulation of integrins",
+      "C": "Down regulation of E cadherins",
+      "D": "Down regulation of integrins",
+      "E": "Down regulation of Spectrin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "25 year old girl presented with lower abdominal pain. She is suspected of having abdominal pelvic mass upto umbilicus. Chest metastasis is also found which tumor maker is likely raised?",
+    "options": {
+      "A": "CA 19-9",
+      "B": "CA 15-3",
+      "C": "CA 125",
+      "D": "AFP",
+      "E": "Beta HCG"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Which of the following is Diagnostic criteria for sarcoma?",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Increased vascularity",
+      "C": "Mitotic figures",
+      "D": "Local invasion",
+      "E": "Metastasis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Which one of the following inorganic compound is carcinogenic?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Asbestos",
+      "C": "Alcohol",
+      "D": "Cisplatin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "A female has a Fibrous breast mass with irregular shape, non-mobile and 3cm in size with skin involvement. On gross examination, this condition is likely to be:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Anaplasia",
+      "C": "Dysplasia",
+      "D": "Hyperplasia",
+      "E": "Hypertrophy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Radiation usually causes cancer after:",
+    "options": {
+      "A": "7 Years",
+      "B": "More than 10 years",
+      "C": "5 years",
+      "D": "2 Years",
+      "E": "1 Year"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A worker is being working near a nickel metal shop which carcinoma is being predisposed likely?",
+    "options": {
+      "A": "Nasal",
+      "B": "Kidney",
+      "C": "Bladder CA",
+      "D": "Liver CA",
+      "E": "Lung CA"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Patient with bettle nut and pan chewing history, mouth lesion will be:",
+    "options": {
+      "A": "Leukoplakia",
+      "B": "Erythroplakia",
+      "C": "Sub mucosal fibrosis",
+      "D": "Chronic ulcer",
+      "E": "Basal cell carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Tumor suppressor gene involved in renal and gonadal agenesis:",
+    "options": {
+      "A": "WT1",
+      "B": "P53",
+      "C": "Bcl2",
+      "D": "BRCA",
+      "E": "KRAS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "In malignant melanoma patient tissue excised for biopsy which shows heterogenous cell lines most predominant cells will be against tumor are:",
+    "options": {
+      "A": "Cytotoxic cell",
+      "B": "B cell",
+      "C": "NK cell",
+      "D": "Macrophages",
+      "E": "Plasma Cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A Girl presented to her physician with concern both her mother and sister died of metastatic breast cancer before 40 year age. She is worried about herself which of the following gene is mutated?",
+    "options": {
+      "A": "Multiparity",
+      "B": "APC",
+      "C": "RAS",
+      "D": "BRCA-1 Mutation",
+      "E": "Fibroadenoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Most common skin cancer in HIV/AIDS patients is:",
+    "options": {
+      "A": "Kaposi sarcoma",
+      "B": "Hodgkin Lymphoma",
+      "C": "Basal cell carcinoma",
+      "D": "Squamous cell carcinoma",
+      "E": "Multiple Myeloma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Which of the following tumor follows knudson two hit hypothesis?",
+    "options": {
+      "A": "Retinoblastoma",
+      "B": "Neuroblastoma",
+      "C": "Burkit Lymphoma",
+      "D": "Pheochromocytoma",
+      "E": "Wilms Tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "A Young man working in factory for the last 5 years presented with painless hematuria and weight loss, on histopathology it was confirmed that the patient is suffering from urothelial carcinoma the most probable agent involve in the pathogenesis is:",
+    "options": {
+      "A": "Vinyl chloride",
+      "B": "Benzidine dye",
+      "C": "Aniline dye",
+      "D": "Arsenic",
+      "E": "Nitrosamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "A Child having tumor with Blue cells which is secreting catecholamines and is because of gene amplification which is the most probable diagnosis?",
+    "options": {
+      "A": "Neuroblastoma",
+      "B": "Ewing Sarcoma",
+      "C": "Wilms Tumor",
+      "D": "Retinoblastoma",
+      "E": "Pheochromocytoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "to see metastasis we should look for?",
+    "options": {
+      "A": "Fever",
+      "B": "Lymphadenopathy",
+      "C": "Tenderness",
+      "D": "Rash"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Feature which differentiate dysplasia from malignancy",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Pleomorphism",
+      "C": "Invasion to basement membrane",
+      "D": "Mitotic activity",
+      "E": "Chronocity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "The process of apoptosis is loss during the carcinogenic activity the following factor has anti apoptotic activity is:",
+    "options": {
+      "A": "BCL2",
+      "B": "BCL1",
+      "C": "BAX",
+      "D": "PKL",
+      "E": "BAK"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Complication of IUCD likely is",
+    "options": {
+      "A": "Squamous metaplasia",
+      "B": "Purulent discharge",
+      "C": "Fibroid",
+      "D": "Infection"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Cytokeratin is an intermediate filament found in cells but is most commonly used for detection of:",
+    "options": {
+      "A": "Degree of metaplasia or dysplasia",
+      "B": "To check rate of proliferation",
+      "C": "For staging of disease",
+      "D": "For growth"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "10 Year old child present with lump on forehead Mass excised from forehead microscope shows anastomosis of vessels and single layer of endothelium it is most likely:",
+    "options": {
+      "A": "Lipoma",
+      "B": "Hemangioma",
+      "C": "Sarcoma",
+      "D": "Fibroma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "In a nickel shop which carcinoma is being predisposed likely?",
+    "options": {
+      "A": "Nasal",
+      "B": "Kidney",
+      "C": "Bladder CA",
+      "D": "Liver CA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Which of the following is the Premalignant lesion of oral cavity?",
+    "options": {
+      "A": "Lichen planus",
+      "B": "Apthous ulcers",
+      "C": "Leukoplakia",
+      "D": "Submucosal fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Which of the following feature of cervical pap smear shows carcinoma in situ?",
+    "options": {
+      "A": "Dyskariosis",
+      "B": "Basement membrane invasion",
+      "C": "Increase vascularity",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Risk factor for the development of malignant melanoma:",
+    "options": {
+      "A": "Nitrosamine",
+      "B": "Xeroderma pigmentosa",
+      "C": "Congenital Navus",
+      "D": "Lichen Planus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Bladder CA associated with:",
+    "options": {
+      "A": "Irritation",
+      "B": "UTI",
+      "C": "Exstrophy",
+      "D": "Pyonephritis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Which of the following is locally malignant tumor?",
+    "options": {
+      "A": "Melanoma",
+      "B": "Squamous Cell Carcinoma",
+      "C": "BCC",
+      "D": "Adenoid cystic carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Anticancer agent:",
+    "options": {
+      "A": "Chocolate",
+      "B": "Apple",
+      "C": "Orange",
+      "D": "All (Apple above All)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Grading of cell shows:",
+    "options": {
+      "A": "Number of mitosis",
+      "B": "Cell number",
+      "C": "Invasion",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Tumour marker for breast CA:",
+    "options": {
+      "A": "CA 19-9",
+      "B": "CA 125",
+      "C": "CA 15-3",
+      "D": "PSA",
+      "E": "CEA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Which one is not epithelial Tumor?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous Cell CA",
+      "C": "Liposarcoma",
+      "D": "Gastric CA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Which of the following is called as governor of cell cycle?",
+    "options": {
+      "A": "APC",
+      "B": "RB",
+      "C": "BCL2",
+      "D": "P53"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Difference between carcinoma in situ and malignant disease:",
+    "options": {
+      "A": "Invasion",
+      "B": "Metastasis",
+      "C": "Capsule",
+      "D": "Lymph node involvement"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Oesophageal carcinoma occur due to;",
+    "options": {
+      "A": "Hydrocarbon",
+      "B": "Nitrosamine",
+      "C": "Aflatoxin",
+      "D": "Bettel nut"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Leukoplakia is:",
+    "options": {
+      "A": "Premalignant Condition",
+      "B": "Premalignant lesion",
+      "C": "Malignancy",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Staging of tumor shows:",
+    "options": {
+      "A": "Differentiation",
+      "B": "Extent of tumor",
+      "C": "Mitosis",
+      "D": "Type of Cell"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Which one is premalignant?",
+    "options": {
+      "A": "Achlasia",
+      "B": "Barret's Esophagus",
+      "C": "Mallory Weiss",
+      "D": "Mourheves Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A Person working in a tyre factory for last 15 years is at increased risk of:",
+    "options": {
+      "A": "Bladder carcinoma",
+      "B": "Hepatoma",
+      "C": "Lung carcinoma",
+      "D": "Leukemia",
+      "E": "Small Cell Carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "What is the type of mutation in Li fraumeni syndrome?",
+    "options": {
+      "A": "RB gene",
+      "B": "MEN-1",
+      "C": "Tp53",
+      "D": "K-RAS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Which of the following is due to K-Ras mutation?",
+    "options": {
+      "A": "Gastric carcinoma",
+      "B": "Breast carcinoma",
+      "C": "Colorectal carcinoma",
+      "D": "Hereditary non-polyposis of colon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Most common carcinoma of bladder:",
+    "options": {
+      "A": "Mesothelioma",
+      "B": "Transitional cell carcinoma",
+      "C": "Papillary carcinoma",
+      "D": "Squamous cell carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Patient having alternative diarrhea and constipation habits and per rectal bleeding diagnosed as a case of colon cancer which is the tumor marker:",
+    "options": {
+      "A": "Alpha fetoprotein",
+      "B": "CEA",
+      "C": "CA-125",
+      "D": "BRCA-2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A farmer presents with hyperkeratosis, parakeratosis, atypical cells and brown color lesion on face and cheek most likely is",
+    "options": {
+      "A": "Actinic keratosis",
+      "B": "Solar keratosis",
+      "C": "squamous cell carcinoma",
+      "D": "Basal cell carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A patient with complain of fatigue, weakness and weight loss. He gave history of Alcohol abuse in past now diagnosed as Liver carcinoma what tumor marker will be raised?",
+    "options": {
+      "A": "CEA",
+      "B": "CA 125",
+      "C": "AFP",
+      "D": "CA 13",
+      "E": "CA 19-9"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Proto oncogene most commonly altered by:",
+    "options": {
+      "A": "Chemical",
+      "B": "Ras",
+      "C": "Radiation",
+      "D": "Bacteria",
+      "E": "Fungus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "HCC most common cause:",
+    "options": {
+      "A": "Nitrosamine",
+      "B": "CMV",
+      "C": "Aflatoxin",
+      "D": "Hydrocarban"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Which one causes Lung CA?",
+    "options": {
+      "A": "Nitrosamine",
+      "B": "H. pylori",
+      "C": "Asbestos",
+      "D": "Silica"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Most important factor associated with malignancy:",
+    "options": {
+      "A": "Grading",
+      "B": "Staging",
+      "C": "Invasion",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Which of the following is most common benign tumor?",
+    "options": {
+      "A": "Pleomorphic Adenoma",
+      "B": "Warthin Tumor",
+      "C": "Mucoepidermoid Ca",
+      "D": "SCC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Malignant Tumor feature is :",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Metastasis",
+      "C": "Desmoplasia",
+      "D": "Increase N/C ratio"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "5 years after transplant surgery malignancy is:",
+    "options": {
+      "A": "Skin",
+      "B": "Lymphoproliferative",
+      "C": "Rectal",
+      "D": "Lungs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Which one of the following causes bladder carcinoma?",
+    "options": {
+      "A": "Cyclophosphamide",
+      "B": "Aniline dye",
+      "C": "Smoking",
+      "D": "Alcohol"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Angiosarcoma of liver in factory worker is caused by:",
+    "options": {
+      "A": "Vinyl Chloride",
+      "B": "Arsenic",
+      "C": "Aflatoxin",
+      "D": "Aniline Dye"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Obstructive lung disease is diagnosed in patient which of the following is the causative agent;",
+    "options": {
+      "A": "Nicotine",
+      "B": "Arsenic",
+      "C": "Nickle",
+      "D": "Cadmium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Virus act on the cells by following mechanism:",
+    "options": {
+      "A": "Damage to cell membrane",
+      "B": "Damage to nuclear membrane",
+      "C": "Involving protein synthesis",
+      "D": "Changing protein structure"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Grading of carcinoma shows:",
+    "options": {
+      "A": "Type of Epithelium",
+      "B": "Type of Muscle",
+      "C": "Type of Cell",
+      "D": "Type of Nuclei"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Which of the following carcinoma is related to smoking?",
+    "options": {
+      "A": "SCC",
+      "B": "BCC",
+      "C": "Melanoma",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "CEA is normally found in embryonic period, 60% pancreatic carcinoma and is also found in which of the following carcinoma:",
+    "options": {
+      "A": "Lungs",
+      "B": "Colon",
+      "C": "Liver",
+      "D": "Kidneys"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Which of the following tumor marker is positive in meigs syndrome?",
+    "options": {
+      "A": "CA-123",
+      "B": "CA-125",
+      "C": "AFP",
+      "D": "LDH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Which of the following is tumor marker of both pancreatic & colonic carcinoma?",
+    "options": {
+      "A": "CEA",
+      "B": "AF",
+      "C": "LDH",
+      "D": "CA-125"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Repetitive division/mitosis is seen in:",
+    "options": {
+      "A": "Grading",
+      "B": "Staging",
+      "C": "Permanent Cells",
+      "D": "Cardiac Cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Cell is arrested at G1 by:",
+    "options": {
+      "A": "TP53",
+      "B": "Rb Gene",
+      "C": "K-Ras",
+      "D": "Bcl2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Which carcinoma is autosomal dominant?",
+    "options": {
+      "A": "Hepatocellular carcinoma",
+      "B": "Colon carcinoma",
+      "C": "Childhood retinoblastoma",
+      "D": "DMD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Serum marker for hepatocellular carcinoma",
+    "options": {
+      "A": "AFP",
+      "B": "CEA",
+      "C": "CA-125",
+      "D": "CA-19-9"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Cryptorchidism increases the risk of:",
+    "options": {
+      "A": "Malignancy",
+      "B": "Infection",
+      "C": "UTI",
+      "D": "Renal problem"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "Which of the following tumor marker is raised in neural tube defect?",
+    "options": {
+      "A": "AFP",
+      "B": "LDH",
+      "C": "CEA",
+      "D": "CA-125"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Which of the following is premalignant lesion of Vulva?",
+    "options": {
+      "A": "Paget disease",
+      "B": "Lichen sclerosus",
+      "C": "Lichen planus",
+      "D": "Krause Vulvae"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Metastasis most common to the brain is from:",
+    "options": {
+      "A": "Liver",
+      "B": "Kidney",
+      "C": "Lungs",
+      "D": "Breast"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Microscopic feature of malignancy us:",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Invasion of surrounding tissues",
+      "C": "Infarction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Virus causes cancer by undergoing alteration in:",
+    "options": {
+      "A": "Nuclear integration",
+      "B": "Cell membrane proliferation",
+      "C": "Protein synthesis",
+      "D": "Lysis of Nucleic Acids"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Schistosoma hematobium cause which cancer of bladder?",
+    "options": {
+      "A": "Transitional cell ca",
+      "B": "Squamous cell ca",
+      "C": "Adenocarcinoma",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Which of the following is para-neoplastic syndrome?",
+    "options": {
+      "A": "Small cell carcinoma",
+      "B": "HCC",
+      "C": "RCC",
+      "D": "Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Paraneoplastic syndrome associated with renal cell carcinoma",
+    "options": {
+      "A": "Polycythaemia",
+      "B": "Cushing syndrome",
+      "C": "SIADH",
+      "D": "Hypercalcaemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "A lady with cervical cancer of 3.5 cm. ipsilateral and lymph nodes are enlarged with suspected metaplasia. The staging classification will be:",
+    "options": {
+      "A": "T1N2M1",
+      "B": "T2N1M1",
+      "C": "T2N1M0",
+      "D": "T1N0M0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Small cell carcinoma of lung causes",
+    "options": {
+      "A": "SIADH",
+      "B": "Cushing disease",
+      "C": "Hypercalcemia",
+      "D": "Polycythaemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "In squamous cell carcinoma of lung there is increase",
+    "options": {
+      "A": "ACTH",
+      "B": "ADH",
+      "C": "Erythropoietin",
+      "D": "PTHrP"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Most radiosensitive tumor is:",
+    "options": {
+      "A": "Medulloblastoma",
+      "B": "Brain stem glioma",
+      "C": "Astrocytoma",
+      "D": "Ependymoma",
+      "E": "Craniopharyngioma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Highly radiosensitive tumor is:",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Glioma",
+      "C": "Seminoma",
+      "D": "Craniopharyngioma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Only LDH increased with no other tumor marker. The condition is:",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Glioma",
+      "C": "Seminoma",
+      "D": "Craniopharyngioma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "The chronic exposure to radiation causes:",
+    "options": {
+      "A": "Lichen Planus",
+      "B": "Melanoma",
+      "C": "Endarteritis obliterans",
+      "D": "Anemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A chronic smoker smoking 20 cigarettes per day for around 20 years would develop:",
+    "options": {
+      "A": "Squamous metaplasia",
+      "B": "Burkitt lymphoma",
+      "C": "Hyperplasia",
+      "D": "Hypertrophy with hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Malignancy occurs after how many years of exposure to radiations:",
+    "options": {
+      "A": "5 years",
+      "B": "8 years",
+      "C": "10 years",
+      "D": "20 years"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Diagnostic criteria for pre malignant condition is:",
+    "options": {
+      "A": "Increase N/C ratio",
+      "B": "Pleomorphism",
+      "C": "Hyperplasia",
+      "D": "Dysplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Histological diagnostic criteria for malignant tumour:",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Local invasion",
+      "C": "Mitotic figures",
+      "D": "Increase N/C ratio"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "The histological feature less than 25 % differentiated cells is suggestive of",
+    "options": {
+      "A": "Poorly differentiated",
+      "B": "SCC",
+      "C": "Undifferentiated CA",
+      "D": "Anaplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "A study is performed to see characteristic of malignant neoplasm biopsy specimen. The biopsies perform patients who had palpable lesions on digital examination. Of following microscopic finding is indicator of malignancy?",
+    "options": {
+      "A": "Pleomorphism",
+      "B": "Atypia",
+      "C": "Encapsulated",
+      "D": "Increased N/C ratio.",
+      "E": "Necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Which of following is feature of Benign Tumor?",
+    "options": {
+      "A": "Invasion",
+      "B": "Pleomorphism",
+      "C": "Increase N/C ratio",
+      "D": "Encapsulated"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "The most common asbestos related tumor in human being is:",
+    "options": {
+      "A": "Bronchogenic carcinoma",
+      "B": "Pleural mesothelioma",
+      "C": "Bladder carcinoma",
+      "D": "Breast carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Nasopharyngeal carcinoma is most commonly associated with:",
+    "options": {
+      "A": "HPV",
+      "B": "Hep.B",
+      "C": "Aflatoxin",
+      "D": "EBV"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Radiotherapy damage which phase",
+    "options": {
+      "A": "G1",
+      "B": "G2",
+      "C": "S",
+      "D": "G0",
+      "E": "M"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Barret esophagus can cause which of following carcinoma:",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell Carcinoma",
+      "C": "Melanoma",
+      "D": "Small cell carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Benign tumor is",
+    "options": {
+      "A": "Leiomyoma",
+      "B": "Lymphoma",
+      "C": "Sarcoma",
+      "D": "Leukemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Risk Factor for endometrial carcinoma",
+    "options": {
+      "A": "Multiparity",
+      "B": "Early menopause",
+      "C": "Late Menarche",
+      "D": "Hypotension",
+      "E": "DM"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Increase risk of cancer in HIV positive Female patient is",
+    "options": {
+      "A": "CA Bladder",
+      "B": "CA bronchus",
+      "C": "CA Cervix",
+      "D": "CA lung"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Patient with cancer T4N1M1 , such that these patients have low survival rate. What will be common to such patients?",
+    "options": {
+      "A": "Cachexia",
+      "B": "HCC",
+      "C": "Cervical Ca",
+      "D": "Bladder cancer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Protoncogenes converted to oncogenes by:",
+    "options": {
+      "A": "Point mutation",
+      "B": "Translation",
+      "C": "DNA transcription",
+      "D": "Chromosomal translocation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Mechanism of reduction in size of organ of a patient undergoing chemotherapy is",
+    "options": {
+      "A": "Atrophy",
+      "B": "Apoptosis",
+      "C": "Necrosis",
+      "D": "Direct action of chemo drug"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Hamartoma is",
+    "options": {
+      "A": "Ectopic tissue",
+      "B": "Disorganized growth of mature cell indigenous to the site",
+      "C": "A tumor which can metastasize",
+      "D": "A tumor with all germ layers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Dysplasia is recognized by",
+    "options": {
+      "A": "Loss of polarity and architecture",
+      "B": "Pleomorphism",
+      "C": "Dyskariosis",
+      "D": "Change of Epithelium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Patient With below knee amputation. After that painful scar formed this is",
+    "options": {
+      "A": "Neuroma",
+      "B": "Ganglioma",
+      "C": "SCC",
+      "D": "BCC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Most common location of Ectopic Salivary gland",
+    "options": {
+      "A": "Tongue",
+      "B": "Palate",
+      "C": "Cheek",
+      "D": "Nose"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Mammography reduces prevalence of CA breast by",
+    "options": {
+      "A": "10%",
+      "B": "30%",
+      "C": "40%",
+      "D": "50%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Tumor that don't secrete any hormone:",
+    "options": {
+      "A": "Choriocarcinoma",
+      "B": "Teratoma",
+      "C": "Chondrosarcoma",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Pap smear done for a women, HPV positive after 2yr increased nuclear size, prominent nucleoli. What is it?",
+    "options": {
+      "A": "Dysplasia",
+      "B": "Anaplasia",
+      "C": "Carcinoma",
+      "D": "Metaplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Capsule of benign neoplasm is derived from",
+    "options": {
+      "A": "Parenchyma",
+      "B": "Stroma",
+      "C": "Necrotic tissue of tumor",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Premalignat nevus is:",
+    "options": {
+      "A": "Compound nevus",
+      "B": "Intradermal nevus.",
+      "C": "Junctional nevus.",
+      "D": "Dysplastic nevus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "70 years old male with nocturia, urgency, dysuria and back pain and also history of left upper limb pain and fracture of bone on labs there is increase in alkaline phosphatase most appropriate investigation is",
+    "options": {
+      "A": "Serum phosphate",
+      "B": "Serum calcium",
+      "C": "Serum PTH level",
+      "D": "Serum PSA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Permeation is defined as",
+    "options": {
+      "A": "Tumor invasion to blood vessels",
+      "B": "Tumor invasion to adjacent tissue",
+      "C": "Tumor invasion to lymphatics",
+      "D": "Distant metastasis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "A child has bald patch on scalp since birth. Which is leathery On microscopic exam there are papillomatous projections in epidermis. Dermis main abundance of sebaceous glands. What is the serious complication?",
+    "options": {
+      "A": "Basal cell carcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Scaling alopecia",
+      "D": "Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Which one of the following is mesenchymal in origin",
+    "options": {
+      "A": "Choristoma",
+      "B": "Sarcoma",
+      "C": "Hamartoma",
+      "D": "Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A patient with a bald patch on scalp which on examination is yellow velvet. It can lead to which dangerous condition:",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Basal cell carcinoma",
+      "C": "Keratoacanthoma",
+      "D": "Transitional cell carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "A patient is on radiotherapy after that DNA damage A gene which arrest in G1 phase progression defective unregulated growth occurs due to which?",
+    "options": {
+      "A": "K-ras",
+      "B": "N-myc",
+      "C": "P53",
+      "D": "Bcl-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Tumor marker of astrocytes",
+    "options": {
+      "A": "GFAP",
+      "B": "CEA",
+      "C": "CA-125",
+      "D": "CA-19-9",
+      "E": "FAP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Cancer in humans due to:",
+    "options": {
+      "A": "Apoptosis",
+      "B": "One less chromosome",
+      "C": "One extra chromosome",
+      "D": "Over expression of proto oncogene",
+      "E": "Non-lethal gene mutation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Which component of neoplasm determines its biological behaviour",
+    "options": {
+      "A": "Stroma",
+      "B": "Parenchyma",
+      "C": "Vascular component",
+      "D": "Lymph vessels"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "AIDS defining cancer is",
+    "options": {
+      "A": "Esophageal carcinoma",
+      "B": "Malignant melanoma",
+      "C": "Kaposi sarcoma",
+      "D": "Basal cell carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Following is not a characteristics of malignant tissue",
+    "options": {
+      "A": "Abnormal mitosis",
+      "B": "Anaplasia",
+      "C": "Metastasis",
+      "D": "Fibrous reaction around tumor",
+      "E": "Increased nuclear to cytoplasmic reaction"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Oat cell carcinoma tumor marker",
+    "options": {
+      "A": "ACTH",
+      "B": "ADH",
+      "C": "PTHrP",
+      "D": "Erythropoietin",
+      "E": "PSA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "All are markers for osteoblastic activity except",
+    "options": {
+      "A": "Bone scan",
+      "B": "Osteocalcin",
+      "C": "Alkaline phosphatase",
+      "D": "Hydroxyproline"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Kaposi sarcoma is commonly seen in",
+    "options": {
+      "A": "Head and neck",
+      "B": "Abdomen",
+      "C": "Back",
+      "D": "Upper limb",
+      "E": "Lower limb"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Neoplastic disease may be associated with all except",
+    "options": {
+      "A": "Dermatomyositis",
+      "B": "Necrobiosis lipoidica",
+      "C": "Acanthosis nigricians",
+      "D": "Thrombophlebitismigrans"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "How to differentiate hematopoietic stem cells in myelocytic stage",
+    "options": {
+      "A": "Staining of granules",
+      "B": "No lineage of specific markers",
+      "C": "CD 33 negative",
+      "D": "CD 34 positive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Tumor containing all the three germ cell layers is",
+    "options": {
+      "A": "Yolk sac tumor",
+      "B": "Seminoma",
+      "C": "Teratoma",
+      "D": "Granulosa cell tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Which is carcinogen",
+    "options": {
+      "A": "UV light for bones",
+      "B": "Aflatoxin for breast",
+      "C": "UV light for esophagus",
+      "D": "Alcohol for liver"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "The following tumor may secrete hormone:",
+    "options": {
+      "A": "Carcinoid",
+      "B": "Benign tumor of ovary",
+      "C": "Seminoma",
+      "D": "Choriocarcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Testicular tumor what will increase if it's not seminoma?",
+    "options": {
+      "A": "Beta HCG",
+      "B": "AFP",
+      "C": "CA-125",
+      "D": "CA-127"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "A tumor of vermis in child. histology was given, true rossets are present. what is diagnosis",
+    "options": {
+      "A": "Ependymoma",
+      "B": "Medulloblastoma",
+      "C": "Rhabdomyosarcoma",
+      "D": "Basal cell carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Most likely primary site for metastatic lung cancer with histology of sheets of clear cells",
+    "options": {
+      "A": "Lung",
+      "B": "Renal",
+      "C": "Breast",
+      "D": "Stomach",
+      "E": "Cervix"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Which one is benign tumor",
+    "options": {
+      "A": "Adenoma",
+      "B": "Hepatoma",
+      "C": "Leukemia",
+      "D": "Lymphoma",
+      "E": "Liposarcoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Which one is not malignant tumor",
+    "options": {
+      "A": "Chronic Osteomyelitis",
+      "B": "Ulcerative colitis",
+      "C": "Erythroplakia",
+      "D": "Sarcoidosis",
+      "E": "Renal cell carcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Which of following is most aggressive carcinoma?",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Melanoma",
+      "D": "Leukoplakia",
+      "E": "Lichen planus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Which is produced by carcinoid tumor?",
+    "options": {
+      "A": "Serotonin",
+      "B": "Histamine",
+      "C": "Dopamine",
+      "D": "Epinephrine",
+      "E": "AFP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A patient diagnosed with Papillary Carcinoma of Thyroid with no family history Cause is",
+    "options": {
+      "A": "Iodine",
+      "B": "Metastasis",
+      "C": "Chemotherapy",
+      "D": "Family history",
+      "E": "Radiation in childhood"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Medullary CA tumor marker is",
+    "options": {
+      "A": "CA 125",
+      "B": "CA 19-9",
+      "C": "Calcitonin",
+      "D": "CA 15-5",
+      "E": "ALP"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Most Common CA in Men world wide:",
+    "options": {
+      "A": "Lung CA",
+      "B": "Prostate CA",
+      "C": "Liver CA",
+      "D": "Carcinogen CA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Biopsy of stomach done, there was none specialized gastric tissue and scatter goblet cells this is related to:",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Ca stomach",
+      "D": "Ulcer",
+      "E": "Hyperplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "N-Myc mutation is seen in",
+    "options": {
+      "A": "Neuroblastoma",
+      "B": "Nephroblastoma",
+      "C": "Wilms Tumor",
+      "D": "Retinoblastoma",
+      "E": "Glioblastoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Clinically palpable lymph node but not mettled and the likelihood of metastasis in malignancy what will be the stage of this cancer?",
+    "options": {
+      "A": "T1N1M1",
+      "B": "T1N0M0",
+      "C": "T2N1M1",
+      "D": "T1N0M0"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Child presented with decrease vision and mass in eye likely diagnosis is",
+    "options": {
+      "A": "Cataract",
+      "B": "Glucoma",
+      "C": "Retinoblastoma",
+      "D": "Wilms tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A child diagnosed to have blue cell tumor with Gene amplification and high catecholamine. Which of the following gene associated with it",
+    "options": {
+      "A": "MS1",
+      "B": "Myc gene",
+      "C": "Retinoblastoma gene",
+      "D": "P53",
+      "E": "ACC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Woman had a polyp in the cervix Pap smear shows thick endothelium with pleomorphic cells and hyperchromatic nuclei showing koilocytes the change is:",
+    "options": {
+      "A": "Squamous Metaplasia",
+      "B": "Dysplasia",
+      "C": "Squamous cervical Anaplasia",
+      "D": "Adenoma",
+      "E": "Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "A Man smoke 20 packs per month work in factory he develops lung cancer which carcinogen in Cigarette cause lung cancer",
+    "options": {
+      "A": "Nitrosamines",
+      "B": "Hydrocarbons",
+      "C": "Vinyl chloride",
+      "D": "Azo dye",
+      "E": "Arsenic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A 30 years old male presented with history of fever, significant weight loss, painful micturition, hematuria and flank mass, his Hb is 18. what could be the possible pathology associated with his condition:",
+    "options": {
+      "A": "Rhabdomyosarcoma",
+      "B": "Angiomyolipoma",
+      "C": "Polycystic kidney disease",
+      "D": "RCC",
+      "E": "HCC"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Diagnosis of colon CA made many years ago back CEA was raised that time pt came for regular checkup you advised CEA now what is role of CEA?",
+    "options": {
+      "A": "For Staging",
+      "B": "For Follow up",
+      "C": "To confirm Malignancy",
+      "D": "Cell differentiation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Patient has Mass in front of neck. On examination it is firm and tender. The patient also has hoarseness. The test to be done for diagnosis?",
+    "options": {
+      "A": "Ultrasound neck",
+      "B": "Biopsy",
+      "C": "T4 levels",
+      "D": "FNAC",
+      "E": "Radioisotope Scan"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Which of the following is locally malignant tumor?",
+    "options": {
+      "A": "Melanoma",
+      "B": "Squamous Cell Carcinoma",
+      "C": "Amleoblastoma",
+      "D": "Adenoid cystic carcinoma",
+      "E": "Hemartoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "Female patient is diagnosed with invasive ductal carcinoma. Upon investigation CA was 6CM mass with skin involvement 4 axillary lymph nodes involvement tumor is graded as high grade CA due to ?",
+    "options": {
+      "A": "Skin involvement",
+      "B": "Lymph nodes involvement",
+      "C": "Nuclear malignancy",
+      "D": "Invasion",
+      "E": "Metastasis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Local Lymphatic obstruction is caused by combination of which two?",
+    "options": {
+      "A": "Infection and neoplasia",
+      "B": "Renal failure and hypoproteinemia",
+      "C": "Hematuria and albuminuria",
+      "D": "Cardiac failure and IHD",
+      "E": "Arterial obstruction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "In Breast carcinoma orange peep secretions related to",
+    "options": {
+      "A": "Sebaceous gland",
+      "B": "Sweat gland",
+      "C": "Fibrous scar cells",
+      "D": "Invasive carcinoma cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Cancer most prevalent in male of karachi is",
+    "options": {
+      "A": "Lung CA",
+      "B": "Stomach CA",
+      "C": "Liver CA",
+      "D": "Oral Cancer"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A Pap smear of lady done which shows dysplasia Increase N/C Ratio and Pleomorphism but basement membrane is intact what is associated with this?",
+    "options": {
+      "A": "Invasion of adjacent tissue",
+      "B": "Invasion of basement membrane",
+      "C": "Carcinoma in situ",
+      "D": "Carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "DNA is often damaged causing carcinogenesis. Which of following is DNA repair gene?",
+    "options": {
+      "A": "p53",
+      "B": "Rb1",
+      "C": "APC",
+      "D": "KRAS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "N-myc gene amplification associated with",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "Pituitary adenoma",
+      "C": "Ewing sarcoma",
+      "D": "Nephroblastoma",
+      "E": "Neuroblastoma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of the following conditions is related to lymphatic obstruction?",
+    "options": {
+      "A": "Angiosarcoma",
+      "B": "Rhabdomyosarcoma",
+      "C": "Leiomyoma",
+      "D": "Cystic hygroma",
+      "E": "Myocele"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Extent of damage to tissue by ionizing radiations usually depends on:",
+    "options": {
+      "A": "Age of the patient",
+      "B": "Type of radiation",
+      "C": "Type of tissue exposed",
+      "D": "Dose of radiation with short exposure",
+      "E": "Duration of exposure"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "In grade 3 carcinoma how many cells remain undifferentiated?",
+    "options": {
+      "A": "5%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%",
+      "E": "All"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Ovarian cancer Spreads by which route:",
+    "options": {
+      "A": "Direct spread",
+      "B": "Peritoneal cavity",
+      "C": "Pleural cavity",
+      "D": "Inguinal nodes",
+      "E": "Fallopian tubes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "A patient with Sarcoma of thigh receives radiotherapy for after 6 months he develops scaring & fibrosis of the skin it is due to which of following?",
+    "options": {
+      "A": "Endarteritis Obliterans",
+      "B": "Desquamation",
+      "C": "Venous thrombosis",
+      "D": "Infection",
+      "E": "Inflammation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Most common method to detect any type of cancer in blood is?",
+    "options": {
+      "A": "CBC",
+      "B": "Tumor markers",
+      "C": "Peripheral smear",
+      "D": "Ferritin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "A woman is suffering from HIV what cancer she is at risk of developing:",
+    "options": {
+      "A": "Endometrial CA",
+      "B": "Ovarian CA",
+      "C": "Uterine and cervical Ca",
+      "D": "Vulvular"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "For Extensive Metastasis Bone scan necessary for which cancer:",
+    "options": {
+      "A": "Melanoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Basal cell carcinoma",
+      "D": "Retinoblastoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "B cell markers used for their identification in a tumour:",
+    "options": {
+      "A": "CD 21",
+      "B": "CD 23",
+      "C": "CD 19 20",
+      "D": "CD 15"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Carcinogen cause mutation, these genetic mutations are?",
+    "options": {
+      "A": "Lethal",
+      "B": "Non lethal",
+      "C": "Acquired",
+      "D": "Temporary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Colon adenocarcinoma where metastasis first?",
+    "options": {
+      "A": "Mesocolic lymph",
+      "B": "Liver",
+      "C": "Lung",
+      "D": "Brain",
+      "E": "Spleen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Patient breast carcinoma having history mother sister maternal aunt gene BRCA 1 causing carcinoma present on",
+    "options": {
+      "A": "Nucleus",
+      "B": "Cytosol",
+      "C": "Cytoskeleton",
+      "D": "Plasma membrane",
+      "E": "Cell surface"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Which of following is tumor of upper eyelid",
+    "options": {
+      "A": "BCC",
+      "B": "Actinic keratosis",
+      "C": "Acanthamoeba",
+      "D": "Leukoplakia",
+      "E": "Lichen planus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "CSF findings necessary to rule out which carcinoma",
+    "options": {
+      "A": "Retinoblastoma/Melanoma of Eye",
+      "B": "Neuroblastoma",
+      "C": "Nephroblastoma",
+      "D": "Meningioma",
+      "E": "SCC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Tumor of eye least likely to Metastasize",
+    "options": {
+      "A": "RB",
+      "B": "Ewing sarcoma",
+      "C": "BCC",
+      "D": "SCC",
+      "E": "Melanoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "All are germ cell tumor of testes except",
+    "options": {
+      "A": "Lymphoma",
+      "B": "Teratoma",
+      "C": "Leydig cell tumor",
+      "D": "Choriocarcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Tumour with good prognosis is:",
+    "options": {
+      "A": "Germ cell",
+      "B": "Gastric",
+      "C": "AML",
+      "D": "Ovarian"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Basal cell carcinomas are commonly Seen In which",
+    "options": {
+      "A": "Fitz-Hugh & Curtis syndrome",
+      "B": "Gorlin goltz syndrome",
+      "C": "Hermansky pudlak syndrome",
+      "D": "Chediak Higashi syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "A patient has Lesion on nose examination reveal flesh color lesion with slightly elevated rolled edges and regular margins cause is",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "Smooth and shiny surface",
+      "D": "Rough surface"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Which tumor involves extension to nerve sheath",
+    "options": {
+      "A": "Myxoma",
+      "B": "Adenoma",
+      "C": "Hemangiopericytoma",
+      "D": "Carcinoma expleomorphic adenoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Most important test clinically for tumor is which of following",
+    "options": {
+      "A": "Grading",
+      "B": "Pleomorphism",
+      "C": "Staging",
+      "D": "N/C ratio",
+      "E": "Mitosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "nasal basal cell carcinoma most common type",
+    "options": {
+      "A": "Squamous",
+      "B": "Anaplastic",
+      "C": "Ulcer",
+      "D": "Nodular",
+      "E": "Inflammatory"
+    },
+    "correct_answer": "D"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "A patient diagnosed case of Carcinoma and treated with radiation decrease it's size by",
+    "options": {
+      "A": "Ionizing free radicals",
+      "B": "Genetic mutation",
+      "C": "Point mutation",
+      "D": "Genetic draft"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Virus causes cancer by alterations in",
+    "options": {
+      "A": "Proto oncogene",
+      "B": "Oncogene",
+      "C": "DNA",
+      "D": "RNA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Loss of functional mutation in which gene cause cancer",
+    "options": {
+      "A": "APC",
+      "B": "BCL3",
+      "C": "TP53",
+      "D": "BCL2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Feature of well differentiated Squamous cell carcinoma is",
+    "options": {
+      "A": "Cytokeratin",
+      "B": "Myc gene",
+      "C": "Rb 53",
+      "D": "Keratin pearls"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Most widely used technique to detect tumor cells is",
+    "options": {
+      "A": "CBC",
+      "B": "Tumor markers",
+      "C": "Peripheral smear",
+      "D": "Ferritin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Most cancers have sporadic transmission but some have genetic element. Which syndrome is autosomal dominant with tumour mutation?",
+    "options": {
+      "A": "Familial adenomatous polyposis",
+      "B": "Tay sach disease",
+      "C": "Villous adenoma",
+      "D": "Multiple sclerosis",
+      "E": "Tubular adenoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "A professor was talking about tumor suppressor gene that mutation in cancer of both allele. He gives example of bringing their child being affected by a disease with rest of children being normal. The gene involved is:",
+    "options": {
+      "A": "KRAS",
+      "B": "Myc",
+      "C": "RB 1",
+      "D": "WT 1",
+      "E": "MSH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Gene alteration is CA pancreas is",
+    "options": {
+      "A": "APC",
+      "B": "BRCA 2",
+      "C": "KRAS",
+      "D": "Bcl2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "A group of mice was taken and injection of plastic hydrocarbon was given this will work as initiator in process the initiator work as:",
+    "options": {
+      "A": "Slow process will take time",
+      "B": "Memory produce",
+      "C": "It is last step in carcinogenesis",
+      "D": "Cause Clonal proliferation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "A man presented with generalized body swelling for two weeks. Physical examination shows thick wavy skin, hepatomegaly and enlarge kidney. 24 h/urinary protein was 4g/day. Kidney biopsy shows apple colored birefringence fibril under congo red stain. What is diagnosis",
+    "options": {
+      "A": "BCC",
+      "B": "Malaria",
+      "C": "TB",
+      "D": "Multiple myeloma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Feature which differentiates full blown carcinoma from carcinoma in situ?",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Pleomorphism",
+      "C": "Invasion to basement membrane",
+      "D": "Mitotic activity",
+      "E": "Chronicity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "First step in beginning of cancer",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Pleomorphism",
+      "C": "Invasion/degradation of ECM components of basement membrane",
+      "D": "Mitotic activity",
+      "E": "Chronicity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Patient has history of 60 packs cigarette smoking and develop mesothelioma risk factor for it is",
+    "options": {
+      "A": "Vinyl chloride",
+      "B": "Asbestos",
+      "C": "Nitrosamine",
+      "D": "Hydrocarbon",
+      "E": "Azo dye"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "If a cell is arrested in G1 phase and later developed uncontrollable mitotic activity what gene affected",
+    "options": {
+      "A": "BRAS",
+      "B": "P53",
+      "C": "KRAS",
+      "D": "WT1",
+      "E": "APC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "A woman test positive for CA 125 it is tumor marker of which of these?",
+    "options": {
+      "A": "Breast CA",
+      "B": "Lung CA",
+      "C": "Liver CA",
+      "D": "Ovarian CA",
+      "E": "Pancreatic CA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Which one is improved?",
+    "options": {
+      "A": "Invasion",
+      "B": "Pleomorphism",
+      "C": "Increase n/c ratio",
+      "D": "Dysplasia",
+      "E": "Decrease n/c ratio"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Lymph vessel involved in which on of following",
+    "options": {
+      "A": "Cavernous Hemangioma",
+      "B": "Capillary Hemangioma",
+      "C": "Angiodysplasia",
+      "D": "Angiofibroma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Submucosal Fibrosis is",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Dysplasia",
+      "C": "Pre-Malignant condition",
+      "D": "Atrophy",
+      "E": "Anaplastic chang"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Peau d' orange appearance of breast occurs in malignancy of breast due to distortion of:",
+    "options": {
+      "A": "Lobules of Breast",
+      "B": "Suspensory Ligaments of Breast",
+      "C": "Tail of breast",
+      "D": "Longitudinal Ligament of Breast"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "In Plastic Industry worker cause of Angiosarcoma is which of following",
+    "options": {
+      "A": "Arsenic",
+      "B": "Vinyl chloride",
+      "C": "Cadmium",
+      "D": "Asbestos"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Common cause of mutation of proto - oncogene by exogenous substance is:",
+    "options": {
+      "A": "Virus",
+      "B": "Ionizing radiation",
+      "C": "Bacteria",
+      "D": "Fungi",
+      "E": "Metals"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "A 70 years non-smoker man presented with painless haematuria investigation reveals Urothelial CA bladder what is risk factor for CA bladder in him",
+    "options": {
+      "A": "Neoplasia",
+      "B": "Aniline dye",
+      "C": "Carbon",
+      "D": "Vinyl chloride",
+      "E": "Silica",
+      "F": "Aflatoxin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Neoplasia has parenchyma and microenvironment, microenvironment has:",
+    "options": {
+      "A": "Stroma + inflammatory cells",
+      "B": "Stroma + inflammatory cells + blood vessels",
+      "C": "Stroma only",
+      "D": "Endothelial cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Carcinoma having genetic cause is:",
+    "options": {
+      "A": "Boil",
+      "B": "Xeroderma pigmentosa",
+      "C": "Congenital Nevus",
+      "D": "Lichen Planus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Acoustic Neuroma is a tumour of:",
+    "options": {
+      "A": "Cochlear part of CN 8",
+      "B": "Vestibular part of CN 8",
+      "C": "Facial Nerve",
+      "D": "Trigeminal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "In Steroid producing tumour which organelle will be involved?",
+    "options": {
+      "A": "Lysosome",
+      "B": "Golgi body",
+      "C": "Mitochondria",
+      "D": "SER"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Most useful technique used in screening of breast cancer is?",
+    "options": {
+      "A": "Self breast examination",
+      "B": "Ultrasound of breast",
+      "C": "Mammography",
+      "D": "CT scan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Breast cancer in female metastasized to liver, peritoneum and pelvic organs route of metastasis:",
+    "options": {
+      "A": "Sub pleural lymphatic plexus",
+      "B": "Sub peritoneal lymphatic plexus",
+      "C": "Venous connections",
+      "D": "Axillary lymph nodes",
+      "E": "Arterial Thrombi"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Proto oncogene is defined as",
+    "options": {
+      "A": "Abnormal gene cause cell proliferation",
+      "B": "Abnormal gene cause cell Suppression",
+      "C": "Normal gene cause cell proliferation",
+      "D": "Normal gene cause cell Suppression"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Carcinoma which first metastasized to bone:",
+    "options": {
+      "A": "Ovarian carcinoma",
+      "B": "Lung carcinoma",
+      "C": "Breast carcinoma",
+      "D": "Thyroid carcinoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "The ectopic thyroid hormone is secreted by:",
+    "options": {
+      "A": "Small cell carcinoma of lung",
+      "B": "Large cell carcinoma of lung",
+      "C": "Carcinoid of lung",
+      "D": "Adenocarcinoma of lung",
+      "E": "Squamous cell carcinoma of larynx"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Which one is correct match?",
+    "options": {
+      "A": "CA Lung with Alcohol",
+      "B": "CA liver with Asbestos",
+      "C": "CA Skin with alcohol",
+      "D": "CA liver with alcohol"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Which is not oncogene and Cause gene amplification?",
+    "options": {
+      "A": "RET",
+      "B": "HER 2",
+      "C": "APC",
+      "D": "Myc"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Difference between malignant and normal cells such that malignant cells repair the shortening of chromosome so that they can continue dividing. Enzyme responsible?",
+    "options": {
+      "A": "Telomerase",
+      "B": "Reverse transcriptase",
+      "C": "Isomerase",
+      "D": "Lipase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Carcinoma of cervix diagnosis by:",
+    "options": {
+      "A": "Capsule invasion",
+      "B": "Invasion to basement membrane",
+      "C": "Intact basement membrane",
+      "D": "Increase E cadherin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Woman with breast cancer subsequently develop metastasis to vertebral column. The most direct route of spread of tumour to vertebral column is:",
+    "options": {
+      "A": "Internal thoracic veins",
+      "B": "Axillary lymph nodes",
+      "C": "Venous connections",
+      "D": "Thoracic nodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Only indication of use of radionuclide scan in a patient with developed and diagnosed thyroid carcinoma would be:",
+    "options": {
+      "A": "To see grades",
+      "B": "For chemotherapy",
+      "C": "To see cancer mets and spread",
+      "D": "To see differentiation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Most common pancreatic carcinoma:",
+    "options": {
+      "A": "Adenoma",
+      "B": "Cyst adenoma",
+      "C": "Islet cell tumour",
+      "D": "Cystic carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Posterior pituitary tumour causes which of these affect:",
+    "options": {
+      "A": "Anuria",
+      "B": "Increase Aldosterone",
+      "C": "Polyuria",
+      "D": "Increase urine osmolality"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "After salpingo oophorectomy, for recurrence of tumour which marker is used:",
+    "options": {
+      "A": "CEA",
+      "B": "CA 15-3",
+      "C": "CA 19-9",
+      "D": "AFP",
+      "E": "CA 125"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Benign tumour among the given is:",
+    "options": {
+      "A": "BCC",
+      "B": "Ameloblastoma",
+      "C": "Erythroplakia",
+      "D": "Dysplastic nevus",
+      "E": "Warthin tumour"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "A middle- aged man came back from Cairo & developed painless haematuria, what is the likely diagnosis?",
+    "options": {
+      "A": "Squamous cell carcinoma of the urinary bladder",
+      "B": "Transitional cell carcinoma of the urinary bladder",
+      "C": "Squamous cell carcinoma of prostate",
+      "D": "SCC (Cairo is the capital of Egypt and is endemic for schistosomiasis which causes SCC of the urinary bladder)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "To know origin of neoplastic tissue which test used:",
+    "options": {
+      "A": "Flow Cytology",
+      "B": "Immunohistochemistry",
+      "C": "Gene assay",
+      "D": "Gene drafting"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Medullary CA proto-oncogene:",
+    "options": {
+      "A": "RAS",
+      "B": "BCL2",
+      "C": "RET",
+      "D": "P53"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Peau d' orange appearance of breasts occurs in malignancy of breast due to:",
+    "options": {
+      "A": "Arterial obstruction",
+      "B": "Venous + venous obstruction",
+      "C": "Tumour invasion and Fibrosis",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Strontium 90 causes which of following",
+    "options": {
+      "A": "Adenoma",
+      "B": "Dysplasia",
+      "C": "Osteosarcoma",
+      "D": "Fibroma",
+      "E": "Fibrous dysplasia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Which one cause lung CA?",
+    "options": {
+      "A": "Asbestos",
+      "B": "Radon",
+      "C": "UV light",
+      "D": "Silicon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Cervical carcinoma differs from benign lesion:",
+    "options": {
+      "A": "Invasion of basement membrane",
+      "B": "Dysplasia",
+      "C": "Pleomorphic",
+      "D": "Mitosis",
+      "E": "Decrease N/C Ratio"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Most common cardiac tumor is:",
+    "options": {
+      "A": "Rhabdomyosarcoma",
+      "B": "Leiomyoma",
+      "C": "Myxoma",
+      "D": "Angiosarcoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Infection, Inflammation, Radiation cause injury by?",
+    "options": {
+      "A": "Reactive oxygen species",
+      "B": "Oncogenes",
+      "C": "Proto-Oncogenes",
+      "D": "Deoxygenation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "A male alcoholic and gutka eater develop nou healing ulcer. He is prone to have",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell Carcinoma",
+      "C": "Baretts esophagus",
+      "D": "Erythroplakia",
+      "E": "Sclerosing fibrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "A patient with history of some type of cancer hemicolectomy done, having Kidney Bus stage B, you will follow up the case with the help of",
+    "options": {
+      "A": "Alpha feto protein",
+      "B": "Human chorionic gonadotrophin",
+      "C": "Carcinoembryonic antigen",
+      "D": "BRCA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A young lady with breast cancer, having history of two sisters suffering from ovarian cancer. Which gene mutation is responsible",
+    "options": {
+      "A": "P53",
+      "B": "BRCA 1",
+      "C": "MSH 2",
+      "D": "RAS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "A female patient undergo radiotherapy of axilla due to Mets of breast Carcinoma. Now she is more prone to develop",
+    "options": {
+      "A": "Scaring",
+      "B": "Infection",
+      "C": "Metastatic CA",
+      "D": "Abscess"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "In metastatic breast cancer sentinel lymph node biopsy helps in",
+    "options": {
+      "A": "Saving axilla during surgery",
+      "B": "Confirm the ultimate prognosis of disease",
+      "C": "To avoid metastasis",
+      "D": "To know metastasis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "In Malignancy of breast Nipple earliest lymph node to drain is",
+    "options": {
+      "A": "Internal mammary",
+      "B": "Axillary",
+      "C": "Apical",
+      "D": "Intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Which of the following is true regarding Increased N/C ratio?",
+    "options": {
+      "A": "Abnormal DNA production",
+      "B": "Increased DNA production",
+      "C": "Abnormal RNA production",
+      "D": "Increased RNA production",
+      "E": "Actinic keratosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Premalignant condition predisposing to the development of Skin Cancer is:",
+    "options": {
+      "A": "Nitrosamine",
+      "B": "Xeroderma pigmentosum",
+      "C": "Congenital Navus",
+      "D": "Lichen Planus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Hydrocarbon was given, this will work as initiator in process, the initiator work as:",
+    "options": {
+      "A": "Slow process will take time",
+      "B": "DNA Damage",
+      "C": "It is last step in carcinogenesis",
+      "D": "Cause Clonal proliferation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "A group of mice was taken and injection of plastic hydrocarbon was given this will work as initiator in process the initiator work as:",
+    "options": {
+      "A": "Slow process will take time",
+      "B": "DNA Damage",
+      "C": "It is last step in carcinogenesis",
+      "D": "Cause Clonal proliferation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Common Tumor Suppressor gene is:",
+    "options": {
+      "A": "BRCA",
+      "B": "RET",
+      "C": "P53",
+      "D": "BCL",
+      "E": "WT1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Food which causes a decrease in risk of cancer",
+    "options": {
+      "A": "Chocolate bonbons",
+      "B": "Smoked meat",
+      "C": "Apples",
+      "D": "Orange"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Protooncogenes are:",
+    "options": {
+      "A": "Normal genes for DNA",
+      "B": "Normal genes controlling cell growth",
+      "C": "Abnormal DNA",
+      "D": "Functional genes",
+      "E": "Normal RNA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Endometrial CA spread least likely via which route?",
+    "options": {
+      "A": "Vascular",
+      "B": "Peritoneal",
+      "C": "Lymphatics",
+      "D": "Direct myometrium invasion"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "After B/L salpingo oophorectomy and total abdominal hysterectomy, for recurrence of tumour which marker is used:",
+    "options": {
+      "A": "CEA",
+      "B": "CA 15-3",
+      "C": "CA 19-9",
+      "D": "AFP",
+      "E": "CA 125"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Tumour with good prognosis and curable is:",
+    "options": {
+      "A": "Germ cell",
+      "B": "Gastric",
+      "C": "AML",
+      "D": "Ovarian"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "DNA repair gene prevent cancer. Defective repair causes Cancer due to:",
+    "options": {
+      "A": "Gain of mutation",
+      "B": "Loss of mutations",
+      "C": "Gene amplification",
+      "D": "OverExpression of Genes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Cutaneous lesions of sarcoma can be easily diagnosed by?",
+    "options": {
+      "A": "Vascularity",
+      "B": "Invasion to basement membrane",
+      "C": "Lymph node",
+      "D": "Pleomorphism"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "What is the best approach for ca cervix in situ?",
+    "options": {
+      "A": "Pap smear",
+      "B": "Colposcopy",
+      "C": "Biopsy",
+      "D": "USG"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Which of the following causes alteration in oncogene?",
+    "options": {
+      "A": "Virus",
+      "B": "Bacteria",
+      "C": "Fungus",
+      "D": "Radiations"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "A 70 year old lady admitted with complain of irregular bleeding and pain on investigation it was diagnosed as case of endometrial cancer is associated with which of following inherited cancer?",
+    "options": {
+      "A": "BRCA 1",
+      "B": "CA 125",
+      "C": "HNPCC",
+      "D": "Breast cancer",
+      "E": "APC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Most common cancer in Pakistan:",
+    "options": {
+      "A": "Lung Cancer",
+      "B": "Oral Cancer",
+      "C": "Breast Cancer",
+      "D": "Hepatocellular Carcinoma",
+      "E": "Bladder Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Programed cell death is related to",
+    "options": {
+      "A": "Degeneration",
+      "B": "Necrosis",
+      "C": "Apoptosis",
+      "D": "Gangrene"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "UV radiation poses risk of:",
+    "options": {
+      "A": "Cataract",
+      "B": "Skin cancer",
+      "C": "Teratogenesis",
+      "D": "Bladder Ca"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "A person has mass on Forehead revealing Mature adipocytes on histology. Most probably it is:",
+    "options": {
+      "A": "Lipoma",
+      "B": "Adenoma",
+      "C": "Squamous cell carcinoma",
+      "D": "Melanoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Most common cancer in men overall worldwide:",
+    "options": {
+      "A": "Prostate",
+      "B": "Lungs",
+      "C": "Kidney",
+      "D": "Liver",
+      "E": "Blood"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Which of the following is the most common cancer in Pakistan affecting both males and females?",
+    "options": {
+      "A": "Lung",
+      "B": "Breast",
+      "C": "Ovary",
+      "D": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "In Dividing cell Chromosome defect cancer cause increase production of cell which enzyme is related to this?",
+    "options": {
+      "A": "Telomerase.",
+      "B": "5- transcriptase.",
+      "C": "DNA polymerase.",
+      "D": "Helicase.",
+      "E": "Topoisomerase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Which of the following is a cancer risk-reducing food:",
+    "options": {
+      "A": "Smoked meat",
+      "B": "Orange",
+      "C": "Chocolate",
+      "D": "Rum",
+      "E": "Cheese"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Most common locally malignant carcinoma:",
+    "options": {
+      "A": "Ameloblastoma",
+      "B": "Warthin tumour",
+      "C": "Squamous cell CA",
+      "D": "Basal cell CA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Crusted lesion on nose since 7 months but not healing:",
+    "options": {
+      "A": "BCC",
+      "B": "SCC",
+      "C": "HCC",
+      "D": "RCC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "A 60 years old patient came with enlarged spleen. Multiple lymph nodes in body was swollen. On peripheral smear there was cancer cells. what is node biopsy what will be seen",
+    "options": {
+      "A": "Mixed mature and immature cells",
+      "B": "Sheets of plasma cells",
+      "C": "Sheets of lymph nodes",
+      "D": "Granuloma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Programed cell death is related to",
+    "options": {
+      "A": "Degeneration",
+      "B": "Necrosis",
+      "C": "Aplsia",
+      "D": "Apoptosis",
+      "E": "Gangrene"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Gene mutated in female leading to CA ovary which other organ at risk of developing Carcinoma",
+    "options": {
+      "A": "Breast",
+      "B": "Colon",
+      "C": "Stomach",
+      "D": "Kidney"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Leading Cause of Death due to Cancer in Men Worldwide:",
+    "options": {
+      "A": "Prostate Cancer",
+      "B": "Lung Cancer",
+      "C": "Colorectal Cancer",
+      "D": "Hepatocellular Cancer",
+      "E": "Oral Cancer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Most Common Cancer overall in both genders?",
+    "options": {
+      "A": "Lung Carcinoma",
+      "B": "Oral Carcinoma",
+      "C": "Breast Carcinoma",
+      "D": "Hepatocellular Carcinoma",
+      "E": "Colorectal Carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Patient HCV+, Presented To OPD with complains of Lethargy, Malaise & Weight loss. Fibrosis & Centrilobular cells involving hepatic sinusoids seen on morphology. HCC Tumor marker is which of the following?",
+    "options": {
+      "A": "AFP",
+      "B": "CEA",
+      "C": "CA 19-9",
+      "D": "CA 125"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "A group of mice was taken and injection of plastic hydrocarbon was given this will work as promotor in process. Promotors cause cancer by enhancing.",
+    "options": {
+      "A": "Cell initiation",
+      "B": "Enhancing cell proliferation",
+      "C": "Clonal proliferation",
+      "D": "DNA Damage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "A patient is scheduled for Cancer Radiotherapy. Which radiation intensity can cause severe GIT symptoms during radiotherapy of Cancer?",
+    "options": {
+      "A": "100 cGy",
+      "B": "1000 cGy",
+      "C": "10,000 cGy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "A female patient with multiple sexual partners has been exposed to the HPV virus. Microscopy reveals atypical cells. If left untreated, she is at risk of developing which of the following conditions?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Basal Cell Carcinoma",
+      "D": "Endometrial Carcinoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Patient has non-healing Ulcer in mouth for 4 months. He has Gutka history for 20 years. Doctor confirms a common malignancy in this case?",
+    "options": {
+      "A": "Adenocarcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Chronic ulcer",
+      "D": "Leukoplakia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Grade 3 Carcinoma",
+    "options": {
+      "A": "50-60% dysplasia",
+      "B": "50% dysplasia",
+      "C": "90% dysplasia",
+      "D": "50-75% dysplasia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "2 Years Child presented with painless Swelling in testicular region. He underwent left orchiectomy. Specimen sent for Biopsy which showed Cuboidal Cells eosinophilic in nature, Non specific immature tuboidal glands with thin sheaths & glomeruloid structure. Diagnosis?",
+    "options": {
+      "A": "Yolk sac tumor",
+      "B": "Teratoma",
+      "C": "Seminoma",
+      "D": "Dysgerminoma",
+      "E": "Leydig Cell Tumour"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "A young female patient presents with palpable lymph nodes on the left side of her neck, weight loss and left sided gastric mass which of the following is your diagnosis",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Lymphoma",
+      "C": "Gastric cancer",
+      "D": "Mesentric cyst",
+      "E": "Gastro-intestinal stromal tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "A 45-year-old female patient presents with a confirmed diagnosis of invasive breast carcinoma. Clinical evaluation and imaging reveal involvement of four distinct lymph node sites, with significant progression of the disease. The malignancy has reached a state of maximal growth, which of the following stage of breast cancer according to Manchester system",
+    "options": {
+      "A": "Stage 2A",
+      "B": "Stage 3B",
+      "C": "Stage 4",
+      "D": "Stage 1",
+      "E": "stage 3C"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Which of the following is the stage of breast tumour if (TNM) of tumour is T3 N2 M0 is",
+    "options": {
+      "A": "Stage 3 A",
+      "B": "Stage 2 A",
+      "C": "Stage 2 B",
+      "D": "Stage 1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "A female patient presents in Surgical OPD presents with breast mass FNAC was performed which shows ductal cells with loss of polarity and adhesion, few RBCs and lymphocytes was present which of the following is ur diagnosis",
+    "options": {
+      "A": "Fibroadenoma",
+      "B": "Ductal carcinoma",
+      "C": "Fibrocystic disease",
+      "D": "Galactocele",
+      "E": "Papilloma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "An antenatal female patient is diagnosed with severe cervical dysplasia. What should be the next step in management?",
+    "options": {
+      "A": "Cone sampling",
+      "B": "Pap smear",
+      "C": "Terminate pregnancy",
+      "D": "Wedge biopsy",
+      "E": "Pressure Biopsy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Virus cause cancer by",
+    "options": {
+      "A": "DNA",
+      "B": "RNA",
+      "C": "Alteration in protein synthesis",
+      "D": "Proto-oncogene"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Young adult received crush injury to his foot which became infected and gangrenous for which BKA (below knee amputation, was carried out. Six months after the amputation, the patient developed a tender Haphazzard bundles of nerves(nodule) with pain at the site of amputation. The nodule most likely is:",
+    "options": {
+      "A": "Ganglioma",
+      "B": "Ganglio nueroma",
+      "C": "Hamartoma",
+      "D": "Neuroma",
+      "E": "Naveus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "The type of blood vessels commonly found in rabdomyosarcoma",
+    "options": {
+      "A": "Continuous capillaries",
+      "B": "Discontinuous capillaries",
+      "C": "Sheathed capillaries",
+      "D": "Fenestrated capillaries",
+      "E": "Lymphatics vessels"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Dysplasia is seen in which of the following tumour",
+    "options": {
+      "A": "Epithelial tumour",
+      "B": "Connective tissue",
+      "C": "Leiomyoma",
+      "D": "Cytsadenoma",
+      "E": "Lipoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Retinoblastoma is the tumor that primarily effects which of the following",
+    "options": {
+      "A": "Eye",
+      "B": "Brain",
+      "C": "Bone",
+      "D": "Liver",
+      "E": "Lungs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "A 35 year old male patient presents ion OPD with non healing ulcer in mouth diagnosed as a case of SCC which of the following is potential risk factor for oral cancer",
+    "options": {
+      "A": "Alcohol",
+      "B": "Smoking",
+      "C": "Age",
+      "D": "Male gender",
+      "E": "Unhealthy diet"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Which of the following is responsible for causing cancer",
+    "options": {
+      "A": "Asbestos",
+      "B": "Cotton dust",
+      "C": "Sugar cane dust",
+      "D": "Coal dust",
+      "E": "Silica"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "Radiation exposure in Bone scan is equal to how many chest x-rays",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "200",
+      "D": "300",
+      "E": "150"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Most common occupational cancer:",
+    "options": {
+      "A": "Lung",
+      "B": "Bladder",
+      "C": "Skin",
+      "D": "Prostate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Which of the following is fast spreading among the following?",
+    "options": {
+      "A": "Melanoma",
+      "B": "Squamous Cell Carcinoma",
+      "C": "Amleoblastoma",
+      "D": "Adenoid cystic carcinoma",
+      "E": "Hemartoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Which of the following is a key characteristic of apoptosis?",
+    "options": {
+      "A": "DNA fragmentation",
+      "B": "Ladder pattern DNA fragmentation",
+      "C": "Increased intracellular calcium",
+      "D": "Cell membrane damage",
+      "E": "Cell shrinkage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Paget's disease of the breast is most commonly associated with which underlying condition?",
+    "options": {
+      "A": "Lobular carcinoma in situ (LCIS)",
+      "B": "Invasive ductal carcinoma",
+      "C": "Ductal carcinoma in situ (DCIS)",
+      "D": "Invasive lobular carcinoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Which type of tumor has the highest tendency for malignant adenocarcinoma transformation?",
+    "options": {
+      "A": "Tubular adenoma",
+      "B": "Hamartomatous",
+      "C": "Villous adenoma",
+      "D": "Serrated"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "A woman presents with a parotid gland swelling, and a diagnosis of pleomorphic adenoma is confirmed. Which classification best describes a pleomorphic adenoma origin?",
+    "options": {
+      "A": "Mixed tumor",
+      "B": "Epithelial tumor",
+      "C": "Malignant tumor",
+      "D": "Connective tissue tumor",
+      "E": "Benign tumor"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "A female patient is diagnosed with ovarian carcinoma, and an ascitic tap reveals the presence of malignant cells. What is the most likely route of spread?",
+    "options": {
+      "A": "Hematogenous",
+      "B": "Seeding to the cavities",
+      "C": "Lymphatic",
+      "D": "Direct extension",
+      "E": "Local Spread"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Which of the following is true about basal cell carcinoma",
+    "options": {
+      "A": "Tumour like growth",
+      "B": "Local malignant tumour",
+      "C": "Spread in whole body",
+      "D": "Harmless tumour",
+      "E": "Highly contagious"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Choriocarcinoma spreads predominately via:",
+    "options": {
+      "A": "Lymphatics",
+      "B": "Direct invasion",
+      "C": "Blood",
+      "D": "Peritoneal seeding",
+      "E": "ranscoelomic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Genitourinary TB spreads via:",
+    "options": {
+      "A": "Direct extension",
+      "B": "Lymphatics",
+      "C": "Ascending infection",
+      "D": "Hematogenous"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "A 30 year old female is diagnosed with a case of cervical dyskaryosis is best managed by which of the following?",
+    "options": {
+      "A": "Observation only",
+      "B": "Colposcopy and biopsy",
+      "C": "Hysterectomy",
+      "D": "Excision of effected region"
+    },
+    "correct_answer": "B"
+  }
+]

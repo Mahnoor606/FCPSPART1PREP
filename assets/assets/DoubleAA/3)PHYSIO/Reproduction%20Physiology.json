@@ -1,0 +1,2687 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Sertoli cells release:",
+    "options": {
+      "A": "Testosterone",
+      "B": "Luteinizing hormone",
+      "C": "Androgen",
+      "D": "Inhibin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "In adult male, after removal of testis, what's the patient most likely to suffer?",
+    "options": {
+      "A": "Hot flushing, irritability and depression",
+      "B": "Loss of libido and depression",
+      "C": "Decrease levels of FSH and LH",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "FSH is inhibited in males by:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Testosterone",
+      "C": "LH",
+      "D": "Inhibin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Corpus luteum secrete mainly:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Inhibin",
+      "C": "Estrogen, Progesterone and Inhibin",
+      "D": "Estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Development of breast alveoli and lobules by:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prolactin",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Low testosterone level is present in:",
+    "options": {
+      "A": "Infant",
+      "B": "Old age",
+      "C": "Preschool",
+      "D": "Neonate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Estrogen effect in adult female:",
+    "options": {
+      "A": "Thick cervical mucus",
+      "B": "Development of secondary sexual character",
+      "C": "Enlargement of breast",
+      "D": "Alveoli and lobule development"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Inhibition of GNRH during lactation is through:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prolactin",
+      "D": "Inhibin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A women on 18th day of menstrual cycle will be in which phase?",
+    "options": {
+      "A": "Proliferative phase",
+      "B": "Secretory phase",
+      "C": "Ovulation",
+      "D": "Follicular phase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Corpus luteum maintained by:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Beta HCG",
+      "C": "Estrogen",
+      "D": "Follicular phase"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Best test to confirm pregnancy before 10 days:",
+    "options": {
+      "A": "Ultrasound",
+      "B": "Urine pregnancy test",
+      "C": "Beta HCG",
+      "D": "Detailed urine RE"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Lactation during pregnancy inhibited by:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Oxytocin",
+      "C": "Prolactin",
+      "D": "Estrogen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "In 2nd trimester pregnancy, which hormone will not increase?",
+    "options": {
+      "A": "HCG",
+      "B": "Prolactin",
+      "C": "Estrogen",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "One of the following causes endometrial hyperplasia:",
+    "options": {
+      "A": "Progesterone hormone",
+      "B": "Clomiphene citrate",
+      "C": "Estrogens",
+      "D": "Combined oral contraceptive pills",
+      "E": "Bromocriptine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Sperms store in:",
+    "options": {
+      "A": "Orotate",
+      "B": "Urethra",
+      "C": "Ampula",
+      "D": "Seminal vesicle",
+      "E": "Epididymis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Androgen cause bone growth up to limit:",
+    "options": {
+      "A": "Cause epiphyseal bone growth up to limit",
+      "B": "Cause atrophy of bone",
+      "C": "Cause diaphysis closure",
+      "D": "Decrease radial growth"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Primigravida taking iron tablets lots of fresh vegetables and juices what deficiency she is at risk of?",
+    "options": {
+      "A": "Ca",
+      "B": "Vitamin B12",
+      "C": "Folicacid",
+      "D": "Vitamin E",
+      "E": "Vitamin B1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "During lactation which of following happen:",
+    "options": {
+      "A": "Ovulation occur",
+      "B": "Primordial follicle fails to develop",
+      "C": "Increase follicle development",
+      "D": "Cause diaphysis closure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Which cells produce inhibin to inhibit FSH?",
+    "options": {
+      "A": "Lydig cell",
+      "B": "Sertoli cell",
+      "C": "Mullerian cell",
+      "D": "Endothelial cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "A pregnant lady having hyperemesis gravidum which acid base balance will be present?",
+    "options": {
+      "A": "Metabolic Acidosis",
+      "B": "Respiratory Acidosis",
+      "C": "Metabolic Alkalosis",
+      "D": "Respiratory Alkalosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Progesterone is precursor of:",
+    "options": {
+      "A": "Aldosterone, Cortisol, Androstenedione",
+      "B": "Cholesterol, Cortisol, Corticosterone",
+      "C": "Hydrocortisone, pregnenolone, estriol",
+      "D": "Cholesterol, Cortisone and cholic acid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Most likely for oxytocin:",
+    "options": {
+      "A": "Potentiated by estrogen in pregnancy",
+      "B": "Potentiated by estrogen in pregnancy",
+      "C": "Milk formation",
+      "D": "Development of mammary glands"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Which of following has less than 5% contraception failure chances?",
+    "options": {
+      "A": "IUD, condom, tubal ligation",
+      "B": "Vasectomy, tubal ligation, OCPS, Iud",
+      "C": "Rhythm, C.Interruptus",
+      "D": "OCPS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Male external genitalia formed by:",
+    "options": {
+      "A": "DHT",
+      "B": "Testosterone",
+      "C": "MIF",
+      "D": "Progesterone",
+      "E": "ACTH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "In pregnancy, respiratory changes that happen?",
+    "options": {
+      "A": "Dec TLC",
+      "B": "Decrease tidal volume",
+      "C": "Decrease RR",
+      "D": "Increase VC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Woman with 24days regular menstrual cycle. When will ovulation occurs in her: 10th day from the beginning (1st day) of her last menstrual period",
+    "options": {
+      "A": "10th day from the end (last day) of her last menstrual period",
+      "B": "14th day from the start of her last menstrual period",
+      "C": "14th day from the wnd of her last menstrual period"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "In a woman with 28 days' regular menstrual cycle, blood tests are done and show peak levels of estradiol and no progesterone for the past 3 days. What is likely to occur soon?",
+    "options": {
+      "A": "Ovulation",
+      "B": "Cessation of menstruation",
+      "C": "Secretory phase",
+      "D": "Regression of corpus leuteum",
+      "E": "Start of menses"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Patient having menstrual cycle of 32 days will ovulate on:",
+    "options": {
+      "A": "18th day",
+      "B": "16th day",
+      "C": "10th day",
+      "D": "14th day"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "25 years old married female came to you with history of amenorrhea for 3 weeks her pregnancy test is negative. What could be the cause?",
+    "options": {
+      "A": "Ectopic pregnancy",
+      "B": "Anovulation",
+      "C": "Appendicitis",
+      "D": "Anorexia Nervosa",
+      "E": "Normal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "In females first pubertal change is:",
+    "options": {
+      "A": "Thelarche",
+      "B": "Menarche",
+      "C": "Pubarche",
+      "D": "Adrenarche"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "A 50-year-old woman with fungating necrotic growth on cervix shown on cervix goes for radiation therapy the recommended radiation dose is:",
+    "options": {
+      "A": "1000-2000rads",
+      "B": "7000-8000rad",
+      "C": "14000-16000rads",
+      "D": "15000-17000rads"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Most potent anabolic hormone:",
+    "options": {
+      "A": "Testosterone",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "DHT"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "During pregnancy the lumen of uterine cavity is obliterated by fusion of:",
+    "options": {
+      "A": "Decidua basalis & spongy layer",
+      "B": "Decidua basalis & decidua capsularis",
+      "C": "Decidua capsularis & decidua parietalis",
+      "D": "Decidua parietalis & decidua basalis",
+      "E": "Decidua capsularis & decidua basalis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Which of the following will indicate ovulation has occurred?",
+    "options": {
+      "A": "Mucinous discharge",
+      "B": "Raised body temperature",
+      "C": "Corpus luteum secretion",
+      "D": "Thinning cervical mucous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "A pregnant lady for antenatal visit having HB 7. She was prescribed iron supplements. This should be given:",
+    "options": {
+      "A": "Before meal",
+      "B": "With Citrus Fruit",
+      "C": "After meal",
+      "D": "Before Bed"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Which factor is responsible for onset of puberty?",
+    "options": {
+      "A": "Increase estrogen receptors on ovary",
+      "B": "Increase sensitivity of hypothalamus to estrogen",
+      "C": "Pulsatile release of GNRH from Anterior pituitary",
+      "D": "Increase in Progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Pregnant lady with a dead fetus labour induced but not responding due to:",
+    "options": {
+      "A": "Decrease oxytocin receptors on myometrium",
+      "B": "Decrease oxytocin receptor in cervix",
+      "C": "Increase oxytocin receptor in cervix",
+      "D": "Decrease Sensation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "In third trimester of pregnancy what will be increased?",
+    "options": {
+      "A": "IC",
+      "B": "RR",
+      "C": "Vital Capacity",
+      "D": "TLC",
+      "E": "Tidal Volume"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "FHR is:",
+    "options": {
+      "A": "40 to 60 beats per minute",
+      "B": "60 to 100 beats per minute",
+      "C": "120 to 160 beats per minute",
+      "D": "100 to 120 beats per minute"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "A young male has azoospermia; which initial investigation will help in diagnosis?",
+    "options": {
+      "A": "Testosterone level",
+      "B": "FSH Level",
+      "C": "FSH And LH Levels",
+      "D": "Sperm Count",
+      "E": "Antisperm antibodies against sperm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "A primigravida at 1st trimester of pregnancy was having HB 11 gm/dl with normal physical findings. She presented in late pregnancy with Hb of 9 gm/dl. What could be the cause of this change?",
+    "options": {
+      "A": "Anaemia",
+      "B": "Normal physiological change",
+      "C": "Folic acid deficiency anaemia",
+      "D": "Sickle cell trait",
+      "E": "Thalassemia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Which one of the following is most potent oxidizer?",
+    "options": {
+      "A": "H2O2",
+      "B": "Superoxide",
+      "C": "Chloride",
+      "D": "Chlorine",
+      "E": "Potassium permanganate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Corpus luteum maintains pregnancy for:",
+    "options": {
+      "A": "12-14 weeks",
+      "B": "1-8 weeks",
+      "C": "10-12 weeks",
+      "D": "1-4 weeks",
+      "E": "9 weeks"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Proliferation of the mammary ducts (lactiferous ducts) and fat deposition in breast is primarily by:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone",
+      "E": "Prolactin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Ejaculation occurs due to which of the following?",
+    "options": {
+      "A": "Pudenal nerve",
+      "B": "Sympathetic",
+      "C": "Parasympathetic",
+      "D": "Obturator nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "The beta HCG has alpha and beta subunits and each unit has aminoacids:",
+    "options": {
+      "A": "102 alpha, 210 beta",
+      "B": "100 alpha, 160 beta",
+      "C": "150 alpha, 250 brta",
+      "D": "92 alpha 145 beta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "Molecular weight of HCG:",
+    "options": {
+      "A": "39000",
+      "B": "9600",
+      "C": "5500",
+      "D": "2900"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Which if the following is most important in 2nd stage of labor?",
+    "options": {
+      "A": "Cervix dilatation",
+      "B": "Placental delivery",
+      "C": "Effacement",
+      "D": "Abdominal muscle contractions"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Sperm life span is:",
+    "options": {
+      "A": "up to 72 hr",
+      "B": "30h",
+      "C": "60-64h",
+      "D": "40-54h"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Seminal fluid has maximum concentration of:",
+    "options": {
+      "A": "Acid Phosphatase",
+      "B": "Ascorbic Acid",
+      "C": "Fructose",
+      "D": "Glucose"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Female with heavy bleeding since six month on /off, endometrial biopsy shows endometrial hyperplasia cause is:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone",
+      "E": "Prolactin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Which of following structures show concomitant hypertrophy and hyperplasia?",
+    "options": {
+      "A": "Uterus during pregnancy",
+      "B": "Exercise induced muscle hypertrophy",
+      "C": "Breast during post menopause state",
+      "D": "Barrett esophagus",
+      "E": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Most likely about mammary glands:",
+    "options": {
+      "A": "Extend vertically from 2 to 6 ribs",
+      "B": "In pregnancy contains lactiferous ducts and secretory alveoli",
+      "C": "Sebaceous glands in areola",
+      "D": "In pregnancy contains lactiferous ducts and secretory alveoli"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Oocyte at ovulation is which of the following?",
+    "options": {
+      "A": "Secondary oocyte",
+      "B": "Primary oocyte",
+      "C": "Tertiary oocyte",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Mid luteal phase hormone is:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "FSH",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Fertilin at head of sperm helps in:",
+    "options": {
+      "A": "Acrosomial reaction",
+      "B": "Adherence of sperm head to ovum membrane",
+      "C": "Movement of head towards the ovum",
+      "D": "Acrosome removal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "How much duration gap should be there between 2 children's in family planning:",
+    "options": {
+      "A": "2 to 3 years",
+      "B": "3 to 4 years",
+      "C": "Less than 2 years",
+      "D": "4 to 5 years"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Maximum life of sperm in female genital tract:",
+    "options": {
+      "A": "92 hours",
+      "B": "24-48 hours",
+      "C": "24-72 hours",
+      "D": "72-96 hours",
+      "E": "96 hours"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Mother milk has more nutrient vs cow milk:",
+    "options": {
+      "A": "Ca",
+      "B": "Na",
+      "C": "Albumin",
+      "D": "Lactose"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "After a normal delivery in primigravida the alive & healthy new born is given feed:",
+    "options": {
+      "A": "After 1 hour",
+      "B": "After half hour",
+      "C": "After 6 hours",
+      "D": "After 12 hours",
+      "E": "After 24 hours"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Uterine artery pulsatility can be detected through doppler US earliest at:",
+    "options": {
+      "A": "7 week",
+      "B": "8 week",
+      "C": "9 week",
+      "D": "10 week",
+      "E": "12 week"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Estrogen, progesterone action occurs through:",
+    "options": {
+      "A": "Transcription factors",
+      "B": "CAMP pathway",
+      "C": "Tyrosine kinase pathway",
+      "D": "CGMP pathway",
+      "E": "NF-KB pathway"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Which organ is important for initiation of labor?",
+    "options": {
+      "A": "Placenta",
+      "B": "Medulla",
+      "C": "Maternal pituitary",
+      "D": "Fetal pituitary"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Fetal blood leaving placenta having oxygen is:",
+    "options": {
+      "A": "20mmHg",
+      "B": "30mmHg",
+      "C": "60mmHg",
+      "D": "100mmHg"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Fallopian tube in female is:",
+    "options": {
+      "A": "Act as Conduit between peritoneal cavity and uterus",
+      "B": "Attach to ovary through mesosalpinx",
+      "C": "Approach to ovary from its medial side",
+      "D": "Fallopian tube epithelium is Cuboidal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A female with menstrual cycle of 21-23 days when will ovulation occur?",
+    "options": {
+      "A": "7-9d",
+      "B": "14-19d",
+      "C": "13-17d",
+      "D": "8-14d",
+      "E": "9-7d"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Endometrium consists of glands and tortuous arteries during:",
+    "options": {
+      "A": "Late secretory phase",
+      "B": "Early secretory phase",
+      "C": "Ovulation phase",
+      "D": "Anovulation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Patient having history of recurrent abortion, which of the following enzyme analysis will help in making diagnosis?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Testosterone",
+      "C": "HCG",
+      "D": "Progesterone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Mothers milk preferred over cow's milk because of:",
+    "options": {
+      "A": "Calcium",
+      "B": "Lactate",
+      "C": "Protein",
+      "D": "Vitamin D",
+      "E": "Immunoglobulins"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Which of the following hormone decreases cholesterol?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "Testosterone",
+      "D": "LH, FSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "During intrauterine life testosterone secretion is stimulated by:",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "Placental HCG",
+      "D": "Placental Estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Adrenarche starts due to:",
+    "options": {
+      "A": "17 alphahydroxyprogesterone",
+      "B": "17 Alpha hydroxypregnenolone",
+      "C": "LH",
+      "D": "FSH",
+      "E": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Feedback by which hormone for LH surge before ovulation?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "Oxytocin",
+      "D": "LH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "During Puberty female develop Secondary sexual characters. Androgen peak at which age?",
+    "options": {
+      "A": "45 years",
+      "B": "20-30 years",
+      "C": "40 years",
+      "D": "5-10 years"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Lowest maternal mortality in which age group?",
+    "options": {
+      "A": "10-20",
+      "B": "20-30",
+      "C": "30-40",
+      "D": "40-50"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Steroid produced by fetal adrenal cortex is:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Corticosterone",
+      "C": "DHEA",
+      "D": "Epinephrine",
+      "E": "Progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Testosterone is synthesized by which of the following?",
+    "options": {
+      "A": "Seminiferous tubules",
+      "B": "Sertoli cells",
+      "C": "LH",
+      "D": "Parenchymal cells",
+      "E": "Leydig cells"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Female breast feeds her child what would happen:",
+    "options": {
+      "A": "Failure of primordial follicles to mature",
+      "B": "Decrease prolactin",
+      "C": "Increase dopamine",
+      "D": "Increase primordial cell maturation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Sperms after formation in seminiferous tubules stored in:",
+    "options": {
+      "A": "Ampulla of ductus deferens",
+      "B": "Seminal vesicles",
+      "C": "Prostate",
+      "D": "Seminal Vesicle",
+      "E": "Epididymis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Pregnant lady with 41 weeks 05 days pregnancy anxious requested for induction of labor Post term pregnancy by WHO is called at?",
+    "options": {
+      "A": "43 weeks",
+      "B": "41 weeks completed",
+      "C": "42 weeks completed",
+      "D": "40 weeks completed",
+      "E": "38 weeks"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Full development and function of the seminiferous tubules requires:",
+    "options": {
+      "A": "Somatostatin",
+      "B": "LH",
+      "C": "Prolactin",
+      "D": "FSH and androgens",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Estrogen is not produced by:",
+    "options": {
+      "A": "Theca cells",
+      "B": "Ovary",
+      "C": "Adipose tissue",
+      "D": "Placenta"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "How many days do a full sperm regeneration cycle takes.",
+    "options": {
+      "A": "20 days",
+      "B": "25 days",
+      "C": "64 days",
+      "D": "80 days"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Maturation of seminiferous tubules is done via:",
+    "options": {
+      "A": "Androgen",
+      "B": "Androgen & FSH",
+      "C": "Androgen & LH",
+      "D": "Inhibin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "LH is increased in just 2 days before ovulation up to how many folds:",
+    "options": {
+      "A": "1 to 2 folds",
+      "B": "2 to 6 folds",
+      "C": "6 to 10 folds",
+      "D": "8 to 10 folds"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Which of the following increases in pregnancy?",
+    "options": {
+      "A": "Serum transferrin",
+      "B": "Red cell mass",
+      "C": "MCH",
+      "D": "Iron absorption from gut"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Low level of cholesterol in premenopausal women and protection from thromboembolism is done by:",
+    "options": {
+      "A": "HCG",
+      "B": "FSH",
+      "C": "LH",
+      "D": "Estrogen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Secretions through vagina during sexual act are effect of:",
+    "options": {
+      "A": "Bombesin",
+      "B": "Relaxin",
+      "C": "Prolactin",
+      "D": "Progesterone",
+      "E": "Parasympathetic stimulation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Hormone involved in conversion of Progesterone to 17 Beta estradiol in granulose cells:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "HCG",
+      "D": "Estradiol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Menopause occurs due to:",
+    "options": {
+      "A": "Ovarian unresponsiveness",
+      "B": "Pituitary exhaustion due to LH",
+      "C": "Pituitary exhaustion due to FSH",
+      "D": "Hypothalamic unresponsiveness"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Increase in oxytocin results in:",
+    "options": {
+      "A": "Cervix dilation",
+      "B": "Cervix contraction",
+      "C": "No effect on cervix",
+      "D": "Increase blood supply to cervix"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "The maternal mortality ratio (MMR):",
+    "options": {
+      "A": "The number of maternal deaths during a given time period per 100,000 live births",
+      "B": "The number of maternal deaths during a given time period per 1000 live births",
+      "C": "The number of maternal deaths in a given period per population of women who are of reproductive age",
+      "D": "The number of deaths of young women"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Intravaginal administration of prostaglandin initiates cervical ripening by mechanism:",
+    "options": {
+      "A": "Activating oxytocin receptors",
+      "B": "Hydration of collagen tissue",
+      "C": "Increase capillary permeability",
+      "D": "Increase local progesterone concentration",
+      "E": "Inhibiting thromboxane synthesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "A structure with ciliated and non-ciliated epithelium having three layers of muscles & tubular glands is:",
+    "options": {
+      "A": "Ureter",
+      "B": "Fallopian tube",
+      "C": "Ovary",
+      "D": "Uterus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Cause of amenorrhea during lactation is:",
+    "options": {
+      "A": "Stimulation of gonadotropin drug to nipple",
+      "B": "Due to release of prolactin",
+      "C": "It inhibits gonadotropin releasing hormone",
+      "D": "Milk secretion by oxytocin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "The hormone which triggers onset of parturition in mother is:",
+    "options": {
+      "A": "Fetal estrogen",
+      "B": "Fetal thyroxine",
+      "C": "Fetal cortisol",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Uterine changes during pregnancy:",
+    "options": {
+      "A": "Hyperplasia",
+      "B": "Hypertrophy",
+      "C": "Hypertrophy + Hyperplasia",
+      "D": "Atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Which of following hormone placenta produces in last trimester?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Estrogen + Progesterone",
+      "D": "Relaxing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Which of the following is true hermaphrodite?",
+    "options": {
+      "A": "XXY",
+      "B": "XXX",
+      "C": "XYY",
+      "D": "XO",
+      "E": "None (Ovotesticular DSD)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Which part of the male genital tract has premotile male sperms?",
+    "options": {
+      "A": "Ductus deference",
+      "B": "Seminal tubercle",
+      "C": "Epididymis",
+      "D": "Rete testes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Pregnancy which of the following occurs?",
+    "options": {
+      "A": "Increase peripheral resistance",
+      "B": "Decrease Tidal volume",
+      "C": "Decrease FRC",
+      "D": "Decrease Respiratory rate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "In pregnancy:",
+    "options": {
+      "A": "Increase Tidal volume",
+      "B": "Increase FRC",
+      "C": "Decrease FRC",
+      "D": "VC remains unchanged"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Ovulation occurs on which day of menstrual cycle?",
+    "options": {
+      "A": "14th",
+      "B": "18th",
+      "C": "19th",
+      "D": "21st"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Most common site of fertilization in humans?",
+    "options": {
+      "A": "Ovary",
+      "B": "Ampulla of fallopian tube",
+      "C": "Cervix",
+      "D": "Peritoneal cavity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Primary gravida normal delivery which structure damage?",
+    "options": {
+      "A": "Ischial spine",
+      "B": "Sacrotuberous Ligament",
+      "C": "Perineal Body",
+      "D": "Ureter",
+      "E": "Levator ANI"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Difference in maternal and fetal Circulation which fetal has less?",
+    "options": {
+      "A": "Less H ion",
+      "B": "O2",
+      "C": "CO2",
+      "D": "Respiratory vascular resistance",
+      "E": "Affinity for oxygen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "One bar body present in nuclei/cell of:",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Down syndrome",
+      "C": "Normal Female",
+      "D": "Normal Male"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "MMR definition:",
+    "options": {
+      "A": "No of maternal deaths/1000 population",
+      "B": "No of maternal deaths/100000",
+      "C": "No of maternal deaths/100",
+      "D": "No. of maternal deaths divided by 10"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Leydig cells:",
+    "options": {
+      "A": "Make sperm testes barrier",
+      "B": "Mainly reside in seminiferous tubules",
+      "C": "Have high level of SER",
+      "D": "Secrete estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "In spermatogenesis acrosomal cap is formed by:",
+    "options": {
+      "A": "Lysosomes",
+      "B": "Mitochondria",
+      "C": "Golgi complex",
+      "D": "Endoplasmic reticulum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "Most imp and acute effect on testosterone production is of:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Prolactin",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Secondary oocyte is surrounded by corona radiata, which of the following layers contribute to the formation of corona radiata?",
+    "options": {
+      "A": "Granulosa cells",
+      "B": "Theca internal cells",
+      "C": "Theca external cells",
+      "D": "Leydig cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Progesterone works in contraceptive pills by:",
+    "options": {
+      "A": "Spermicidal action",
+      "B": "Induces uterine contraction",
+      "C": "Inhibits ovulation",
+      "D": "Inhibits maturation of ovarian follicles"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "True regarding sperms of men above 70 years of age:",
+    "options": {
+      "A": "Are asthenospermic",
+      "B": "Many lacks forward progressive motility",
+      "C": "Count \">\" (some figure) as they are ligospermic",
+      "D": "Reduced quantity of semen because their seminal vesicles atrophy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Triple assessment for congenital fetal anomalies includes one of the following:",
+    "options": {
+      "A": "Estradione E2",
+      "B": "Estrione E1",
+      "C": "Estriol E3",
+      "D": "Alpha fetoprotein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Mid-luteal max hormone increase:",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone",
+      "E": "Estrogen + progesterone"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Regarding testosterone:",
+    "options": {
+      "A": "Regulated by FSH",
+      "B": "Has receptors on membrane",
+      "C": "Descend testis in late fetal life",
+      "D": "Abundantly secreted by adrenal cortex"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "About human placenta:",
+    "options": {
+      "A": "2 umbilical veins",
+      "B": "2 umbilical artery and 1 vein",
+      "C": "1 umbilicalartrey",
+      "D": "2 viens, 2 artries"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Regarding sperm reaching epididymis:",
+    "options": {
+      "A": "Circular movement",
+      "B": "Movement becomes directional",
+      "C": "Acrosomal reaction takes place",
+      "D": "Capacitance occurs here"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Final stage of puberty:",
+    "options": {
+      "A": "Axillary hairs",
+      "B": "Menstruation",
+      "C": "Pubic hair growth",
+      "D": "Growth spurt"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Leiomyoma with increased endometrial stroma and few glands what is the cause?",
+    "options": {
+      "A": "Atrophy",
+      "B": "Hyperplasia",
+      "C": "Neoplasia",
+      "D": "Metaplasia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "In pregnancy what changes seen in respiratory system:",
+    "options": {
+      "A": "CO2 increase",
+      "B": "TLC increase",
+      "C": "Vital capacity increase",
+      "D": "Residual vol. increase",
+      "E": "Decrease PaCO2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Implantation occurs after how many days of fertilization:",
+    "options": {
+      "A": "6th day",
+      "B": "10th day",
+      "C": "3rd day",
+      "D": "15th day",
+      "E": "None (6-7 days)"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A pregnant female has increased prolactin but doesn't eject milk due to the inhibitory effect of?",
+    "options": {
+      "A": "Estrogen/Progesterone",
+      "B": "ACTH",
+      "C": "Estrogen only",
+      "D": "Progesterone only"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "Most dangerous complication in pregnant woman?",
+    "options": {
+      "A": "Tissue damage DIC",
+      "B": "Fracture",
+      "C": "Coagulopathy",
+      "D": "Fat embolism",
+      "E": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Germinal follicle present in:",
+    "options": {
+      "A": "Cortex of lymph node",
+      "B": "Medulla of lymph node",
+      "C": "Cortex of thymus",
+      "D": "Medulla of thymus",
+      "E": "Red pulp of spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Which hormone causes softening of Cervix?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Prostaglandin",
+      "D": "Testosterone",
+      "E": "Relaxin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "The whip-like ciliary movement on the surface of cells is seen mainly in:",
+    "options": {
+      "A": "Fallopian tube",
+      "B": "Olfactory membrane",
+      "C": "Organ of corti",
+      "D": "Spermatozoa",
+      "E": "Utricle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of following remains dominant after puberty:",
+    "options": {
+      "A": "Primary oocyte",
+      "B": "Secondary oocyte",
+      "C": "Primordial germ cell",
+      "D": "Follicle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "HCG main function is to:",
+    "options": {
+      "A": "Enhanced breast",
+      "B": "Ovulation",
+      "C": "Reproduction",
+      "D": "Corpus Luteum Preservation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Human placenta has:",
+    "options": {
+      "A": "Amnion on its fetal side",
+      "B": "Chorioallantoic placenta",
+      "C": "Get separated along the stratum spongiosum",
+      "D": "Get separated when there is rupture of many uterine arteries",
+      "E": "Hemochorialmembrane"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "In mid cycle cervical mucus has:",
+    "options": {
+      "A": "Increase cellularity",
+      "B": "Decrease viscosity (Increased Elasticity)",
+      "C": "Arborization",
+      "D": "Increase RBC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Which hormone causes most potent protein synthesis in skeletal muscle?",
+    "options": {
+      "A": "DHT",
+      "B": "Testosterone",
+      "C": "Cortisol",
+      "D": "Estrogen",
+      "E": "Progesterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Villi Arc particular to:",
+    "options": {
+      "A": "Fallopian tube",
+      "B": "Intestine",
+      "C": "Lungs",
+      "D": "Heart"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "Normal function of placenta is:",
+    "options": {
+      "A": "Prevent mixing of maternal and fetal blood",
+      "B": "Prevent oxygenation",
+      "C": "Prevent antibodies from mother to fetus",
+      "D": "Prevent nutrition"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "A pregnant lady of 3rd trimester having unchanged:",
+    "options": {
+      "A": "LH",
+      "B": "Cortisol",
+      "C": "PTH",
+      "D": "Estrogen",
+      "E": "Growth hormone"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "After ovulation, the oocyte is in which phase of cell cycle?",
+    "options": {
+      "A": "Metaphase of Meiosis II",
+      "B": "Prophase of first meiotic division",
+      "C": "Prophase of 2nd meiotic division",
+      "D": "Metaphase of first meiotic division",
+      "E": "Anaphase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Most important factor in negativefeedback is",
+    "options": {
+      "A": "Release of Hormone",
+      "B": "To bring Value to normal limit",
+      "C": "Feed forward mechanism",
+      "D": "Release Enzyme"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Most important function of progesterone?",
+    "options": {
+      "A": "Secretary phase of endometrium",
+      "B": "Decrease uterine contraction inpregnancy",
+      "C": "Endometrium proliferation",
+      "D": "Fat deposition"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Which one of these crosses the placenta and affects baby?",
+    "options": {
+      "A": "IgM",
+      "B": "Thyroxine",
+      "C": "PTU",
+      "D": "IgE"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "The volume of amniotic fluid at term is",
+    "options": {
+      "A": "200 ml",
+      "B": "400 ml",
+      "C": "600 ml",
+      "D": "800 ml"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "During pregnancy endocervix protrudes due to:",
+    "options": {
+      "A": "Estrogen effect",
+      "B": "Physiological effect",
+      "C": "Painful condition",
+      "D": "Associated with vaginal discharge"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Which physiologic change occurs during a normal pregnancy?",
+    "options": {
+      "A": "Hyperuricemia",
+      "B": "Proteinuria",
+      "C": "Hypertension",
+      "D": "40% increase GFR"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Uterus having basal nuclei with saw tooth appearance of endometrium. In which phase uterus is:",
+    "options": {
+      "A": "Secretary phase",
+      "B": "Proliferative phase",
+      "C": "Follicular phase",
+      "D": "Inhibitory phase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Female delivered a baby 2 day ago wants to breastfeed her child. What change would occur in her body?",
+    "options": {
+      "A": "Hypothalamic Prolactin Increase",
+      "B": "Increase in oxytocin",
+      "C": "Prolactin decrease",
+      "D": "Hypothalamic Dopamine Increase",
+      "E": "Decrease oxytocin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Beta HCG help in maintaining pregnancy by:",
+    "options": {
+      "A": "Inducing corpus luteum to secrete hormone",
+      "B": "Inhibit corpus luteum",
+      "C": "Inhibit LH",
+      "D": "Stimulate Prostaglandins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Female of peri menopausal group, there Will be increase",
+    "options": {
+      "A": "FSH",
+      "B": "Progesterone",
+      "C": "Estrogen",
+      "D": "LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "During menstruation and parturition which layer shed:",
+    "options": {
+      "A": "Functionalis",
+      "B": "Spongiosa",
+      "C": "Basalis and functionalis",
+      "D": "Basalis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "In third trimester of pregnancy estrogen released from:",
+    "options": {
+      "A": "Fetal Adrenal",
+      "B": "Fetal liver",
+      "C": "Placenta",
+      "D": "Spleen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "A woman is 3 weeks pregnant and given antibodies spontaneous abortion occur the role of HCG in Maintaining pregnancy:",
+    "options": {
+      "A": "Decreases uterine contraction in pregnancy",
+      "B": "Protects body against foreign tissue invasion",
+      "C": "Stimulate uterine contraction",
+      "D": "Responsible for corpus luteummaintenance"
+    },
+    "correct_answer": "B"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "Male breast is different from female breast by:",
+    "options": {
+      "A": "Glandular cells",
+      "B": "Adipose tissue",
+      "C": "Secretory cells",
+      "D": "Apocrine glands"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Secondary oocyte develops under the influence of:",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "LH"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Pregnancy is most likely to occur during which phase of the menstrual cycle?",
+    "options": {
+      "A": "Progestational phase",
+      "B": "Ovulation phase",
+      "C": "Premenses phase",
+      "D": "Follicular phase"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A 20-week pregnant lady with preterm labor. Ultrasound shows no villous, with only chorion and amnion. The likely cause is:",
+    "options": {
+      "A": "Chemotrieres",
+      "B": "Complement",
+      "C": "Prostaglandins",
+      "D": "Amyloid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Estrogen causes:",
+    "options": {
+      "A": "Soft skin",
+      "B": "Dark skin",
+      "C": "Increased facial hair",
+      "D": "Decreased vascularity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Which of the following increases significantly during a normal pregnancy?",
+    "options": {
+      "A": "Calcium levels",
+      "B": "Albumin levels",
+      "C": "Cholesterol levels",
+      "D": "RBC count"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "The normal heart rate for a healthy neonate is:",
+    "options": {
+      "A": "200-250 bpm",
+      "B": "180-220 bpm",
+      "C": "110-150 bpm",
+      "D": "70-80 bpm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Testosterone is primarily produced by which of the following?",
+    "options": {
+      "A": "Sertoli cells",
+      "B": "Seminiferous tubules",
+      "C": "Leydig cells",
+      "D": "Mullerian cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Fetal age estimation between the 5th and 12th weeks of gestation is most accurately done via:",
+    "options": {
+      "A": "Crown-rump length (CRL)",
+      "B": "Biparietal diameter",
+      "C": "Abdominal circumference",
+      "D": "Crown-heel length"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "The period of fastest growth in a human's lifespan occurs during:",
+    "options": {
+      "A": "Intrauterine life",
+      "B": "Old age",
+      "C": "Adolescence",
+      "D": "Early childhood"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Fastest growth rate is seen in:",
+    "options": {
+      "A": "Infancy",
+      "B": "Toddlers",
+      "C": "Intrauterine",
+      "D": "Adolescents"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "The fetal part of the placenta is derived from:",
+    "options": {
+      "A": "Cytotrophoblast",
+      "B": "Syncytiotrophoblast",
+      "C": "Decidua Basalis",
+      "D": "Chorion Frondosum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "The LH surge occurring approximately 2 days before ovulation increases by:",
+    "options": {
+      "A": "6-10 fold",
+      "B": "4-6 fold",
+      "C": "2-3 fold",
+      "D": "12-14 fold"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A uterus that weighs 500-1000g at birth will weigh approximately how much 6-8 weeks postpartum?",
+    "options": {
+      "A": "100g",
+      "B": "500g",
+      "C": "60g",
+      "D": "200g"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "Total iron requirement during a normal singleton pregnancy is approximately:",
+    "options": {
+      "A": "500 mg",
+      "B": "1500 mg",
+      "C": "1000 mg",
+      "D": "2000 mg"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "In the first trimester, the source of estrogen and progesterone is the:",
+    "options": {
+      "A": "Placenta",
+      "B": "Ovary",
+      "C": "Corpus luteum",
+      "D": "Chorionic villi"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "The most appropriate level for general reproductive health education is:",
+    "options": {
+      "A": "Higher Secondary",
+      "B": "Primary",
+      "C": "Lower secondary",
+      "D": "Doctoral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Inhibin, which inhibits FSH, is released by the:",
+    "options": {
+      "A": "Ovary",
+      "B": "Testes",
+      "C": "Corpus luteum",
+      "D": "Placenta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "During the middle trimester of fetal development, erythropoiesis primarily occurs in the:",
+    "options": {
+      "A": "Liver",
+      "B": "Yolk sac",
+      "C": "Spleen",
+      "D": "Bone marrow"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Suckling stimulates which change on the 4th postpartum day?",
+    "options": {
+      "A": "Decreased Cortisol",
+      "B": "Increased Dopamine",
+      "C": "Increased Prolactin by the anterior pituitary",
+      "D": "Increased Oxytocin by the hypothalamus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Which anticoagulant level decreases during pregnancy?",
+    "options": {
+      "A": "Antithrombin III",
+      "B": "Factor VIII",
+      "C": "Factor X",
+      "D": "Factor VII"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "A 50-year-old postmenopausal woman experiences hot flushes due to:",
+    "options": {
+      "A": "Increased FSH and LH",
+      "B": "Increased GnRH",
+      "C": "Decreased FSH and LH",
+      "D": "Normal levels of FSH and LH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Increase in abdominal size and uterine changes during pregnancy are defined as:",
+    "options": {
+      "A": "Structural physiological changes",
+      "B": "Physiological and pathological changes",
+      "C": "Pathological changes",
+      "D": "Structural and pathological changes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Total sperm production per day in a healthy adult male is approximately:",
+    "options": {
+      "A": "120 Million",
+      "B": "10 Million",
+      "C": "20 Million",
+      "D": "50 Million"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "The release of secretions from seminal vesicles increases when there is an increase in:",
+    "options": {
+      "A": "Extracellular potassium",
+      "B": "Intracellular calcium",
+      "C": "Extracellular sodium",
+      "D": "Intracellular sodium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "After a vasectomy, the seminal fluid will primarily contain:",
+    "options": {
+      "A": "Seminal and prostatic fluid",
+      "B": "Prostatic fluid only",
+      "C": "Sperms only",
+      "D": "Prostatic fluid and sperm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "In the presence of semen, the vaginal pH typically changes to:",
+    "options": {
+      "A": "3.8-4.5",
+      "B": "6.0-6.5",
+      "C": "7.4-8.0",
+      "D": "8.5-9.0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "The most important function of Beta-HCG in early pregnancy is:",
+    "options": {
+      "A": "Maintenance of the corpus luteum",
+      "B": "Formation of male sex hormones",
+      "C": "Descent of fetal testes",
+      "D": "Maintenance of maternal androgens"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Amenorrhea during lactation is primarily caused by:",
+    "options": {
+      "A": "Progesterone inhibition",
+      "B": "Estrogen inhibition",
+      "C": "Inhibition of GnRH by Prolactin",
+      "D": "Placental inhibition"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "During the final 7 months of pregnancy, estrogen and progesterone are produced by the:",
+    "options": {
+      "A": "Anterior pituitary",
+      "B": "Corpus luteum",
+      "C": "Hypothalamus",
+      "D": "Placenta"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "A 50-year-old female with cessation of menstruation is most likely experiencing:",
+    "options": {
+      "A": "Pregnancy",
+      "B": "Menopause",
+      "C": "PCOS",
+      "D": "Hypothyroidism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "The component of the triple screen test for fetal anomalies is:",
+    "options": {
+      "A": "Estriol",
+      "B": "Estrone",
+      "C": "Estradiol",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "The complete cycle of spermatogenesis takes approximately:",
+    "options": {
+      "A": "48 days",
+      "B": "64 days",
+      "C": "87 days",
+      "D": "49 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "The most potent naturally occurring estrogen is:",
+    "options": {
+      "A": "Estriol",
+      "B": "Estrone",
+      "C": "Estradiol",
+      "D": "Progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Regarding cervical ectropion, which statement is true?",
+    "options": {
+      "A": "It is a normal finding in pregnancy",
+      "B": "It is associated with hydatidiform mole",
+      "C": "It is associated with partial mole",
+      "D": "It is seen in ectopic pregnancy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Sparse pubic hair appears in which Tanner stage?",
+    "options": {
+      "A": "Stage 1",
+      "B": "Stage 2",
+      "C": "Stage 3",
+      "D": "Stage 4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Sertoli cells release which of the following?",
+    "options": {
+      "A": "Testosterone",
+      "B": "Luteinizing hormone",
+      "C": "Androgen",
+      "D": "Androgen-binding protein (ABP)"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "The best test to confirm pregnancy is an ELISA for:",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "Beta-HCG",
+      "D": "Estrogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "The lifespan of the corpus luteum in early pregnancy is maintained by:",
+    "options": {
+      "A": "Endogenous estrogen",
+      "B": "Endogenous HCG",
+      "C": "Endogenous LH/FSH",
+      "D": "Endogenous progesterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "In the last trimester, the uterus is most sensitive to:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Oxytocin",
+      "C": "Estrogen",
+      "D": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "The umbilical artery carries:",
+    "options": {
+      "A": "Deoxygenated blood to the placenta",
+      "B": "Deoxygenated blood from the placenta",
+      "C": "Oxygenated blood to the placenta",
+      "D": "Deoxygenated blood to the fetus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Increased abdominal girth in a pregnant woman is defined as a:",
+    "options": {
+      "A": "Reversible structural change to a physiological stimulus",
+      "B": "Reversible functional change to a physiological stimulus",
+      "C": "Structural change to a pathological stimulus",
+      "D": "Functional change to a pathological stimulus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "A man diagnosed with azoospermia should initially have:",
+    "options": {
+      "A": "Anti-FSH levels",
+      "B": "Serum prolactin",
+      "C": "Serum testosterone",
+      "D": "Semen analysis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "In a pregnant woman, increased abdominal girth is a:",
+    "options": {
+      "A": "Sign of anemia",
+      "B": "Normal response to physiological stimuli",
+      "C": "Sign of folic acid deficiency",
+      "D": "Pathological increase in placental size"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Dizygotic twins (from two ova) most likely have:",
+    "options": {
+      "A": "A single shared placenta",
+      "B": "A single shared amniotic sac",
+      "C": "Separate amniotic sacs",
+      "D": "A shared chorion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "The survival time/motility of sperm in the female reproductive tract is approximately:",
+    "options": {
+      "A": "2-3 hours",
+      "B": "6-12 hours",
+      "C": "4 days",
+      "D": "48 hours"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "The lifespan of a secondary oocyte after ovulation is approximately:",
+    "options": {
+      "A": "12 hours",
+      "B": "72 hours",
+      "C": "24 hours",
+      "D": "4 days"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "The part of the sperm containing proteolytic enzymes to digest the zona pellucida is the:",
+    "options": {
+      "A": "Capacitor",
+      "B": "Head",
+      "C": "Corona",
+      "D": "Acrosome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "A 45-year-old woman is less fertile than a 35-year-old primarily due to:",
+    "options": {
+      "A": "Increased FSH and LH",
+      "B": "Increased Testosterone",
+      "C": "Decreased GnRH",
+      "D": "Lactation effects"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "An athlete receiving an injection on day 14 to delay menses likely received:",
+    "options": {
+      "A": "Anti-progesterone",
+      "B": "Human Chorionic Gonadotropin (HCG)",
+      "C": "FSH",
+      "D": "Testosterone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "According to the WHO, post-term pregnancy is defined as pregnancy continuing beyond:",
+    "options": {
+      "A": "40 completed weeks",
+      "B": "41 completed weeks",
+      "C": "37 completed weeks",
+      "D": "42 completed weeks"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "If pregnancy does not occur, the corpus luteum degenerates into the:",
+    "options": {
+      "A": "Corpus hemorrhagicum",
+      "B": "Corpus luteum of pregnancy",
+      "C": "Corpus albicans",
+      "D": "Corpus basale"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "During the first phase of the menstrual cycle, endometrial proliferation is driven by:",
+    "options": {
+      "A": "Progesterone",
+      "B": "FSH and LH",
+      "C": "Estrogen",
+      "D": "GnRH"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Which of the following is true regarding the fertile period of ovulation?",
+    "options": {
+      "A": "It occurs following the LH surge",
+      "B": "Fern test becomes negative",
+      "C": "Basal body temperature drops",
+      "D": "Estrogen levels are at their lowest"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Pieces of tissue seen during menstruation are likely:",
+    "options": {
+      "A": "Blood clots",
+      "B": "Sheds of endometrium",
+      "C": "Fragments of spiral arteries",
+      "D": "Sheds of myometrium"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "The hormone that signals critical body fat levels for the onset of puberty is:",
+    "options": {
+      "A": "Leptin",
+      "B": "Estradiol",
+      "C": "Ghrelin",
+      "D": "Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "A home-based pregnancy test detects the presence of:",
+    "options": {
+      "A": "Estriol",
+      "B": "Alkaline phosphatase",
+      "C": "Cortisol",
+      "D": "HCG"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Which cells remain dormant in the female ovary until the age of 40-50?",
+    "options": {
+      "A": "Primary oocytes",
+      "B": "Spermatids",
+      "C": "First polar bodies",
+      "D": "Mature ova"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "The most important function of progesterone in the menstrual cycle is:",
+    "options": {
+      "A": "Maintaining Fallopian tube secretions",
+      "B": "Inducing the secretory phase of the endometrium",
+      "C": "Breast alveoli development",
+      "D": "Development of secondary sexual characteristics"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Ovarian granulosa cells are a primary component of:",
+    "options": {
+      "A": "Germ cells",
+      "B": "Ovarian follicles",
+      "C": "Theca cells",
+      "D": "The secondary oocyte"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "The frequency of ultrasound used for prenatal scanning is typically:",
+    "options": {
+      "A": "15,000-19,000 Hz",
+      "B": "Greater than 20,000 Hz",
+      "C": "5-10 Hz",
+      "D": "10-15 Hz"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "A couple should be counseled that the highest chance of pregnancy is during the:",
+    "options": {
+      "A": "Early follicular phase",
+      "B": "Menstrual phase",
+      "C": "LH surge period",
+      "D": "Ovulatory phase"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Which of the following indicates that ovulation has occurred?",
+    "options": {
+      "A": "Thinning of cervical mucus",
+      "B": "Rise in basal body temperature",
+      "C": "Secretion from the corpus luteum",
+      "D": "Thick cervical mucus without ferning"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Standard obstetric ultrasound frequency used for diagnostic purposes is:",
+    "options": {
+      "A": "15-19 MHz",
+      "B": "More than 20 MHz",
+      "C": "10-15 MHz",
+      "D": "3-10 MHz"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Dizygotic twin pregnancy at 16 weeks gestation will show:",
+    "options": {
+      "A": "Separate amniotic sacs",
+      "B": "A single shared placenta",
+      "C": "A shared amniotic sac",
+      "D": "A shared chorion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Poor sperm motility (25%) and spasmodic contractions are likely caused by:",
+    "options": {
+      "A": "Epididymal origin",
+      "B": "Masturbation effects",
+      "C": "Exposure to high calcium levels",
+      "D": "Technician mishandling"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Spermatogenesis takes approximately:",
+    "options": {
+      "A": "48 days",
+      "B": "64 days",
+      "C": "87 days",
+      "D": "49 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "The production of testosterone is primarily dependent on:",
+    "options": {
+      "A": "Luteinizing Hormone (LH)",
+      "B": "FSH",
+      "C": "Prolactin",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "The duration of spermatogenesis is:",
+    "options": {
+      "A": "48 days",
+      "B": "64 days",
+      "C": "87 days",
+      "D": "49 days"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Changes in the blood of a postmenopausal woman include:",
+    "options": {
+      "A": "Increased FSH and LH",
+      "B": "Increased GnRH",
+      "C": "Decreased FSH and LH",
+      "D": "Decreased Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "FSH is inhibited by:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Seminal fluid",
+      "C": "Testosterone",
+      "D": "Inhibin"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "After menopause, deficiency of which hormone leads to increased risk of atherosclerosis?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Thyroxine",
+      "C": "Progesterone",
+      "D": "Growth Hormone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "The corona radiata surrounding the ovum is derived from:",
+    "options": {
+      "A": "The second polar body",
+      "B": "Granulosa cells",
+      "C": "The first polar body",
+      "D": "Theca cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "The lack of milk production during pregnancy is due to high levels of:",
+    "options": {
+      "A": "Suckling inhibition",
+      "B": "Prolactin",
+      "C": "Estrogen and Progesterone",
+      "D": "Oxytocin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "True regarding the fertility of men over age 70 is:",
+    "options": {
+      "A": "Sperms are always non-motile",
+      "B": "Sperm count is over 500 million",
+      "C": "Sperms are still capable of fertilization",
+      "D": "Men are invariably sterile"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "A healthy couple has what chance of conceiving within one year of regular intercourse?",
+    "options": {
+      "A": "90%",
+      "B": "40%",
+      "C": "85%",
+      "D": "75%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "On ultrasound, the most characteristic ovarian finding in a 28-week pregnant woman is the:",
+    "options": {
+      "A": "Corpus luteum",
+      "B": "Cumulus oophorus",
+      "C": "Corona radiata",
+      "D": "Secondary follicle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Undifferentiated germ cells in the seminiferous tubules are:",
+    "options": {
+      "A": "Type A spermatogonia",
+      "B": "Type B spermatogonia",
+      "C": "Spermatids",
+      "D": "Primary spermatocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "The majority of semen volume is produced by the:",
+    "options": {
+      "A": "Prostate gland",
+      "B": "Testicles",
+      "C": "Bulbourethral glands",
+      "D": "Seminal vesicles"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Basal body temperature rises during ovulation due to:",
+    "options": {
+      "A": "LH",
+      "B": "Progesterone",
+      "C": "Estrogen",
+      "D": "Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Lactational amenorrhea is primarily caused by Prolactin's inhibition of:",
+    "options": {
+      "A": "GnRH secretion",
+      "B": "Prolactin",
+      "C": "Dopamine",
+      "D": "Estrogen and Progesterone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "During pregnancy, milk ejection is inhibited by high levels of:",
+    "options": {
+      "A": "Progesterone",
+      "B": "Oxytocin",
+      "C": "Prolactin",
+      "D": "Estrogen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Alkaline secretions in semen neutralize vaginal acidity to approximately:",
+    "options": {
+      "A": "4.0-5.0",
+      "B": "6.0-6.5",
+      "C": "7.0-7.4",
+      "D": "3.0-4.0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "An estrogenic effect in the adult female is:",
+    "options": {
+      "A": "Thinning of cervical mucus",
+      "B": "Enlargement of the breast",
+      "C": "Alveolar development",
+      "D": "Uterine contraction inhibition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "A physiological function of testosterone is:",
+    "options": {
+      "A": "Thickening of the laryngeal cartilage",
+      "B": "Improvement of visual acuity",
+      "C": "Increasing scalp hair growth",
+      "D": "Raising voice pitch"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Urine pregnancy test kits primarily detect:",
+    "options": {
+      "A": "Luteinizing Hormone (LH)",
+      "B": "Follicle-Stimulating Hormone (FSH)",
+      "C": "Human Chorionic Gonadotropin (HCG)",
+      "D": "Progesterone"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "The best hormonal marker to confirm the fertile period is:",
+    "options": {
+      "A": "Luteinizing Hormone (LH) surge",
+      "B": "Progesterone",
+      "C": "Estrogen",
+      "D": "FSH"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "The male sex-determining gene located on the Y chromosome is:",
+    "options": {
+      "A": "Müllerian Inhibiting Factor (MIF)",
+      "B": "Testosterone gene",
+      "C": "Testes-determining factor (TDF/SRY)",
+      "D": "Androgen receptor gene"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "The best test to confirm that ovulation has *already* occurred is:",
+    "options": {
+      "A": "Serum Estrogen",
+      "B": "Serum Progesterone",
+      "C": "Serum Inhibin",
+      "D": "Serum FSH"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Dichorionic diamniotic twins occur if the zygote splits within:",
+    "options": {
+      "A": "3 days of fertilization",
+      "B": "4-7 days of fertilization",
+      "C": "8-12 days of fertilization",
+      "D": "After 12 days of fertilization"
+    },
+    "correct_answer": "A"
+  }
+]

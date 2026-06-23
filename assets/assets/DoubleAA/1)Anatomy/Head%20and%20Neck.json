@@ -1,0 +1,6466 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Pain between eye and upper lip. Nerve carrying this pain is:",
+    "options": {
+      "A": "Maxillary nerve",
+      "B": "Ophthalmic nerve",
+      "C": "Facial nerve",
+      "D": "Mandibular nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Nerve causing lacrimation while eating is:",
+    "options": {
+      "A": "Trochlear",
+      "B": "Trigeminal nerve",
+      "C": "Abducent nerve",
+      "D": "Vagus",
+      "E": "Facial"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "A patient presents with acute painful swelling in front of his ear, O/E parotid gland is enlarged. Which nerve is involved?",
+    "options": {
+      "A": "Maxillary nerve",
+      "B": "Opthalmic nerve",
+      "C": "Greater auricular nerve",
+      "D": "Mandibular nerve",
+      "E": "Facial nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Parasympathetic supply of parotid:",
+    "options": {
+      "A": "7 Cranial nerve",
+      "B": "9 Cranial nerve",
+      "C": "5 Cranial nerve",
+      "D": "10 Cranial nerve",
+      "E": "2 Cranial nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Patient has lipoma on posterior aspect of SCM, 5 cm relation to sternoclavicular joint which structure ligated leading to profuse bleeding?",
+    "options": {
+      "A": "External jugualr Vein",
+      "B": "Internal jugular Vein",
+      "C": "Common carotid artery",
+      "D": "Vertebral artery",
+      "E": "2nd part of Subclavian"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Injury at foramen ovale will lead to:",
+    "options": {
+      "A": "Loss of sensation at lower face",
+      "B": "Loss of sensation at upper face",
+      "C": "Loss of sensation of forehead",
+      "D": "Loss of bitter taste"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Lady came in OPD she has hoarsness of voice and left vocal cord sluggish movement due to which nerve damage?",
+    "options": {
+      "A": "Left ELN",
+      "B": "Left ILN",
+      "C": "Left RLN",
+      "D": "Vagus nerve",
+      "E": "Glossopharyngeal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "A patient complains of dryness of eyes & itching. O/E there was decreased secretion of lacrimal gland. The nerve carrying Postganglionic Fibers to Lacrimal gland:",
+    "options": {
+      "A": "Ophthalmic Nerve",
+      "B": "Mandibular Nerve",
+      "C": "Maxillary Nerve",
+      "D": "Temoral Nerve",
+      "E": "Facial Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "Facial nerve supply taste to anterior 2/3rd of tongue via chorda tympani. Taste fibers are:",
+    "options": {
+      "A": "GVE",
+      "B": "GSA",
+      "C": "SVE",
+      "D": "SVA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "Regarding General Visceral Efferent (GVE) true is:",
+    "options": {
+      "A": "Supply smoth muscle glands",
+      "B": "Impulses Away from target organ",
+      "C": "Toward target organ",
+      "D": "Supply Pharynx",
+      "E": "Supply Larynx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Tumor of pituitary gland spreads to which hony structure?",
+    "options": {
+      "A": "Frontal",
+      "B": "Maxillary",
+      "C": "Orbital",
+      "D": "Sphenoid",
+      "E": "Temporal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Incisive foramen contains which of the following structure?",
+    "options": {
+      "A": "Maxillary Nerve",
+      "B": "Mandibular Nerve",
+      "C": "Nasopalatine Nerve",
+      "D": "Cilliary Nerve",
+      "E": "Opthalamic Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "The primary function of the bones of the middle ear is to:",
+    "options": {
+      "A": "Amplify the sound stimulus",
+      "B": "Filter high-frequency sounds from the sound stimulus",
+      "C": "Enable the direction of a sound stimulus to be detected",
+      "D": "Enhance the ability to distinguish different sound frequencies",
+      "E": "Protect the ear from damage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A patient while turning eyes toward left, has medial nystagmus. Nerve involved is which of the following?",
+    "options": {
+      "A": "Occulomotor",
+      "B": "Trochlear",
+      "C": "Abducent",
+      "D": "Vagus nerve",
+      "E": "Facial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "A patient fainted during dental surgery, trendelenberg position was maintained and some irritant solution was snored in order to stimulate some area in brain, which nerve carries that?",
+    "options": {
+      "A": "9th CN",
+      "B": "11th CN",
+      "C": "5th CN",
+      "D": "12th CN",
+      "E": "6th CN"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "A patient complains of dryness of eyes. O/E there was decreased secretion of lacrimal gland. The most likely ganglia involved are:",
+    "options": {
+      "A": "Ciliary ganglion",
+      "B": "Optic ganglion",
+      "C": "Pterygo palatine ganglion",
+      "D": "Submandibular ganglion",
+      "E": "Superior cervical ganglion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Which of following passes through foramen rotendum?",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Maxillary Division of trigeminal",
+      "C": "Ophthalmic nerve",
+      "D": "Lingual nerve",
+      "E": "Accessory meningeal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "True about stenson’s/parotid duct is:",
+    "options": {
+      "A": "Pierces buccinator muscle",
+      "B": "Opens in oral cavity against upper 2nd premolar",
+      "C": "Arises from post surface of parotid",
+      "D": "In duct of submandibular gland"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Salivary secretion is by which of the following?",
+    "options": {
+      "A": "Lingual nerve",
+      "B": "Maxillary nerve",
+      "C": "Facial nerve",
+      "D": "Mandibular nerve",
+      "E": "Chorda tympani"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Hearing improves in noisy environment in which of the following condition",
+    "options": {
+      "A": "Menicre’s Disease",
+      "B": "Otosclerosis",
+      "C": "Tympanic membrane damage",
+      "D": "Ossicular damage",
+      "E": "Cochlear damage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Angular artery is a branch of:",
+    "options": {
+      "A": "Facial",
+      "B": "Superficial temporal",
+      "C": "Great auricular",
+      "D": "Maxillary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "A blow on right eye near to medial nasal bridge leads to fracture of:",
+    "options": {
+      "A": "Orbital plate of frontal",
+      "B": "Glabella",
+      "C": "Frontal process of maxilla",
+      "D": "Sup cilliary arch"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A lady presented with diploipa and suddenly fell down can’t reach to phone due to damage to which artery?",
+    "options": {
+      "A": "Anterior cerebral artery",
+      "B": "Anterior choroidal artery",
+      "C": "Middle cerebral artery",
+      "D": "Posterior cerebral artery",
+      "E": "Middle meningeal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A boy was talking in classroom teacher got irritated and asked him to lower pitch of voice muscles responsible is which of following?",
+    "options": {
+      "A": "Vocalis",
+      "B": "Cricothyroid",
+      "C": "Thyroarytenoid",
+      "D": "Post cricoarytenoid",
+      "E": "Lateral cricoarytenoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Internal carotid artery is blocked on color doppler. Blood flow back through which artery to supply scalp?",
+    "options": {
+      "A": "Supra orbital artery",
+      "B": "Superficial temporal artery",
+      "C": "Post Auricular artery",
+      "D": "Occipital artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Which nerve passes through petro tympanic fissure?",
+    "options": {
+      "A": "Greater petrosal",
+      "B": "Lesser petrosal",
+      "C": "Chorda tympani",
+      "D": "Deep petrosal",
+      "E": "Maxillary artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Geniohyoid function is:",
+    "options": {
+      "A": "Depress Hyoid",
+      "B": "Eleveatc mandible",
+      "C": "Elevate Hyoid",
+      "D": "Rotate Hyoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Patient has broad nose, syndactyly and exophthalmos with cleft palate and Dished in face appearance. What is the diagnosis?",
+    "options": {
+      "A": "Eisenmenger syndrome",
+      "B": "Down syndrome",
+      "C": "Turner syndrome",
+      "D": "Apert syndrome",
+      "E": "Digeorge syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Which muscle damage results in vocal cord adducted position?",
+    "options": {
+      "A": "Vocalis",
+      "B": "Thyroarytenoid",
+      "C": "Posterior cricoarytenoid",
+      "D": "Oblique arytenoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Inspiration is vital process for oxygenation of tissues. Forceful inspiration occurs via active contraction of which muscle?",
+    "options": {
+      "A": "SCM",
+      "B": "Scalene anterior and pectoralis minor",
+      "C": "Diaphragm",
+      "D": "External oblique",
+      "E": "Abdominal muscles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "The Massetar muscle is supplied by:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Mandibular branch of trigeminal nerve.",
+      "C": "Maxillary nerve",
+      "D": "Inferior alveolar nerve",
+      "E": "Occulomotor nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Parathyroid glands are 4 in number. 2 are superior parathyriods glands and 2 are inferior parathyroid gland attach to the posterior part of thyroid gland the blood supply to these 4 glands by?",
+    "options": {
+      "A": "2 superior parathyroid gland are supplied by superior thyroid artery and 2 inferior parathyroid gland inferior thyroid arteries",
+      "B": "All four glands are supplied by superior thyroid artery.",
+      "C": "All four glands are supplied by inferior thyroid artery.",
+      "D": "Superior parathyroid glands are supplied by superior thyroid artery and inferior parathyroid gland is supplied Internal laryngeal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Aggregation of lymphoid tissue covered by stratified squamous epithelium is:",
+    "options": {
+      "A": "Thymus",
+      "B": "Spleen",
+      "C": "Palatine tonsils",
+      "D": "Lymph node",
+      "E": "Pharyngeal tonsils"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Parallel light rays focusing infront of retina is called:",
+    "options": {
+      "A": "Myopia",
+      "B": "Presbyopia",
+      "C": "Hypermetropia",
+      "D": "Cataract",
+      "E": "Retinal detachment"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Contraindication to local anesthesia in eye procedures:",
+    "options": {
+      "A": "Retinal detachment",
+      "B": "Penetrating injury to eye",
+      "C": "Procedures less than 60 minutes",
+      "D": "Glaucoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "Characteristic lesion of hereditary telengectasia is found on:",
+    "options": {
+      "A": "Palate",
+      "B": "Lips",
+      "C": "Gingiva",
+      "D": "Nose",
+      "E": "Tongue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "72 year old patient has lost general sensation on the anterior 2/3rd of the tongue due to injury to which nerve?",
+    "options": {
+      "A": "Facial",
+      "B": "Glossophgel",
+      "C": "Maxilry",
+      "D": "Trigeminal",
+      "E": "Lingual"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "A patient after fracture of base of skull presented with loss of taste, nasuea and vomiting due to damage of:",
+    "options": {
+      "A": "Hypoglossal canal",
+      "B": "Mastoid",
+      "C": "Jugular foramen",
+      "D": "Foramen Magnum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "A Patient with abscess in posterior triangle of neck which was operated now patient can’t comb her hair where is lesion?",
+    "options": {
+      "A": "Radial nerve",
+      "B": "Axillary nerve",
+      "C": "Spinal accessory nerve",
+      "D": "Median nerve",
+      "E": "Dorsal thoracic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "A patient with temporomandibular dislocation has paralysis of which of following muscle?",
+    "options": {
+      "A": "Medial pterygoid",
+      "B": "Lateral Pterygoid",
+      "C": "Buccinator",
+      "D": "Masseter",
+      "E": "Temporalis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "A surgeon performs submandibular gland surgery. How the lingual nerve can be saved?",
+    "options": {
+      "A": "Lifting deep cervical fascia",
+      "B": "Tracing lingual nerve",
+      "C": "Lifting fascia and vessels",
+      "D": "Lifting Facial nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Retinoblastoma extra ocular spread is by:",
+    "options": {
+      "A": "Optic nerve",
+      "B": "Inferiorly into maxillary sinus",
+      "C": "Medially to ethmoid sinuses",
+      "D": "Erode squamous temporal bone",
+      "E": "Erode Sphenoid bone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Submandibular gland is divided into deep and superficial part by which of the following muscle?",
+    "options": {
+      "A": "Omohyoid",
+      "B": "Mylohyoid",
+      "C": "Sternthyroid",
+      "D": "Anterior and posterior belly of diagastric",
+      "E": "Geniohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Which of following is absent in first vertebra?",
+    "options": {
+      "A": "Odontoid process",
+      "B": "Spinous process",
+      "C": "Lumen",
+      "D": "Arch"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "A patient was operated for abscessesin posterior triangle of neck, now cannot raise her arm overhead. which nerve is damaged?",
+    "options": {
+      "A": "Vagus Nerve",
+      "B": "Spinal part of Accessory nerve",
+      "C": "Cervical plexus",
+      "D": "Axillary Nerve",
+      "E": "Dorsal thoracic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "A patient has hoarseness of voice and a mass on base of the skull which nerve is involved",
+    "options": {
+      "A": "Aurlitory",
+      "B": "Vestibulocochlear",
+      "C": "Vagus",
+      "D": "Glosopharyngeal",
+      "E": "Accessory"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "A patient has inflamed parotid gland with pain in temporal region and left half of face which is due to?",
+    "options": {
+      "A": "Auricotemporal nerve",
+      "B": "Facial nerve damage",
+      "C": "Stretch of fibrous capsule",
+      "D": "Maxillary nerve",
+      "E": "Greater Auricular nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Vocal cord Glotiss is closed by which of following?",
+    "options": {
+      "A": "Posterior Cricoarytenoid",
+      "B": "Lateral Cricoarytenoid",
+      "C": "Cricothyroid",
+      "D": "Vocalis",
+      "E": "Oblique arytenoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "In determining age of individual with the help of mandible, features suggesting old age are:",
+    "options": {
+      "A": "Mental foramen lies near lower border of body of mandible",
+      "B": "Mental foramen lies near upper border of body of mandible",
+      "C": "Mental foramen lies near middle part of body of mandible",
+      "D": "Obtuse angle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Suboccipital nerve supplies which of the following muscle?",
+    "options": {
+      "A": "Capitis",
+      "B": "Latissimus dorsi",
+      "C": "Rectus Capitis Posterior",
+      "D": "Trapezius",
+      "E": "Serratus anterior"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "Aspiration of vomiting by lady during seizure can be prevented by:",
+    "options": {
+      "A": "Closure of true vocal cord",
+      "B": "Closure of false vocal cord",
+      "C": "Larynx moving upward",
+      "D": "Backward movement of tongue",
+      "E": "Compressing of epiglottis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Which of the following structures provide maximum stability to the temporomandibular joint and keeps the condyle of mandible in the fossa?",
+    "options": {
+      "A": "Temporomandibular ligament",
+      "B": "Sphenomandibular ligament",
+      "C": "Capsule of the joint",
+      "D": "Muscles of mastication"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Sound is best perceived at which area?",
+    "options": {
+      "A": "Cochlear nucleus",
+      "B": "Superior temporal gyrus",
+      "C": "Spiral ganglion",
+      "D": "Lateral geniculate body",
+      "E": "Trapezoid Body"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Function of nose at alveolar level:",
+    "options": {
+      "A": "Humidification and air conditioning",
+      "B": "Filteration",
+      "C": "Absorption",
+      "D": "Mucus production"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Patient with anterior 2/3rd tongue carcinoma. What is the lymphatic drainage?",
+    "options": {
+      "A": "Juguloomohyoid",
+      "B": "Digastric",
+      "C": "Submandibular",
+      "D": "Submental"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "A child previously having TB comes to you with the complain of fever and cough along with noisy breathing and difficulty in swallowing, now diagnosed as Retropharyngeal Abcess. which structure it will invade first?",
+    "options": {
+      "A": "Pre cervical fascia",
+      "B": "Prevertebral fascia",
+      "C": "Carotid sheath",
+      "D": "Buccopharyngeal fascia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "Middle cranial fossa is formed from:",
+    "options": {
+      "A": "Lesser wing of solenoid",
+      "B": "Greater wing of sphenoid",
+      "C": "Temporal bone",
+      "D": "Petrous part of temporal bone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Bells phenomenon:",
+    "options": {
+      "A": "Downward gaze",
+      "B": "Upward gaze",
+      "C": "Eyeball moves Upward and outward when closing eye forcefully",
+      "D": "Eyeball moved Upward and outward when opening the eyes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Man moving down in elevator. Linear vertical acceleration is detected by:",
+    "options": {
+      "A": "Semicircular canals",
+      "B": "Utricle",
+      "C": "Saccule",
+      "D": "Cochlea"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Mechanism of action of sternocleiodomastoid muscle?",
+    "options": {
+      "A": "Extemsion of head",
+      "B": "Flexion of head",
+      "C": "Rotate the head on opposite sides",
+      "D": "Rotate the neck on same side"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "The muscle which is use as landmark of CVP?",
+    "options": {
+      "A": "Trapezius",
+      "B": "Platysma",
+      "C": "Stemocleidomastoid",
+      "D": "Digastric"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Lateral rectus palsy, Nerve affected is:",
+    "options": {
+      "A": "Occulomotor Nerve",
+      "B": "Abducent Nerve",
+      "C": "Trigeminal Nerve",
+      "D": "Facial Nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Infarction of pituitary gland will occur with the involvement of which artery?",
+    "options": {
+      "A": "Anterior Cerebral Artery",
+      "B": "Posterior Cerebral Artery",
+      "C": "Posterior superior cerebellar artery",
+      "D": "Internal carotid Artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Person was having difficulty in identifying colors while making an assignment. Doctor told that he has a problem in:",
+    "options": {
+      "A": "Rods",
+      "B": "Cones",
+      "C": "Vitreous body",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Biopsy of posterior triangle of neck will damage which of the following?",
+    "options": {
+      "A": "Long thoracic nerve",
+      "B": "Spinal accessory nerve",
+      "C": "Internal Jugular Vein",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Most superficial structure in parotid:",
+    "options": {
+      "A": "External carotid artery",
+      "B": "Retromandibular vein",
+      "C": "Maxillary arter",
+      "D": "Post auricular artery",
+      "E": "Facial nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Posterolateral relation to thyroid:",
+    "options": {
+      "A": "Parathyroid gland",
+      "B": "Carotid sheath",
+      "C": "Trachea",
+      "D": "Sternohyoid Muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Posterior relation of thyroid:",
+    "options": {
+      "A": "Parathyroid gland",
+      "B": "Carotid sheath",
+      "C": "Trachea",
+      "D": "Sternohyoid Muscle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Ligament injured in hyperflexion of neck is:",
+    "options": {
+      "A": "Posterior longitudinal ligament",
+      "B": "Anterior longitudinal ligament",
+      "C": "Ligamentum Nuche",
+      "D": "Atlantoaxial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "Mental nerve exits from:",
+    "options": {
+      "A": "Foramen ovale",
+      "B": "Foramen rotendum",
+      "C": "Orbital fissure",
+      "D": "Mental foramen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Except rods and cones, Blood supply of the retina is:",
+    "options": {
+      "A": "Long ciliary artery",
+      "B": "Short ciliary artery",
+      "C": "Central retinal artery",
+      "D": "Peripheral rentinal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "Brachiocephalic vein is formed by:",
+    "options": {
+      "A": "Left subclavian vein",
+      "B": "Left internal jugular vein",
+      "C": "Junction of left subclavian and left internal jugular vein",
+      "D": "Junction of left subclavian and left external jugular vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Which of the following muscle is supplied by ansa cervicalis?",
+    "options": {
+      "A": "Geniohyoid",
+      "B": "Omohyoid",
+      "C": "Stylohyoid",
+      "D": "Mylohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Regarding parotid gland, Which of the following is correct:",
+    "options": {
+      "A": "Duct Pierces Masseter Muscle",
+      "B": "Duct Opens behind the 2nd lower molar teeth",
+      "C": "Pure Serous Acini",
+      "D": "Derived from Mesoderm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Posterior Cranial Fossa relation:",
+    "options": {
+      "A": "Separate Cerebrum from Cerebellum",
+      "B": "Separate Pons from Medulla",
+      "C": "Basilar Artery Anterior to Pons",
+      "D": "Basilar Artery Posterior to Pons"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "Which of the following nerve damaged bilaterally leads to death?",
+    "options": {
+      "A": "Trigeminal",
+      "B": "Facial",
+      "C": "Vagus",
+      "D": "Sympathetic Trunk"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Immediate relation of IJV after its exit from jugular foramen:",
+    "options": {
+      "A": "Internal Carotid artery",
+      "B": "Spinal part of Accessory Nerve",
+      "C": "Vagus Nerve",
+      "D": "Facial Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "Hyperextension of neck will lead to:",
+    "options": {
+      "A": "Lower motor neuron lesion of Upper limb",
+      "B": "Upper motor Neuron lesion of Upper Limb",
+      "C": "Lower motor neuron lesion of Lower limb",
+      "D": "Loss of Tactile stimulus lower limb"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Melanoma invades orbital cavity through:",
+    "options": {
+      "A": "Sciera",
+      "B": "Optic Nerve",
+      "C": "Emissary Vein",
+      "D": "Retina",
+      "E": "Lymphatic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Nerve passing through foramen magnum:",
+    "options": {
+      "A": "Spinal Part of Accessory nerve",
+      "B": "Occulomotor Nerve",
+      "C": "Trochlear Nerve",
+      "D": "Trigeminal Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "HSV most commonly affects which of the following nerve?",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Abducent nerve",
+      "C": "Trigeminal nerve",
+      "D": "Trochlear nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "A child can't close his lips due to damage to:",
+    "options": {
+      "A": "Orbicularis Oculi",
+      "B": "Orbicularis Oris",
+      "C": "Levator Palpebrae",
+      "D": "Masseter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Slow growing tumour of Parotid:",
+    "options": {
+      "A": "Warthin's tumour",
+      "B": "Basal Cell Carcinoma",
+      "C": "Squamous Cell Carcinoma",
+      "D": "Pleomorphic Adenoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "In Head trauma, breathing pattern is:",
+    "options": {
+      "A": "Kussmaul Breathing",
+      "B": "Cheyne-Stokes Breathing",
+      "C": "Biot's Respiration",
+      "D": "Periodic Breathing"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "Which of the following is higher in tears as compared to plasma?",
+    "options": {
+      "A": "Amino Acids",
+      "B": "Sodium",
+      "C": "Potassium",
+      "D": "Bicarbonate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "A boxer hit on chin will lead to:",
+    "options": {
+      "A": "Loss of sensation of upper teeth",
+      "B": "Loss of sensation of lower teeth",
+      "C": "Loss of sensation of neck dermatome",
+      "D": "Loss of function of platysma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Most common tumor is of which of the following Salivary Glands:",
+    "options": {
+      "A": "Parotid Gland",
+      "B": "Sublingual Gland",
+      "C": "Submandibular Gland",
+      "D": "Mixed"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Medial canthal ligament attachments:",
+    "options": {
+      "A": "Ethmoid & Frontal bones",
+      "B": "Lacrimal Bone & Frontal process of Maxilla",
+      "C": "Sphenoid Bone",
+      "D": "Mandible"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Structure preventing damage from rotatory movement of head:",
+    "options": {
+      "A": "Falx cerebri",
+      "B": "Tentorium cerebelli",
+      "C": "Vessels",
+      "D": "Sinus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Which of the following movements take place at Atlanto - Axial joint:",
+    "options": {
+      "A": "Flexion",
+      "B": "Extension",
+      "C": "Abduction",
+      "D": "Adduction",
+      "E": "Rotation"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Fascial spaces are filled with:",
+    "options": {
+      "A": "Connective tissues",
+      "B": "Vessels and nerves",
+      "C": "Adipose tissues",
+      "D": "Capillaries"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Most common location of carcinoma of tongue is:",
+    "options": {
+      "A": "Dorsum of tongue",
+      "B": "Ventral surface of tongue",
+      "C": "Tip of tongue",
+      "D": "Lateral surface of tongue"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "A boy presented in ER with history of blow to the orbit, on examination the duty doctor felt pulsations at the floor of the orbital cavity, which of the following could be the possible cause of these pulsations:",
+    "options": {
+      "A": "Cavernous sinus + internal carotid artery",
+      "B": "Cavernous sinus + external carotid artery",
+      "C": "Maxillary artery",
+      "D": "Facial artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Sub-dural hemorrhage is caused by the rupture of which of the followings:",
+    "options": {
+      "A": "Berry aneurysm",
+      "B": "Middle cerebral vein",
+      "C": "Superior cerebral vein",
+      "D": "Middle meningeal artey"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Bitemporal Hemianopsia is due to damage to:",
+    "options": {
+      "A": "Optic Nerve",
+      "B": "Optic Radiation",
+      "C": "Optic Chiasma",
+      "D": "Occipital Cortex"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Lesion to Right optic radiation lateral fibers in temporal lobe will lead to:",
+    "options": {
+      "A": "Right Superior quadrantanopia",
+      "B": "Right Inferior quadrantanopia",
+      "C": "Left Superior quadrantanopia",
+      "D": "Left inferior quadrantanopia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Which of the following muscles of mastication helps in deep inspiration during yawning & increase cardiac output?",
+    "options": {
+      "A": "Lateral pterygoid muscle",
+      "B": "Medial pterygoid muscle",
+      "C": "Masseter",
+      "D": "Buccinator",
+      "E": "Supinator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "The outer most layer of retina consist of:",
+    "options": {
+      "A": "Rods & Cones bodies",
+      "B": "Rods & Cones Process",
+      "C": "Pigmented Epithelial Cells",
+      "D": "Choroid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Damage to glossopharyngeal nerve leads to loss of which of the following taste sensation?",
+    "options": {
+      "A": "Sweet",
+      "B": "Salt",
+      "C": "Bitter",
+      "D": "Sour"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "S2 – S4 at the level of:",
+    "options": {
+      "A": "L1 – 2",
+      "B": "S1 – 2",
+      "C": "S3 – 4",
+      "D": "L4 – 5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Which of the following muscle protrudes the mandible?",
+    "options": {
+      "A": "Medial Pterygoid",
+      "B": "Lateral Pterygoid",
+      "C": "Masseter",
+      "D": "Buccinator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Maxillary artery supplies which of the following aortic arch?",
+    "options": {
+      "A": "1st",
+      "B": "2nd",
+      "C": "3rd",
+      "D": "4th"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Which of the following nerve supplies skin over the parotid region?",
+    "options": {
+      "A": "Greater Auricular Nerve",
+      "B": "Auriculotemporal Nerve",
+      "C": "Greater Occipital Nerve",
+      "D": "Lesser Occipital Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Which of the following is muscle of mastication & attached to mid mandible?",
+    "options": {
+      "A": "Masseter",
+      "B": "Mentalis",
+      "C": "Temporalis",
+      "D": "Buccinator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Pneumatic bones mainly found in:",
+    "options": {
+      "A": "Face",
+      "B": "Skull",
+      "C": "Neck",
+      "D": "Upper Limb"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Middle ear medial and posterior wall supplied by:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Facial nerve",
+      "C": "Trigeminal nerve",
+      "D": "Abducent nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Taste sensation from posterior one third of tongue is carried via:",
+    "options": {
+      "A": "Hypoglossal nerve (CN XII)",
+      "B": "Glossopharyngeal nerve (CN IX)",
+      "C": "Facial nerve (CN VII)",
+      "D": "Vagus nerve (CN X)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Which of the following is related to anterior surface of SCM:",
+    "options": {
+      "A": "Internal Jugular Vein",
+      "B": "External Jugular Vein",
+      "C": "Brachiocephalic Vein",
+      "D": "SVC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "Mandibular bridge is:",
+    "options": {
+      "A": "Angle of Mandible",
+      "B": "Root of Mandible",
+      "C": "Condyle of mandible",
+      "D": "Coronoid process of mandible"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Sensory supply of Temporal/parietal area of scalp:",
+    "options": {
+      "A": "Supraorbital nerve",
+      "B": "Supratrochleamerve",
+      "C": "Auriculotemporal nerve",
+      "D": "Greater Auricular nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "SCM muscle is supplied by which of the following nerve?",
+    "options": {
+      "A": "Vagus",
+      "B": "Accessory",
+      "C": "Hypoglossal",
+      "D": "Glossopharyngeal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Prevention of excessive medial and lateral movements at TMJ:",
+    "options": {
+      "A": "Sphenomandibular ligament",
+      "B": "Stylomandibular ligament",
+      "C": "Collateral ligament",
+      "D": "Anterior ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Carcinoma of the tongue most commonly occurs at:",
+    "options": {
+      "A": "Lateral border of anterior 2/3rd",
+      "B": "Lateral border of posterior 1/3rd",
+      "C": "Tip",
+      "D": "Dorsum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "A pulsating eye involves:",
+    "options": {
+      "A": "External jugular vein",
+      "B": "Internal carotid artery and cavernous sinus fistula",
+      "C": "External carotid artery and cavernous sinus fistula",
+      "D": "Cavernous sinus fistula"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A patient with right carotid endarterectomy presents with dizziness on vigorous right arm movements and diagnosed as emboli in subclavian. Which artery is involved?",
+    "options": {
+      "A": "Vertebral",
+      "B": "Carotid",
+      "C": "Jagular",
+      "D": "Middle meningeal",
+      "E": "Anterior communicating"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Nerve supply to the skin below the orbit of the eyes and above mouth:",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Facial nerve",
+      "C": "Maxillary nerve",
+      "D": "Zygomatic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Which of the following structures do the cervical vertebrae lack?",
+    "options": {
+      "A": "Posterior horn",
+      "B": "Anterior horn",
+      "C": "Lateral horn",
+      "D": "White matter",
+      "E": "Grey matter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Stab wound to the posterior triangle of the neck most likely causes damage to which muscle?",
+    "options": {
+      "A": "Scalene",
+      "B": "Trapezius",
+      "C": "Serratus posterior inferior",
+      "D": "Subscapularis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "An injury to the foramen ovale in skull would result in:",
+    "options": {
+      "A": "Paralysis of muscles of mastication",
+      "B": "Loss of accommodation reflex",
+      "C": "Loss of sensation over zygoma",
+      "D": "Loss of forehead sensations"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Parasympathetic supply to submandibular salivary gland is from:",
+    "options": {
+      "A": "Superior salivary nucleus",
+      "B": "Inferior salivary nucleus",
+      "C": "Auriculotemporal nerve",
+      "D": "Lesser petrosal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Which structure is transmitted via foramen cecum?",
+    "options": {
+      "A": "Ophthalmic vein",
+      "B": "Ophthalmic artery",
+      "C": "Emissary Vein",
+      "D": "Olfactory nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A damaged occurred to the foramen ovale and as a result the structures passing through it have suffered lesion too, what will be the presentation of the patient?",
+    "options": {
+      "A": "Upper face affected",
+      "B": "Lower third of face affected",
+      "C": "Face and upper limbs affected",
+      "D": "Loss of sensation over orbital cavity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "The salivary secretions from parotid gland are controlled by the following nerve:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Auriculotemporal nerve",
+      "C": "Hypoglossal nerve",
+      "D": "Glossopharyngeal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "Which of the following nerve lesion due to DM results in vision problems?",
+    "options": {
+      "A": "Occulomotor",
+      "B": "Abducens",
+      "C": "Trochlear",
+      "D": "Optic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A histological slide of a tissue taken from the oral cavity is viewed under the electron microscope and the substance shows connective tissue acini and ducts, which structure is it?",
+    "options": {
+      "A": "Salivary gland",
+      "B": "Pharyngeal tonsils",
+      "C": "Palatine tonsils",
+      "D": "Enamel"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "A patient presented to the emergency room with injury to scalene anterior muscle and 1st cervical rib. The radial pulse is feeble on examination. The damage is to which blood vessel:",
+    "options": {
+      "A": "Aorta",
+      "B": "IVC",
+      "C": "SVC",
+      "D": "Internal Jugular Vein",
+      "E": "Subclavian"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Which of the following anatomical structures is present anteriorly to the trachea?",
+    "options": {
+      "A": "Phrenic nerve",
+      "B": "Recurrent Laryngeal nerve",
+      "C": "Internal jugular vein",
+      "D": "Arch of aorta",
+      "E": "Vagus nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Which is the correct relation to Pituitary gland?",
+    "options": {
+      "A": "Anteriorly, sphenoidal (paranasal sinus) is present",
+      "B": "Abducent nerve is present medially to pituitary gland",
+      "C": "Laterally, it has relation of cavernous sinus",
+      "D": "Oculomotor nerve is present anteriorly"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Which of the following muscles of the neck?",
+    "options": {
+      "A": "Scalene posterior",
+      "B": "Serratus Anterior",
+      "C": "Trapezius",
+      "D": "Scalene Anterior"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Taste sensations from the anterior part of the tongue are carried by:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Hypoglossal nerve",
+      "D": "Lingual nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Which of the following structures similar in adult and a child?",
+    "options": {
+      "A": "Inner ear",
+      "B": "Outer ear",
+      "C": "Nose",
+      "D": "Mouth"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "A post adrenalectomy patient died 2 days after the surgery, What is the most likely cause:",
+    "options": {
+      "A": "Deficiency of Norepinephrine",
+      "B": "Deficiency of Aldosterone",
+      "C": "Deficiency of testosterone",
+      "D": "Deficiency of ACTH",
+      "E": "Deficiency of Cortisol"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "German measles causes which abnormality:",
+    "options": {
+      "A": "Congential cataract",
+      "B": "Congential deafness",
+      "C": "Cardiac abnormality",
+      "D": "Limb defect"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "Lesion near the orbit of the eye. On histopathology, langhans giant cells:",
+    "options": {
+      "A": "Tb Leprae",
+      "B": "Tuberculosis",
+      "C": "Staph Aureus",
+      "D": "Hemophilus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "External Ear blood supply:",
+    "options": {
+      "A": "Anterior Auricular Artery",
+      "B": "Posterior Auricular Artery",
+      "C": "Accesory artery",
+      "D": "Left Opthalmic Artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Which ligament keeps vertebral bodies in place?",
+    "options": {
+      "A": "Ligamentum flavum",
+      "B": "Transverse ligament",
+      "C": "Interspinous ligament",
+      "D": "Anterior and posterior longitudinal ligament"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Patient presented with nausea, vomiting, nystagmus, tinnitus and inability to walk unless he concentrates well on a target object. His cerebeller function is intact, What is the diagnosis?",
+    "options": {
+      "A": "Benign positional vertigo",
+      "B": "Meniere's disease",
+      "C": "Otosclerosis",
+      "D": "Vestibular neuritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "Lacrimal glands are supplied by which of the following?",
+    "options": {
+      "A": "Trigeminal nerve",
+      "B": "Facial Nerve",
+      "C": "Glossopharyngeal",
+      "D": "Vagus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "Stenson's duct anatomical location is:",
+    "options": {
+      "A": "Inside buccal membrane",
+      "B": "Lateral to Ramus of Mandible",
+      "C": "Between superficial and deep parotid gland",
+      "D": "Auriclar border",
+      "E": "Runs below masseter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Patient oral surgery done and mandibular nerve damaged. Its place of origin:",
+    "options": {
+      "A": "Under Incisor teeth",
+      "B": "Under Premolar teeth",
+      "C": "Under canine teeth a little below",
+      "D": "Upper teeth"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "Child was playing game and injured eye orbit now he is having vertical diplopia and Proptosis. Which area of orbit has been damage?",
+    "options": {
+      "A": "Carotid cavernous fistula",
+      "B": "Floor damage",
+      "C": "Roof damage",
+      "D": "Retro optic Hemorrhage"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "Loss of taste sensation of anterior 2/3rd of tongue due to:",
+    "options": {
+      "A": "Chorda tympani nerve",
+      "B": "Facial nerve",
+      "C": "Lingual nerve",
+      "D": "Trigeminal Nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Posterior triangle divided by:",
+    "options": {
+      "A": "Ant. Belly of digastric",
+      "B": "Sup. Belly of omohyoid",
+      "C": "Inf. belly of omohyoid",
+      "D": "Post. Belly of digastric",
+      "E": "Ant. Border of stemocleidomastoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Facial muscle nerve supply:",
+    "options": {
+      "A": "Facial",
+      "B": "Mandibular",
+      "C": "Facial and mandibular",
+      "D": "Buccal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "Petrous part of temporal related to:",
+    "options": {
+      "A": "Forms base of middle cranial fossa",
+      "B": "Medial to Apex",
+      "C": "Anterior",
+      "D": "Posterior",
+      "E": "Known as normal basalis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Medial palpebral ligament (Medial canthal ligament) attachment?",
+    "options": {
+      "A": "Anterior & Posterior lacrimal ridges",
+      "B": "Frontonasal",
+      "C": "Anterior lacrimal ridge",
+      "D": "Posterior lacrimal ridge"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Which structure lies posterior to arch of aorta?",
+    "options": {
+      "A": "Left phrenic nerve",
+      "B": "Right phrenic nerve",
+      "C": "SVC",
+      "D": "Brachiocephalic vein",
+      "E": "Left recurrent laryngeal nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "Women developed painless gradual protrusion of one eye with normal X-Ray. Cause is?",
+    "options": {
+      "A": "Orbital vessel aneurysm",
+      "B": "Optic nerve glioma",
+      "C": "Thyroid ophthalmology",
+      "D": "Meningioma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Regarding Scalenus anterior:",
+    "options": {
+      "A": "Phrenic nerve passes anterior to it.",
+      "B": "Subclavian vein passes behind it",
+      "C": "Attached to outer border of 1st rib",
+      "D": "Arises from C3 to C6 vertebral bodies"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Loss of sensation in lower teeth, chin and lower lip. Nerve involved will be:",
+    "options": {
+      "A": "Inferior Alveolar nerve",
+      "B": "Madibular nerve",
+      "C": "Superior alveolar nerve",
+      "D": "Maxillary nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 151,
+    "question_text": "Retromandibular vein is formed by junction of Maxillary vein and:",
+    "options": {
+      "A": "Facial vein",
+      "B": "Lingual vein",
+      "C": "Maxillary vein",
+      "D": "Superficial temporal vein",
+      "E": "Transverse Facial"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "Masseteric fascia derived from:",
+    "options": {
+      "A": "Carotid sheath",
+      "B": "Pretracheal fascia",
+      "C": "Prevertebral fascia",
+      "D": "Superficial layer of Deep cervical fascia",
+      "E": "Buccopharyngeal fascia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "Most common cause of global blindness:",
+    "options": {
+      "A": "Bacterial infection",
+      "B": "Viral infection",
+      "C": "Chlamydial infection",
+      "D": "Glucoma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "Patient with tic doloreaux (Trigeminal neuralgia), analgesia given to block trigeminal ganglion at which site?",
+    "options": {
+      "A": "Middle cranial fossa",
+      "B": "Posterior cranial fossa",
+      "C": "Anterior cranial fossa",
+      "D": "Infratemporal fossa",
+      "E": "Pterygopalatine fossa"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Regarding skull of child:",
+    "options": {
+      "A": "Anterior fontanelle present between bones",
+      "B": "Posterior fontanelle closes at 3 months",
+      "C": "Vault is bigger than the face",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "infratemporal fossa also known as:",
+    "options": {
+      "A": "Parapharyngeal fossa",
+      "B": "Tonsillar fossa",
+      "C": "Suprasternal",
+      "D": "Submesenteric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Tumor with nerve sheet involvement:",
+    "options": {
+      "A": "Carcinoma ex-plemorphic adenoma",
+      "B": "Mucoepidermoid tumor",
+      "C": "Hemangiopericytoma",
+      "D": "Basal Cell Carcinoma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Ligamentum flavum connects:",
+    "options": {
+      "A": "Lamina",
+      "B": "Body",
+      "C": "Spines",
+      "D": "All of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Bifurcation of common carotid artery:",
+    "options": {
+      "A": "At level of cricoid",
+      "B": "Superior border of thyroid cartilage",
+      "C": "Jugular notch",
+      "D": "Inferior border of thyroid cartilage"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "Corneal reflex by:",
+    "options": {
+      "A": "Opthalmic division of trigeminal Nerve",
+      "B": "Occulomotor Nerve",
+      "C": "Optic Nerve",
+      "D": "Trochlear nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Which structure arches over aorta?",
+    "options": {
+      "A": "Left Recurrent Laryngeal Nerve",
+      "B": "Left bronchus",
+      "C": "Left phrenic nerve",
+      "D": "Right reccurent laryngeal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Recurrent laryngeal nerve curves around:",
+    "options": {
+      "A": "Subclavian vein",
+      "B": "Ligamentum arteriosum",
+      "C": "Subclavian artery",
+      "D": "Arch of Aorta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "Structure lateral to Internal carotid artery:",
+    "options": {
+      "A": "Jugular vein",
+      "B": "Sternum",
+      "C": "SCM",
+      "D": "Axillary nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "Internal carotid artery in relation to external carotid artery at its origin from common carotid artery lies:",
+    "options": {
+      "A": "Lateral",
+      "B": "Anterolateral",
+      "C": "Medial",
+      "D": "Anteromedial",
+      "E": "Posterior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "External carotid artery differs from internal carotid artery:",
+    "options": {
+      "A": "As it gives branches in neck",
+      "B": "No branches in neck",
+      "C": "More pulsatile",
+      "D": "Deep in neck"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Injury to face due to some sort of trauma, Patient is unable to close eyes and angle of mouth is deviated. Nerve damaged is:",
+    "options": {
+      "A": "Facial",
+      "B": "Trigeminal",
+      "C": "Occulomotor",
+      "D": "Lingual",
+      "E": "Trochlear"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Regarding superior para thyroid:",
+    "options": {
+      "A": "Supplied by superior parathyroid artery",
+      "B": "Outside pre tracheal fascia",
+      "C": "Posterior surface at the level of 1st tracheal ring",
+      "D": "Superior to superior thyroidal artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Boy got meningitis and neck stiffness, bilateral deafness developed due to:",
+    "options": {
+      "A": "Involvement of organ of corti",
+      "B": "Involvement of neural pathways",
+      "C": "Damage of tympanic membrane",
+      "D": "Damage of scala media",
+      "E": "Changes in endo lymph / perilymph"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Tympanic reflex:",
+    "options": {
+      "A": "Frequency of 20-25 db",
+      "B": "Involves a continuous chain of ossicles",
+      "C": "Function’s for very loud noises."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Superficial temporal artery accompanies:",
+    "options": {
+      "A": "Auriculotemporal nerve",
+      "B": "Axillary",
+      "C": "Median.",
+      "D": "Median nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "Spinal part of accessory nerve:",
+    "options": {
+      "A": "Passes below transverse process of atlas",
+      "B": "Passes through the substance of sternocleidomastoid",
+      "C": "Passes through Foramen ovale",
+      "D": "Passes through Foramen spinosum",
+      "E": "Passes through Superior orbital fissure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Dorsal ramus of 2nd cervical nerve gives:",
+    "options": {
+      "A": "Greater auriculad",
+      "B": "Greater occipital",
+      "C": "Lesser occipital",
+      "D": "Supraclavicular",
+      "E": "Transverse cervical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Aerobatic vertigo in divers is due to:",
+    "options": {
+      "A": "Barotrauma",
+      "B": "Perforated tympanic membrane",
+      "C": "Some ear plugging thing",
+      "D": "Unequal pressures in middle ear during ascent"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "Internal jugular vein when it passes from jugular foramen its immediate relation with:",
+    "options": {
+      "A": "Sternocleidomastoid",
+      "B": "Trocher nerve",
+      "C": "Accessory nerve",
+      "D": "Internal carotid artrey"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "What could be damaged in surgery of superficial submandibular gland?",
+    "options": {
+      "A": "Hypogastric nerve",
+      "B": "Mandibular nerve",
+      "C": "Trigeminal nerve",
+      "D": "Marginal Brach of facial nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Fenestration in chorio capillaries numerous and large in:",
+    "options": {
+      "A": "Equatorial plate",
+      "B": "Around optic disc",
+      "C": "Ora serata",
+      "D": "Sub macular area"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Regarding pharyngeal phase of deglutition. Which is appropriate:",
+    "options": {
+      "A": "Vocal cords strongly approximate",
+      "B": "Larynx moves downward",
+      "C": "Oesophageal sphincter is contracted",
+      "D": "Palatopharyngeal fold moves downward"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Which of the following statements is correct regarding middle meningeal artery:",
+    "options": {
+      "A": "Can be felt at pterion",
+      "B": "Enters the skull through foramen spinosum",
+      "C": "Passes through foramen ovale",
+      "D": "Passes through foramen rotundum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Left recurrent laryngeal nerve is related to:",
+    "options": {
+      "A": "Brachiocephalic trunk",
+      "B": "Arch of Aorta",
+      "C": "Azygous vein",
+      "D": "Subclavian",
+      "E": "Esophagus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Nerve that supplies Trapezius muscle:",
+    "options": {
+      "A": "Radial Nerve",
+      "B": "Cranial part of Accessory nerve",
+      "C": "Spinal part of Accessory nerve",
+      "D": "Axillary nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "Hypoglossal i.e. CN XII injury on the right side will cause:",
+    "options": {
+      "A": "Left tongue paralysis with atrophy",
+      "B": "Left tongue paralysis without atrophy",
+      "C": "Right tongue paralysis with atrophy",
+      "D": "Right tongue paralysis without atrophy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "Afferent of Carotid Sinus:",
+    "options": {
+      "A": "Vagus Nerve",
+      "B": "Glossopharyngeal Nerve",
+      "C": "Accessory Nerve",
+      "D": "Trochlear nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Trochlear Nerve damage will cause:",
+    "options": {
+      "A": "Loss of upward gaze and adduction",
+      "B": "Loss of downward gaze and abduction",
+      "C": "Loss of downward gaze and adduction",
+      "D": "Loss of lateral gaze"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Cornea Innervation:",
+    "options": {
+      "A": "Optic Nerve",
+      "B": "Abducen Nerve",
+      "C": "Occulmotor Nerve",
+      "D": "Tochlear Nerve",
+      "E": "Trigeminal Nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Patient with problem in posterior tongue taste and in elevation of shoulders. these affected nerves pass through:",
+    "options": {
+      "A": "Foramen rotundum",
+      "B": "Formenovale",
+      "C": "Foramen spinosum",
+      "D": "Jugular Foramen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Cervical branch of facial nerve supplies:",
+    "options": {
+      "A": "Sternocleidomastoid",
+      "B": "Platysma",
+      "C": "Genioglossus",
+      "D": "Tensor veli palatani"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Which Cells in retina cause self Generation of impulse?",
+    "options": {
+      "A": "Bipolar",
+      "B": "Amacrine",
+      "C": "Ganglion",
+      "D": "Horizontal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "Which vessel lies in sub occipital triangle:",
+    "options": {
+      "A": "Sub occipital nerve",
+      "B": "Greater occipital nerve",
+      "C": "Occipital artery",
+      "D": "Post auricular artery",
+      "E": "Vertebral artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "Cause of decreased hearing for lower frequencies:",
+    "options": {
+      "A": "Ear wax",
+      "B": "Conductive deafness",
+      "C": "Sensory deafness",
+      "D": "Neural deafness"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "When light is thrown in left eye, pupillary light reflex present but consensual light reflex absent. Lesion is in:",
+    "options": {
+      "A": "Right optic nerve",
+      "B": "Left optic nerve",
+      "C": "Right occulomotor nerve",
+      "D": "Left occulomotor nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "Nerve involved in Bell’s palsy:",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "Structure passing through the cavernous sinus:",
+    "options": {
+      "A": "CN 3",
+      "B": "CN 6",
+      "C": "CN 4",
+      "D": "CN 1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "Fascia deep to parotid gland forms:",
+    "options": {
+      "A": "Stylomandibular ligament",
+      "B": "Stylohyoid ligament",
+      "C": "Temporomandibular ligament",
+      "D": "Falciform ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Structure pierced during spinal tap:",
+    "options": {
+      "A": "Posterior longitudinal ligament",
+      "B": "Ligamentum flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Ligament nuchae"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Light thrown in Right eye, direct reflex is present but absence of indirect light reflex. Which structure is involved/damaged?",
+    "options": {
+      "A": "Right occulomotor nerve.",
+      "B": "Left occulomotor nerve",
+      "C": "Left optic nerve",
+      "D": "Right optic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Regarding Pigment layer of retina:",
+    "options": {
+      "A": "Store solar energy and convert it to heat",
+      "B": "Takes neurotransmitter from blood and stores",
+      "C": "Contains Double layer of post mitotic cells",
+      "D": "Increasing light scatter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "Spinal accessory nerve in substance of SCM:",
+    "options": {
+      "A": "Anterior to stemocleidomastoid",
+      "B": "Superior to stemocleidomastoid",
+      "C": "Passes through it",
+      "D": "Atlas"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Raphe of pterygopalatine Attaches:",
+    "options": {
+      "A": "Mylohyoid",
+      "B": "Inf constrictor",
+      "C": "Middle constrictor",
+      "D": "Buccinators"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "A 25 year old male has developed cluster of vesicles on lateral side of lips. The causative organism resides in:",
+    "options": {
+      "A": "Trigeminal Ganglion",
+      "B": "Pterygoid Ganglion",
+      "C": "Otic Ganglion",
+      "D": "Geniculate ganglion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Lacrimal gland receives parasympathetic from pterygopalatine ganglion that receives preganglionic fibers from:",
+    "options": {
+      "A": "Deep petrosal nerve",
+      "B": "Lateral petrosal nerve",
+      "C": "Greater petrosal nerve",
+      "D": "Axillary nerve"
+    },
+    "correct_answer": "C"
+  }
+,
+  {
+    "mcq_number": 201,
+    "question_text": "Child with fever and posterior cervical lymphadenopathy. Which structure is most likely to get damaged?",
+    "options": {
+      "A": "CN11",
+      "B": "CN IX-X-XII",
+      "C": "Anca cervicalis",
+      "D": "Cranial nerve 1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "In Facial pain, hyperacusis. Ganglion involved is:",
+    "options": {
+      "A": "Trigeminal Ganglion",
+      "B": "Geniculate Ganglion",
+      "C": "Ciliary Ganglion",
+      "D": "Pterygopalatine ganglion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "Chorda tympani carries:",
+    "options": {
+      "A": "Motor fibers to parotid",
+      "B": "Supplies posterior 1/3rd of tongue",
+      "C": "Joins lingual nerve",
+      "D": "Supplies mucosa of middle ear cavity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "Regarding C2 vertebrae which is true:",
+    "options": {
+      "A": "Contains odontoid process",
+      "B": "Heart shaped body",
+      "C": "Contains spine",
+      "D": "Has no transverse process"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "What joins one lamina to the upper lamina of the vertebra?",
+    "options": {
+      "A": "Ligamentum flavum",
+      "B": "Anterior spinous ligament",
+      "C": "Superior spinous ligament",
+      "D": "Posterior longitudinal ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "What joins body of vertebra to neural arch of the vertebra?",
+    "options": {
+      "A": "Lamina of vertebra",
+      "B": "Neural plate",
+      "C": "Pedicle",
+      "D": "None of the above"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "What happens when facial nerve is avulsed at mastoid level?",
+    "options": {
+      "A": "Some muscles paralyzed.",
+      "B": "All muscles paralyzed on same side",
+      "C": "Some muscles paralyzed on same side",
+      "D": "All muscles paralyzed on opposite side"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "Fibers to ciliary ganglion are from which nerve?",
+    "options": {
+      "A": "CN III",
+      "B": "CN IV",
+      "C": "CN V",
+      "D": "CN VI"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "Surgeon is performing operation of adrenal gland. Arterial supply to left Suprarenal gland is from:",
+    "options": {
+      "A": "Inferior mesenteric artery",
+      "B": "Hepatic artery",
+      "C": "Superior mesenteric artery",
+      "D": "Inferior phrenic artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Patient left eye deviated inward. Where is the lesion?",
+    "options": {
+      "A": "Left abducent palsy",
+      "B": "Right abducent palsy",
+      "C": "Left trochlear palsy",
+      "D": "Left occulomotor palsy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Danger area of scalp:",
+    "options": {
+      "A": "Loose areolar tissue",
+      "B": "Periostium",
+      "C": "Connective tissue",
+      "D": "Epicranial Apponeuurosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "Cavernous sinus thrombosis caused by?",
+    "options": {
+      "A": "Inferior ophthalmic vein",
+      "B": "Superior ophthalmic vein",
+      "C": "Supraorbital vein",
+      "D": "Infraorbital vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "Uvula deviation on the right due to lesion of:",
+    "options": {
+      "A": "Right vagus",
+      "B": "Left vagus",
+      "C": "Left glossopharyngeal",
+      "D": "Right glossopharyngeal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "External jugular vein formed by?",
+    "options": {
+      "A": "Posterior auricular + reteromandibular",
+      "B": "Posterior auricular + facial",
+      "C": "Superficial temporal + posterior auricular",
+      "D": "Superficial temporal + reteromandibular"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Infratemporal fossa connected to middle temporal fossa through?",
+    "options": {
+      "A": "Greater wing of Sphenoid",
+      "B": "Lesser wing of Sphenoid",
+      "C": "Squamous part of temporal bone",
+      "D": "Parietal bone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "Sensory neural deafness was present:",
+    "options": {
+      "A": "Webber lateralized to normal ear",
+      "B": "Rinne +ve",
+      "C": "Absolute bone conduction zero"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "True about Pituitary gland:",
+    "options": {
+      "A": "Is extradural",
+      "B": "Lies above diaphragm sella",
+      "C": "Lateral to cavernous sinus",
+      "D": "Lies below diaphragm sella"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "Optic nerve passes to skull by opening in:",
+    "options": {
+      "A": "Sphenoid",
+      "B": "Ethmoid",
+      "C": "Petrous temporal",
+      "D": "Maxillary"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Glossopharyngeal nerve supplies:",
+    "options": {
+      "A": "Stylopharyngeus muscle",
+      "B": "Hyoglossis",
+      "C": "Stylhyoid",
+      "D": "Diagastric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Submental and submandibular lymph nodes are involved in which carcinoma?",
+    "options": {
+      "A": "Lower lip",
+      "B": "Upper lip",
+      "C": "Tongue",
+      "D": "Jaw"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "Which divide occipital triangle?",
+    "options": {
+      "A": "Inferior belly of omohyoid",
+      "B": "Superior belly of omohyoid",
+      "C": "Splenius capitus superior",
+      "D": "Splenius capitus inferior"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Medial palpebral ligament attachment:",
+    "options": {
+      "A": "Ligament which is formed from deep part of parotid fascia",
+      "B": "Stylomandibular ligament",
+      "C": "Stylohyoid ligament",
+      "D": "Sphenomandibular"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "Parasympathetic to parotid is supplied by:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Vagus nerve",
+      "D": "Trigeminal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Lady has difficulty in coming down stairs and tilts head to left with Eye Upward while moving downstairs due to lesion at?",
+    "options": {
+      "A": "Right Superior Oblique",
+      "B": "Left Inferior Oblique",
+      "C": "Right Inferior Oblique",
+      "D": "Left superior oblique"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Diabetic patient presented with decreased visual acuity. Doctor performed retinal laser photocoagulation. Lesion at?",
+    "options": {
+      "A": "Fovea",
+      "B": "Retina",
+      "C": "Cornea",
+      "D": "Lens"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "Chorda tympani joins mandibular nerve to supply preganglionic fibers to submandibular gland. Which other muscle does this mandibular nerve supplies on its path?",
+    "options": {
+      "A": "Tensor veli palatine",
+      "B": "Levator veli palatini",
+      "C": "Stylohyoid",
+      "D": "Buccinator"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "What is the nerve supply of levator scapula?",
+    "options": {
+      "A": "C4, C5",
+      "B": "Accessory nerve",
+      "C": "Thoracodorsal",
+      "D": "Posterior rami of spinal nerves"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Between sternocleidomastoid, posterior belly of digastric and superior belly of omohyoid, Which triangle is present?",
+    "options": {
+      "A": "Submental",
+      "B": "Submandibular",
+      "C": "Carotid",
+      "D": "Posterior"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "Internal jugular vein relation to carotid:",
+    "options": {
+      "A": "Medial",
+      "B": "Anterior",
+      "C": "Lateral",
+      "D": "Lower"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "The semicircular canals in cortex of ear are maximally stimulated by:",
+    "options": {
+      "A": "With nodding of head downwards",
+      "B": "Doing cartwheel",
+      "C": "Equal rotation along each plane",
+      "D": "Vertical axis",
+      "E": "Linear acceleration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Ansa cervicalis root value:",
+    "options": {
+      "A": "Hypoglossal with C123",
+      "B": "Hypiglossal with C34",
+      "C": "Hypoglossal with C67",
+      "D": "Hypoglossal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Parotid Duct opens:",
+    "options": {
+      "A": "Buccal Space",
+      "B": "Between Masseter and medial Pterygoid",
+      "C": "Inferior Alveolar Canal of Mandible",
+      "D": "Mandible"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Elevation of Jaw done by:",
+    "options": {
+      "A": "Lateral Pterygoid",
+      "B": "Myelohyoid",
+      "C": "Digastric",
+      "D": "Masseter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Anterior border of sternoclenomastiod injured leading to bleeding. Vessel affected will be:",
+    "options": {
+      "A": "Internal juglar vein",
+      "B": "External juglar vein",
+      "C": "2nd part of subclavian",
+      "D": "Common carotid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Anterior 2/3rd general sensation carried by:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Vagus nerve",
+      "D": "Trigeminal nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Furunculosis on tip of nose spread to cavernous sinuses via:",
+    "options": {
+      "A": "Inferior Opthalmic vein",
+      "B": "Maxillary vein",
+      "C": "Emissiory veins",
+      "D": "Superior opthalamic vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "In temporomandibular joint dislocation, what structure prevents the joint to go back in cavity?",
+    "options": {
+      "A": "Tubercles on articular surface of mandible",
+      "B": "Temporomandibular ligament",
+      "C": "Lateral pterygoid muscle",
+      "D": "Medial Pterygoid muscle",
+      "E": "Masster"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Pain from Ear lobule carried by:",
+    "options": {
+      "A": "Posterior auricular nerve",
+      "B": "Accessory nerve",
+      "C": "Vagus nerve",
+      "D": "Greater Auricular nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Hoarseness of voice due to damage of:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Accessory nerve",
+      "D": "Maxillary nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "Retropharyngeal lymph nodes drain?",
+    "options": {
+      "A": "Pharynx",
+      "B": "Post 1/3rd tongue",
+      "C": "Larynx",
+      "D": "Piriform fossa"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "Digastrif muscle is a two belly muscle. Its ligament is attached to:",
+    "options": {
+      "A": "Hyoid bod",
+      "B": "Mastoid bone",
+      "C": "Angle of mandible",
+      "D": "Stema angle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Medial to thyroid gland is which of the following?",
+    "options": {
+      "A": "Parathyroid",
+      "B": "Recurrent laryngeal nerve",
+      "C": "Carotid sheath",
+      "D": "External laryngeal nerve",
+      "E": "Sternohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "Submandibular gland lies at the mandibular angle. Surgery of this will lead to damage of which structure adjacent to this:",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Facialnerve",
+      "C": "Lingual nerve",
+      "D": "Maxillary nerve",
+      "E": "Lacrimal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Highest chance of pneumothorax occurs while passing CVP line via?",
+    "options": {
+      "A": "Right internal jugular vein",
+      "B": "External jugular",
+      "C": "Subclavian vein",
+      "D": "Left External jugular vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Loss of Overhead Abduction is due to damage of which of these:",
+    "options": {
+      "A": "Nerve to Deltoid",
+      "B": "Supraspinatus",
+      "C": "Pectoralis major",
+      "D": "Nerve to Serratus anterior",
+      "E": "SCM"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "Patent foramen ovale, most likely cause is:",
+    "options": {
+      "A": "A gap between septum secundum and endocardial cushion",
+      "B": "A gap in septum primum",
+      "C": "A gap in septum secundum",
+      "D": "Patent foramen primum",
+      "E": "Patent foramen secundum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Patient went to dental surgeon for excision of lower teeth. After that procedure, patient developed numbness of lower lip. which nerve is responsible?",
+    "options": {
+      "A": "Buccal nerve",
+      "B": "Inferior dental nerve",
+      "C": "Mental nerve",
+      "D": "Facial nerve",
+      "E": "Maxillary nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Excessive opening of mouth prevented by?",
+    "options": {
+      "A": "Capsule of temporomandibular joint",
+      "B": "Muscles of mastication",
+      "C": "Temporo mandibular ligament",
+      "D": "Muscles of face"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Which of the following structure lie deep to and parallel with carotid sheath?",
+    "options": {
+      "A": "Recourent laryngeal nerve",
+      "B": "Vagus nerve",
+      "C": "Sympathetic chain",
+      "D": "Internal jugular vein",
+      "E": "External jugular vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "An Ent surgeon operating on mastoid antrum see profuse bleeding from posterior wall of mastoid antrum. Source of bleeding?",
+    "options": {
+      "A": "Sup petrosal sinus",
+      "B": "Inferior petrosal sinus",
+      "C": "Cavernous sinus",
+      "D": "Jugular Bulb",
+      "E": "Sigmoid sinus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Mastectomy of Patient done and a muscle was damaged after that patient cant adduct and lift (extend?) the arm. which muscle is damaged?",
+    "options": {
+      "A": "Serrartus anterior",
+      "B": "Rhymbiod major",
+      "C": "Pectoralis minor",
+      "D": "Supraspinatus",
+      "E": "Latismus dorsi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Thoracic duct drains into:",
+    "options": {
+      "A": "Right branchiocephalic vein",
+      "B": "Junction between Left Internal jugular vein and left Subclavian vein",
+      "C": "Right brachiocephalic vein",
+      "D": "Internal jugular vein",
+      "E": "Junction of SVC and Azygous vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "Which muscle results in vocal cord abducted position?",
+    "options": {
+      "A": "Vocalis",
+      "B": "Thyroarytenoid",
+      "C": "Posterior cricoarytenoid",
+      "D": "Oblique arytenoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Patient with pre auricular swelling. All examination & labs normal, only associated with otorrhea & occasional Lymphadenopathy, diagnosis by?",
+    "options": {
+      "A": "Trucut biopsy",
+      "B": "Needle biopsy",
+      "C": "Excisional biopsy",
+      "D": "Incisional biopsy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "Muscle from vertebral border of Scapula which attaches it to anterior chest wall by which of following?",
+    "options": {
+      "A": "Quadratus laborurm",
+      "B": "Latismus dorsi",
+      "C": "Rhomboid major",
+      "D": "Serratus anterior"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "The cutaneous branches of cervical plexus are:",
+    "options": {
+      "A": "Phremic and lesser occipital",
+      "B": "Greater occipital and suprascapular",
+      "C": "Greater auricular and lesser occipital",
+      "D": "Ansa cervicalis and Supraclavicular"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Tumor of eye which spreads to liver:",
+    "options": {
+      "A": "RB",
+      "B": "Ewing sarcoma",
+      "C": "BCC",
+      "D": "Melanoma"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Patient After thyroidectomy developed hoarseness of voice & loose vocal cords. Muscle damaged with supply from middle 3rd of nucleus ambiguous is:",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Cricoarytenoid",
+      "C": "Vocalis",
+      "D": "Arytenoid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "Nerve supplying of mylohyoid is same as which of following other muscle?",
+    "options": {
+      "A": "Anterior belly of digastric",
+      "B": "Posterior belly",
+      "C": "Stylohyoid",
+      "D": "Omohyoid",
+      "E": "Sternothyroid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Nerve Supplying Medial Pterygoid supply which other muscle:",
+    "options": {
+      "A": "Levator veli palatini",
+      "B": "Tensor veli palatini",
+      "C": "Posterior belly of digastric",
+      "D": "Omohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "A person fell on ground and his chin hit to nail. Which of the following muscle will likely be damaged?",
+    "options": {
+      "A": "Digastric",
+      "B": "Platysma",
+      "C": "Myelohyoid",
+      "D": "Lateral pterygoid",
+      "E": "Geniohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Fat pad of upper eyelid is anterior to?",
+    "options": {
+      "A": "Orbital septum",
+      "B": "Muller muscle",
+      "C": "Orbicularis",
+      "D": "Levator aponeurosis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Mental foramen location related to mandible and mental nerve at the level of:",
+    "options": {
+      "A": "1st premolar",
+      "B": "2nd lower premolar",
+      "C": "1st upper molar",
+      "D": "2nd upper molar",
+      "E": "Canine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Injury to greater wing of sphenoid and inferior orbital fissure damages which nerve:",
+    "options": {
+      "A": "Occulomotor",
+      "B": "Trochlear",
+      "C": "Zygomatic",
+      "D": "Lacrimal",
+      "E": "Nasociliary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "Man standing in bus, bus suddenly moves but man does not fall. How balance is maintained:",
+    "options": {
+      "A": "Saccule",
+      "B": "Utricle",
+      "C": "Oval window",
+      "D": "Semicircular canal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "A 17-year-old boy presented with epistaxis and nasopharyngeal angiofibroma. Surgeon decided to ligate the culprit blood vessel. Which vessel is this?",
+    "options": {
+      "A": "Intermaxillary artery",
+      "B": "External maxillary artery",
+      "C": "Internal jugular vein",
+      "D": "Palatine artery",
+      "E": "Ascending pharyngeal artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "During tonsillectomy, increased bleeding may be due to damage to which vessel?",
+    "options": {
+      "A": "Inferior thyroid artery",
+      "B": "Sphenopalatine artery",
+      "C": "Brachiocephalic vein",
+      "D": "Tonsillar artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "A child came in opd of the orthodontist, child is not sure about his age. What measures should be done to confirm his age?",
+    "options": {
+      "A": "Measure the height by his age",
+      "B": "Check his nutritional status",
+      "C": "Do multiple x-rays of bone",
+      "D": "Number of permanent teeth developed"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "A young boy presented with boil in nasal vestibule. Its route of spread to Dural sinus is:",
+    "options": {
+      "A": "Nasociliary",
+      "B": "Emissary vein",
+      "C": "Superior ophthalmic vein",
+      "D": "Inferior ophthalmic vein"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "In nail injury to submental triangle, the muscle that would be pierced last will be?",
+    "options": {
+      "A": "Geniohyoid",
+      "B": "Genioglossus",
+      "C": "Platysma",
+      "D": "Masseter",
+      "E": "Stylohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Content of inferior orbital fissure?",
+    "options": {
+      "A": "Lacrimal nerve",
+      "B": "Frontal nerve",
+      "C": "Trochlear nerve",
+      "D": "Zygomatic nerve",
+      "E": "Occulomotor nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "Patient has pain in throat and has hoarseness of voice. On Xray, large styloid process seen. Structure involved is:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Stylopharyngeus muscle",
+      "C": "Buccinator",
+      "D": "Platysma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "A women with the history of trauma to head and neck region having lesion on tongue on protrusion of tongue deviated to the left side the nerve most likely involve is:",
+    "options": {
+      "A": "Left hypoglossal",
+      "B": "Right hypoglossal",
+      "C": "Glysopharangeal nerve",
+      "D": "Vagus nerve",
+      "E": "PICA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "1 year old boy was brought to doctor with complain of inability to swallow. On exam there was regurgitation of milk with cleft palate, what is the Commonest cause of cleft palate?",
+    "options": {
+      "A": "Maternal age",
+      "B": "Viral",
+      "C": "Multifactorial inheritance",
+      "D": "Anti convulsant",
+      "E": "Sex of baby"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "Both RLN severed. Which muscle will be spared?",
+    "options": {
+      "A": "Lateral cricoarytenoid",
+      "B": "Oblique arytenoid",
+      "C": "Transverse arytenoid",
+      "D": "Cricothyroid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "Tumor compressing hypoglossal canal will affect which muscle?",
+    "options": {
+      "A": "Stylopharymgeus",
+      "B": "Myelohyoid",
+      "C": "Genioglossus",
+      "D": "Thyroglossus",
+      "E": "Palatoglossal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "A Patient has boil on upper eyelid drained by Emissiory vein. It is dangerous emergency and ophthalmologist will treat it immediately because:",
+    "options": {
+      "A": "Can involve whole eye",
+      "B": "Cause Episcleritis",
+      "C": "Cause Conjunctivitis",
+      "D": "Spread to Cavernous sinus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "A Patient has middle ear infection it is dangerous because it can:",
+    "options": {
+      "A": "Spread to Cavernous sinus",
+      "B": "Involve other ear",
+      "C": "Lead to Dizziness",
+      "D": "Affect cartilage of ear"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Tumor suppressing the anterior surface of SCM. Vessel engorged will be?",
+    "options": {
+      "A": "IJV",
+      "B": "EJV",
+      "C": "Subclavian",
+      "D": "Vagus nerve",
+      "E": "Long thoracic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Phonation occurs due to:",
+    "options": {
+      "A": "Vibration of vocal cords",
+      "B": "Vocal cord abduction",
+      "C": "Occurs only during inspiration",
+      "D": "Occurs only during expirtion",
+      "E": "Occurs during inspiration and expiration"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "52 years old man presented in OPD with unusual facial expressions, halfside of the face was red and absence of sweating what could be the possible cause for this condition:",
+    "options": {
+      "A": "Cervical Sympathetic Chain damage",
+      "B": "Facial nerve damage",
+      "C": "Parasympathetic damage",
+      "D": "Abducent nerve damage",
+      "E": "Lingual nerve damage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "In emergency procedure you are performing tracheostomy which vessel can be injured and cause profuse bleeding?",
+    "options": {
+      "A": "Thyroid ima artery",
+      "B": "Inferior thyroid artery",
+      "C": "Internal IJV",
+      "D": "External IJV",
+      "E": "Subclavian Vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Patient presented with facial nerve palsy and hyperacusis. Nerve damaged at:",
+    "options": {
+      "A": "Stylomastoid foramen",
+      "B": "Middle ear",
+      "C": "Chorda tympani",
+      "D": "Nerve to stapedius",
+      "E": "Foramen spinosum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "A young girl complains of dryness of the nose and the palate. This would indicate a lesion of which of the following ganglia?",
+    "options": {
+      "A": "Nodose ganglion",
+      "B": "Otic ganglion",
+      "C": "Pterygopalatine ganglion",
+      "D": "Submandibular ganglion",
+      "E": "Ciliary ganglion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Location of descent of 2nd pharyngeal arch to epicardial ridge in lower neck:",
+    "options": {
+      "A": "Anterior aspect of neck",
+      "B": "Posterior aspect of neck",
+      "C": "Lateral to SCM muscle",
+      "D": "Lateral in neck anterior to SCM"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "An unmarried female with parotid swelling and no Lymph node enlargement. Which type of biopsy is used for Parotid swelling in this case?",
+    "options": {
+      "A": "Incisional",
+      "B": "Trucut",
+      "C": "Excisional",
+      "D": "Aspirational"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "Blow out fracture of orbit with Proptosis and loss of cheek sensation is due to:",
+    "options": {
+      "A": "Cheek edema",
+      "B": "Zygoma",
+      "C": "Infraorbital nerve damage",
+      "D": "Infraorbital nerve at its formen",
+      "E": "Orbital Floor fracture"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Women during robbing resists. Multiple stab wounds on right side face. She is brought to emergency after primary care. Dr noticed right facial nerve damage. which muscle will be paralyzed?",
+    "options": {
+      "A": "Geniohyoid",
+      "B": "Sternothyroid",
+      "C": "Omohyoid",
+      "D": "Posterior belly of digastric",
+      "E": "Anterior belly of diagastric"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "Newborn oral cavity stone due to:",
+    "options": {
+      "A": "Thyroid arrest",
+      "B": "Parathyroid atrophy",
+      "C": "Dehydration",
+      "D": "Fibrosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "Foramen caecum anteriorly elongates from tongue to the hyoid bone by a diverticulum and Forms Thyroid gland in Adults. That Diverticulum is:",
+    "options": {
+      "A": "Thyroglossal Duct",
+      "B": "Thyroglossal Diverticulum",
+      "C": "Thyroglossal Duct Diverticulum",
+      "D": "Hypoglossal duct",
+      "E": "Laryngeal Diverticulum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "Arch of aorta aneurysm, which of following is affected?",
+    "options": {
+      "A": "External laryngeal nerve",
+      "B": "Internal laryngeal nerve",
+      "C": "Phrenic nerve",
+      "D": "Recurrent laryngeal nerve",
+      "E": "Accessory nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Student with pain in neck on one side is aggregated during exam. Transection of which of the following will relieve pain?",
+    "options": {
+      "A": "C5",
+      "B": "C3",
+      "C": "Spinal accessory nerve",
+      "D": "Phrenic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "There is a mass on dorsum of tongue at the junction of anterior 2/3rd and posterior 1/3rd, which of the following is most likely the origin of tumour?",
+    "options": {
+      "A": "Thyroid",
+      "B": "Ultimobronchial artery",
+      "C": "Thymus",
+      "D": "Parathyroid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "Emmetropic patient with presbyopia has:",
+    "options": {
+      "A": "Increase refractive index",
+      "B": "Decrease Far vision",
+      "C": "Decrease near vision",
+      "D": "Inability to see far objects"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Minor Salivary gland nerve supply is:",
+    "options": {
+      "A": "Glossopharyngeal nerve",
+      "B": "Vagusnerve",
+      "C": "Abducentnerve",
+      "D": "Facialnerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "A patient with Color blindness can'tdifferentiate between red from green this is called:",
+    "options": {
+      "A": "Hemianopia",
+      "B": "Quadrianopia",
+      "C": "Protonopia",
+      "D": "Heteroanopia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Nerve loop around arch of aorta?",
+    "options": {
+      "A": "Left Phrenic nerve",
+      "B": "Right Phrenic nerve",
+      "C": "SVC",
+      "D": "Bracheocephalic vein",
+      "E": "Left recurrent laryngeal nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Which one has Dual nerve supply but not reciprocal?",
+    "options": {
+      "A": "Sweat gland",
+      "B": "Iris",
+      "C": "Thyroid",
+      "D": "Pupil",
+      "E": "Salivary gland"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "A Patient has eyelid dropping and change on one side of face due to which nerve paralysis?",
+    "options": {
+      "A": "Vagus",
+      "B": "Abducent",
+      "C": "Facial",
+      "D": "Trigeminal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "During pharyngeal phase of swallowing what is true:",
+    "options": {
+      "A": "Vocal cords adducted",
+      "B": "Vocal cords abducted",
+      "C": "Larynx moves upward and forward",
+      "D": "Larynx moves downward",
+      "E": "Closure of Epiglotis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "During game boy injured which area of orbit by ball that now there is vertical diplopia and enophthalmos?",
+    "options": {
+      "A": "Apex",
+      "B": "Base",
+      "C": "Roof",
+      "D": "Floor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "Patient with Posterior 1/3rd of tongue carcinoma. What is the lymphatic drainage?",
+    "options": {
+      "A": "Juguloomohyoid",
+      "B": "Digastric",
+      "C": "Submandibular",
+      "D": "Submental"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "Lateral to Pituitary gland lies:",
+    "options": {
+      "A": "Cavernous sinus",
+      "B": "Optic tract",
+      "C": "Optic chiasma",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "Lymphatic drainage of external nose & anterior part of nasal cavity is:",
+    "options": {
+      "A": "Submandibular lymph nodes",
+      "B": "Deep cervical lymph nodes",
+      "C": "Retropharyngeal lymph nodes",
+      "D": "Occipital lymph nodes",
+      "E": "Jugulo omohyoid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "Patient had internal jugular lymph node biopsy in neck region. After that, he developed numbness of earlobe. Which of the following nerve got injured?",
+    "options": {
+      "A": "Greater auricular nerve",
+      "B": "Auriculotemporal nerve",
+      "C": "Recurrent laryngeal nerve",
+      "D": "Vagus nerve",
+      "E": "Lesser auricular nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Eyelid drooping due to head trauma, nerve paralysis likely is:",
+    "options": {
+      "A": "Sympathetic",
+      "B": "Parasympathetic",
+      "C": "T6-7",
+      "D": "Vagus nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "Relation of right vagus nerve with trachea while entering thorax?",
+    "options": {
+      "A": "Direct contact",
+      "B": "Separated by recurrant laryngeal nerve",
+      "C": "Azygos vein",
+      "D": "Separated by phrenic nerve",
+      "E": "Separated by brachiocephalic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Temporalis insertion is on:",
+    "options": {
+      "A": "Mandible Surface",
+      "B": "Angle of mandible",
+      "C": "Coronoid process of mandible",
+      "D": "Undersurface of jaw"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Ligament made by thickening of parotid fascia:",
+    "options": {
+      "A": "Bucco pharyngeal membrane",
+      "B": "Stylomandibular ligament",
+      "C": "Sheno mandibular ligament",
+      "D": "Stylo hyoid ligament"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Edema in retina occurs due to:",
+    "options": {
+      "A": "Myasthenia",
+      "B": "Thyrotoxicosis",
+      "C": "DM",
+      "D": "Atherosclerosis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "Jaw reflex mediated by:",
+    "options": {
+      "A": "CN IV",
+      "B": "CN V",
+      "C": "CN X",
+      "D": "CN IX"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "During near vision, What happens?",
+    "options": {
+      "A": "Spherical diameter of lense increase",
+      "B": "Cilliary muscle constriction",
+      "C": "Vertical diameter increase",
+      "D": "Lense dislocation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Hyper extension of neck is limited by which of following?",
+    "options": {
+      "A": "Ligament nuche",
+      "B": "Ligament flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Posterior longitudinal ligament",
+      "E": "Lateral ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Accomodation of eye is:",
+    "options": {
+      "A": "Involuntary",
+      "B": "Voluntary cerebral reflex",
+      "C": "Involuntary pontine reflex",
+      "D": "Medullary reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Patient with deep wound on scalp, which layer has to be sutured otherwise will cause large gap?",
+    "options": {
+      "A": "Epicranial aponeurosis",
+      "B": "Pericranium",
+      "C": "Loose connective tissue",
+      "D": "Dense veins"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Mucosa of trachea sensory nerve supply is:",
+    "options": {
+      "A": "SLN",
+      "B": "RLN",
+      "C": "Aorta",
+      "D": "Intercostal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Hoarsness of voice due to damage of which of the following nerve?",
+    "options": {
+      "A": "SLN",
+      "B": "RLN",
+      "C": "Vagus nerve",
+      "D": "ILN",
+      "E": "Hypoglossal nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "Floor of Posterior Triangle of Neck is formed by:",
+    "options": {
+      "A": "Cervical fascia",
+      "B": "Prevertebral fascia",
+      "C": "Splenius capitis",
+      "D": "Trapezius"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "Location of superior parathyroid gland:",
+    "options": {
+      "A": "Anterior to RLN caudal to inferior thyroid artery",
+      "B": "Posterior to RLN cranial to inferior thyroid artery",
+      "C": "Anterior to RLN cranial to inferior thyroid artery",
+      "D": "Posterior to RLN caudal to inferior thyroid artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "Which cranial nerve has both afferent and efferent?",
+    "options": {
+      "A": "Abducent",
+      "B": "Hypoglossal",
+      "C": "Optic",
+      "D": "Facial",
+      "E": "Occulomotor"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Rightening reflex in cortex corrects position of:",
+    "options": {
+      "A": "Legs over head",
+      "B": "Body over head",
+      "C": "Head over legs",
+      "D": "Legs over Legs"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "Taste sensation lost after tonsillectomy due to damage of which nerve:",
+    "options": {
+      "A": "Chorda tympani",
+      "B": "Glossopharyngeal",
+      "C": "Vagus",
+      "D": "Trigeminal",
+      "E": "Accessory"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Regarding Thyroid gland relation, True is:",
+    "options": {
+      "A": "Pretracheal fascia posterior",
+      "B": "RLN lateral to gland",
+      "C": "Sternohyoid lateral to gland",
+      "D": "Parathyroid anterior to gland"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "Centrum and neural arch in vertebra joined by:",
+    "options": {
+      "A": "Lamina",
+      "B": "Body",
+      "C": "Pedicle",
+      "D": "Pedicle and body"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "Which vein moves perpendicularly over Sternocleidomastoid and pierces fascia in neck?",
+    "options": {
+      "A": "IJV",
+      "B": "EJV",
+      "C": "Retromandibular vein",
+      "D": "Intercostal vein",
+      "E": "Thoracic vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "Least representation in motor area is of:",
+    "options": {
+      "A": "Finger",
+      "B": "Lips",
+      "C": "Thigh",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "In hanging, Sudden death occurs to fracture of:",
+    "options": {
+      "A": "Atlas vertebra",
+      "B": "Odontoid process of axis",
+      "C": "Transverse process of axis",
+      "D": "Spinous process of axis",
+      "E": "Base of skull"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Location of Brachiocephalic vein:",
+    "options": {
+      "A": "Behind Coracoacromial joint",
+      "B": "Behind Coracoclavicular joint",
+      "C": "Behind sternal end of clavicle",
+      "D": "Behind SCM"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Anterior choroidal artery is a branch of?",
+    "options": {
+      "A": "Anterior cerebral artery",
+      "B": "Posterior cerebral artery",
+      "C": "Internal carotid artery",
+      "D": "Anterior communicating artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "Lymph nodes of lower lip are:",
+    "options": {
+      "A": "Deep cervical",
+      "B": "Sub mental",
+      "C": "Parotid",
+      "D": "Sublingual",
+      "E": "Superficial cervical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "A Patient presented with epistaxis. Bleeding from lateral wall of nose. Artery involved is:",
+    "options": {
+      "A": "Posterior ethmoidal artery",
+      "B": "Sphenopalatine artery",
+      "C": "Inferior labial artery",
+      "D": "Lesser palatine artery",
+      "E": "Anterior Ethmoidal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Which of the following is not affected by some tumour in hypoglossal canal?",
+    "options": {
+      "A": "Genioglossus",
+      "B": "Styloglossus",
+      "C": "Hyoglossus",
+      "D": "Palatoglossus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Optic canal contains which of the following?",
+    "options": {
+      "A": "Ophthalmic vein",
+      "B": "Trigeminal nerve",
+      "C": "Abducent nerve",
+      "D": "Trochlear nerve",
+      "E": "Ophthalmic artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "Lateral wall of cavernous sinus is related to?",
+    "options": {
+      "A": "CN3,4,6,V1,V2",
+      "B": "CN3,4,6,V3",
+      "C": "CN 2,3,4,6",
+      "D": "CN 2,3,5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "A patient develops infection of mastoid. The likely complication is spread of the infection to?",
+    "options": {
+      "A": "Cavernous sinus",
+      "B": "Sigmoid sinus",
+      "C": "Transverse sinus",
+      "D": "Petrosal sinus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "Patient after thyroidectomy developed hoarseness of voice. Examination reveals tense vocal cords. Which of the following is most likely damaged?",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Cricoarytenoid",
+      "C": "Vocalis",
+      "D": "Arytenoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "Opening of mouth done by:",
+    "options": {
+      "A": "Medial pterygoid",
+      "B": "Masseter",
+      "C": "Anterior fibers of temporalis",
+      "D": "Lateral pterygoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Mother noticed swelling below hyoid bone in child first presented when he was 3 year old since than it is increasing. It is:",
+    "options": {
+      "A": "Accessory thymic tissue",
+      "B": "Thyroglossal cyst",
+      "C": "Hyoid cyst",
+      "D": "Accessory thyroid tissue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "Nerve damaged during submandibular gland surgery:",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Hypoglossal nerve",
+      "C": "Mandibular branch of Facial nerve",
+      "D": "Glossophyrengeal nerve",
+      "E": "Inferior alveolar nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 350,
+    "question_text": "Abductor of vocal cord is:",
+    "options": {
+      "A": "Posterior Cricoarytenoid",
+      "B": "Lateral Cricoarytenoid",
+      "C": "Cricothyroid",
+      "D": "Vocalis",
+      "E": "Oblique arytenoid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 351,
+    "question_text": "Closing of mouth done by:",
+    "options": {
+      "A": "Lateral Pterygoid",
+      "B": "Myelohyoid",
+      "C": "Digastric",
+      "D": "Masseter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 352,
+    "question_text": "In an albino, visual acuity has reduced due to decrease melanin in?",
+    "options": {
+      "A": "Cornea",
+      "B": "Iris",
+      "C": "Sclera",
+      "D": "Lens"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 353,
+    "question_text": "A patient in shock became pulseless. Artery palpated by surgeon between trachea and infrahyoid is:",
+    "options": {
+      "A": "Internal carotid",
+      "B": "Common carotid",
+      "C": "Internal jugular vein",
+      "D": "External Carotid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 354,
+    "question_text": "Patient has bleeding problem due to mass on lateral side of sternocleidomastoid muscle which vessel is bleeding?",
+    "options": {
+      "A": "Basilar",
+      "B": "Subclavian",
+      "C": "Maxillary",
+      "D": "Accessory",
+      "E": "ECA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 355,
+    "question_text": "Most common calculi of salivary glands in:",
+    "options": {
+      "A": "Parotid gland calculi",
+      "B": "Warthin duct of submandibular",
+      "C": "Small salivary glands in floor of mouth",
+      "D": "Large salivary gland in roof"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 356,
+    "question_text": "Nerve compression between C5 and C6 compresses which of following?",
+    "options": {
+      "A": "C4",
+      "B": "C5",
+      "C": "C6",
+      "D": "C7",
+      "E": "C3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 357,
+    "question_text": "In strangulation, Which one will be damaged?",
+    "options": {
+      "A": "Thyroid",
+      "B": "Arytenoid",
+      "C": "Epiglotis",
+      "D": "Hyoid",
+      "E": "Cricoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 358,
+    "question_text": "Alcoholic mother having 5 year old child with spider Navi on face, hypoplastic nasal bridge and ptosis defect will be in:",
+    "options": {
+      "A": "Cartilage formation",
+      "B": "Bone formation",
+      "C": "Chondral ossification",
+      "D": "Membranous ossification"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 359,
+    "question_text": "A patient undergoing thyroidectomy at lower lobe develop hoarsness of voice. Nerve injured in vicinity of inferior thyroid artery ligation:",
+    "options": {
+      "A": "External laryngeal nerve",
+      "B": "Internal laryngeal nerve",
+      "C": "Phrenic nerve",
+      "D": "Recurrent laryngeal nerve",
+      "E": "Accessory nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 360,
+    "question_text": "If we cut one side of cervical sympathetic chain, what happens on ipsilateral side?",
+    "options": {
+      "A": "Sweating",
+      "B": "Miosis",
+      "C": "Mydriasis",
+      "D": "Vasodilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 361,
+    "question_text": "Thyroglossal cyst common location is?",
+    "options": {
+      "A": "Above sternum",
+      "B": "Anterior triangle",
+      "C": "Intralingual",
+      "D": "Posterior triangle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 362,
+    "question_text": "Lymph node biopsy from posterior triangle done which structure will be damaged?",
+    "options": {
+      "A": "EJV",
+      "B": "IJV",
+      "C": "Long thoracic nerve",
+      "D": "Accessory nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 363,
+    "question_text": "10 Year old child present with lump on forhead. Mass excised from forehead microscope shows anastomosis of vessels and single layer of endothelium it is most likely:",
+    "options": {
+      "A": "Lipoma",
+      "B": "Hemangioma",
+      "C": "Sarcoma",
+      "D": "Fibroma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 364,
+    "question_text": "Cancer of lower lip drains into which of the following Lymph node?",
+    "options": {
+      "A": "Submandibular",
+      "B": "Submental",
+      "C": "Jugulodigastric",
+      "D": "Juguloomohyoid",
+      "E": "Omohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 365,
+    "question_text": "A surgeon performing thyroidectomy during upper lobe thyroid surgery nerve likely to be damaged in proximity with Superior thyroid artery accidently is:",
+    "options": {
+      "A": "Recurrent laryngeal",
+      "B": "Superior laryngeal nerve",
+      "C": "External laryngeal nerve",
+      "D": "Internal laryngeal nerve",
+      "E": "Phrenic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 366,
+    "question_text": "Nerve supply to cricothyroid is:",
+    "options": {
+      "A": "RLN",
+      "B": "ELN",
+      "C": "SLN",
+      "D": "ILN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 367,
+    "question_text": "Patient has loss of taste sensation at anterior 1/3 of tongue. Lesion at?",
+    "options": {
+      "A": "Facial Canal",
+      "B": "Facial Nucleus",
+      "C": "Internal acoustic meatus",
+      "D": "Parotid gland",
+      "E": "Stylomastoid foramen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 368,
+    "question_text": "Lymph nude biopsy from posterior triangle done which structure will be damaged?",
+    "options": {
+      "A": "EJV",
+      "B": "IJV",
+      "C": "Long thoracic nerve",
+      "D": "Accessory nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 369,
+    "question_text": "A patient was made to taste quinidine the taste sensation carried by:",
+    "options": {
+      "A": "Ventro posterio lateral medial",
+      "B": "Ventro posterio medial",
+      "C": "Medial geniculate body",
+      "D": "Lateral geniculate body"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 370,
+    "question_text": "A person got hit by car from back. Can't move neck at atlantoaxial joint. Which ligament of joint is damaged?",
+    "options": {
+      "A": "Anterior",
+      "B": "Posterior",
+      "C": "Transverse",
+      "D": "Capsule"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 371,
+    "question_text": "After trauma to neck surgeon should compress Transverse process of which cervical rib to stop bleeding from internal carotid artery?",
+    "options": {
+      "A": "3rd",
+      "B": "2nd",
+      "C": "4th",
+      "D": "6th",
+      "E": "7th"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 372,
+    "question_text": "Superior thyroid artery is the branch of which of the following?",
+    "options": {
+      "A": "External Carotid Artery",
+      "B": "Thyrocervical trunk",
+      "C": "Subclavian artery",
+      "D": "Internal carotid artery",
+      "E": "Internal cerebral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 373,
+    "question_text": "Prime flexor of neck is:",
+    "options": {
+      "A": "Scalene medius",
+      "B": "Trapezius",
+      "C": "SCM",
+      "D": "Serratus anterior"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 374,
+    "question_text": "Trigeminal nerve causes which reflex?",
+    "options": {
+      "A": "Accomodation",
+      "B": "Light reflex",
+      "C": "Corneal reflex",
+      "D": "Cerebral reflex"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 375,
+    "question_text": "Gustatory sweating after parotid gland surgery may result from injury to?",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Glossophrangeal nerve",
+      "C": "Auriculotemporal nerve",
+      "D": "Lingual nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 376,
+    "question_text": "Vessel which runs obliquely upward in parotid gland?",
+    "options": {
+      "A": "Facial artery",
+      "B": "Maxillary artery",
+      "C": "Lingual artery",
+      "D": "Occipital artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 377,
+    "question_text": "In sub mandibular triangle which structure along with lingual nerve?",
+    "options": {
+      "A": "Sub mandibular duct",
+      "B": "Maxillary artery",
+      "C": "Facial nerve",
+      "D": "Glosopharyngeal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 378,
+    "question_text": "Which one located anterior to masseter?",
+    "options": {
+      "A": "Temporal artery",
+      "B": "Maxillary artery",
+      "C": "Facial artery",
+      "D": "Lingual artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 379,
+    "question_text": "A young man came he has difficulty in pharyngeal swallowing, which nerve is damaged?",
+    "options": {
+      "A": "II, V, VII, IX",
+      "B": "V, VII, IX, X, XI",
+      "C": "V, VII, IX, X",
+      "D": "IX, X, XI, XII"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 380,
+    "question_text": "Mass in lung or hilum with left vocal cord palsy hoarsness of voice due to:",
+    "options": {
+      "A": "RLN due to Mediastinal lymph node mvolved mass",
+      "B": "Vagus",
+      "C": "Phrenic",
+      "D": "Intercostal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 381,
+    "question_text": "A boxer got blow and Mandibular fracture just before the mandibular foreman will cause?",
+    "options": {
+      "A": "Loss of taste to ant 2/3 of tongue",
+      "B": "Mylohoid muscle unable to stabilize mandible",
+      "C": "Loss of sensation over lower teeth",
+      "D": "Loss of sensation over upper teeth"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 382,
+    "question_text": "Internal auditory canal contains which of these?",
+    "options": {
+      "A": "Glossopharyngeal nerve",
+      "B": "Facial and Vestibular nerve",
+      "C": "Abducent and Trigeminal nerve",
+      "D": "Vagus and facial"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 383,
+    "question_text": "Regarding Central retinal vein:",
+    "options": {
+      "A": "Painless visual loss",
+      "B": "Received thrombus from sigmoid Sinus",
+      "C": "Is connected to cavernous sinus",
+      "D": "Painful visual loss"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 384,
+    "question_text": "The frequency of impulse from utricle?",
+    "options": {
+      "A": "Opposite from opposite ear",
+      "B": "Same as frequency rate of semi circular canal",
+      "C": "Varies with head position",
+      "D": "Increases if person travels at high velocity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 385,
+    "question_text": "A Patient having vesicles on lateral forehead and medial side of eye and ala of nose with severe facial pain and headache, which nerve is involved?",
+    "options": {
+      "A": "Ophthalmic nerve",
+      "B": "Maxillary division of trigeminal nerve",
+      "C": "Facial Nerve",
+      "D": "Nasocilliary",
+      "E": "Trochlear"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 386,
+    "question_text": "The artery which can be palpated under the mandible near the angle of jaw is:",
+    "options": {
+      "A": "Facial",
+      "B": "Lingual",
+      "C": "Maxillary",
+      "D": "Ascending pharyngeal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 387,
+    "question_text": "Both sides lateral pterygoid and anterior belly of diagastric contract or pull leads to:",
+    "options": {
+      "A": "Protrusion of mouth",
+      "B": "Retraction of mouth",
+      "C": "Closing of mouth",
+      "D": "Opening of mouth",
+      "E": "Side to side movements"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 388,
+    "question_text": "Which is true for Tympanic membrane?",
+    "options": {
+      "A": "It forms medial wall of middle ear",
+      "B": "It forms lateral wall of middle ear",
+      "C": "It forms posterior wall of external ear",
+      "D": "It forms both anterior and lateral wall of internal ear"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 389,
+    "question_text": "Aortic arch aneurysm compresses which nerve and causes hoarsness of voice?",
+    "options": {
+      "A": "ILN",
+      "B": "SLN",
+      "C": "RLN",
+      "D": "Hypoglossal nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 390,
+    "question_text": "Regarding internal jugular vein:",
+    "options": {
+      "A": "Starts from car lobule to sternal angle",
+      "B": "Starts from car lobule to manubrium sterni",
+      "C": "Starts from angle of mandible to hyoid bone",
+      "D": "Starts from ear lobule to sternoclavicular joint"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 391,
+    "question_text": "1st cervical nerve supply:",
+    "options": {
+      "A": "Omohyoid",
+      "B": "Geniohyoid",
+      "C": "Platysma",
+      "D": "Serratus anterior"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 392,
+    "question_text": "Middle branch of ECA is:",
+    "options": {
+      "A": "Intermaxillary artery",
+      "B": "External maxillary artery",
+      "C": "Internal jugular vein",
+      "D": "Palatine artery",
+      "E": "Ascending pharyngeal artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 393,
+    "question_text": "Narrowest point in pediatric airway:",
+    "options": {
+      "A": "Cricoid",
+      "B": "Thyroid",
+      "C": "Trachea",
+      "D": "False vocal cord",
+      "E": "True vocal cords"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 394,
+    "question_text": "Hyoid bone derived from:",
+    "options": {
+      "A": "1st pharyngeeal arch",
+      "B": "2nd and 3rd pharyngeal arch",
+      "C": "3rd pharyngeal pouch",
+      "D": "4th pharyngeal pouch"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 395,
+    "question_text": "Enlarged Jugulodigastric lymph node of deep cervical lymph node drains:",
+    "options": {
+      "A": "Palatine tonsil",
+      "B": "Pharyngeal tonsil",
+      "C": "Tubal tonsil",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 396,
+    "question_text": "Most common midline abnormality:",
+    "options": {
+      "A": "Cleft nose",
+      "B": "Cleft ear",
+      "C": "Median cleft lip",
+      "D": "Median cleft lip and cleft nose"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 397,
+    "question_text": "Inferior parathyroid is supplied by:",
+    "options": {
+      "A": "Superior thyroid artery",
+      "B": "Inferior thyroid artery",
+      "C": "Internal laryngeal artery",
+      "D": "Superior laryngeal artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 398,
+    "question_text": "Most medial branch of external carotid artery?",
+    "options": {
+      "A": "Ascending pharyngeal",
+      "B": "Lingual artery",
+      "C": "Facial artery",
+      "D": "Superficial temporal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 399,
+    "question_text": "Receptor for sweet taste at:",
+    "options": {
+      "A": "Anterior two third of tongue",
+      "B": "Tip of tongue",
+      "C": "Lateral tongue",
+      "D": "Posterior tongue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 400,
+    "question_text": "Relation of right vagus nerve with trachea while entering:",
+    "options": {
+      "A": "Direct contact",
+      "B": "Separated by recurrant laryngeal nerve",
+      "C": "Azygos vein",
+      "D": "Separated by phrenic nerve"
+    },
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 401,
+    "question_text": "Mucous membrane lining the eyelid and eye outer surfaces:",
+    "options": {
+      "A": "Iris",
+      "B": "Cornea",
+      "C": "Lensc",
+      "D": "Conjunctiva"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 402,
+    "question_text": "A patient with tip of tongue carcinoma 1st drainage of lymph nodes is:",
+    "options": {
+      "A": "Submental",
+      "B": "Deep cervical",
+      "C": "Superficial cervical",
+      "D": "Juguloomohyoid",
+      "E": "Jugulo Digastric"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 403,
+    "question_text": "Superior pole of thyroid is ligated. Artery supplying this originates from:",
+    "options": {
+      "A": "External Carotid Artery",
+      "B": "Thyrocervical trunk",
+      "C": "Subclavian artery",
+      "D": "Internal carotid artery",
+      "E": "Internal cerebral artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 404,
+    "question_text": "Pituitary adenoma surgery donethrough approach via:",
+    "options": {
+      "A": "Sphenoid",
+      "B": "Cribrifonn plate",
+      "C": "Petrous temporal",
+      "D": "Zygomatic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 405,
+    "question_text": "Source of spread of infection to and fromtip of nose occurs through which of thefollowing:",
+    "options": {
+      "A": "Inferior Ophthalmic vein",
+      "B": "Maxillary vein",
+      "C": "Emissiory veins",
+      "D": "Superior ophthalamic vein"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 406,
+    "question_text": "In Parotid surgery facial nerve cut Muscle affected will be:",
+    "options": {
+      "A": "Levator ocularis",
+      "B": "Buccinator",
+      "C": "Masseter",
+      "D": "Geniohyoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 407,
+    "question_text": "3-years-old child was brought into pediatric emergency with bradycardia, his history revealed that he had swallowed coin 6 days ago, now vomiting, which of the following nerve responsible for stimulation of one of the nerves supplying larynx:",
+    "options": {
+      "A": "Internal laryngeal",
+      "B": "Recurrent laryngeal",
+      "C": "External laryngeal",
+      "D": "Superior laryngeal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 408,
+    "question_text": "After tonsillectomy patient developed Hoarsness of voice due to damage of:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Accessory nerve",
+      "D": "Maxillary nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 409,
+    "question_text": "A patient presented with damage to left cervical chain. Symptom present would be?",
+    "options": {
+      "A": "Left sided Ptosis",
+      "B": "Right sided Ptosis",
+      "C": "Cutaneous flushing",
+      "D": "Mydriasis",
+      "E": "Diplopia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 410,
+    "question_text": "A girl did suicide by gun shot which Fractured and cause Pterion hemorrhage due to involvement of which artery?",
+    "options": {
+      "A": "Middle Meningeal Artery",
+      "B": "Middle Cerebral Artery",
+      "C": "Posterior Cerebral Artery",
+      "D": "Anterior Cerebral Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 411,
+    "question_text": "Diabetic patient presented with decrease visual acuity. Doctor performed retinal laser photocoagulation. It damages?",
+    "options": {
+      "A": "Ganglion layer",
+      "B": "Nerve fiber layer",
+      "C": "Outer Layer of retina",
+      "D": "Photoreceptor Layer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 412,
+    "question_text": "Singers vocals related muscle is which of following:",
+    "options": {
+      "A": "Posterior Cricoarytenoid",
+      "B": "Vocalis",
+      "C": "Cricothyroid",
+      "D": "Thyroarytenoid",
+      "E": "Cricoarytenoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 413,
+    "question_text": "Major depressor of mandible & angle of mouth?",
+    "options": {
+      "A": "Geniohyoid",
+      "B": "Buccinator",
+      "C": "Platysma",
+      "D": "Masseter",
+      "E": "Orbicularis Oris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 414,
+    "question_text": "Tensor Veli Palatini is supplied by:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Mandibular branch of trigeminal nerve.",
+      "C": "Maxillary nerve",
+      "D": "Inferior alveolar nerve",
+      "E": "Occulomotor nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 415,
+    "question_text": "Accumulation of blood due to damage of middle meningeal artery at:",
+    "options": {
+      "A": "Subdural",
+      "B": "Dura and Clavaria",
+      "C": "Subarachnoid and Lia",
+      "D": "Arachnoid and pia",
+      "E": "Pia and brain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 416,
+    "question_text": "Patient is having vertical diplopia and trouble moving downstairs nerve involved will be:",
+    "options": {
+      "A": "CN 6",
+      "B": "CN 2",
+      "C": "CN 4",
+      "D": "CN 8",
+      "E": "CN 3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 417,
+    "question_text": "A patient complains of dryness of eyes. O/E there was decreased secretion of lacrimal gland. The most likely ganglia involved are:",
+    "options": {
+      "A": "Ciliary ganglion",
+      "B": "Optic ganglion",
+      "C": "Pterygo palatine ganglion",
+      "D": "Submandibular ganglion",
+      "E": "Superior cervical ganglion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 418,
+    "question_text": "A young boy, hit by a ball on temporal region, swelling at temporal region occurs. On x ray linear fracture of pariteal bone is seen What's the cause of swelling?",
+    "options": {
+      "A": "Edema due to venous blockage",
+      "B": "Rupture of Middle Meningeal Artery",
+      "C": "Bruising",
+      "D": "Rupture of Anterior Cerebral artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 419,
+    "question_text": "Eyes of a person can't be rotated from adducted position. Which muscle is damaged?",
+    "options": {
+      "A": "Medial Rectus",
+      "B": "Lateral Rectus",
+      "C": "Superior Oblique",
+      "D": "Inferior Oblique"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 420,
+    "question_text": "Boxers hit on the face, temporomandibular joint damaged, now mouth remains in open position, which muscle keeps it in such a way?",
+    "options": {
+      "A": "Lateral Ptyregoid",
+      "B": "Medial Ptyregoid",
+      "C": "Masseter",
+      "D": "Temporalis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 421,
+    "question_text": "Afferent fibres to ciliary ganglion come from:",
+    "options": {
+      "A": "Short cilliary nerves",
+      "B": "Long cilliary nerves",
+      "C": "Lacrimal nerve",
+      "D": "Frontal nerve",
+      "E": "Occulumotor nerve"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 422,
+    "question_text": "Superior laryngeal artery and internal laryngeal nerve passes between:",
+    "options": {
+      "A": "Thyroid and cricoid",
+      "B": "Thyroid and arytenoid",
+      "C": "Hyoid and epiglots",
+      "D": "Thyroid and hyoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 423,
+    "question_text": "Structure inside cervical fascia is:",
+    "options": {
+      "A": "Common carotid artery",
+      "B": "External jugular vein",
+      "C": "Subclavian vein",
+      "D": "Hypoglossal nerve",
+      "E": "Pharynx"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 424,
+    "question_text": "Rotational movements of head by:",
+    "options": {
+      "A": "Contralateral SCM",
+      "B": "B/L SCM",
+      "C": "SCM and scalene anterior",
+      "D": "Trapezius"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 425,
+    "question_text": "Level of accessory nerve in posterior triangle of neck is:",
+    "options": {
+      "A": "At Erbs point",
+      "B": "Below Erbs point",
+      "C": "Above Erbs point",
+      "D": "Medial to Erbs point"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 426,
+    "question_text": "GVA nucleus of vagus nerve:",
+    "options": {
+      "A": "Nucleus solitarius",
+      "B": "Nucleus ambiguous",
+      "C": "Bulbar nucleus",
+      "D": "Accessory nucleus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 427,
+    "question_text": "Status of dehydration in a baby can be assessed by palpation of?",
+    "options": {
+      "A": "Posterior fontanelle",
+      "B": "Lambda",
+      "C": "Bregina",
+      "D": "Sagittal suture",
+      "E": "Pterion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 428,
+    "question_text": "A boy presented with history of Fever, Sorethroat & Diagnosed as a case of Chronic suppurative otitis media. Pus in his middle ear extends to mastoid antrum. Thrombus can form in which of the following dural venous sinuses?",
+    "options": {
+      "A": "Superior Petrosal sinus",
+      "B": "Transverse Sinus",
+      "C": "Cavernous Sinus",
+      "D": "Jugular Bulb",
+      "E": "Sigmoid sinus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 429,
+    "question_text": "A patient presented with Boil of Dangerous area of face. Which one of the following veins transmit this infection from Face to Cavernous sinus?",
+    "options": {
+      "A": "Inferior ophthalmic vein",
+      "B": "Superior ophthalmic vein",
+      "C": "Emissary Vein",
+      "D": "Facial Vein",
+      "E": "Maxillary Vein"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 430,
+    "question_text": "Emissary veins pass through?",
+    "options": {
+      "A": "Foramen Lacerum",
+      "B": "Foramen Rotundum",
+      "C": "Foramen Ovale",
+      "D": "Optic Canal",
+      "E": "Foramen Cecum"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 431,
+    "question_text": "Optic Canal Compression causes involvement of which of the following?",
+    "options": {
+      "A": "Ophthalmic artery",
+      "B": "Ophthalmic vein",
+      "C": "Central retinal artery",
+      "D": "Central retinal vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 432,
+    "question_text": "Blood supply of Lower third of oesophagus:",
+    "options": {
+      "A": "Superior thyroid",
+      "B": "Descending thoracic aorta",
+      "C": "Inferior thyroid",
+      "D": "Left gastric"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 433,
+    "question_text": "Inferior thyroid artery is branch of:",
+    "options": {
+      "A": "Extemal carotid",
+      "B": "Thyrocervical trunk",
+      "C": "Costo cervical trunk",
+      "D": "Internal carotid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 434,
+    "question_text": "Spread of infection to brain is via:",
+    "options": {
+      "A": "Diploic viens",
+      "B": "Emissary veins",
+      "C": "Internal jugular vein",
+      "D": "Petrosal venous sinses",
+      "E": "Dural venous sinuses"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 435,
+    "question_text": "Which nerve is related to left pulmonary artery and arch of aorta?",
+    "options": {
+      "A": "Azygous",
+      "B": "Phrenic",
+      "C": "RLN",
+      "D": "Vagus",
+      "E": "Accessory nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 436,
+    "question_text": "In tonsillectomy which structure should be preserved to prevent hypoparathyroidism:",
+    "options": {
+      "A": "Superior thyroid artery",
+      "B": "Inferior thyroid artery",
+      "C": "Parathyroid artery",
+      "D": "Tonsillar artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 437,
+    "question_text": "Noise induce causes damage to:",
+    "options": {
+      "A": "Organ of corti",
+      "B": "Outer hair cells",
+      "C": "Inner hair cells",
+      "D": "Vestibular cochlea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 438,
+    "question_text": "Loudness is determined by:",
+    "options": {
+      "A": "Active hair cells on organ of corti",
+      "B": "Part of Basilar membrane deflection",
+      "C": "Inactive hair cells on organ of corti",
+      "D": "Oval window deflection"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 439,
+    "question_text": "Scalp layer related to infection /pus:",
+    "options": {
+      "A": "Skin",
+      "B": "Connective tissue",
+      "C": "Aponeurosis",
+      "D": "Loose areolar tissue",
+      "E": "Pericranium"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 440,
+    "question_text": "Injury to greater wing of sphenoid and inferior orbital fissure damages after that patient experiences sensory disturbances in cheek area which nerve is likely damag:",
+    "options": {
+      "A": "Oculomotor",
+      "B": "Trochlear",
+      "C": "Zygomatic",
+      "D": "Lacrimal",
+      "E": "Nasociliary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 441,
+    "question_text": "Facial nerve exit skull via:",
+    "options": {
+      "A": "Stylomastoid foramen",
+      "B": "Stapedius",
+      "C": "Foramen ovale",
+      "D": "Foramen spinosum",
+      "E": "Jugular foramen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 442,
+    "question_text": "A patient developed midline neck swelling which was diagnosed as Thyroid nodule. Structure most likely damaged during FNAC of this thyroid nodule?",
+    "options": {
+      "A": "Superior thyroid artery",
+      "B": "Lingual artery",
+      "C": "Inferior thyroid artery",
+      "D": "External carotid artery",
+      "E": "Sympathetic Trunk"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 443,
+    "question_text": "GVE of Vagus nerve:",
+    "options": {
+      "A": "Hypoglossal nucleus",
+      "B": "Dorsal motor nucleus",
+      "C": "Geniculate ganglion",
+      "D": "Otic capsule",
+      "E": "Nucleus ambiguous"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 444,
+    "question_text": "Which of following muscle of mastication helps in Deep inspiration during yawning and increuse CO?",
+    "options": {
+      "A": "Medial pterygoid",
+      "B": "Lateral pterygoid",
+      "C": "Masseter",
+      "D": "Supraspinator",
+      "E": "Buccinator"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 445,
+    "question_text": "Doctor checking the pulse of which artery between infra hyoid and SCM?",
+    "options": {
+      "A": "Common carotid artery",
+      "B": "Internal carotid artery",
+      "C": "External carotid artery",
+      "D": "Subclavian Artery",
+      "E": "Inferior Thyroid artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 446,
+    "question_text": "A patient with lipoma on posterior aspect of Sternocleidomastoid, 4 cm posterior in relation to clavicle. Which structure ligated leading to profuse bleeding?",
+    "options": {
+      "A": "External jugular vien",
+      "B": "Internal jugular vien",
+      "C": "Thyrocervical trunk",
+      "D": "2nd part of subclavian artery"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 447,
+    "question_text": "Crista galis is extension of which bone:",
+    "options": {
+      "A": "Sphenoid",
+      "B": "Zygomatic",
+      "C": "Ethmoid",
+      "D": "Maxilla"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 448,
+    "question_text": "Sella turcica part of which bone:",
+    "options": {
+      "A": "Sphenoid",
+      "B": "Zygomatic",
+      "C": "Ethmoid",
+      "D": "Nasal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 449,
+    "question_text": "Patient with epiphoa negative jones1 jones 2 flourescent test what will be next plan:",
+    "options": {
+      "A": "Probing",
+      "B": "Syringing",
+      "C": "Schirmer test",
+      "D": "Tear film breakup time",
+      "E": "Immunoassay of tears"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 450,
+    "question_text": "A patient has diplopia. eye is adducted and cannot bring back to normal position, most likely damage is:",
+    "options": {
+      "A": "Medial rectus muscle",
+      "B": "Lateral rectus muscle",
+      "C": "Superior oblique muscle",
+      "D": "Inferior oblique muscle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 451,
+    "question_text": "A patient comes to you with diplopia and internal strabismus (medial squint) loss of parallel gaze, nerve affected will he:",
+    "options": {
+      "A": "Trochlear",
+      "B": "Abducent",
+      "C": "Oculomotor",
+      "D": "Trigeminal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 452,
+    "question_text": "Hyper flexion of neck is limited by which of following?",
+    "options": {
+      "A": "Ligamentum nuchae",
+      "B": "Ligament flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Posterior longitudinal ligament",
+      "E": "Lateral ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 453,
+    "question_text": "In Hyper flexion of neck ligament injured is which of following?",
+    "options": {
+      "A": "Ligamentum nuchae",
+      "B": "Ligament flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Posterior longitudinal ligament",
+      "E": "Lateral ligament"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 454,
+    "question_text": "Muscle of mastication not supplied by mandibular nerve?",
+    "options": {
+      "A": "Lateral pterygoid",
+      "B": "Med pterygoid",
+      "C": "Massetor",
+      "D": "Digastric"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 455,
+    "question_text": "Nerve damage during submandibular gland surgery:",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Hypoglossal nerve",
+      "C": "Lingual nerve",
+      "D": "Glossophyrengeal nerve",
+      "E": "Inferior alveolar nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 456,
+    "question_text": "A patient with Long history of Headache with increase on tilting forward and yellow nasal discharge due to?",
+    "options": {
+      "A": "Chronic sinusitis",
+      "B": "Nasal polyp",
+      "C": "Acute sinusitis",
+      "D": "Allergic Rhinitis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 457,
+    "question_text": "Movement of brain with skull limited by:",
+    "options": {
+      "A": "Falx cerebri",
+      "B": "Tentorium cerebelli",
+      "C": "Vessels",
+      "D": "Sinus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 458,
+    "question_text": "Stylomastoid Canal contains:",
+    "options": {
+      "A": "Facial Nerve",
+      "B": "Stylomastoid Artery",
+      "C": "Glossopharyngeal Nerve",
+      "D": "Facial Artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 459,
+    "question_text": "Patinet can't abduct eye then excess abduction, Palpeberal elevation a ridiculous sign of extra ocular muscles:",
+    "options": {
+      "A": "Mizuo sign",
+      "B": "Marcus Gunn Pupil",
+      "C": "Kocher sign",
+      "D": "Von graefe sign"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 460,
+    "question_text": "Blow out fracture of orbit with Proptosi and loss of cheek sensation it's due to:",
+    "options": {
+      "A": "Cheek edema",
+      "B": "Zygomatic bone fracture",
+      "C": "Infraorbital nerve damage",
+      "D": "Infraorbital nerve entrapment at its formen",
+      "E": "Orbital Floor fracture"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 461,
+    "question_text": "Crista falciformis is a bony projection that separates:",
+    "options": {
+      "A": "Facial nerve from inferior vestibular nerve",
+      "B": "Vestibular nerve from cochlear nerve",
+      "C": "Stapedius muscle from chorda tympani",
+      "D": "Chorda tympani from cochlear nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 462,
+    "question_text": "A patient presented with complaint of facial tingling, drooling saliva. Lesion is located at:",
+    "options": {
+      "A": "Cerebellopontine Angle",
+      "B": "Medulla",
+      "C": "Primary motor area",
+      "D": "Jugular foramen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 463,
+    "question_text": "Structure passing through Foramen Rotundum:",
+    "options": {
+      "A": "Maxillary nerve",
+      "B": "Mandibular nerve",
+      "C": "Accessory nerve",
+      "D": "Ophthalmic nerve",
+      "E": "Oculomotor nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 464,
+    "question_text": "Optic nerve Carries signals to Brain which are transmitted by the following Nuclues:",
+    "options": {
+      "A": "Somatic Afferent",
+      "B": "Somatic visceral Efferent",
+      "C": "Visceral Somatic Efferent",
+      "D": "Special Visceral Efferent",
+      "E": "Special Somatic Afferent"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 465,
+    "question_text": "Nerve supplying Mylohyoid is same as which of the following other muscle?",
+    "options": {
+      "A": "Anterior belly of digastric",
+      "B": "Posterior belly of digastric",
+      "C": "Stylohyoid",
+      "D": "Omohyoid",
+      "E": "Sternothyroid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 466,
+    "question_text": "A pregnant lady was presented in ER with raised bp. Methyldopa was given. What is the mechanism of action of methyldopa?",
+    "options": {
+      "A": "Blocks Neurotransmitter",
+      "B": "Block Sympathetic CNS",
+      "C": "Acts on central alpha 2 receptors",
+      "D": "Direct relaxation of Arteriolar smooth muscle",
+      "E": "Stimulation of Adrenergic ending at postganglionic fibers"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 467,
+    "question_text": "Tumor of pituitary gland spreads to which bony structure?",
+    "options": {
+      "A": "Frontal",
+      "B": "Maxillary",
+      "C": "Orbital",
+      "D": "Sphenoid",
+      "E": "Temporal"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 468,
+    "question_text": "Hyper extension of neck is limited by which of following?",
+    "options": {
+      "A": "Ligament nuche",
+      "B": "Ligament flavum",
+      "C": "Anterior longitudinal ligament",
+      "D": "Posterior longitudinal ligament",
+      "E": "Lateral ligament"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 469,
+    "question_text": "Boxers hit on the face, temporomandibular joint damaged, now mouth remains in open position, which muscle keeps it in such a way?",
+    "options": {
+      "A": "Lateral Ptyregoid",
+      "B": "Medial Ptyregoid",
+      "C": "Masseter",
+      "D": "Temporalis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 470,
+    "question_text": "Patient has tinnitus, facial muscle Paralysis & Hearing loss. Where is the lesion?",
+    "options": {
+      "A": "Stylomastoid foramen",
+      "B": "Internal acoustic meatus",
+      "C": "Near nerve to stapedius",
+      "D": "Cerebellopontine Angle"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 471,
+    "question_text": "Sphenoid bone artery:",
+    "options": {
+      "A": "Ophthalmic vein",
+      "B": "Internal carotid artery",
+      "C": "Abducent nerve",
+      "D": "Trochlear nerve",
+      "E": "Ophthalmic artery"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 472,
+    "question_text": "Most common function of \"TRIGEMINAL NERVE\":",
+    "options": {
+      "A": "Light reflex",
+      "B": "Corneal reflex",
+      "C": "Gag reflex",
+      "D": "Accommodative reflex"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 473,
+    "question_text": "Patient presented with eye swelling and acne on nose also severe headache. Most likely related to?",
+    "options": {
+      "A": "Cavernous sinus",
+      "B": "3rd nerve",
+      "C": "6th nerve",
+      "D": "9th nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 474,
+    "question_text": "Which of the following structures is supplied by the recurrent laryngeal nerve?",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Intrinsic muscles of the larynx",
+      "C": "Epiglottis",
+      "D": "Subglottis",
+      "E": "Thyroid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 475,
+    "question_text": "A soldier who was frequently exposed to noisy environments now presents with complaints of deafness. Which structure is most likely damaged due to prolonged noise exposure?",
+    "options": {
+      "A": "Outer hair cells",
+      "B": "Inner hair cells",
+      "C": "Organ of Corti",
+      "D": "Basilar membrane",
+      "E": "Cochlear nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 476,
+    "question_text": "A female with a history of being hit by a ball to the lower orbital cavity now presents with numbness in her cheek. Which nerve is most likely injured?",
+    "options": {
+      "A": "Superior orbital nerve",
+      "B": "Inferior orbital nerve",
+      "C": "Zygomatic nerve",
+      "D": "Infraorbital nerve",
+      "E": "Mandibular nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 477,
+    "question_text": "Which of the following muscles is innervated by the first cervical nerve (CI)?",
+    "options": {
+      "A": "Mylohyoid",
+      "B": "Platysma",
+      "C": "Massetor",
+      "D": "Geniohyoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 478,
+    "question_text": "Which of the following is involved in the innervation of the oro- and nasopharynx?",
+    "options": {
+      "A": "Glossopharyngeal and Trigeminal",
+      "B": "Facial and Trigeminal",
+      "C": "Vagus and Facial",
+      "D": "Maxillary and Hypoglossal",
+      "E": "Glossopharyngeal and Vagus"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 479,
+    "question_text": "To avoid the bitter taste of quinine, which part of the tongue should be prevented from contacting the substance?",
+    "options": {
+      "A": "Anterior",
+      "B": "Posterior",
+      "C": "Tip",
+      "D": "Lateral"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 480,
+    "question_text": "Infection of danger area of face spread to which of following?",
+    "options": {
+      "A": "Pons",
+      "B": "Midbrain",
+      "C": "Cavernous sinus",
+      "D": "Ethmoidal sinus",
+      "E": "Pituitary"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 481,
+    "question_text": "In the posterior triangle of the neck, where can the accessory nerve be palpated?",
+    "options": {
+      "A": "At Erb's point",
+      "B": "Below 2 cm from Erb's point",
+      "C": "Above 2 cm from Erb's point",
+      "D": "At the midpoint of the stemocleidomastoid muscle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 482,
+    "question_text": "Which nerve carries the sensory innervation of the dura mater?",
+    "options": {
+      "A": "Trigeminal",
+      "B": "Facial",
+      "C": "Glossopharyngeal",
+      "D": "Vagus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 483,
+    "question_text": "A boxer hit on mouth of a person who is unable to open mouth and do protrusion of jaw which muscle is damage?",
+    "options": {
+      "A": "Masseter",
+      "B": "Temporalis",
+      "C": "Medial pterygoid",
+      "D": "Lateral pterygoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 484,
+    "question_text": "A women with history of tongue bite. sensations lost from the area of tongue bite due to damage of:",
+    "options": {
+      "A": "Maxillary nerve",
+      "B": "Lingual nerve",
+      "C": "Corda tympani",
+      "D": "Facial nerve",
+      "E": "Vagus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 485,
+    "question_text": "Patient during eating, increased lacrimation. which nerve involved?",
+    "options": {
+      "A": "Facial",
+      "B": "Vagus",
+      "C": "Glossopharyngeal",
+      "D": "Accessory nerve",
+      "E": "Hypoglossal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 486,
+    "question_text": "A woman develops gaze disturbance. On looking to the right her right eye remains in the middle and also decrease corneal sensations. She also has hearing loss on the right side. Lesion is at:",
+    "options": {
+      "A": "Rolandic fissure",
+      "B": "Cerebellopontine angle",
+      "C": "Medulla",
+      "D": "Temporal lobe",
+      "E": "Internal auditory meatus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 487,
+    "question_text": "Patient reports loss of sensation from the chin down to the supraclavicular region. Which cervical nerve roots are most likely involved in this sensory loss?",
+    "options": {
+      "A": "C1-2",
+      "B": "C2-3",
+      "C": "C3-4",
+      "D": "C5-6",
+      "E": "C6-T1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 488,
+    "question_text": "A 45 years old pt came with sudden onset of facial weakness on examination her taste sensation is lost and unable to move her eyes laterally where does the lesion lies:",
+    "options": {
+      "A": "Pons",
+      "B": "Medulla",
+      "C": "Midbrain",
+      "D": "Spinal cord",
+      "E": "Cerebellum"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 489,
+    "question_text": "Palpation of artery at TMJ is:",
+    "options": {
+      "A": "Temporal artery",
+      "B": "Maxillary artery",
+      "C": "Facial artery",
+      "D": "Lingual artery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 490,
+    "question_text": "Which of following structure pass through foramen ovale?",
+    "options": {
+      "A": "Mandibular nerve",
+      "B": "Maxillary Division of trigeminal",
+      "C": "Ophthalmic nerve",
+      "D": "Lingual nerve",
+      "E": "Middle meningeal artery"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 491,
+    "question_text": "Women during robbing resist multiple stab wound on rt side face brought to emergency after primary care dr notice right facial nerve damage which muscle will be paralyzed:",
+    "options": {
+      "A": "Geno hyoid",
+      "B": "Sterno throid",
+      "C": "Omo hyoid",
+      "D": "Posterior belly of digastric",
+      "E": "Anterior belly of diagastric"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 492,
+    "question_text": "Furunculosis on tip of nose spread to cavernous sinuses via:",
+    "options": {
+      "A": "Inferior Opthalmic vein",
+      "B": "Maxillary vein",
+      "C": "Emissiory veins",
+      "D": "Mandibular vein",
+      "E": "Superior opthalmic vein"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 493,
+    "question_text": "Superfascial sheath of Anterior Surface of Thyroid is derived from:",
+    "options": {
+      "A": "Prevertebral fascia",
+      "B": "Pretracheal fascia",
+      "C": "Subcutaneous fat",
+      "D": "Muscles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 494,
+    "question_text": "Loss of general sensation in dura of middle cranial fossa due to lesion of:",
+    "options": {
+      "A": "Facial Nerve",
+      "B": "Glossopharyngeal Nerve",
+      "C": "Hypoglossal Nerve",
+      "D": "Trigeminal Nerve",
+      "E": "Vagus Nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 495,
+    "question_text": "Abducent nerve damage will cause:",
+    "options": {
+      "A": "Loss of upward gaze and adduction",
+      "B": "Loss of downward gaze and abduction",
+      "C": "Loss of downward gaze and adduction",
+      "D": "Loss of lateral gaze"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 496,
+    "question_text": "Sympathetic nerves are located in which part of Spinal Cord?",
+    "options": {
+      "A": "Lateral horn",
+      "B": "Posterior born",
+      "C": "White matter",
+      "D": "Gray matter",
+      "E": "Anterior horn"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 497,
+    "question_text": "Foramen which opens into Infratemporal fossa:",
+    "options": {
+      "A": "Foramen Cecum",
+      "B": "Foramen Lacerum",
+      "C": "Stylomastoid Foramen",
+      "D": "Sphenopalatine Foramen",
+      "E": "Foramen Vesculis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 498,
+    "question_text": "Lymphatic drainage of Anterior face and scalp?",
+    "options": {
+      "A": "Submental nodes",
+      "B": "Parotid nodes",
+      "C": "Submandibular nodes",
+      "D": "Occipital Nodes",
+      "E": "Buccal"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 499,
+    "question_text": "Which nerve pass through Foramen Ovale:",
+    "options": {
+      "A": "Maxillary",
+      "B": "Opthalmic",
+      "C": "Facial",
+      "D": "Glosopharyngeal",
+      "E": "Mandibular"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 500,
+    "question_text": "A man presents with pain radiating from the nose to the inferior orbit and temporal region. Which nerve is most likely involved?",
+    "options": {
+      "A": "Auricular Nerve",
+      "B": "Maxillary division of Trigeminal nerve",
+      "C": "Ophthalmic Nerve",
+      "D": "Nasociliary Nerve",
+      "E": "Trochlear Nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 501,
+    "question_text": "Years old kid, Restless & not being able to sleep has been crying continuously. He is pulling his ear. On otoscopy, bulge seen beyond ear drum. Nerve supply of that bulge?",
+    "options": {
+      "A": "Glossopharyngeal nerve",
+      "B": "Facial nerve",
+      "C": "Vestibulocochlear nerve",
+      "D": "Maxillary",
+      "E": "Mandibular"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 502,
+    "question_text": "A patient with History of Recurrent Otitis Media.How will surgeon reach mastoid antrum in this case?",
+    "options": {
+      "A": "External auditory meatus",
+      "B": "Suprameatal Triangle",
+      "C": "Maxillary Arch",
+      "D": "Sigmoid Sinus",
+      "E": "Superior Petrosal sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 503,
+    "question_text": "Approach to Ear in chronic otitis media:",
+    "options": {
+      "A": "Suprameatal triangle",
+      "B": "External acoustic meatus",
+      "C": "Internal acoustic meatus",
+      "D": "Inframeatal triangle"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 504,
+    "question_text": "A diabetic patient with decreased vision visited an ophthalmologist and underwent laser photocoagulation to prevent further damage. On examination via ophthalmoscope, which area has been affected?",
+    "options": {
+      "A": "Macula densa",
+      "B": "Retina",
+      "C": "Cornea",
+      "D": "Fovea Centralis",
+      "E": "Lens"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 505,
+    "question_text": "Normal Suboccipito-Bregmatic Diameter:",
+    "options": {
+      "A": "9.5cm",
+      "B": "11cm",
+      "C": "13cm",
+      "D": "11.5cm",
+      "E": "14cm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 506,
+    "question_text": "Volume of Mucous Flow Rate per minute in nasolacrimal duct:",
+    "options": {
+      "A": "6ml/min",
+      "B": "12ml/min",
+      "C": "3ml/min",
+      "D": "7ml/min",
+      "E": "20ml/min"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 507,
+    "question_text": "A patient presents with right-sided facial palsy, characterized by mouth deviation to the left, drooling of saliva from the right side, right-sided ear pain, and drooping of the right eyelid. There is no ataxia or motor weakness in the extremities. Where is the lesion located?",
+    "options": {
+      "A": "Supra Nuclear lesion",
+      "B": "Infra Nuclear lesion",
+      "C": "Pterygopalatine lesion",
+      "D": "Geniculate Ganglion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 508,
+    "question_text": "An unmarried woman presents with a preauricular parotid swelling without fever, cough, ear infection, or cervical lymphadenopathy. What is the next appropriate step in management?",
+    "options": {
+      "A": "Excisional biopsy",
+      "B": "Incisional biopsy",
+      "C": "FNAC (Fine Needle Aspiration Cytology)",
+      "D": "Aspirational biopsy",
+      "E": "True cut biopsy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 509,
+    "question_text": "Which cranial nerve carries taste sensations (e.g., sugar) from the anterior two-thirds of the tongue?",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Vagus nerve",
+      "D": "Trigeminal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 510,
+    "question_text": "A patient presented with deep skull wound, surgeon should be careful in suturing which layer that if properly not sutured leave behind large gap and also involve in granulation tissue formation:",
+    "options": {
+      "A": "Skin",
+      "B": "Fascia",
+      "C": "Loose areolar tissue",
+      "D": "Aponeurosis",
+      "E": "Periosteum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 511,
+    "question_text": "A child can't close his lips due to damage to:",
+    "options": {
+      "A": "Orbicularis Oculi",
+      "B": "Orbicularis Oris",
+      "C": "Levator Palpebrae",
+      "D": "Masseter",
+      "E": "Lateral Pterygoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 512,
+    "question_text": "Skin of face is supplied by:",
+    "options": {
+      "A": "5, 7, 9, 10",
+      "B": "4, 5, 7",
+      "C": "5, 6, 7",
+      "D": "3, 4, 5",
+      "E": "3, 4, 5, 6"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 513,
+    "question_text": "Which unpaired cartilage is affected in laryngeal Carcinoma?",
+    "options": {
+      "A": "Thyroid cartilage",
+      "B": "Arytenoid Cartilage",
+      "C": "Cuneiform Cartilage",
+      "D": "Corniculate Cartilage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 514,
+    "question_text": "Clicking sound at TMJ due to which of the following:",
+    "options": {
+      "A": "Detached Perforated menicus",
+      "B": "Meniscal tear",
+      "C": "Osteophytes",
+      "D": "Dislocation of TMJ",
+      "E": "Rheumatoid arthritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 515,
+    "question_text": "A female patient has deliver bahy with face presentation which of the following is skull diameter of face presentation:",
+    "options": {
+      "A": "Suboccipito-bregmatic",
+      "B": "submento-bregmatic",
+      "C": "Mentovertical",
+      "D": "suboccipito-frontal",
+      "E": "Occipitio-frontal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 516,
+    "question_text": "Cell bodies of Greater petrosal nerve are prcscnt in:",
+    "options": {
+      "A": "Superficial cervical ganglion",
+      "B": "Submandibular ganglion",
+      "C": "Geniculate ganglion",
+      "D": "Superior salivary nucleus"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 517,
+    "question_text": "Lymphatic drainage of the ear pinna and forehead involves which of the following lymph nodes:",
+    "options": {
+      "A": "Preauricular and submandicbular lymph nodes",
+      "B": "Preauricular and postauricular lymph nodes",
+      "C": "Submandibular and cervical lymph nodes",
+      "D": "Postauricular and supraclavicular lymph nodes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 518,
+    "question_text": "Afferents of cough reflex from trachea carried via:",
+    "options": {
+      "A": "Vagus nerve",
+      "B": "Glossopharyngeal nerve",
+      "C": "Phrenic nerve",
+      "D": "Trigeminal nerve",
+      "E": "Hypoglossal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 519,
+    "question_text": "Attachment of meningeal dura can be ruptured due to fracture of:",
+    "options": {
+      "A": "Squamous part of frontal bone",
+      "B": "Frontal crest",
+      "C": "Orbital plate of frontal bone",
+      "D": "Crista gallis",
+      "E": "Cribrifonn plate of ethmoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 520,
+    "question_text": "Which of the following nerve give the motor supply to the tongue:",
+    "options": {
+      "A": "Chorta tympni",
+      "B": "Lingual nerve",
+      "C": "Trigeminal nerve",
+      "D": "Hypoglossal nerve",
+      "E": "Facial nerve"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 521,
+    "question_text": "A 17-year-old boy presented with epistaxis and nasopharyngeal angiofibroma. Surgeon decided to ligate the culprit blood vessel, which vessel is this?",
+    "options": {
+      "A": "Anterior ethmoidal artery",
+      "B": "External maxillary artery",
+      "C": "Posterior Ethmoidal artery",
+      "D": "Sphenopalatine artery",
+      "E": "Ascending pharyngeal artery"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 522,
+    "question_text": "Two days ago in medical school a boy performed two songs in annual function today he presented with hoarseness of voice. Direct laryngoscopy showed \"ON ADDUCTION BOWING OF VOCAL CORDS\" which muscle is involved here?",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Thyroarytenoid",
+      "C": "Lateral thyroarterinoid",
+      "D": "Vocalis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 523,
+    "question_text": "Patient is having Left sided Visual field defect in upper lateral area due to damage to?",
+    "options": {
+      "A": "Left temporal Meyer's loop",
+      "B": "Right temporal Meyer's loop",
+      "C": "Right dorsal radiation at Parietal lobe",
+      "D": "Left dorsal radiation at Parietal lobe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 524,
+    "question_text": "A thyroid false capsule is derived from which of the following:",
+    "options": {
+      "A": "Carotid sheath",
+      "B": "Investing layer of the deep cervical fascia",
+      "C": "Pretracheal fascia",
+      "D": "Prevertebral fascia",
+      "E": "Condensation of connective tissue"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 525,
+    "question_text": "A Patient presents in OPD after face injuring during boxing now on examination patient cannot whistle ,unable to close eye ,cannot smile which of the following nerve is injured:",
+    "options": {
+      "A": "Facial nerve",
+      "B": "Vagus nerve",
+      "C": "Maxillary nerve",
+      "D": "Mandibular nerve",
+      "E": "Occulomotor nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 526,
+    "question_text": "A female gynaecologist was taking the class of students about the position of the pelvis she asked what is the diameter of Submentobregmatic diameter:",
+    "options": {
+      "A": "10.5cm",
+      "B": "9.5cm",
+      "C": "11.5cm",
+      "D": "13.5cm",
+      "E": "10cm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 527,
+    "question_text": "Palatine tonsil drains by:",
+    "options": {
+      "A": "Pharyngeal lymph nodes",
+      "B": "Reteropharyngeal lymph nodes",
+      "C": "Juglodigastric lymph nodes",
+      "D": "Omohyoid lymph nodes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 528,
+    "question_text": "A male patient was presented with sudden Diplopia and eye pain on examination eye is abducted and down position Which of the following should be done:",
+    "options": {
+      "A": "B scan",
+      "B": "MRI",
+      "C": "CT scan",
+      "D": "Xray"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 529,
+    "question_text": "A diabetic female female patient present with swelling on back of her neck on examination there was multiple pus draining sinuses which of the following is your diagnosis:",
+    "options": {
+      "A": "Fruncle",
+      "B": "Carbuncle",
+      "C": "Lipoma",
+      "D": "Fistula"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 530,
+    "question_text": "A 30 year old male patient present with zygomatic bone fracture now in which direction fractured zygomatic bone will displaced:",
+    "options": {
+      "A": "Downward into maxillary bone",
+      "B": "Horizontal into maxillary bone",
+      "C": "Medial to nasal cavity",
+      "D": "Upward into orbital cavity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 531,
+    "question_text": "The submandibular gland located in submandibular triangle which of the following correctly describes its boundaries:",
+    "options": {
+      "A": "Posterior belly of digastric, anterior belly of diagastric , and midline of the neck",
+      "B": "Anterior belly of digastric, Posterior belly of digastric and hyoid bone",
+      "C": "Posterior belly of digastric, Anterior belly of digastric and inferior border of mandible",
+      "D": "Posterior belly of digastric, sternocleomastoid and mid line of neck"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 532,
+    "question_text": "A truck driver slept near an open window and later presented with the inability to taste, Loss of Nasolabial fold, Forehead wrinkling an expressionless appearance on half of his face, and was diagnosed with Bell's Palsy. Which Nucleus is most likely damaged?",
+    "options": {
+      "A": "Facial Motor Nucleus",
+      "B": "Lingual nerve",
+      "C": "Trigeminal Nerve Nasociliary Nucleus",
+      "D": "Hypoglossal Nucleus",
+      "E": "Nucleus Solitarius"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 533,
+    "question_text": "A patient presents with the following findings: Rinne test is negative in the right ear and positive in the left ear. The Weber test lateralizes to the left ear. What is the most likely diagnosis?",
+    "options": {
+      "A": "Conductive hearing loss left ear",
+      "B": "Conductive hearing loss right ear",
+      "C": "Sensorineural hearing loss right",
+      "D": "Sensorineural hearing loss left ear"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 534,
+    "question_text": "A man develops sudden-onset diplopia, painful ptosis and his eye is turned downward and outward. What is the most appropriate initial investigation?",
+    "options": {
+      "A": "CT brain and orbit",
+      "B": "Brain scan",
+      "C": "MRI brain and orbit",
+      "D": "X-ray orbit"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 535,
+    "question_text": "To which bony projection on temporal bone behind the Ear?",
+    "options": {
+      "A": "Mastoid Process",
+      "B": "Petrous Part",
+      "C": "Styloid process",
+      "D": "Tympanic Part",
+      "E": "Occipital Protuberance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 536,
+    "question_text": "Which of the following structure prevent the condyloid process of the TMJ from going back into its cavity:",
+    "options": {
+      "A": "Articular Disc",
+      "B": "Stylomandibular Ligament",
+      "C": "Pterygomandibular ligament",
+      "D": "Capsule of TMJ",
+      "E": "Lateral part of temporomandibular ligament"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 537,
+    "question_text": "Trigeminal nerve is damaged which reflex is most probably lost:",
+    "options": {
+      "A": "Corneal Reflex",
+      "B": "Accommodation Reflex",
+      "C": "Light Reflex",
+      "D": "knee Reflex",
+      "E": "Ankle reflex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 538,
+    "question_text": "Nerve supply of Sternohyoid Muscle:",
+    "options": {
+      "A": "Ansa Cervicalis",
+      "B": "C2",
+      "C": "C3",
+      "D": "Facial Nerve",
+      "E": "Glossopharyngeal nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 539,
+    "question_text": "Which structure passes through the mandibular canal:",
+    "options": {
+      "A": "Inferior alveolar nerve",
+      "B": "Maxillary nerve",
+      "C": "Mandibular nerve",
+      "D": "Lingual artery",
+      "E": "Mylohyoid nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 540,
+    "question_text": "The submandibular gland located in submandibular triangle which of the following correctly describes its boundaries:",
+    "options": {
+      "A": "Posterior belly of digastric, anterior belly of diagastric, and midline of the neck",
+      "B": "Anterior belly of digastric, Posterior belly of digastric and hyoid bone",
+      "C": "Posterior belly of digastric, Anterior belly of digastric and inferior border of mandible",
+      "D": "Posterior belly of digastric, stemocleomastoid and midline of neck"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 541,
+    "question_text": "A patient presented with complain of unilateral mouth deviation. O/E, he is unable to fill air in cheeks & Unable to close eyes. Nerve involved in Bell's palsy:",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 542,
+    "question_text": "A 60 years old patient presents with B/L nasal obstruction, blood-streaked nasal discharge, and palpable lymph nodes in the neck. What is the most likely diagnosis?",
+    "options": {
+      "A": "Nasopharyngeal carcinoma",
+      "B": "Nasopharyngeal angiofibroma",
+      "C": "Nasal Polyp",
+      "D": "DNS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 543,
+    "question_text": "During Diving, The diver suddenly got Deafness due to?",
+    "options": {
+      "A": "Negative Tympanic Pressure leading to hemotympanum",
+      "B": "Rupture of TM",
+      "C": "Disruption of Ossicles",
+      "D": "Enlarge ossicles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 544,
+    "question_text": "The inion is the part of which bone:",
+    "options": {
+      "A": "Highest part of external occipit",
+      "B": "Highest part of internal occipit",
+      "C": "Bregma",
+      "D": "Parietal bone",
+      "E": "Temporal bone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 545,
+    "question_text": "After RTA patient presents with dilated pupil which of the following nerve is injured:",
+    "options": {
+      "A": "Opthalmic division of trigeminal nerve",
+      "B": "Optic nerve",
+      "C": "Occulomotor nerve",
+      "D": "Facial nerve",
+      "E": "Sympathetic nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 546,
+    "question_text": "Which of the following structures is involved in damage of foramen lacerum:",
+    "options": {
+      "A": "Greater wing of sphenoid",
+      "B": "Lesser wing of sphenoid",
+      "C": "Body of sphenoid",
+      "D": "Squamous part of temporal bone"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 547,
+    "question_text": "An infection on the lateral check can spread to middle cranial fossa through:",
+    "options": {
+      "A": "Pterygoid venous plexus",
+      "B": "Middle meningeal vessels",
+      "C": "Inferior opthalmic vein",
+      "D": "Emissary vein",
+      "E": "Superior ophthalmic vein"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 548,
+    "question_text": "General visceral efferent of vagus carried by?",
+    "options": {
+      "A": "Dorsal motor nucleus",
+      "B": "Nucleus ambiguus",
+      "C": "Hypoglossal nucleus",
+      "D": "Geniculate Ganglion",
+      "E": "Otic capsule"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 549,
+    "question_text": "Nerve supply of soft palate, palatine tonsils, Uvula and pharynx:",
+    "options": {
+      "A": "Glossopharyngeal nerve",
+      "B": "Vagus nerve",
+      "C": "Trigeminal nerve",
+      "D": "Mandibular nerve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 550,
+    "question_text": "Pain in 3rd molar teeth, left side of the tongue and carried by?",
+    "options": {
+      "A": "Lingual nerve",
+      "B": "Buccal nerve",
+      "C": "Inferior alveolar nerve",
+      "D": "Facial Nerve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 551,
+    "question_text": "A young girl is found to have a fixed, dilated pupil. Which nerve is most likely affected?(Medicine Feb 2025)",
+    "options": {
+      "A": "Sympathetic chain",
+      "B": "Oculomotor nerve (CN III)",
+      "C": "Optic nerve (CN II)",
+      "D": "Trochlear nerve (CN IV)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 552,
+    "question_text": "In myopia (nearsightedness), where do the light rays focus?(Medicine Feb 2025)",
+    "options": {
+      "A": "In front of the retina",
+      "B": "Behind the retina",
+      "C": "On the retina",
+      "D": "Scattered throughout the eye"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 553,
+    "question_text": "Patient presents with uvula deviation to the right and palatal depression on the same side. Which muscle remains functional? (Medicine Feb 2025)",
+    "options": {
+      "A": "Palatoglossus",
+      "B": "Palatopharyngeus",
+      "C": "Levator veli palatini",
+      "D": "Tensor veli palatini"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 554,
+    "question_text": "A young male presents with recurrent episodes of epistaxis and imaging shows a contrast-enhancing mass with infratemporal fossa extension. What is the most likely diagnosis? (Medicine Feb 2025)",
+    "options": {
+      "A": "Juvenile nasopharyngeal angiofibroma (JNA)",
+      "B": "Nasopharyngeal carcinoma",
+      "C": "Sinonasal polyposis",
+      "D": "Inverted papilloma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 555,
+    "question_text": "Which of the following cranial nerve nuclei is involved in the regulation of salivation, and its dysfunction can lead to xerostomia (dry mouth): (Medicine Feb 2025)",
+    "options": {
+      "A": "Trigeminal nucleus",
+      "B": "Inferior salivatory nucleus",
+      "C": "Superior salivatory nucleus",
+      "D": "Facial nucleus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 556,
+    "question_text": "What is the preferred method for securing the airway in a patient with suspected cervical spine injury? (Medicine Feb 2025)",
+    "options": {
+      "A": "Tracheostomy",
+      "B": "Oral endotracheal intubation with cervical immobilization",
+      "C": "Nasotracheal intubation",
+      "D": "Fibroptic bronchoscopy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 557,
+    "question_text": "A patient presents with severe eye pain, blurred vision, headache, and nausea. The intraocular pressure (IOP) is elevated, and the anterior chamber is shallow. What is the most likely diagnosis?(Medicine Feb 2025)",
+    "options": {
+      "A": "Chronic open-angle glaucoma",
+      "B": "Acute closed-angle glaucoma",
+      "C": "Normal-tension glaucoma",
+      "D": "Acute open-angle glaucoma"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 558,
+    "question_text": "Ceruminous glands in the ear are responsible for producing:(Medicine Feb 2025)",
+    "options": {
+      "A": "Sweat",
+      "B": "Mucus",
+      "C": "Wax",
+      "D": "Sebum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 559,
+    "question_text": "A 72-year-old patient presents with hoarseness of voice. Indirect laryngoscopy reveals that the vocal cords are not opening. Which muscle is most likely damaged? (Medicine Feb 2025)",
+    "options": {
+      "A": "Cricothyroid",
+      "B": "Posterior cricoarytenoid",
+      "C": "Thyroarytenoid",
+      "D": "Vocalis",
+      "E": "Lateral cricoarytenoid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 560,
+    "question_text": "The lateral nasal artery is most commonly utilized in which of the following surgical procedures?(Surgery Feb 2025)",
+    "options": {
+      "A": "Rhinoplasty",
+      "B": "Cleft lip repair",
+      "C": "Septoplasty",
+      "D": "Cleft palate repair"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 561,
+    "question_text": "General sensation of middle cranial fossa LOST nerve involved is(Surgery Feb 2025):",
+    "options": {
+      "A": "Occulomotor nerve",
+      "B": "Trigeminal nerve",
+      "C": "Facial nerve",
+      "D": "Optic nerve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 562,
+    "question_text": "Vagus nerve carry the visceral efferents from CNS to viscera(Surgery Feb 2025):",
+    "options": {
+      "A": "Smooth muscle of git",
+      "B": "Skeletal muscles of git",
+      "C": "Cardiac muscles",
+      "D": "Facial muscles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 563,
+    "question_text": "A woman develops gaze disturbance. On looking to the right her right eye remains in the middle and also decrease corneal sensations. She also has hearing loss on the right side. Lesion is at:(Surgery Feb 2025)",
+    "options": {
+      "A": "Rolandic fissure",
+      "B": "Cerebellopontine angle",
+      "C": "Geniculate body",
+      "D": "Temporal lobe",
+      "E": "Internal auditory meatus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 564,
+    "question_text": "Which part of the tongue primarily detects sweet taste(Surgery Feb 2025):",
+    "options": {
+      "A": "Dorsal surface",
+      "B": "Posterior surface",
+      "C": "Lateral surface",
+      "D": "Tip of the tongue",
+      "E": "Ventral surface"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 565,
+    "question_text": "A female patient after thyroidectomy developed hoarseness of voice. Examination reveals vocal cords are in medial position which of the following is most likely damaged?(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Posterior Cricoarytenoid",
+      "B": "Lateral Cricoaretynoid",
+      "C": "Vocalis",
+      "D": "Thyroarytenoid",
+      "E": "Cricothyroid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 566,
+    "question_text": "A patient presents with conductive hearing loss and history of recurrent otitis media for the past three years what is most likely diagnosis?(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Cholesteatoma",
+      "B": "Otosclerosis",
+      "C": "Tympanosclerosis",
+      "D": "Serous Otitis Media"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 567,
+    "question_text": "Which of the following structures drain into superior meatus of the nose?(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Frontal and maxillary sinus",
+      "B": "Posterior ethmoid and sphenoplatine sinus",
+      "C": "Posterior ethmoid and maxillary sinuses",
+      "D": "Anterior and posterior ethmoid sinuses"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 568,
+    "question_text": "A 12 years old boy presents with nasal bleeding, runny nose, facial swelling, proptosis, and loss of smell. CT imaging reveals a mass which is extended into infratemporal fossa, what is likely diagnosis?(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Juvenile nasopharyngeal angiofibroma",
+      "B": "Adenoid hypertrophy",
+      "C": "Allergic rhinitis",
+      "D": "Sinonasal polyposis",
+      "E": "polyp"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 569,
+    "question_text": "Drooping of the angle of mandible is most commonly associated with injury of which of the following nerve(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Marginal mandibular branch of facial",
+      "B": "Ansa cervicalis",
+      "C": "Auriculotemporal nerve",
+      "D": "Temporal branch of facial nerve",
+      "E": "Chorda tympani"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 570,
+    "question_text": "Adductor of vocal cord(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Posterior circoarytenoid",
+      "B": "Lateral cricoarytenoid",
+      "C": "Thyroid cartilage",
+      "D": "Vocalis",
+      "E": "Circothyroid"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 571,
+    "question_text": "A patient complain of multiple areas of focus at right angles the most likely diagnosis is(Gynae & Obs Feb 2025):",
+    "options": {
+      "A": "Myopia",
+      "B": "Hyperopia",
+      "C": "Astigmastism",
+      "D": "Cataract",
+      "E": "Presbyopia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 572,
+    "question_text": "A patient complain of difficulty reading a book but can see distant objects clearly the likely cause is: (Radiology Feb 2025):",
+    "options": {
+      "A": "Short eye ball(hypemetropia)",
+      "B": "Long eye ball(myopia)",
+      "C": "Astigmatism",
+      "D": "Presbyopia",
+      "E": "Cataract"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 573,
+    "question_text": "Normal Suboccipito-Bregmatic Diameter (Radiology Feb 2025):",
+    "options": {
+      "A": "9.5cm",
+      "B": "11cm",
+      "C": "13cm",
+      "D": "11.5cm",
+      "E": "14cm"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 574,
+    "question_text": "During mandibular gland surgery, how can the facial nerve he preserved? (Radiology Feb 2025):",
+    "options": {
+      "A": "By tracing the nerve as it enters field",
+      "B": "By identifying the nerve at the posterior border of the mandible",
+      "C": "By avoidmg dissection near the submandibular gland",
+      "D": "By using intraoperative nerve monitoring",
+      "E": "Nerve stimulation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 575,
+    "question_text": "In anterior mandibular nerve damage, which muscle would escape paralysis? (Radiology Feb 2025):",
+    "options": {
+      "A": "Digastric",
+      "B": "Myelohyoid",
+      "C": "Omohyoid",
+      "D": "Medial Pterygoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 576,
+    "question_text": "A patient presents with difficulty in reading, diplopia, and recurrent automobile accidents (peripheral vision loss). He also has headaches relieved by painkillers. What is the most likely diagnosis? (Anesthesia Feb 2025):",
+    "options": {
+      "A": "Open-angle glaucoma",
+      "B": "Closed-angle glaucoma",
+      "C": "Optic chiasm lesion",
+      "D": "Occipital cortex lesion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 577,
+    "question_text": "A female was advised eye drops for eye infection. Two days later she complains of sour taste. The drops from eyes go first into? (Anesthesia Feb 2025):",
+    "options": {
+      "A": "Nasopharynx",
+      "B": "Oropharynx",
+      "C": "Mouth",
+      "D": "Nose"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 578,
+    "question_text": "A child with a recurrent history of tonsillitis undergoes a tonsillectomy. During surgery, bleeding occurs from the right tonsillar artery. This artery is a branch of which vessel? (Anesthesia Feb 2025):",
+    "options": {
+      "A": "Lingual artery",
+      "B": "Facial artery",
+      "C": "Ascending pharyngeal artery",
+      "D": "Descending palatine artery"
+    },
+    "correct_answer": "B"
+  }
+]

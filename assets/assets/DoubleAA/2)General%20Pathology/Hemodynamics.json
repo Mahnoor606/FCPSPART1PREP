@@ -1,0 +1,1412 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "An elderly obese man with severe abdominal pain, on laparoscopy small intestine was dark purple in colour, superior mesenteric artery was atherosclerotic and thrombosed, mesenteric vein patent, this small intestine pathology will be called?",
+    "options": {
+      "A": "Dry gangrene",
+      "B": "Red infarction",
+      "C": "Volvulus formation",
+      "D": "Wet gangrene",
+      "E": "GIT bleeding"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "Most characteristic site of hemorrhagic infarct:",
+    "options": {
+      "A": "Pancreas",
+      "B": "Kidney",
+      "C": "Spleen",
+      "D": "Heart",
+      "E": "Small intestine"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "White infarct occurs in which of the following site?",
+    "options": {
+      "A": "Heart",
+      "B": "Lungs",
+      "C": "Intestine",
+      "D": "Testicular torsion",
+      "E": "Atrial occlusion after angioplasty"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "A lady has heart infarction what type of infarct seen in heart?",
+    "options": {
+      "A": "Pale",
+      "B": "Red",
+      "C": "Blue",
+      "D": "Green"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "Which of the following causes thrombus formation?",
+    "options": {
+      "A": "Decrease Blood flow",
+      "B": "Decrease Viscosity",
+      "C": "Endothelial injury Vasoconstriction",
+      "D": "Increase blood flow"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "Lady after surgery present in ward with swollen legs bilaterally DVT suspected pathology is:",
+    "options": {
+      "A": "Endothelial injury",
+      "B": "Endothelial injury plus blood stasis",
+      "C": "Blood stasis",
+      "D": "Hyper coagulopathy plus blood stasis",
+      "E": "Coagulopathy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "Upon autopsy, a patient was having a thrombus and line of zahn this is seen in:",
+    "options": {
+      "A": "Chicken fat supernatant",
+      "B": "Pre mortem thrombus",
+      "C": "Post mortem thrombus",
+      "D": "Chicken lipid thrombus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Air embolism develops on how much air volume?",
+    "options": {
+      "A": "50cc",
+      "B": "100cc",
+      "C": "10cc",
+      "D": "80cc",
+      "E": "20cc"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "A 38 years old man got pelvic fracture in RTA he loses 2L of blood in accident. After 5 days he died and his brain CT scan shows multiple areas of infarction what is cause of his death:",
+    "options": {
+      "A": "Air embolism",
+      "B": "Fat embolism",
+      "C": "Sepsis",
+      "D": "Neurogenic shock",
+      "E": "Violence"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "1st step in formation of thrombus:",
+    "options": {
+      "A": "Stasis",
+      "B": "Endothelial injury",
+      "C": "Hyperviscosity",
+      "D": "Hypoxia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Most imp factor in pathogenesis of thrombosis?",
+    "options": {
+      "A": "Endothelial injury",
+      "B": "Prolong bed rest",
+      "C": "OCP",
+      "D": "Antithrombin 3 deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "Female patient of village has developed gum bleeding after delivery, PT 14sec, APTT 60sec, neutrophil 2400 BURR cells are seen in peripheral smear and FDP raised diagnosis is likely:",
+    "options": {
+      "A": "Amniotic fluid embolism",
+      "B": "DIC",
+      "C": "Hypotension",
+      "D": "Shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Which of the organ undergo hemorrhagic infarction?",
+    "options": {
+      "A": "Heart",
+      "B": "Spleen",
+      "C": "Liver",
+      "D": "Kidney"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "A patient died of fat embolism, on autopsy fat embolism will be visualized by:",
+    "options": {
+      "A": "Frozen section of embolism",
+      "B": "Silver stain embolism",
+      "C": "Fat stain",
+      "D": "Permanent stain"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "Which of the following will decrease chances of edema?",
+    "options": {
+      "A": "Venous constriction",
+      "B": "Arteriolar constriction",
+      "C": "Nephrotic syndrome",
+      "D": "Inflammation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Most prone to ischemia:",
+    "options": {
+      "A": "Kidney",
+      "B": "Liver",
+      "C": "Neuron",
+      "D": "Heart",
+      "E": "Spleen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "A pregnant lady from remote village died on the way to hospital, the probable cause is:",
+    "options": {
+      "A": "Amniotic Fluid Embolism",
+      "B": "Fat Embolism",
+      "C": "Pulmonary Embolism",
+      "D": "Hemorrhage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Child with periorbital edema and generalized edema due to:",
+    "options": {
+      "A": "Hypoalbuminemia and increase salt water retention",
+      "B": "Hyperalbuminemia",
+      "C": "Increase Salt retention",
+      "D": "Decrease Salt retention"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "Venous thrombosis results in:",
+    "options": {
+      "A": "Pulmonary Embolism",
+      "B": "Thrombophlebitis",
+      "C": "Peripheral gangrene",
+      "D": "Neuropathy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "Which of the following doesn't occur in edema?",
+    "options": {
+      "A": "Decrease Oncotic pressure",
+      "B": "Increase Capillary Oncotic pressure",
+      "C": "Increase Capillary Hydrostatic Pressure",
+      "D": "Increase Permeability"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "A patient with 3rd degree extensive burn, cause of edema is:",
+    "options": {
+      "A": "Acidosis",
+      "B": "Alkalosis",
+      "C": "Hypoalbuminemia",
+      "D": "Hypokalemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Cause of death in Extensive PE is:",
+    "options": {
+      "A": "Thromboembolism",
+      "B": "Air",
+      "C": "Fat",
+      "D": "Gas"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "Child presented with edema is most likely due to:",
+    "options": {
+      "A": "Increase Albumin",
+      "B": "Decrease Albumin",
+      "C": "Increase Fibrinogen",
+      "D": "Decrease Hydrostatic Pressure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "Patient diagnosed to have pale infarct. In which of the following conditions pale infarct occur:",
+    "options": {
+      "A": "Hypertensive stroke",
+      "B": "Embolism",
+      "C": "Atherosclerosis",
+      "D": "Rupture of Berry Aneurysm"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "A patient presents with burns, which test should be done in him?",
+    "options": {
+      "A": "Keratin",
+      "B": "Globulin",
+      "C": "Albumin",
+      "D": "Transferrin",
+      "E": "Electrolytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Regarding fat embolism due to",
+    "options": {
+      "A": "Fracture of long bones",
+      "B": "72 to 96 hours after trauma",
+      "C": "Reversible with treatment",
+      "D": "Long lasting"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Which of the following embolism causes the most extensive necrosis and death?",
+    "options": {
+      "A": "Air embolism",
+      "B": "Fat embolism",
+      "C": "Thromboembolism",
+      "D": "Amniotic fluid embolism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "Which is the primary site of DVT?",
+    "options": {
+      "A": "Pulmonary artery",
+      "B": "Pulmonary vein",
+      "C": "Abdominal veins",
+      "D": "Deep veins of calf"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Regarding lymphatic function:",
+    "options": {
+      "A": "Have semi valves",
+      "B": "Superficial with vein",
+      "C": "Deep with arteries",
+      "D": "Drains the lymph from tissues"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Most common complication of DVT:",
+    "options": {
+      "A": "Emboli",
+      "B": "Thrombi",
+      "C": "Clot",
+      "D": "Death"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "Whole body Edema may be due to:",
+    "options": {
+      "A": "Hypernatremia",
+      "B": "Anasara",
+      "C": "Excessive Renin secretion",
+      "D": "Excessive Aldosterone secretion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Earliest step in formation of thrombus:",
+    "options": {
+      "A": "Formation of fibrin",
+      "B": "Adherence of platelets",
+      "C": "Trapping of erythrocytes",
+      "D": "Activation of Hageman factor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "Platelet formation by",
+    "options": {
+      "A": "ADP and thromboxane A2",
+      "B": "Fibrinogen and thromboxane 2",
+      "C": "Plasminogen",
+      "D": "Plasmin and thromboxane 2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "All of the following cause edema except?",
+    "options": {
+      "A": "Obstruction of lymphatic flow",
+      "B": "Decrease oncotic pressure",
+      "C": "Increase hydrostatic pressure in capillaries",
+      "D": "Decrease venous pressure",
+      "E": "Increase lymphatic pressure"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Regarding Fat embolism true is",
+    "options": {
+      "A": "Is a common autopsy finding after fracture of long bones?",
+      "B": "Is less common in females",
+      "C": "Is not usually present as respiratory insufficiency",
+      "D": "Produce clinical symptoms 5-10 days after injury"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "About Red infarct:",
+    "options": {
+      "A": "Organ have dual blood supply",
+      "B": "Organ having single blood flow",
+      "C": "Where venous blockage along with arterial",
+      "D": "Only arterial blockage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Local Edema Occur due to",
+    "options": {
+      "A": "Allergy",
+      "B": "Infection",
+      "C": "Immunosuppression",
+      "D": "Trauma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Systemic arterial emboli are most likely due to?",
+    "options": {
+      "A": "Right atrial mural thrombus",
+      "B": "Left ventricle mural thrombus",
+      "C": "Systemic venous thrombus",
+      "D": "Right ventricle mural thrombus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Steps in thrombosis?",
+    "options": {
+      "A": "endothelial damage, decrease blood flow and change in blood constituent",
+      "B": "Endothelial damage, increase blood flow and increase constituents of blood flow",
+      "C": "Endothelial damage and increase blood flow",
+      "D": "Increase viscosity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "Patient with peripheral claudication present in?",
+    "options": {
+      "A": "SLE",
+      "B": "Peripheral arterial disease",
+      "C": "Venous obstruction",
+      "D": "RA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "A patient having Tachycardia abdominal distension and hypotension after laparotomy due to which of these",
+    "options": {
+      "A": "Hypovolumic Shock",
+      "B": "Septic Shock",
+      "C": "Cardiogenic Shock",
+      "D": "Anaphylactic Shock",
+      "E": "Neurogenic Shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Woman after hysterectomy for benign ovarian cyst came with fever, pneumonia and BP 80/60mmHg. Gram negative rods were identified she goes into shock what is the mechanism of her shock?",
+    "options": {
+      "A": "Neurogenic",
+      "B": "Septic shock",
+      "C": "Anaphylactic",
+      "D": "Hypotensive shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Angiouretic edema associated with",
+    "options": {
+      "A": "Menstruations",
+      "B": "Depression",
+      "C": "NSAID poisining",
+      "D": "IgE",
+      "E": "Pregnancy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Which is not a feature of Shock",
+    "options": {
+      "A": "Increase Urine output",
+      "B": "Muscle weakness",
+      "C": "Tachycardia",
+      "D": "Restlessness",
+      "E": "Decrease Cardiac output"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "Generalized edema is called",
+    "options": {
+      "A": "Pitting edema",
+      "B": "Myxedema",
+      "C": "Dependent edema",
+      "D": "Non pitting edema",
+      "E": "Anasarca"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Last mediator of endotoxic shock",
+    "options": {
+      "A": "IL-6",
+      "B": "TNF",
+      "C": "IL-1",
+      "D": "IL-3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "In All type of shock following occur:",
+    "options": {
+      "A": "Hypovolemia",
+      "B": "Hypervolumia",
+      "C": "Decrease Cellular oxygenation",
+      "D": "Decrease Cardiac output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Which is not a cause of Cardiogenic shock",
+    "options": {
+      "A": "Hemorrhage",
+      "B": "MI",
+      "C": "Cardiac tamponade",
+      "D": "Arrythmia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Primary Sign of Shock is",
+    "options": {
+      "A": "Increase BP",
+      "B": "Dyspnea",
+      "C": "Altered Sensorium",
+      "D": "Rapid Pulse"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "Which one result in hypovolemic shock",
+    "options": {
+      "A": "Severe hemorrhage",
+      "B": "Head injury",
+      "C": "Ventricular infarction",
+      "D": "Allergy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "In septic shock which of following raised",
+    "options": {
+      "A": "Venous O2 content",
+      "B": "Lactate",
+      "C": "A-V Oxygen difference",
+      "D": "IgE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Which is not related to embolus",
+    "options": {
+      "A": "Gas",
+      "B": "Amniotic fluid",
+      "C": "Thrombus",
+      "D": "Fat",
+      "E": "Liquid"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "Most common acquired thrombotic disorder",
+    "options": {
+      "A": "Factor V deficiency",
+      "B": "Anti phospholipid syndrome",
+      "C": "Protein C deficiency",
+      "D": "Protein S deficiency"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "First line of defense in bleeding is?",
+    "options": {
+      "A": "Blood vessels constriction",
+      "B": "Coagulation system",
+      "C": "Platelets",
+      "D": "Wbcs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Cardiogenic shock occurs due to:",
+    "options": {
+      "A": "Hemorrhage",
+      "B": "Burn",
+      "C": "Septicemia",
+      "D": "MI"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Patient presented with hypovolemic shock gets treatment what is indicator for successful fluid resuscitation?",
+    "options": {
+      "A": "Increase blood pressure",
+      "B": "Increase pulse pressure",
+      "C": "Increase urine output",
+      "D": "Decrease blood pressure",
+      "E": "Increase pulse"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "In malnourished child cause of Generalized edema is",
+    "options": {
+      "A": "Hypoproteinemia",
+      "B": "Increase hydrostatic pressure",
+      "C": "Increase Oncotic pressure",
+      "D": "Increase Calcium"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Moderate hemorrhage can be diagnosed clinically as:",
+    "options": {
+      "A": "Postural dizziness",
+      "B": "Supine hypotension",
+      "C": "Postural hypotension in 35 years old",
+      "D": "Postural hypotension in 65 years old"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Most characteristic site of hemorrhagic infarct:",
+    "options": {
+      "A": "Heart",
+      "B": "Kidney",
+      "C": "Liver",
+      "D": "Spleen",
+      "E": "Lung"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Edema in burn patient is due to which of following",
+    "options": {
+      "A": "Loss of Calcium",
+      "B": "Loss of Sodium",
+      "C": "Loss of Albumin",
+      "D": "Loss of Chloride",
+      "E": "Loss of Heparin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "True about fat embolism",
+    "options": {
+      "A": "Symptoms after 12 h",
+      "B": "80% fatal",
+      "C": "Common cause of thrombophlebitis",
+      "D": "Breast trauma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Pregnant female with labor pain for 20hour was admitted in emergency and was being prepared for C section suddenly dies due to",
+    "options": {
+      "A": "Air embolism",
+      "B": "Fat embolism",
+      "C": "Amniotic fluid embolism",
+      "D": "Pulmonary thromboembolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "Fireman visits ER with burn on right arm blisters with little dermal damage seen in",
+    "options": {
+      "A": "1st degree",
+      "B": "2nd degree",
+      "C": "3rd degree",
+      "D": "4th degree",
+      "E": "5th degree"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "A non diabetic female underwent cholecystectomy presented on 4th post op day with Cough, Hemoptysis and Dyspnea cause is",
+    "options": {
+      "A": "Hypovolemic shock",
+      "B": "Cardiac shock",
+      "C": "Pulmonary embolism",
+      "D": "Neurogenic shock",
+      "E": "Air embolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "Old female fall in washroom lead to fracture and replaced by prosthesis. On following day she developed dyspnea and petechial on skin cause is which of following",
+    "options": {
+      "A": "Air embolism",
+      "B": "Fat embolism",
+      "C": "Thrombotic",
+      "D": "Amniotic fluid embolism",
+      "E": "Pulmonary Embolism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "Cause of edema in CLD is",
+    "options": {
+      "A": "Collagen",
+      "B": "Albumin",
+      "C": "Elastin",
+      "D": "Fibrillin",
+      "E": "Dystrophin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Old age woman had CVA was bedridden suddenly she became dyspneic but no other symptoms. After 2 days she had left sided pleuritic pain. Had another CVA died. On autopsy wedge shaped hemorrhagic area was seen on left lower lobe. What could be the cause in lungs?",
+    "options": {
+      "A": "Vasculitis",
+      "B": "Thromboembolism",
+      "C": "Atherosclerosis",
+      "D": "PAN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "A known CLD patient developed edema, the likely mechanism is:",
+    "options": {
+      "A": "Decrease oncotic pressure",
+      "B": "Increase hydrostatic pressure",
+      "C": "Increase oncotic pressure",
+      "D": "Salt Retention"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "Mural thrombus originates in:",
+    "options": {
+      "A": "Lungs",
+      "B": "Liver",
+      "C": "Heart",
+      "D": "Kidney"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "70 year old man, with recurrent UTI, developed hypotension, tachycardia altered mental status type of shock is hemodynamic",
+    "options": {
+      "A": "Neurogenic",
+      "B": "Hypovolemic",
+      "C": "Septic",
+      "D": "Cardiogenic",
+      "E": "Anaphylactic"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "After hemorrhage HB binds with which of these?",
+    "options": {
+      "A": "Ferritin",
+      "B": "Haptoglobin",
+      "C": "Transferrin",
+      "D": "Albumin",
+      "E": "Globulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "A student of final year mbbs witnessing surgery for the first time collapsed in OT due to:",
+    "options": {
+      "A": "Decrease in peripheral resistance",
+      "B": "Decrease vascular permeability",
+      "C": "Decrease CO",
+      "D": "Sympathetic shock",
+      "E": "Vasovagal shock"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "Recent thrombus consists of:",
+    "options": {
+      "A": "Platelets",
+      "B": "Fibrin",
+      "C": "Fibrin degradation product",
+      "D": "Capillaries",
+      "E": "Collagen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Most important cause of infarction in solid organ:",
+    "options": {
+      "A": "Inflammation",
+      "B": "Necrosis",
+      "C": "Atheroma",
+      "D": "Air embolism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Common Cause of DVT is",
+    "options": {
+      "A": "HTN",
+      "B": "DM",
+      "C": "Trauma",
+      "D": "Prolong immobilization"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "When fibrinogen is converted into fibrin by thrombin fragment released in plasma is",
+    "options": {
+      "A": "Fibrinopeptide A",
+      "B": "thromboxane A2",
+      "C": "Fibrinopeptide A2",
+      "D": "Plasmin",
+      "E": "Thrombin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Activated Platelets release:",
+    "options": {
+      "A": "ANP",
+      "B": "ADP",
+      "C": "Kinin",
+      "D": "Steroids",
+      "E": "Thrombasthenia and serotonin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "White blood cells enter the lymph node through",
+    "options": {
+      "A": "Capillary",
+      "B": "Sub capsular afferent lymphatic",
+      "C": "Sub capsular efferent lymphatic",
+      "D": "Medullary sinus"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Low molecular weight heparin activates:",
+    "options": {
+      "A": "Antithrombin 3",
+      "B": "Factor 10",
+      "C": "XII",
+      "D": "Thrombin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Which of the following is the initial mechanism that stops bleeding after a cut?",
+    "options": {
+      "A": "Platelet aggregation",
+      "B": "Degranulation",
+      "C": "Vasoconstriction",
+      "D": "PGI2 release",
+      "E": "Vasodilation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Female hot burn develop blister generalized swelling and bleeding from burn area. Generalized swelling is due to Decrease",
+    "options": {
+      "A": "Collagen",
+      "B": "Albumin",
+      "C": "Elastin",
+      "D": "Fibrillin",
+      "E": "Dystrophin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "Woman after RTA rushed to ER, she has warm extremities what is the type of shock?",
+    "options": {
+      "A": "Neurogenic",
+      "B": "Septic",
+      "C": "Hypovolemic",
+      "D": "Cardiogenic",
+      "E": "Anaphylactic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Patient was diagnosed as case of pulmonary embolism. What are the most common source of pulmonary emboli?",
+    "options": {
+      "A": "DVT-Popliteal vein",
+      "B": "Deep leg veins",
+      "C": "Lumen of Left atrium",
+      "D": "Lumen of right ventricle",
+      "E": "Femoral vein",
+      "F": "Superficial leg veins"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "What takes place in neurogenic shock?",
+    "options": {
+      "A": "Loss of vasomotor tone",
+      "B": "Increase peripheral vascular resistance",
+      "C": "Increase Heart Rate",
+      "D": "Increase Cardiac Output",
+      "E": "Decrease blood volume"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "A 22-year-old second-year medical student develops a \"red face\" after being asked a question during lecture. Which of the following statements best describes this vascular reaction?",
+    "options": {
+      "A": "Active hyperemia",
+      "B": "Acute congestion",
+      "C": "Nonpalpable purpura",
+      "D": "Passive hyperemia",
+      "E": "Petechial hemorrhage"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Vasculitis that involves same vessel or different vessels with lesion of different ages is which among these:",
+    "options": {
+      "A": "Kawasaki disease",
+      "B": "PAN",
+      "C": "Giant cell arteritis",
+      "D": "Temporal cell arteritis",
+      "E": "Polyangitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "Heart is showing pale white infarct, cause:",
+    "options": {
+      "A": "Venous occlusion",
+      "B": "Arterial occlusion",
+      "C": "Anemia",
+      "D": "Blood Loss"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "45 year old diabetic lady since 10 years admitted in hospital due to pneumonia and developing shock like symptoms cause will be:",
+    "options": {
+      "A": "Increased vascular permeability",
+      "B": "Increased vasoconstriction",
+      "C": "Increased peripheral resistance",
+      "D": "Increase hydrostatic pressure",
+      "E": "Decrease permeability"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "Microscopic feature of Polyarteritis nodosa is:",
+    "options": {
+      "A": "Granuloma",
+      "B": "Fibrinoid necrosis",
+      "C": "Transmural inflammation",
+      "D": "Liquefactive necrosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "A patient has Femur fracture with soft tissue injuries. Shock occur due to:",
+    "options": {
+      "A": "Peripheral vasoconstriction",
+      "B": "Decrease cardiac output",
+      "C": "Insufficient blood volume",
+      "D": "Increase cardiac output"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Peripheral vasodilation along with hypotension seen in:",
+    "options": {
+      "A": "Septic Shock",
+      "B": "Hypovolemic Shock",
+      "C": "Toxic Shock",
+      "D": "Cardiogenic Shock",
+      "E": "Vasovagal Shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Feature common to all type of shock is:",
+    "options": {
+      "A": "Bradycardia",
+      "B": "Raised Cardiac output",
+      "C": "Raised Lactate",
+      "D": "Tissue Hypoxia",
+      "E": "Warm"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Patient presented in shock-like condition after RTA, multiple soft tissue injuries cause of shock in this condition is?",
+    "options": {
+      "A": "Sepsis",
+      "B": "Inadequate blood volume",
+      "C": "Peripheral vasodilation",
+      "D": "Anaphylaxis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Lymphatic obstruction is caused by",
+    "options": {
+      "A": "Inflammation and fibrosis",
+      "B": "Renal failure and hypoproteinemia",
+      "C": "Hematuria and albuminuria",
+      "D": "Cardiac failure and IHD",
+      "E": "Arterial obstruction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "Laminar flow is directly proportional to 4th power of:",
+    "options": {
+      "A": "Radius",
+      "B": "Length",
+      "C": "Density",
+      "D": "Pressure"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "Cause of hypotension in cardiogenic shock",
+    "options": {
+      "A": "Decrease myocardial contractility",
+      "B": "Decrease Cardiac output",
+      "C": "Decrease preload",
+      "D": "Decrease after load"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Cause of hypotension in cardiogenic shock",
+    "options": {
+      "A": "Decrease myocardial contractility",
+      "B": "Decrease Cardiac output",
+      "C": "Decrease preload",
+      "D": "Decrease after load"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "Activated platelets secrete:",
+    "options": {
+      "A": "Thromboxane A2+ ADP",
+      "B": "Thromboxane A2+ Fibrinogen",
+      "C": "Fibrinogen+ADP",
+      "D": "Thromboxane",
+      "E": "ADP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "Patient came with history of trauma. On examination there was Pulsatile bleeding from right inguinal region. He has difficulty in breathing and can tell his name with difficulty. BP was low and pulse was high. What will you do first?",
+    "options": {
+      "A": "Look for other possible injuries",
+      "B": "Pass IV and give fluids",
+      "C": "Maintain airway",
+      "D": "Start bleeding by torniquet & start blood transfusion",
+      "E": "Shift to OT for Surgery"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "Most Important factor for The generation of Thrombus?",
+    "options": {
+      "A": "Decreased blood flow +Endothelial injury+Altered Clotting factors",
+      "B": "Fast Blood Flow+Endothelial injury+ Altered Clotting factors",
+      "C": "Endothelial damage & Turbulent Blood flow",
+      "D": "Plamin, then fibrin, then thromboplast",
+      "E": "Decreased Viscosity with accelerated Blood Flow"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "A patient presents with shock and fever. Laboratory results reveal elevated urea, raised AST and ALT levels, and increased bilirubin. What is the most likely diagnosis:",
+    "options": {
+      "A": "Acute Viral Hepatitis",
+      "B": "Acute Kidney Injury",
+      "C": "Septicemia",
+      "D": "HCC"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "Occlusive thrombi originate in:",
+    "options": {
+      "A": "Heart",
+      "B": "Veins",
+      "C": "Small Artery",
+      "D": "Young Children"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "A Thrombus is most likely to lodge in:",
+    "options": {
+      "A": "Arteries",
+      "B": "Veins",
+      "C": "Capillary",
+      "D": "Arterioles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "A person after RTA has lost 8% of blood in 30 minutes but arterial pressure remain same this bleeding is from which of the following",
+    "options": {
+      "A": "veins",
+      "B": "Capillaries",
+      "C": "Aorta",
+      "D": "Arteries"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Indication of CVP line in ICU after hemorrhagic shock.",
+    "options": {
+      "A": "Rapid transfusion of blood",
+      "B": "Trauma",
+      "C": "Neurosurgery Patient",
+      "D": "Pre-Op cachexic Patient",
+      "E": "Estimation of Pulmonary edema"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Patient presented with difficulty in breathing. Extrinsic mass is compressing the trachea. Which type of flow is observed?",
+    "options": {
+      "A": "Laminar flow",
+      "B": "Turbulent flow",
+      "C": "Stenotic flow",
+      "D": "Static Flow"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "A patient develop fever, Pain and hematuria after cystoscopy due to:",
+    "options": {
+      "A": "Fistula formation",
+      "B": "Cyst formation",
+      "C": "Sepsis",
+      "D": "Anti biotic resistant"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "A Patient presented to ER with history of trauma to abdomen, Left Posterior back from bicycle. His vitals are Bp. 130/80mmHg Pulse. 110/min on examination Purple Bruise & Tenderness on Affected area. No blood in urine. Investigations reveal a Hct of 22%. Next appropriate response?",
+    "options": {
+      "A": "Arrange blood products",
+      "B": "CT Scan Abdomen",
+      "C": "Tell attendants that Patient is out of danger so discharge with follow-up",
+      "D": "Admit Patient & Repeat Serial HCTs",
+      "E": "Ultrasound Abdomen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "A patient who has undergone tonsillectomy you notice that patient is unable to speak well and patient was bleeding which of the following is immediate method to assess for active bleeding",
+    "options": {
+      "A": "Pulse",
+      "B": "Drain bottle",
+      "C": "Vomitus",
+      "D": "BP"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "A patient after RTA presents with severe blood loss what is first step in management",
+    "options": {
+      "A": "Maintain airway",
+      "B": "Apply tourniquet or direct pressure",
+      "C": "Fluid Resuscitation",
+      "D": "Change position"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "A 40 year old male undergoing surgery. During surgery he was transfused with blood during transfusion patient developed hypotension which shock patient has developed",
+    "options": {
+      "A": "Hypovolemic shock",
+      "B": "Cardiogenic shock",
+      "C": "Neurogenic shock",
+      "D": "Hypovolumic shock"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "Difference in anaphylactic shock and other shocks is",
+    "options": {
+      "A": "Increase cardiac output",
+      "B": "Increase vascular resistance",
+      "C": "High venous pressure",
+      "D": "Low mixed venous saturation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "Most likely location for hemorrhagic infarct:",
+    "options": {
+      "A": "Septic embolus in kidney",
+      "B": "Embolus in spleen",
+      "C": "Thrombus in coronary vessels",
+      "D": "Lungs"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Which of the following is the example of hemorrhagic infarct",
+    "options": {
+      "A": "Liver occlusion with hypotension",
+      "B": "Spleen occlusion due to thrombus",
+      "C": "Pulmonary thromboembolism",
+      "D": "Retina with emboli"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "A Patient loses 1 L of blood in 5 min. He will most probably have which of the following changes after 5 minutes:",
+    "options": {
+      "A": "Splanchnic vasodilation,",
+      "B": "Increased preload",
+      "C": "Increased GFR",
+      "D": "Increased Venous return",
+      "E": "Decreased TPR"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "A child fell from a bike and sustained a partial avulsion fracture of the tibia leading to separation of bone fragments. The fracture is located on the lateral side of the lower tibia, medial to the fibula. What is the most likely type of fracture?",
+    "options": {
+      "A": "Salter-Harris Type I",
+      "B": "Salter-Harris Type II",
+      "C": "Salter-Harris Type III",
+      "D": "Salter-Harris Type IV"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "Loss of 1 liter of blood rapidly in five minutes will cause:",
+    "options": {
+      "A": "Decrease in heart rate",
+      "B": "Decrease bp",
+      "C": "NO change",
+      "D": "Increase GFR",
+      "E": "Systemic vasodilation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "A patient presents with a blood pressure of 90/40 mmHg and a pulse rate of 125 beats per minute. What is the estimated percentage of blood loss?",
+    "options": {
+      "A": "Up to 15%",
+      "B": "15-20%",
+      "C": "20-30%",
+      "D": "30-40%"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Most fatal type of pulmonary embolism that causes extensive pulmonary necrosis, shock and then death:",
+    "options": {
+      "A": "Fat embolism",
+      "B": "Thromboembolism",
+      "C": "Air embolism",
+      "D": "Amniotic embolism"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Female with occasional episodes of syncope and similar unconscious associated with movement, diagnosis is:",
+    "options": {
+      "A": "Vasovagal syncope",
+      "B": "Subclavian steal Syndrome",
+      "C": "Aortic stenosis",
+      "D": "HOCM"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Significant increase in blood viscosity is seen in",
+    "options": {
+      "A": "Acclimatization to high altitude",
+      "B": "Pregnancy",
+      "C": "Dehydration",
+      "D": "Diabetes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "A Patient is diagnosed with septic shock His hypotension is not improving with IV fluids. Most probable cause?",
+    "options": {
+      "A": "Resistant to fluids",
+      "B": "Distributive type of shock",
+      "C": "Characterized by decreased CO",
+      "D": "Increased vascular permeability"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "An Old age Patient presented with thigh trauma during operation continuous bleeding. Baseline coagulation profile deranged. PT, APTT raised fibrinogen and platelet count low. On inquiry, History of bruises since 06 months, no other abnormality. Cause?",
+    "options": {
+      "A": "Sepsis and DIC",
+      "B": "Accidental heparin during surgery",
+      "C": "Warfarin used before surgery",
+      "D": "Occult carcinoma likely Prostate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A patient after an RTA comes to the ER. There is no history of blood loss. On examination, BP is 80/40 mmHg, pulse is 60 bpm, and the patient has warm peripheries. What type of shock is this?",
+    "options": {
+      "A": "Septic",
+      "B": "Hypovolemic",
+      "C": "Anaphylactic",
+      "D": "Neurogenic"
+    },
+    "correct_answer": "D"
+  }
+]

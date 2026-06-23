@@ -1,0 +1,3947 @@
+[
+  {
+    "mcq_number": 1,
+    "question_text": "Tetanus toxin is:",
+    "options": {
+      "A": "Endotoxin",
+      "B": "Neurotoxin",
+      "C": "Erythrogenic toxin",
+      "D": "Toxoid"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 2,
+    "question_text": "HLA DR4 associated with which of the following disease?",
+    "options": {
+      "A": "RA",
+      "B": "Graves disease",
+      "C": "SLE",
+      "D": "Reactive arthritis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 3,
+    "question_text": "After 6 months of renal transplant, patient presents with sign of renal failure. His symptoms are resolved by giving immunosuppressive therapy. What is the likely cause?",
+    "options": {
+      "A": "Chronic cellular rejection",
+      "B": "Acute cellular rejection",
+      "C": "Acute humoral",
+      "D": "Acute cell mediated",
+      "E": "Graft vs host"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 4,
+    "question_text": "Most common opportunistic infection after kidney transplant is:",
+    "options": {
+      "A": "EBV",
+      "B": "HSV",
+      "C": "Polyoma",
+      "D": "HIV",
+      "E": "HPV"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 5,
+    "question_text": "A patient has repeated episodes of viral and bacterial infection which among the following will also be present?",
+    "options": {
+      "A": "No palatine tonsils",
+      "B": "A cleft palate",
+      "C": "Mandibular hypoplasia",
+      "D": "Decreased Cells in paracortex"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 6,
+    "question_text": "A patient undergoes kidney transplant. On first day he was unable to produce urine there is also tenderness at transplant site. Suitable pathogenesis is:",
+    "options": {
+      "A": "Graft versus host rejection",
+      "B": "Hyper acute graft rejection",
+      "C": "Blockage of ureter",
+      "D": "Renal artery stenosis",
+      "E": "Thrombus at the site of transplant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 7,
+    "question_text": "A patient present with arthritis having joint pain and morning stiffness with CCP being raised and ANA negative. There is a precursor protein which stains red on Congo stain. What is the precursor protein?",
+    "options": {
+      "A": "Serum amyloid precursor protein",
+      "B": "Serum amyloid associated protein",
+      "C": "Lamba light chain",
+      "D": "Transthyretin",
+      "E": "Beta 2 microglobulin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 8,
+    "question_text": "Patient have one normal baby but she is RH+ve and baby is neg. In 2nd pregnancy preterm baby born in 33 weeks and on ventilator what type of antibodies baby have?",
+    "options": {
+      "A": "Immune pathway",
+      "B": "Anti-receptor antigen",
+      "C": "Delay cell mediated",
+      "D": "Compliment mediated"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 9,
+    "question_text": "IgE level raised by which of the following?",
+    "options": {
+      "A": "Psitacosis",
+      "B": "Liver Fluke",
+      "C": "Chlamydia",
+      "D": "Syphilis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 10,
+    "question_text": "NK cells function is:",
+    "options": {
+      "A": "Kill virus affected cells",
+      "B": "Kill cancerous cells",
+      "C": "Activate T cells",
+      "D": "Kill natural body cells",
+      "E": "Activate B cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 11,
+    "question_text": "Passive immunization is achieved by:",
+    "options": {
+      "A": "Vaccine",
+      "B": "Natural disease",
+      "C": "IV immunoglobulin",
+      "D": "Injecting disease processes",
+      "E": "Anti toxin"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 12,
+    "question_text": "An appendicitis patient having fever which is mediated by?",
+    "options": {
+      "A": "Cytokine",
+      "B": "Leukotrienes",
+      "C": "Prostaglandins",
+      "D": "Histamine",
+      "E": "Mast cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 13,
+    "question_text": "Women with long-standing asthma and depressive disorder. Most likely immunological change:",
+    "options": {
+      "A": "Decrease cytokines",
+      "B": "Increase cytokines",
+      "C": "Decrease acute phase reactants",
+      "D": "Increased lymphocytic proliferative response to mitogens"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 14,
+    "question_text": "Blood group agglutinin is?",
+    "options": {
+      "A": "Glycoprotein",
+      "B": "Immunogenic",
+      "C": "Hb molecule",
+      "D": "Secreted by alveoli"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 15,
+    "question_text": "MHC function is:",
+    "options": {
+      "A": "Immune suppressor m",
+      "B": "Immune promoter",
+      "C": "Immune recognition",
+      "D": "Immune survival"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 16,
+    "question_text": "Xenograft related to which of the following?",
+    "options": {
+      "A": "From identical twins",
+      "B": "A graft used on it's normal anatomical location",
+      "C": "A graph used at another site (not at its anatomical site)",
+      "D": "From different species"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 17,
+    "question_text": "Radioimmunoassay of hormone small displacement by antibody due to:",
+    "options": {
+      "A": "Excessive hormone in immunoassay",
+      "B": "Inadequate sample of blood",
+      "C": "Excessive antibody response",
+      "D": "Antibody not specific in serum",
+      "E": "Decrease Hormone in serum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 18,
+    "question_text": "Which of following causes compliment fixation?",
+    "options": {
+      "A": "IgA",
+      "B": "IgG1",
+      "C": "IgG3",
+      "D": "IgG4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 19,
+    "question_text": "A child had recurrent infections and every time klebsiella is found what is the diagnosis?",
+    "options": {
+      "A": "SCID",
+      "B": "Bruton agammaglobulinemia",
+      "C": "Common variable gamma globenemia",
+      "D": "CGD"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 20,
+    "question_text": "HLA typing is done before organ transplant to prevent?",
+    "options": {
+      "A": "Rejection",
+      "B": "Supression",
+      "C": "Abo incompatibility",
+      "D": "Allergic reaction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 21,
+    "question_text": "Type of hypersensitivity in lupus nephritis:",
+    "options": {
+      "A": "Type-1",
+      "B": "Type-2",
+      "C": "Type-3",
+      "D": "Type-4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 22,
+    "question_text": "Good pasture shows which type of hypersensitivity?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 23,
+    "question_text": "A child with eczema, recurrent respiratory tract infection, with low platelet count diagnosis is:",
+    "options": {
+      "A": "Wiskott Aldrich syndrome",
+      "B": "IgA Deficiency",
+      "C": "Hyper IgM syndrome",
+      "D": "CGD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 24,
+    "question_text": "A small child had exchange transfusion as HB was decreased after that slowly his ear became red then trunk whole body ,also he had diarrhea jaundice and deranged LFTs he is having:",
+    "options": {
+      "A": "Hypersensitivity",
+      "B": "Graft vs Host disease",
+      "C": "Acute transfusion reaction",
+      "D": "Delayed response",
+      "E": "Septic shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 25,
+    "question_text": "Child given Hep B vaccine first dose 2nd and 3rd dose to be given at 1 and 6 month respectively. Memory cells will be formed after:",
+    "options": {
+      "A": "As soon as after first dose",
+      "B": "7 Days after first dose",
+      "C": "After 3rd dose",
+      "D": "After 2nd dose"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 26,
+    "question_text": "Light chain globulins in:",
+    "options": {
+      "A": "Systemic amyloidosis",
+      "B": "Vascular Disease",
+      "C": "Localized amyloidosis",
+      "D": "Endocrine pathology"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 27,
+    "question_text": "Hyperacute transplant rejection occurs due to:",
+    "options": {
+      "A": "Pre formed Antibodies",
+      "B": "CD 8 cells",
+      "C": "CD 4 cells",
+      "D": "T cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 28,
+    "question_text": "HLA B27 associated with:",
+    "options": {
+      "A": "Rieter syndrome",
+      "B": "Bachet disease",
+      "C": "DM",
+      "D": "Hashimoto"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 29,
+    "question_text": "Most common manifestation of autoimmune disease:",
+    "options": {
+      "A": "Arthritis",
+      "B": "Hematological",
+      "C": "Rash",
+      "D": "Nausea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 30,
+    "question_text": "Which of the following is most important for autoimmune disease?",
+    "options": {
+      "A": "ANA",
+      "B": "Anti DNA",
+      "C": "Anti RNA",
+      "D": "TLC"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 31,
+    "question_text": "TB has which Type of Hypersensitivity?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 3",
+      "C": "Type 4",
+      "D": "Type 2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 32,
+    "question_text": "Poststreptococcal glomerulonephritis has which type of hypersensitivity?",
+    "options": {
+      "A": "Type 4",
+      "B": "Type 2",
+      "C": "Type 1",
+      "D": "Type 3"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 33,
+    "question_text": "A child presents with complain of passing black coloured urine. History revealed that he had sore throat with group A streptococcus 3 weeks back Type of hypersensitivity in this patient:",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 34,
+    "question_text": "Type of hypersensitivity in hydrops fetalis:",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 35,
+    "question_text": "Least chance of rejection of:",
+    "options": {
+      "A": "Spleen",
+      "B": "Liver",
+      "C": "Pancrease",
+      "D": "Kidney"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 36,
+    "question_text": "An 11-month-old infant had upper and lower respiratory tract infections almost continuously since the time of birth, with organisms including Pneumocystis jiroveci and Pseudomonas aeruginosa identified. The baby also has oropharyngeal candidiasis. The baby succumbs to a cytomegalovirus pneumonitis At autopsy thymus is markedly hypoplastic, and lymph nodes throughout the body are small, with absent germinal centers on microscopic examination. Which of the following mechanisms is most likely to explain these findings?",
+    "options": {
+      "A": "Adenosine deaminase deficiency",
+      "B": "Thymic hypoplasia",
+      "C": "Human immunodeficiency virus infection",
+      "D": "Autoantibodies to both T and B lymphocytes",
+      "E": "Failure of development of 3rd and 4th pharyngeal pouches"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 37,
+    "question_text": "Patient having sore throat given amoxicillin injection died after amoxicillin injection which antibody will be raised?",
+    "options": {
+      "A": "IgE",
+      "B": "IgG",
+      "C": "IgM",
+      "D": "IgA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 38,
+    "question_text": "Mother having rubella acute infection in baby diagnosed by:",
+    "options": {
+      "A": "IgG2",
+      "B": "IgG1",
+      "C": "IgM",
+      "D": "IgG",
+      "E": "IgE"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 39,
+    "question_text": "Association of HLA B-5:",
+    "options": {
+      "A": "Reactive Arthritis",
+      "B": "Ankylosing Spondylitis",
+      "C": "Bechet disease",
+      "D": "DM"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 40,
+    "question_text": "New born recurrent infection which globin deficiency is likely?",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgM",
+      "D": "IgD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 41,
+    "question_text": "In AIDS, which cells are lost?",
+    "options": {
+      "A": "CD4+",
+      "B": "Cytotoxic T cells",
+      "C": "Macrophages",
+      "D": "Neutrophil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 42,
+    "question_text": "Patient Hands and feet progressively deform unable to open door and close button of cloth likely findings:",
+    "options": {
+      "A": "Increase RA Factor",
+      "B": "Decrease ESR",
+      "C": "Decrease RA Factor",
+      "D": "Decrease ANA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 43,
+    "question_text": "Sjorgen syndrome has which of the following features?",
+    "options": {
+      "A": "Dryness of eye",
+      "B": "Dryness of mouth",
+      "C": "Dryness of mouth and eye",
+      "D": "Genital sores"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 44,
+    "question_text": "Globulin produced by:",
+    "options": {
+      "A": "Plasma cells",
+      "B": "Basophils",
+      "C": "Eosinophils",
+      "D": "Mast cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 45,
+    "question_text": "ANA is characteristic of:",
+    "options": {
+      "A": "SLE",
+      "B": "Sjogren",
+      "C": "RA",
+      "D": "OA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 46,
+    "question_text": "Anaphylactic reaction due to:",
+    "options": {
+      "A": "IgM",
+      "B": "IgE",
+      "C": "Performed antibodies",
+      "D": "IgG",
+      "E": "IgA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 47,
+    "question_text": "In multiple myeloma, globulin’s are raised in the following order:",
+    "options": {
+      "A": "IgM, IgA, IgG",
+      "B": "IgG, IgA, IgM",
+      "C": "IgM, IgG, IgA",
+      "D": "IgA, IgG, IgM"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 48,
+    "question_text": "Mother’s milk contains highest concentration of:",
+    "options": {
+      "A": "IgA",
+      "B": "IgG",
+      "C": "IgM",
+      "D": "IgD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 49,
+    "question_text": "Which of the globulin is important for complement fixation?",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE",
+      "D": "IgM"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 50,
+    "question_text": "The antigen processed by the exogenous epitope presentation pathways are presented with which one of the following:",
+    "options": {
+      "A": "T cell receptors",
+      "B": "Fe receptor",
+      "C": "MHC class 2",
+      "D": "MHC class 1",
+      "E": "IgG heavy chains"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 51,
+    "question_text": "T-cell responsible for which disease:",
+    "options": {
+      "A": "DM-1",
+      "B": "DM-2",
+      "C": "Vasculitis",
+      "D": "Pemphigus vulgaris"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 52,
+    "question_text": "Innate immunity achieved by:",
+    "options": {
+      "A": "Monocytes",
+      "B": "Macrophages",
+      "C": "Hepatocytes",
+      "D": "NK cells"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 53,
+    "question_text": "TRALI occur in:",
+    "options": {
+      "A": "HLA",
+      "B": "18H",
+      "C": "6H",
+      "D": "2H"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 54,
+    "question_text": "Skin graft successful in:",
+    "options": {
+      "A": "Kidney Failure",
+      "B": "Raised Globulin",
+      "C": "Agammaglobulinemia",
+      "D": "Hypothermia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 55,
+    "question_text": "Patient undergoes renal transplant, he is likely to develop:",
+    "options": {
+      "A": "CMV",
+      "B": "Candidiasis",
+      "C": "EBV",
+      "D": "Herpes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 56,
+    "question_text": "Antigen binding site:",
+    "options": {
+      "A": "L only",
+      "B": "H only",
+      "C": "Hypervariable portion both H and L",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 57,
+    "question_text": "A ppd tuberculin test done to a patient. After 40 hours, 15mm erythema is noticed. Cells responsible for erythema are?",
+    "options": {
+      "A": "Helper T cell",
+      "B": "Cytotoxic T cell",
+      "C": "NK cells",
+      "D": "CD8 cells",
+      "E": "Eosinophill"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 58,
+    "question_text": "Antigen presenting cell which shows massive phagocytic effect:",
+    "options": {
+      "A": "Macrophage",
+      "B": "T cell",
+      "C": "B cell",
+      "D": "Eaosinophil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 59,
+    "question_text": "Which can directly induce antibody response without Helper T cell involvement?",
+    "options": {
+      "A": "Tetanus toxoid",
+      "B": "Bovine serum albumin",
+      "C": "Hep B vaccine",
+      "D": "Rabbit globulin",
+      "E": "Bacterial lipopolysaccride flagellin"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 60,
+    "question_text": "Tetanus prophylaxis is done with:",
+    "options": {
+      "A": "Tetanus Toxoid",
+      "B": "Tetanus globulin",
+      "C": "Washing hands",
+      "D": "Chlorhexidine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 61,
+    "question_text": "Most important cells in immunity:",
+    "options": {
+      "A": "Helper T-Cells",
+      "B": "Cytotoxic T-Cells",
+      "C": "NK Cells",
+      "D": "Antibodies"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 62,
+    "question_text": "Which of the following is an Opsonin?",
+    "options": {
+      "A": "C3a",
+      "B": "C3b",
+      "C": "C4",
+      "D": "IgM"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 63,
+    "question_text": "HLA B-27 is associated with:",
+    "options": {
+      "A": "Ankylosing Spondylitis",
+      "B": "Gout",
+      "C": "DM",
+      "D": "IBS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 64,
+    "question_text": "Baby develops severe hemolytic anemia for which the baby required urgent blood transfusion, which antibody crossed the placenta and responsible for the hemolytic disease of this baby:",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgA",
+      "D": "IgE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 65,
+    "question_text": "A female gave birth to a baby, after the birth she developed severe hemorrhage for which she was transfused with blood, after few minutes she developed signs and symptoms of transfusion reaction, what type of hypersensitivity response associated with transfusion related reaction:",
+    "options": {
+      "A": "Type-I hypersensitivity",
+      "B": "Type-II hypersensitivity",
+      "C": "Type-III hypersensitivity",
+      "D": "Type-IV hypersensitivity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 66,
+    "question_text": "A patient presented after a bee sting with dyspnea most likely due to:",
+    "options": {
+      "A": "Type I HSR",
+      "B": "Type II HSR",
+      "C": "Type III HSR",
+      "D": "Type IV HSR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 67,
+    "question_text": "Antigen appears on RBC at which of the following week?",
+    "options": {
+      "A": "10th Week",
+      "B": "15th Week",
+      "C": "20th Week",
+      "D": "30th Week"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 68,
+    "question_text": "Sjogren syndrome marker is:",
+    "options": {
+      "A": "Anti SSA",
+      "B": "Anti DsDNA",
+      "C": "Anti RNA",
+      "D": "ANA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 69,
+    "question_text": "A person having blood group A+ve will develop transfusion reaction if transfused with:",
+    "options": {
+      "A": "O+ve",
+      "B": "A+ve",
+      "C": "B+ve",
+      "D": "A-ve"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 70,
+    "question_text": "A patient presented with keratitis, xerostomia & joint pain is most likely suffering from:",
+    "options": {
+      "A": "Rheumatoid Arthritis",
+      "B": "Sjogren Syndrome",
+      "C": "SLE",
+      "D": "Wegner Granulomatosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 71,
+    "question_text": "Which of the following is known as anti-tumour cells?",
+    "options": {
+      "A": "NK Cells",
+      "B": "Antibodies",
+      "C": "Plasma Cells",
+      "D": "TNF"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 72,
+    "question_text": "CD means:",
+    "options": {
+      "A": "Cluster of Differentiation",
+      "B": "Classes of Differentiation",
+      "C": "Conduct of division",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 73,
+    "question_text": "In Scabies, itching is due to:",
+    "options": {
+      "A": "Crawling of mites over the skin",
+      "B": "Hypersensitivity to Mite protein",
+      "C": "Type III HSR",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 74,
+    "question_text": "Splenic Immunological function:",
+    "options": {
+      "A": "Red Pulp",
+      "B": "White pulp",
+      "C": "Marginal Zone",
+      "D": "Arterioles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 75,
+    "question_text": "Which of the following antibody cross the placenta?",
+    "options": {
+      "A": "IgM",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 76,
+    "question_text": "In acute infection of toxoplasmosis which of the following antibody will be raised?",
+    "options": {
+      "A": "IgM",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 77,
+    "question_text": "Autoimmune disease against single organ:",
+    "options": {
+      "A": "Rheumatoid Arthritis",
+      "B": "Hashimoto’s Thyroiditis",
+      "C": "SLE",
+      "D": "Sjogren Syndrome"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 78,
+    "question_text": "10 mins after transplant, Rejection is due to:",
+    "options": {
+      "A": "Cell Mediated",
+      "B": "Preformed Antibodies",
+      "C": "CD4",
+      "D": "CD8"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 79,
+    "question_text": "Important antigen that is involved in graft rejection:",
+    "options": {
+      "A": "MHC",
+      "B": "HLA",
+      "C": "Rh factor",
+      "D": "AB Blood antigen"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 80,
+    "question_text": "Patient appears to be having a butterfly rash on his face. What is the best initial test for this patient?",
+    "options": {
+      "A": "ANA",
+      "B": "Anti – ds – DNA",
+      "C": "Anti – Ro",
+      "D": "Anti – SSA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 81,
+    "question_text": "Which globulin is present in RH incompatibility?",
+    "options": {
+      "A": "IgM",
+      "B": "IgG",
+      "C": "IgD",
+      "D": "IgE",
+      "E": "IgA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 82,
+    "question_text": "The maturation of T cells occur in:",
+    "options": {
+      "A": "Bone Marrow",
+      "B": "Trachea",
+      "C": "Thymus",
+      "D": "Payers patches"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 83,
+    "question_text": "Which of the following is an autoimmune disease?",
+    "options": {
+      "A": "Myasthenia gravis",
+      "B": "SLE",
+      "C": "Sickle cell disease",
+      "D": "Graves disease"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 84,
+    "question_text": "Transplant from identical twin:",
+    "options": {
+      "A": "Allograft",
+      "B": "Autograft",
+      "C": "Isograft",
+      "D": "Heterograft"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 85,
+    "question_text": "What is the most important form of protection against influenza?",
+    "options": {
+      "A": "Patient isolation",
+      "B": "Vaccination and Immunization",
+      "C": "Wearing mask",
+      "D": "Sun exposure"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 86,
+    "question_text": "Which of the following is the feature of SLE?",
+    "options": {
+      "A": "Anti-coagulants increase",
+      "B": "Increase in red blood cells",
+      "C": "Complement system level decreases",
+      "D": "Complement system level increases"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 87,
+    "question_text": "The antibodies involved in urticaria:",
+    "options": {
+      "A": "IgA",
+      "B": "IgG",
+      "C": "IgM",
+      "D": "IgE"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 88,
+    "question_text": "Which type of immunity is acquired by DPT?",
+    "options": {
+      "A": "Adaptive",
+      "B": "Natural active",
+      "C": "Natural passive",
+      "D": "Artificial Active"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 89,
+    "question_text": "A patient is administered a tuberculin test. Which of the following types of hypersensitivity reaction is being tested and which cells would be expected to mediate a positive test result?",
+    "options": {
+      "A": "Type 4 HSR, T-helper cells",
+      "B": "Type 2 HSR, Macrophages",
+      "C": "Type 1 HSR, Eosinophils",
+      "D": "Type 3 HSR, Lymphocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 90,
+    "question_text": "Atopic asthma, foreign substance reacts with:",
+    "options": {
+      "A": "Mast cells",
+      "B": "Eosinophils",
+      "C": "Alveolar Epithelial cells",
+      "D": "Lymphocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 91,
+    "question_text": "Raynaud’s phenomenon is present in:",
+    "options": {
+      "A": "Arteriolar constriction",
+      "B": "Venoconstriction",
+      "C": "Peripheral vascular disease",
+      "D": "CNS"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 92,
+    "question_text": "Opsonization is done by:",
+    "options": {
+      "A": "Fc portion of IgG & C3b",
+      "B": "FC portion of IgM",
+      "C": "FC portion of IgM & C5a",
+      "D": "C5b & IgM"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 93,
+    "question_text": "Which one is related to type I hypersensitivity:",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Eosinophils",
+      "C": "Mast cells",
+      "D": "Monocytes",
+      "E": "Lymphocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 94,
+    "question_text": "Complement components are synthesized mostly in:",
+    "options": {
+      "A": "Plasma cells",
+      "B": "Langerhan’s cells",
+      "C": "Mast cells",
+      "D": "Hepatocytes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 95,
+    "question_text": "The diagnosis of amyloidosis is best confirmed by:",
+    "options": {
+      "A": "Bence jone’s proteinuria",
+      "B": "Bone marrow",
+      "C": "Clinical observation",
+      "D": "Congo red stain",
+      "E": "Rectal biopsy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 96,
+    "question_text": "A12 year old boy/girl repeated infections. Deficiency of:",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 97,
+    "question_text": "Conc about how many Percent in serum:",
+    "options": {
+      "A": "75%",
+      "B": "15%",
+      "C": "10%",
+      "D": "1%"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 98,
+    "question_text": "A young girl has history of SOB and wheezing , investigations reveal C1 deficiency and she lacks an esterase required by the body. Most likely diagnosis is",
+    "options": {
+      "A": "Angioedema",
+      "B": "Myeloperoxidase deficiency",
+      "C": "Chediak",
+      "D": "IgA deficiency",
+      "E": "IgE deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 99,
+    "question_text": "A lady having immune problems for 6 months. Now developed lymphoma with lymph node in neck. What happened?",
+    "options": {
+      "A": "AIDS",
+      "B": "SCID",
+      "C": "Syphilis",
+      "D": "CMV"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 100,
+    "question_text": "WBC and Endothelium adhesion by",
+    "options": {
+      "A": "ICAM 1",
+      "B": "VCAM",
+      "C": "ICAM 2",
+      "D": "ICAM 3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 101,
+    "question_text": "Most important cells of specific immunity",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Eosinophils",
+      "C": "Mast cells",
+      "D": "Basophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 102,
+    "question_text": "HLA DR3 is associated with",
+    "options": {
+      "A": "Type 1 DM",
+      "B": "Rheumatoid arthritis",
+      "C": "Ankylosing spondiolotis",
+      "D": "Reiters syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 103,
+    "question_text": "Negative Montoux test is seen in:",
+    "options": {
+      "A": "Patients taking immunosuppressants",
+      "B": "Pregnant",
+      "C": "TB vaccination",
+      "D": "A"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 104,
+    "question_text": "Deficiency of post synaptic acetylcholine receptors is present in which of following disease",
+    "options": {
+      "A": "Myasthenia gravis",
+      "B": "Digorge syndrome",
+      "C": "Tb",
+      "D": "Myositis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 105,
+    "question_text": "Factor that does not participate in development of natural immunity:",
+    "options": {
+      "A": "All four subtypes of globulins",
+      "B": "Complement",
+      "C": "Interferon",
+      "D": "Plasminogen",
+      "E": "Transfer of maternal immunity to child"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 106,
+    "question_text": "Which of following is not active immunity?",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Macrophages",
+      "C": "Anti toxin",
+      "D": "Leucocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 107,
+    "question_text": "Toll like receptors associated with",
+    "options": {
+      "A": "Innate immunity",
+      "B": "Passive immunity",
+      "C": "Active immunity",
+      "D": "Adaptive immunity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 108,
+    "question_text": "Antibody released against previously exposed antigen:",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE",
+      "D": "IgM",
+      "E": "IgD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 109,
+    "question_text": "During inflammation, T cells bind with",
+    "options": {
+      "A": "MHC",
+      "B": "HLA",
+      "C": "BRCA",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 110,
+    "question_text": "Pentavalent immunoglobulin is",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE",
+      "D": "IgM"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 111,
+    "question_text": "M bands produced by:",
+    "options": {
+      "A": "B cells",
+      "B": "Plasma cells",
+      "C": "T cells",
+      "D": "NK cells",
+      "E": "B(macrophages)"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 112,
+    "question_text": "For transplant, Best cell for HLA typing:",
+    "options": {
+      "A": "WBC",
+      "B": "RBC",
+      "C": "Kidney cells",
+      "D": "Hepatic cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 113,
+    "question_text": "A patient received PPD , after 24 hours she developed an indurated area along with macrophages . Most likely will be.",
+    "options": {
+      "A": "B lymphocytes",
+      "B": "T lymphocytes",
+      "C": "Neutrophills",
+      "D": "Esinophills",
+      "E": "Basophills"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 114,
+    "question_text": "Most important cells of chronic inflammation:",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Macrophages",
+      "C": "Monocytes",
+      "D": "Mast cells",
+      "E": "Epitheloid cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 115,
+    "question_text": "Following is produced by plasma cells:",
+    "options": {
+      "A": "Albumin",
+      "B": "Fibrinogen",
+      "C": "Gamma globulin",
+      "D": "Plasminogen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 116,
+    "question_text": "Young pregnant lady with history of recurrent abortions and thrombosis. The most common autoimmune disease associated with abortion can be",
+    "options": {
+      "A": "Anti thrombin 3 deficiency",
+      "B": "Hemophilia",
+      "C": "SLE",
+      "D": "Anti phospholipid syndrome"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 117,
+    "question_text": "IgGs given after the HBV prick are examples of which type of immunity:",
+    "options": {
+      "A": "Active",
+      "B": "Passive",
+      "C": "Screening",
+      "D": "None"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 118,
+    "question_text": "Immunologic test diagnostic for which?",
+    "options": {
+      "A": "Amoebic liver abscess",
+      "B": "Hydatid disease",
+      "C": "Sickle cell anemia",
+      "D": "Thalassemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 119,
+    "question_text": "Which doesn't cause eosinophilia?",
+    "options": {
+      "A": "IgM",
+      "B": "IgE",
+      "C": "Parasitic infestations",
+      "D": "Asthma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 120,
+    "question_text": "Polysaccharide antigen conjugated to increase immunity with vaccine:",
+    "options": {
+      "A": "Meningococcal",
+      "B": "Pertussis",
+      "C": "Chlamydia",
+      "D": "Vibrio"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 121,
+    "question_text": "Prozone phenomenon:",
+    "options": {
+      "A": "Antigen excess",
+      "B": "Antibody excess",
+      "C": "Antigen depletion",
+      "D": "Antibody depletion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 122,
+    "question_text": "An 8-month-old baby boy has history of repeated attacks of sinusitis, rhinitis, diarrhea and 2 episodes of pneumonia. On investigations his B lymphocytes are reduced with deficiency of all types of globulins. Diagnosis?",
+    "options": {
+      "A": "Isolated IgA deficiency",
+      "B": "Common variable deficiency",
+      "C": "X linked agammaglobulinemia",
+      "D": "sjorgen syndrome"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 123,
+    "question_text": "Women with bee sting develops swelling and acute inflammation. Most likely mediator for it is:",
+    "options": {
+      "A": "Histamine",
+      "B": "Bradykinin",
+      "C": "Prostaglandin",
+      "D": "Leukotreine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 124,
+    "question_text": "A boy with respiratory and GIT infections with normal lymphocytes but decreased or absent plasma cells:",
+    "options": {
+      "A": "Isolated IgA Def",
+      "B": "Common variable immunodeficiency",
+      "C": "DiGeorge",
+      "D": "brutons agammaglobulinemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 125,
+    "question_text": "A girl with recurrent staph abscesses. Also had two bouts of aspergillosis. Cause is",
+    "options": {
+      "A": "NADPH deficiency",
+      "B": "IgA def",
+      "C": "IgE deficiency",
+      "D": "IgD deficiency"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 126,
+    "question_text": "Patient with diagnosis of aplastic anemia, was given anti thymocyte globulin then he develops rashes. Hypersensitivity type:",
+    "options": {
+      "A": "Type - 1",
+      "B": "Type - 2",
+      "C": "Type - 3",
+      "D": "Type - 4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 127,
+    "question_text": "Patient visited hospital and have been diagnosed with amyloidosis. Which organ will be most affected by this condition?",
+    "options": {
+      "A": "Brain",
+      "B": "Kidney",
+      "C": "Lung",
+      "D": "Skin",
+      "E": "Heart"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 128,
+    "question_text": "Newborn presented with tetany On term. Serum Ca 6.3mg/dl on examination there is murmur present, cleft palate and got repeated infections from klebsiella, Pneumocysticcarinii, aspergillus fumigates cause is:",
+    "options": {
+      "A": "22q deletion (di george syndrome)",
+      "B": "Failure of plasma cell to mature in b and t cells",
+      "C": "Adenosine deaminase deficiency",
+      "D": "Cd4 cell deflected or deficient"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 129,
+    "question_text": "Myasthenia gravis due to:",
+    "options": {
+      "A": "IgG",
+      "B": "IgM",
+      "C": "IgA",
+      "D": "Ig D",
+      "E": "Ig E"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 130,
+    "question_text": "Contact dermatitis is type of which hypersensitivity",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 5"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 131,
+    "question_text": "Schwartzman reaction is",
+    "options": {
+      "A": "Complement Mediated",
+      "B": "Autoimmunity",
+      "C": "Endotoxin Mediated",
+      "D": "Antibody Mediated"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 132,
+    "question_text": "Female with symptoms of chest infection. She goes on vacations and gets relieved her symptoms. she came back home and vacations she develops again cough fever. CXR shows diffuse pulmonary nodules. The most likely reason is:",
+    "options": {
+      "A": "Mast cell degranulation",
+      "B": "Interstitial fibrosis",
+      "C": "Langerhans cell histiocytosis",
+      "D": "Granulomatous necrosis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 133,
+    "question_text": "Anti-voltage gated calcium channel antibodies are present in",
+    "options": {
+      "A": "Buckers myotrophy",
+      "B": "Lambert eaton syndrome",
+      "C": "Duchene muscular dystrophy",
+      "D": "Hypothyroidism",
+      "E": "Mysthenia gravis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 134,
+    "question_text": "A man was hiking and noticed a rash appeared on his arm which was not covered by clothing. The rash grew in size for 2 days and then subsided after 2 weeks. Which of the following reaction took place in this person:",
+    "options": {
+      "A": "Type 1 hypersensitivity",
+      "B": "Type 2 hypersensitivity",
+      "C": "Type 3 hypersensitivity",
+      "D": "Type 4 hypersensitivity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 135,
+    "question_text": "50 years lady received a renal transplant from a cadaver. One month later renal failure s/s were seem. Some biopsy findings pointing to HLA1 association, which cells are involved",
+    "options": {
+      "A": "CD4",
+      "B": "CD8",
+      "C": "Macrophages",
+      "D": "Mast cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 136,
+    "question_text": "Allograft is",
+    "options": {
+      "A": "From same species",
+      "B": "From identical twin",
+      "C": "From another species",
+      "D": "self to self"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 137,
+    "question_text": "Active immunity is by:",
+    "options": {
+      "A": "BCG",
+      "B": "Sabine polio",
+      "C": "Salk polio",
+      "D": "Tetanus"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 138,
+    "question_text": "When there is not adequate time left after exposure to infection, what should be given?",
+    "options": {
+      "A": "Active immunity",
+      "B": "Protection",
+      "C": "Passive immunity",
+      "D": "IV antibiotics"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 139,
+    "question_text": "B cell function is to produce:",
+    "options": {
+      "A": "IgG and IgM production",
+      "B": "IgM IgG and IgA production",
+      "C": "IgM production only",
+      "D": "IgA production only"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 140,
+    "question_text": "Cell commonly involved in graft rejection",
+    "options": {
+      "A": "CD4",
+      "B": "CD 10",
+      "C": "CD 15",
+      "D": "CD20",
+      "E": "CD8"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 141,
+    "question_text": "A neutropenic hypotensive patient admitted in oncology ward with History of dysuria & high grade fever. His blood culture yielded growth of P. aeruginosa. These findings suggest that the disease is a result of the excessive release of the following product",
+    "options": {
+      "A": "TNF",
+      "B": "IL 6",
+      "C": "IL 1",
+      "D": "Granulocyte Stimulating factor",
+      "E": "Proteases"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 142,
+    "question_text": "A women after in contact with TB undergoes an PPD test induration of about 3mm is on arm the phenomena is due to:",
+    "options": {
+      "A": "Type 4 hypersensitivity",
+      "B": "Type 3 hypersensitivity",
+      "C": "Type 1 hypersensitivity",
+      "D": "Type 2 hypersensitivity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 143,
+    "question_text": "Endotoxin mediates its action by?",
+    "options": {
+      "A": "IL1",
+      "B": "Activating compliment system",
+      "C": "IL 12",
+      "D": "C5a"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 144,
+    "question_text": "Low affinity for MHC1 differentiate in thymus to form",
+    "options": {
+      "A": "Helper Th1",
+      "B": "Helper Th2",
+      "C": "CD4",
+      "D": "CD8"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 145,
+    "question_text": "During Anaphylactic shock Histamine released from:",
+    "options": {
+      "A": "Plasma cells",
+      "B": "Mast cells",
+      "C": "Basophils",
+      "D": "Neutrophils",
+      "E": "Macrophages"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 146,
+    "question_text": "Antigen presenting cells which present antigen to T cell and start inflammatory process",
+    "options": {
+      "A": "Monocyte/macrophages",
+      "B": "T cells",
+      "C": "B cells",
+      "D": "MHC 1",
+      "E": "Basophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 147,
+    "question_text": "Most specific First line defense mechanism is",
+    "options": {
+      "A": "Lymphocyte",
+      "B": "Plasma Cells",
+      "C": "Skin and its mucous membrane",
+      "D": "Neutrophil",
+      "E": "T cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 148,
+    "question_text": "A woman of 30 years old needs renal transplantation. 5 donors came up for her. Which of the following is best match for organ transplantation",
+    "options": {
+      "A": "Her Identical twin",
+      "B": "Sister",
+      "C": "Husband",
+      "D": "Son",
+      "E": "Half brother"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 149,
+    "question_text": "Class of tumor cell which acts against host cell:",
+    "options": {
+      "A": "CD4",
+      "B": "CD8",
+      "C": "MHC1",
+      "D": "MHC2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 150,
+    "question_text": "Cells containing dense granules and have IgE antibodies on their cell membrane?",
+    "options": {
+      "A": "Basophils",
+      "B": "Neutrophil",
+      "C": "Eosinophils",
+      "D": "Lymphocytes",
+      "E": "Histaminise"
+    },
+    "correct_answer": "A"
+  }
+,
+  {
+    "mcq_number": 151,
+    "question_text": "Myasthenia gravis shows which type of hypersensitivity?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 152,
+    "question_text": "A patient of HIV having Decrease CD4 count follow up in this patient is done by?",
+    "options": {
+      "A": "PCR",
+      "B": "ELISA",
+      "C": "Western blot",
+      "D": "CD 8 cells",
+      "E": "CD 4 helper cells"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 153,
+    "question_text": "IgE is present on the surface of which cell?",
+    "options": {
+      "A": "Basophil",
+      "B": "Eosinophil",
+      "C": "Plasma cell",
+      "D": "Lymphocytes",
+      "E": "Neutrophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 154,
+    "question_text": "A boy hit by something develop hand swelling and Fever cause of fever is?",
+    "options": {
+      "A": "Prostaglandin",
+      "B": "IL8",
+      "C": "IL1",
+      "D": "Leukotrienes",
+      "E": "Histamine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 155,
+    "question_text": "Regarding Microglial cells in brain:",
+    "options": {
+      "A": "Always active",
+      "B": "Antigen presenting cells",
+      "C": "Help lymphocytes in immunity",
+      "D": "Make memory cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 156,
+    "question_text": "Infectious mononucleosis involve cells which appear as Atypical cells are of what type of Cells?",
+    "options": {
+      "A": "Activated B cells",
+      "B": "Plasma cells",
+      "C": "NK cells",
+      "D": "Activated T cells",
+      "E": "Macrophages"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 157,
+    "question_text": "Patient had Kidney transplantation develop cyanosis and organ failure within 10 minutes cause is:",
+    "options": {
+      "A": "Cytotoxic T cell rejection",
+      "B": "Graft vs host disease",
+      "C": "Hyperacute rejection",
+      "D": "Antibody mediated rejection",
+      "E": "Type 4 Hypersensitivity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 158,
+    "question_text": "Young girl presented with malar rash, polyarthritis swelling in hand sensitive to heat and cold, ANA positive what is next investigation?",
+    "options": {
+      "A": "CRP level",
+      "B": "Serum complement C1 level",
+      "C": "Anti RNP",
+      "D": "Rheumatoid factor"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 159,
+    "question_text": "Atopic asthma blood picture will show",
+    "options": {
+      "A": "Eosinophilia",
+      "B": "Lymphocytosis",
+      "C": "Monocytosis",
+      "D": "Basophilia"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 160,
+    "question_text": "T lymphocytes activate MHC Class II by",
+    "options": {
+      "A": "IL 1",
+      "B": "Alpha interferon",
+      "C": "Gamma interferon",
+      "D": "Beta interferon",
+      "E": "IgA"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 161,
+    "question_text": "Patient presented in OPD with complain of fever and examination tonsilly found to be red swollen. Mechanism behind these immune symptoms?",
+    "options": {
+      "A": "Bradykinin",
+      "B": "IL1 and TNF",
+      "C": "Leukotriens",
+      "D": "C5a"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 162,
+    "question_text": "Patient presented in ER with bee sting what will be raised?",
+    "options": {
+      "A": "IgG",
+      "B": "IgE",
+      "C": "IgM",
+      "D": "IgD",
+      "E": "IgA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 163,
+    "question_text": "A 5-year-old boy comes to the clinic with recurrent cervical lymphadenopathy and infection. On each occasion klebsiella pneumonia isolated. He is most likely suffering from which immunodeficient state?",
+    "options": {
+      "A": "Bruton’s agammaglobinemia",
+      "B": "Severe combined agammaglobinemia",
+      "C": "Chronic granulomatous disease",
+      "D": "Common variable agammaglobinemia"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 164,
+    "question_text": "A blood group has which antibodies?",
+    "options": {
+      "A": "Anti A antibodies",
+      "B": "Anti B antibodies",
+      "C": "Both Anti A and Anti B antibodies",
+      "D": "No antibodies"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 165,
+    "question_text": "A patient having Rash, Joint pain with increase photosensitivity. Anti DsDNA is increased Two fold. What is likely type of hypersensitivity develop in this patient",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 1+2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 166,
+    "question_text": "Type 1 hypersensitivity reaction occurs due to eosinophils and this mechanism will occur due to:",
+    "options": {
+      "A": "Organic Dust",
+      "B": "Inhaled dust",
+      "C": "Liver Fluke",
+      "D": "Silica",
+      "E": "Asbestos"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 167,
+    "question_text": "Most important pre-requisite for transplantation is:",
+    "options": {
+      "A": "ABO compatibility",
+      "B": "Donor matching",
+      "C": "HLA compatibility",
+      "D": "CBC",
+      "E": "X-ray"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 168,
+    "question_text": "Antibody production in response to foreign Antigen is:",
+    "options": {
+      "A": "Immunostimulant",
+      "B": "Immunogenicity",
+      "C": "Immunoinhibitory",
+      "D": "Immune modifier"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 169,
+    "question_text": "Treatment of erythroblastosis fetalis of B+ Exchange transfusion done with which of following:",
+    "options": {
+      "A": "B+ve",
+      "B": "B-ve",
+      "C": "AB+ve",
+      "D": "Anti D",
+      "E": "O-ve"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 170,
+    "question_text": "Least likely reaction when B+ blood transfused to",
+    "options": {
+      "A": "Packed RBC O+",
+      "B": "Whole blood O+",
+      "C": "Whole blood AB+",
+      "D": "Whole blood AB-",
+      "E": "Packed blood AB-"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 171,
+    "question_text": "In linear antibody complex deposition on GBM on biopsy, which type of hypersensitivity it is?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 4+2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 172,
+    "question_text": "Which is example of type 3 hypersensitivity?",
+    "options": {
+      "A": "Asthma",
+      "B": "Transfusion Reaction",
+      "C": "Farmers Lung",
+      "D": "COPD",
+      "E": "TB"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 173,
+    "question_text": "Patient after renal transplantation develops moderate Acute cellular rejection acute type what finding are present?",
+    "options": {
+      "A": "Neutrophils in myocardium",
+      "B": "Lymphocyte in myocardium",
+      "C": "Coronary stenosis",
+      "D": "Coronary dilation",
+      "E": "Ventricular aneurysm"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 174,
+    "question_text": "HLA B27 is associated with:",
+    "options": {
+      "A": "Rey syndrome",
+      "B": "Uveatis",
+      "C": "R.A",
+      "D": "OA",
+      "E": "Psoriatic arthritis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 175,
+    "question_text": "Mother Rh +Ve & father is Rh –ve what’s the risk?",
+    "options": {
+      "A": "All babies will be affected",
+      "B": "Needs serious counseling",
+      "C": "Rh antigen will leak into mother circulation",
+      "D": "Rh antibodies will be formed"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 176,
+    "question_text": "Major antigen presenting cells:",
+    "options": {
+      "A": "Langerhan",
+      "B": "Macrophage",
+      "C": "Dendritic",
+      "D": "Micoglial"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 177,
+    "question_text": "Which one of these crosses the placenta and affects baby?",
+    "options": {
+      "A": "IgM",
+      "B": "Thyroxin",
+      "C": "PTU",
+      "D": "IgE"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 178,
+    "question_text": "Drug preventing binding of IgE to mast and basophil?",
+    "options": {
+      "A": "Sodium cromoglycate",
+      "B": "Anti histamine",
+      "C": "Epinephrine",
+      "D": "Atropine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 179,
+    "question_text": "Body limit production of Antibodies due to",
+    "options": {
+      "A": "Not enough genome for production of Antibodies",
+      "B": "Not enough genome",
+      "C": "Not more antigenic sites on bacteria",
+      "D": "Low serum antibody",
+      "E": "Dying bacteria"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 180,
+    "question_text": "Diversion in antibody long human genome is required for production of antibody",
+    "options": {
+      "A": "Less receptor for human bacteria",
+      "B": "Gene v mutation is susceptible",
+      "C": "J gene is required for cell",
+      "D": "C gene for"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 181,
+    "question_text": "IGG2 molecule is composed of which of the following",
+    "options": {
+      "A": "One alpha,one gamma2,2 kappa L chains",
+      "B": "One gammal chain ,2 kappa chains",
+      "C": "2 gamma 1 chains and one kappa and one lambda chain",
+      "D": "2 gamma 1 chain,2 kappa L chains",
+      "E": "2 gamma 2 chains and 2 kappa L chains"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 182,
+    "question_text": "CD 4, TH1 produce which cytokine?",
+    "options": {
+      "A": "IL 2",
+      "B": "IL 4",
+      "C": "IL 6",
+      "D": "IL 5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 183,
+    "question_text": "Biopsy of normal skin Immunofluorescence shows antibodies with IgG deposited at dermoepidermal junction due to what",
+    "options": {
+      "A": "CD4 positive T cells infiltrating skin",
+      "B": "Compliment mediated",
+      "C": "CD8 positive T cells infiltrating skin",
+      "D": "Macrophages infiltration"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 184,
+    "question_text": "Immune cells located in",
+    "options": {
+      "A": "Lamina propria",
+      "B": "Lamina densa",
+      "C": "Reticular layer",
+      "D": "Lamina Serosa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 185,
+    "question_text": "Barr body associated with which cell type?",
+    "options": {
+      "A": "Lymphocyte",
+      "B": "Macrophages",
+      "C": "Plasma cells",
+      "D": "Eosinophils",
+      "E": "Neutrophils"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 186,
+    "question_text": "Regarding Gamma globulin:",
+    "options": {
+      "A": "Facilitate roulex formation",
+      "B": "Produce by liver",
+      "C": "Produce Antibodies",
+      "D": "Facilitate Ammonia formation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 187,
+    "question_text": "Labour with high fever hemoptysis effector molecule?",
+    "options": {
+      "A": "MAC",
+      "B": "IgA",
+      "C": "Tol receptor",
+      "D": "IgG"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 188,
+    "question_text": "E Fetalis antibody is:",
+    "options": {
+      "A": "IgG",
+      "B": "IgD",
+      "C": "IgA",
+      "D": "IgE"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 189,
+    "question_text": "14 year girl with rash on legs and arms with itching whenever she eats fish after 1hr and resolves spontaneously after some time this is most likely:",
+    "options": {
+      "A": "Antibody mediated",
+      "B": "Localized anaphylaxis",
+      "C": "T cell mediated",
+      "D": "Immune complex deposition"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 190,
+    "question_text": "Biological activity of Immunoglobin is due to:",
+    "options": {
+      "A": "FC portion",
+      "B": "Fab portion",
+      "C": "Disulphide bonds",
+      "D": "Ionic bonds"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 191,
+    "question_text": "After Cut in Skin Bacteria enter it causes",
+    "options": {
+      "A": "Apoptosis of surrounding cell",
+      "B": "Activate IFG",
+      "C": "Activate NK cell",
+      "D": "Active Compliment",
+      "E": "Activate Lymphocytes"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 192,
+    "question_text": "A young patient know atopic having urticaria , rash presented with dyspnea on mild physical activity. He said these symptoms are due to pizza containing tomatoes , Chicken and Mushroom, he sometimes remain normal after taking pizza of same brand what is cause of these symptoms",
+    "options": {
+      "A": "Allergy to tomatoes",
+      "B": "Allergy to Chicken",
+      "C": "Allergy to Mushroom",
+      "D": "Exercise induced food anaphylaxis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 193,
+    "question_text": "25 Years old Patient having depigmented Skin lesion on back , lips and cheeks. There is family history of Diabetes. What is suitable pathogenesis of this disease",
+    "options": {
+      "A": "Local reaction",
+      "B": "Abnormal keratinocyte metabolism",
+      "C": "Genetic disease",
+      "D": "Autoimmune"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 194,
+    "question_text": "Delayed cell immunity mediated by",
+    "options": {
+      "A": "IL 1",
+      "B": "IL2",
+      "C": "IL 8",
+      "D": "IL 12"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 195,
+    "question_text": "Most abundant immunoglobin in serum",
+    "options": {
+      "A": "IgM",
+      "B": "IgA",
+      "C": "IgG",
+      "D": "IgD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 196,
+    "question_text": "Secondary immunodeficiency is due to decrease in",
+    "options": {
+      "A": "Natural killer cells",
+      "B": "CD 4 helper cells",
+      "C": "CD 8 cytotoxic cells",
+      "D": "B lymphocytes"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 197,
+    "question_text": "After giving blood transfusion patients developed hypersensitivity reaction what type of reaction is this",
+    "options": {
+      "A": "Type 1 HS",
+      "B": "Type 2 HS",
+      "C": "Type 3 HS",
+      "D": "Type 4 HS",
+      "E": "Type 2 HS"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 198,
+    "question_text": "Delayed cell mediated hypersensitivity is following:",
+    "options": {
+      "A": "Post Strep GN",
+      "B": "Contact Dermatitis",
+      "C": "SLE",
+      "D": "Rhinitis",
+      "E": "Farmer lung"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 199,
+    "question_text": "Antibody in Allergic rhinitis is",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgE",
+      "D": "IgD",
+      "E": "IgF"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 200,
+    "question_text": "Gamma globulin synthesis occurs in",
+    "options": {
+      "A": "Spleen",
+      "B": "Intestine",
+      "C": "Liver",
+      "D": "Lung"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 201,
+    "question_text": "Sedimentation of erythrocyte increases by Decrease in:",
+    "options": {
+      "A": "Temperature",
+      "B": "Roulex",
+      "C": "Albumin",
+      "D": "Pressure",
+      "E": "Size of particle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 202,
+    "question_text": "A Patient of TB is on Att for 2 months. Tb antibodies characteristic is",
+    "options": {
+      "A": "Circulating in plasma",
+      "B": "Bound to nucleus",
+      "C": "Cell bound",
+      "D": "Albumin bound"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 203,
+    "question_text": "A child presented with recurrent rhinitis urticaria and rash on lower limb. What is the cause",
+    "options": {
+      "A": "Type 3 HS",
+      "B": "Type 2 HS",
+      "C": "Compliment mediated",
+      "D": "Antibody mediated",
+      "E": "Type 1 HS"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 204,
+    "question_text": "IgE receptor present on",
+    "options": {
+      "A": "Megakaryocyte",
+      "B": "Basophil",
+      "C": "Lymphocyte",
+      "D": "Neutrophil",
+      "E": "Monocyte"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 205,
+    "question_text": "Antigen presenting TH1 cells present the antigens with",
+    "options": {
+      "A": "MHC class 1",
+      "B": "MHC class 2",
+      "C": "CD8",
+      "D": "CD4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 206,
+    "question_text": "Primary immune system organ, where T and B lymphocytes are formed and mature is which of following?",
+    "options": {
+      "A": "Bone marrow and thymus",
+      "B": "Thymus and spleen",
+      "C": "Spleen and bone marrow",
+      "D": "Spleen and liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 207,
+    "question_text": "Most sensitive test for screening of SLE?",
+    "options": {
+      "A": "Anti smith",
+      "B": "Anti phospholipid",
+      "C": "Anti DS",
+      "D": "ANA"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 208,
+    "question_text": "A ppd tuberculin test done to a patient. After 40 hours, 15mm erythema is noticed. Reactions occur via",
+    "options": {
+      "A": "IgE cell release from mast cell",
+      "B": "Sensitized t cells",
+      "C": "Antigen antibody mediated",
+      "D": "Antigen to specific antibody"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 209,
+    "question_text": "When do antibodies form in a mother with Rh -ve and baby Rh +ve.",
+    "options": {
+      "A": "Antepartum",
+      "B": "After 2 weeks of delivery of first baby",
+      "C": "After 4 weeks",
+      "D": "Last trimester of first pregnancy"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 210,
+    "question_text": "Female with fever and sore throat and 60% B lymphocytes. B & T lymphocytes normal percentage in the blood?",
+    "options": {
+      "A": "B lymphocytes 50%",
+      "B": "T lymphocytes 80 - 90% & B lymphocytes 10 - 20%.",
+      "C": "B lymphocytes 90% and T lymphocytes 10%",
+      "D": "T lymphocytes 20%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 211,
+    "question_text": "Contact Dermatitis has following Hypersensitivity",
+    "options": {
+      "A": "Type 1",
+      "B": "Compliment mediated",
+      "C": "Type 3",
+      "D": "Delayed Hypersensitivity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 212,
+    "question_text": "IgE receptor present on",
+    "options": {
+      "A": "Plasma cells",
+      "B": "Monocytes",
+      "C": "Eosinophils",
+      "D": "Macrophages",
+      "E": "Mast cells"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 213,
+    "question_text": "In Erythroblastosis foetalis...Mother blood Rh- and Father blood Rh+. Maternal blood agglutinates with anti-sera B and anti-sera D. which blood is suitable for transfusion.",
+    "options": {
+      "A": "A+",
+      "B": "B+",
+      "C": "O+",
+      "D": "AB+"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 214,
+    "question_text": "Tb vaccination leads to:",
+    "options": {
+      "A": "Hypersensitivity type 3",
+      "B": "Hypersensitivity type 4",
+      "C": "Hypersensitivity type 2",
+      "D": "Thick GB membrane",
+      "E": "Honeycomb pattern"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 215,
+    "question_text": "Plasma cells formed by which of following?",
+    "options": {
+      "A": "B cells",
+      "B": "M cells",
+      "C": "Plasma cells",
+      "D": "Macrophages",
+      "E": "NK cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 216,
+    "question_text": "MHC-I is associated with which of following?",
+    "options": {
+      "A": "CD4",
+      "B": "CD8",
+      "C": "CD2",
+      "D": "NK cells",
+      "E": "WBC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 217,
+    "question_text": "Type 3 HS occur in",
+    "options": {
+      "A": "TB",
+      "B": "Asthma",
+      "C": "SLE",
+      "D": "Rheumatoid arthritis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 218,
+    "question_text": "In Tb helper T cells are involved in which type of reaction:",
+    "options": {
+      "A": "Type 1 HSR",
+      "B": "Type 2 HSR",
+      "C": "Type 3 HSR",
+      "D": "Type 4 HSR"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 219,
+    "question_text": "Immunoglobulin in Allergic reaction is:",
+    "options": {
+      "A": "IgM",
+      "B": "IgE",
+      "C": "IgG",
+      "D": "IgI"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 220,
+    "question_text": "Elastin is produced by",
+    "options": {
+      "A": "Hepatocytes",
+      "B": "Fibroblast",
+      "C": "Melanocytes",
+      "D": "Macrophages"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 221,
+    "question_text": "IgE in Allergic reaction can be prevented by",
+    "options": {
+      "A": "Antimalarial",
+      "B": "Antibiotic",
+      "C": "Antihistamine",
+      "D": "Anticoagulant"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 222,
+    "question_text": "Which lymphoid organ has paracortex action?",
+    "options": {
+      "A": "Thymus",
+      "B": "Spleen",
+      "C": "Lymph",
+      "D": "Tonsils",
+      "E": "Palatine tonsils"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 223,
+    "question_text": "A patient was give penicillin for some infection he is allergic to penicillin what will be found in blood?",
+    "options": {
+      "A": "IgG",
+      "B": "IgM",
+      "C": "IgE",
+      "D": "IgD",
+      "E": "IgG3"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 224,
+    "question_text": "Which of following cause compliment fixation?",
+    "options": {
+      "A": "IgA",
+      "B": "IgG1",
+      "C": "IgG2",
+      "D": "IgD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 225,
+    "question_text": "Terminal Compliment Deficiency result in Increase Risk of Neisseria Bacteremia. Result in Angioedema, Increase Bradykinin and Low C4 Level",
+    "options": {
+      "A": "IgM",
+      "B": "IgA",
+      "C": "IgG",
+      "D": "IgD",
+      "E": "IgE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 226,
+    "question_text": "In renal transplant, what is the single most significant test to be done?",
+    "options": {
+      "A": "ABO Grouping and cross matching",
+      "B": "HLA typing and matching",
+      "C": "MHC",
+      "D": "Graft vs host",
+      "E": "CBC"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 227,
+    "question_text": "Component of innate immunity active against viruses:",
+    "options": {
+      "A": "NK cells",
+      "B": "T cells",
+      "C": "B cells",
+      "D": "Memory B cells",
+      "E": "Monocyte"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 228,
+    "question_text": "Acquired immunity by:",
+    "options": {
+      "A": "Compliment",
+      "B": "Antibodies",
+      "C": "Allergy",
+      "D": "Parasites"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 229,
+    "question_text": "T lymphocytes predominantly mature at which of the following?",
+    "options": {
+      "A": "Cortex",
+      "B": "Germinal center",
+      "C": "Paracortex",
+      "D": "Medulla"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 230,
+    "question_text": "Woman has Joint pain with photosensitivity and has Anti DsDNA positive with pleural and pericardial effusion. Urea is raised more than 66 times.What is the likely mechanism?",
+    "options": {
+      "A": "Antigen antibody complex in different tissue",
+      "B": "Antibody in tissue",
+      "C": "Cells in Tissue",
+      "D": "IgE mediated damage",
+      "E": "Immune complex deposition"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 231,
+    "question_text": "Patient came with of skin rash and urticaria history of diphtheria vaccine few days back type of hypersensitivity will be:",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4",
+      "E": "Type 1+2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 232,
+    "question_text": "Latex Gloves cause allergy by:",
+    "options": {
+      "A": "Polysporin",
+      "B": "Tectum",
+      "C": "Acid",
+      "D": "Zinc"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 233,
+    "question_text": "Medical professional got eczematous dermatitis by wearing latex gloves Type of Hypersensitivity is:",
+    "options": {
+      "A": "Type 1",
+      "B": "Type2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 234,
+    "question_text": "Grafts between genetically identical twins:",
+    "options": {
+      "A": "Are not rejected even without immunosuppression",
+      "B": "Require immunosuppression drugs",
+      "C": "Rejected with immunosuppression drugs",
+      "D": "Rejected due to antibiotic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 235,
+    "question_text": "Person after two weeks after transplant having everything normal but develop petechiae and desquamations likely cause is",
+    "options": {
+      "A": "Hypersensitivity",
+      "B": "Graft vs Host disease",
+      "C": "Acute transfusion reaction",
+      "D": "Delayed response",
+      "E": "Septic shock"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 236,
+    "question_text": "Immunity against Covid 19 and tumour cells is of:",
+    "options": {
+      "A": "Neutrophils",
+      "B": "NK cells",
+      "C": "Macrophages",
+      "D": "Basophil",
+      "E": "Eosinophil"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 237,
+    "question_text": "Which receptor, if absent, may result in tumor cells not being killed by host immune cells?",
+    "options": {
+      "A": "MHC1",
+      "B": "MHC2",
+      "C": "NK Cells",
+      "D": "WBCs"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 238,
+    "question_text": "Germinal centres are present in which of following:",
+    "options": {
+      "A": "Cortex of lymph node",
+      "B": "Medulla of lymph node",
+      "C": "Thymus",
+      "D": "Liver"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 239,
+    "question_text": "Reinfection with same antigen now which antibody will rise:",
+    "options": {
+      "A": "IgD",
+      "B": "IgG",
+      "C": "IgM",
+      "D": "IgE"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 240,
+    "question_text": "A patient was give penicillin for some infection it causes allergic reaction Having IgE and Eosinophils this is due to:",
+    "options": {
+      "A": "Monocytes",
+      "B": "Mast cells",
+      "C": "Plasma cells",
+      "D": "Neutrophils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 241,
+    "question_text": "False positive anti sera d result from?",
+    "options": {
+      "A": "Lab error",
+      "B": "Use of DAT",
+      "C": "Rouleax formation",
+      "D": "None"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 242,
+    "question_text": "Mechanism of SLE is?",
+    "options": {
+      "A": "Autoimmune",
+      "B": "Graft Vs host disease",
+      "C": "Complement binding",
+      "D": "Delayed hypersensitivity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 243,
+    "question_text": "TB test produces hypersensitivity reaction by which mechanism?",
+    "options": {
+      "A": "Cytotoxicity",
+      "B": "Cytokine mediated",
+      "C": "Allergen mediated",
+      "D": "Contact dermatitis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 244,
+    "question_text": "Mechanism of tuberculin test is:",
+    "options": {
+      "A": "NK cells",
+      "B": "CD 8 cells",
+      "C": "Antigen presenting Lymphocytes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 245,
+    "question_text": "Interleukin secreted by T cell causing RBC growth:",
+    "options": {
+      "A": "Growth factor",
+      "B": "Interleukin 2",
+      "C": "Interleukin 3",
+      "D": "Interleukin 4",
+      "E": "Interleukin 5"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 246,
+    "question_text": "NK cells cause following:",
+    "options": {
+      "A": "Destroy normal cells",
+      "B": "Compliment activation",
+      "C": "Destroy virus infected cells",
+      "D": "Antigen presenting"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 247,
+    "question_text": "Type of hypersensitivity in SLE:",
+    "options": {
+      "A": "Type- 1",
+      "B": "Type- 2",
+      "C": "Type- 3",
+      "D": "Type- 4"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 248,
+    "question_text": "Best approach to prevent CMV infection in transplant patient:",
+    "options": {
+      "A": "Screening of Recipient",
+      "B": "Screening of donor blood and CMV negative blood transfusion",
+      "C": "CMV positive blood transfusion",
+      "D": "Screening of donor and CMV positive blood"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 249,
+    "question_text": "Recurrent reaction/fever with blood transfusion, best to do:",
+    "options": {
+      "A": "Antipyretic",
+      "B": "Packed cells transfusion",
+      "C": "Leukocyte Filter",
+      "D": "Antibody test"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 250,
+    "question_text": "Cytotoxic T cells cause immune reaction by:",
+    "options": {
+      "A": "Interleukin",
+      "B": "Compliment activation",
+      "C": "NK cells",
+      "D": "Plasma cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 251,
+    "question_text": "Killed Whole Organism used as vaccine for?",
+    "options": {
+      "A": "Tetanus",
+      "B": "Pertussive(Whooping Cough)",
+      "C": "Mumps"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 252,
+    "question_text": "Half life of IgA is",
+    "options": {
+      "A": "9 days",
+      "B": "20 days",
+      "C": "6 days",
+      "D": "2 days"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 253,
+    "question_text": "A child presented with chronic diarrhea & recurrent respiratory tract infections & there is history of reaction to blood transfusion. Whats the probable cause?",
+    "options": {
+      "A": "Graft vs host disease",
+      "B": "IgA deficiency",
+      "C": "IgG Deficiency",
+      "D": "Brutons agammaglobulinemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 254,
+    "question_text": "Which one of the following is memory immunoglobin?",
+    "options": {
+      "A": "IgA",
+      "B": "IgM",
+      "C": "IgE",
+      "D": "IgG"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 255,
+    "question_text": "What is true regarding blood group antigens?",
+    "options": {
+      "A": "Agglutinin",
+      "B": "Follow autosomal recessive pattern",
+      "C": "Lipid in nature",
+      "D": "Present on WBC surface",
+      "E": "Glycoprotein"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 256,
+    "question_text": "In erythroblastosis foetalis type of hypersensitivity is",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 257,
+    "question_text": "Common Primary Immunodeficiency",
+    "options": {
+      "A": "IgA deficiency",
+      "B": "X linked agammaglob",
+      "C": "SCID",
+      "D": "Di George syndrome"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 258,
+    "question_text": "Antibodies are produced by Mast cells . What's the percentage of IgA?",
+    "options": {
+      "A": "30%",
+      "B": "70%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 259,
+    "question_text": "A patient with history of chronic cough and fever , reticulonodular opacities on xray , epithelialiod cells seen on histology, what type of reaction is occurring in it",
+    "options": {
+      "A": "Type 3 HSR",
+      "B": "Type 2 HSR",
+      "C": "Type 4 HSR",
+      "D": "Type 1 HSR"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 260,
+    "question_text": "Cytoplasmic Anti neutrophilic Antibodies are seen in ?",
+    "options": {
+      "A": "Vasculitis",
+      "B": "Sarcidosis",
+      "C": "TB",
+      "D": "Arthritis",
+      "E": "Mesothelioma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 261,
+    "question_text": "Function of C3a and C5a is",
+    "options": {
+      "A": "Increase vascular permeability and anaphylatoxin",
+      "B": "Chemotaxis",
+      "C": "Phagocytosis",
+      "D": "Allergic reaction"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 262,
+    "question_text": "Which one of the following is correct regarding the percentage of B & T lymphocytes?",
+    "options": {
+      "A": "B Lymphocytes 80-90%",
+      "B": "T Lymphocytes 80-90%",
+      "C": "T Lymphocytes 10-20%",
+      "D": "B Lymphocytes 50-60%",
+      "E": "T Lymphocytes 50-60%"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 263,
+    "question_text": "Best investigation for HLA is",
+    "options": {
+      "A": "Axillary tissue",
+      "B": "Bone marrow",
+      "C": "Wbc",
+      "D": "Buccal mucosa"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 264,
+    "question_text": "Watchman presented with high grade fever , hemoptysis effector molecule is",
+    "options": {
+      "A": "MAC",
+      "B": "IgG",
+      "C": "Toll receptor",
+      "D": "NK cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 265,
+    "question_text": "A guard was performing night duty in cold weather presents with high grade fever, Cough, and Breathless which effector cell is primarily involved",
+    "options": {
+      "A": "Toll like receptors",
+      "B": "NK cells",
+      "C": "Cytotoxic T cells",
+      "D": "Macrophages",
+      "E": "Plasma cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 266,
+    "question_text": "Which one is primary lymphoid organ",
+    "options": {
+      "A": "Thymus",
+      "B": "Spleen",
+      "C": "Lymph",
+      "D": "Tonsils",
+      "E": "Palatine tonsils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 267,
+    "question_text": "Lymphoid tissue with eosinophilic cortex and basophilic medulla",
+    "options": {
+      "A": "Lymph node",
+      "B": "Thymus",
+      "C": "Spleen",
+      "D": "Tonsils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 268,
+    "question_text": "Patient had cough and x-ray shows hilar lymphadenopathy, non caseating granuloma defective cells are",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Eosinophils",
+      "C": "T lymphocytes",
+      "D": "Plasma cells"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 269,
+    "question_text": "A patient has asthma for 6 months cell involved will be",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Basophils",
+      "C": "T lymphocytes",
+      "D": "Plasma cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 270,
+    "question_text": "Best for HLA sample is",
+    "options": {
+      "A": "WBC",
+      "B": "Bone marrow",
+      "C": "Cells of buccal mucosa",
+      "D": "Basophils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 271,
+    "question_text": "Regarding the human MHC",
+    "options": {
+      "A": "Codes for blood group antigens",
+      "B": "Codes for three classes of antigens",
+      "C": "is composed of HLA genes",
+      "D": "Resides at chromosomes no 12",
+      "E": "Will be identical in dizygotic twins"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 272,
+    "question_text": "A patient of chronic osteomyelitis is now diagnosed with amyloidosis. What is the most likely cause?",
+    "options": {
+      "A": "Systemic amyloidosis",
+      "B": "Reactive amyloidosis",
+      "C": "Shigella",
+      "D": "Complylobacter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 273,
+    "question_text": "What is the function of NK cells?",
+    "options": {
+      "A": "Kill virus infected cells",
+      "B": "Complement Stimulation",
+      "C": "Destroy normal cells",
+      "D": "Antigen presenting cells",
+      "E": "Kill bacteria"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 274,
+    "question_text": "Allograft is:",
+    "options": {
+      "A": "From one human to another",
+      "B": "From human to animal",
+      "C": "Between identical twins",
+      "D": "From one part of the body to another"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 275,
+    "question_text": "A girl developed urticaria rash at arm trunk leg and face after eating sea food.what will be the cause of it",
+    "options": {
+      "A": "Localized type 1 Anaphylaxis",
+      "B": "Generalized type 2 hypersensitive",
+      "C": "Type 4 hypersensitive",
+      "D": "Type 3 Hypersensitivity"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 276,
+    "question_text": "A patient got scholar's A ppd tuberculin test done After 40 hours, 15mm erythema is noticed. Cells responsible for erythema are",
+    "options": {
+      "A": "Helper T cell",
+      "B": "Cytotoxic T cell",
+      "C": "NK cells",
+      "D": "Cd8 cells",
+      "E": "Eosinophils"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 277,
+    "question_text": "Which of the following cell binds to Antigen in atopic asthma:",
+    "options": {
+      "A": "Mast Cells",
+      "B": "Eosinophils",
+      "C": "Basophils",
+      "D": "Lymphocytes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 278,
+    "question_text": "For Atopic Asthma prefer the cells in the following order:Mast Cells > Basophils > Eosinophils",
+    "options": {
+      "A": "In acute renal transplant rejection the histological findings suggesting the bad prognosis is",
+      "B": "Interstitial lymphocytic infiltrate",
+      "C": "Neutrophilic infiltration",
+      "D": "Plasma cell infiltrate",
+      "E": "Tubular necrosis",
+      "F": "Vasulitis and thrombosis"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 279,
+    "question_text": "Antigen presenting cell which show massive phagocytic effect:",
+    "options": {
+      "A": "Macrophage/Monocytes",
+      "B": "T cell",
+      "C": "B cell",
+      "D": "Eaosinophil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 280,
+    "question_text": "Antigen presenting Cell to T cell:",
+    "options": {
+      "A": "Macrophages",
+      "B": "Easophibils",
+      "C": "Dendritic Cell",
+      "D": "M Cell"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 281,
+    "question_text": "Rubella positive expecting mother but baby was born symptoms free. What antibodies would the baby have on ELISA:",
+    "options": {
+      "A": "IgM",
+      "B": "IgG1",
+      "C": "IgG4",
+      "D": "IgM",
+      "E": "IgA"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 282,
+    "question_text": "A child presented with history of Skin Rashes & Recurrent chest infections. O/E, Hepatosplenomegaly found- Investiagtions reveal raised IgE levels, Slightly low IgA levels while level of other immunoglobulins were normal. Nitroblue Tetrazolium test is slightly positive- Diagnosis?",
+    "options": {
+      "A": "Chediak hegashi syndrom",
+      "B": "Chronic Granulomatous disease",
+      "C": "Primary IgA deficiency",
+      "D": "Jobs syndrome",
+      "E": "D(HyperIgE Syndrome)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 283,
+    "question_text": "Allograft is",
+    "options": {
+      "A": "From same species",
+      "B": "From identical twin",
+      "C": "From another species",
+      "D": "self to self"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 284,
+    "question_text": "NK cells function is:",
+    "options": {
+      "A": "Kill cancerous cells",
+      "B": "Kill COVID infected cells",
+      "C": "Activate T cells",
+      "D": "Kill natural body cells",
+      "E": "Activate B cell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 285,
+    "question_text": "Type of hypersensitivity in erythroblastosis foetalis is:",
+    "options": {
+      "A": "Compliment mediated hemolysis",
+      "B": "Immune complex mediated",
+      "C": "Cell mediated",
+      "D": "Serum sickness",
+      "E": "Antibody receptor mediated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 286,
+    "question_text": "Type of immunity stimulated by adminsteration of Vaccination would be:",
+    "options": {
+      "A": "Adoptive",
+      "B": "Artificial active",
+      "C": "Artificial passive",
+      "D": "Natural active",
+      "E": "Natural passive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 287,
+    "question_text": "O +ve was transfused to O-ve.Antibodies raised primarily are:",
+    "options": {
+      "A": "IgG",
+      "B": "IgG2",
+      "C": "IgM",
+      "D": "IgE"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 288,
+    "question_text": "Live attenuated vaccine",
+    "options": {
+      "A": "BCG",
+      "B": "Typhoid n paratyphoid",
+      "C": "Pertussis",
+      "D": "Polio"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 289,
+    "question_text": "HLA complex is located on Chromosome no?",
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "10",
+      "D": "17"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 290,
+    "question_text": "Undifferentiated T lymphocytes are protected from foreign bodies by which of the following?",
+    "options": {
+      "A": "Blood-thymus barrier",
+      "B": "Capsule",
+      "C": "Sinusoids",
+      "D": "Lymph nodes"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 291,
+    "question_text": "Which of the following is a non-specific (innate) defense mechanism?",
+    "options": {
+      "A": "SLE",
+      "B": "NK (Natural Killer) cells",
+      "C": "T lymphocytes",
+      "D": "B lymphocytes",
+      "E": "Antibodies"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 292,
+    "question_text": "A child presented in the OPD with multiple permeating lesions involving all the bones of the body which of the following is the most probable diagnosis -",
+    "options": {
+      "A": "Neuroblastoma",
+      "B": "Metastasis from osteosarcoma",
+      "C": "Histiocytosis X",
+      "D": "Metastasis from Wilm’s tumor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 293,
+    "question_text": "EBV infect which of these cells",
+    "options": {
+      "A": "T lymphocytes",
+      "B": "B lymphocytes",
+      "C": "Plasma cells",
+      "D": "Basophils"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 294,
+    "question_text": "HLA associated diseases are due to deletion of short arm of which chromosome?",
+    "options": {
+      "A": "Chromosome 12",
+      "B": "Chromosome 6 Band 6P21.3",
+      "C": "Chromosome 3",
+      "D": "Chromosome 10",
+      "E": "Chromosome 5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 295,
+    "question_text": "Antigens donot reach to T cell due to:",
+    "options": {
+      "A": "Blood thymus barrier",
+      "B": "Plasma Cells",
+      "C": "Blood brain barrier",
+      "D": "Prevented by Hassle's corpuscles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 296,
+    "question_text": "False positive anti D result from which of following?",
+    "options": {
+      "A": "ESR",
+      "B": "Infection",
+      "C": "Agglutination",
+      "D": "Rouleax formation",
+      "E": "Recent Rh Immunoglobulin Administration"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 297,
+    "question_text": "A lady, blood group Rh- negative, delivered a baby by house officer. The HO was worried about the baby’s blood group as her husband’s blood group was Rh- positive. What hypersensitivity reaction might she have?",
+    "options": {
+      "A": "Type I hypersensitivity",
+      "B": "Type IV hypersensitivity",
+      "C": "Type II hypersensitivity",
+      "D": "Type III hypersensitivity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 298,
+    "question_text": "Tumour should suppress which of the following to escape from body immunity",
+    "options": {
+      "A": "MCH 1",
+      "B": "MCH 2",
+      "C": "CD 8",
+      "D": "CD 4",
+      "E": "CD 3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 299,
+    "question_text": "woman is allergic to hazelnuts, Peach and apricot seeds, Which mediator is primarily involved in this allergic reaction?",
+    "options": {
+      "A": "PRU AR- 1 Lipid",
+      "B": "PRP3",
+      "C": "Allergen to P4",
+      "D": "Allergen to L5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 300,
+    "question_text": "The commonest malignancy after transplant is: Skin After 10 years: Skin After 5 years: Lymphoproliferative",
+    "options": {
+      "A": "Sublingual immunosuppressant are differ from cutaneous immunosuppressant in",
+      "B": "Mouth swelling and itching",
+      "C": "Diarrhea",
+      "D": "Vomiting",
+      "E": "Anaphylaxis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 301,
+    "question_text": "Cytotoxic cells kills their targets by releasing",
+    "options": {
+      "A": "Digestive enzymes",
+      "B": "Interleukin",
+      "C": "Perforins",
+      "D": "Histamines"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 302,
+    "question_text": "Patient presented in ER with SOB & Rash. O/E, Bp is low. Which antibody is responsible for this presentation?",
+    "options": {
+      "A": "IgA",
+      "B": "IgD",
+      "C": "IgE",
+      "D": "IgM"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 303,
+    "question_text": "Which is risk after transplant?",
+    "options": {
+      "A": "Skin cancer",
+      "B": "Acute leukemia",
+      "C": "Cervical dysplasia",
+      "D": "Renal cancer"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 304,
+    "question_text": "A male infant presents in OPD with tetany having serum calcium level 6.3,membranous ventricular septal defect ,at the age of one year he had respiratory infections of aspergillus and pneumocystis cranii which of the following is your diagnosis will be",
+    "options": {
+      "A": "22q11 deletion",
+      "B": "NADPH oxidase deficiency",
+      "C": "Bruton disease",
+      "D": "SCID",
+      "E": "GCD"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 305,
+    "question_text": "Which of the following class if missing on the surface cause defect in cytotoxicity of microscopic observation reveals Distinct Lymphoid tissue infiltrated by lymphocytes ,a variety of plasma cells which are matured in thymus with Lymphoblast cells. Most probable Diagnosis?",
+    "options": {
+      "A": "MCH 1",
+      "B": "MCH 2",
+      "C": "CD 8",
+      "D": "CD 4",
+      "E": "CD 3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 306,
+    "question_text": "A boy came with history of Fever & Fatigue. O/E, cervical lymphadenopathy and splenomegaly found. Microscopic examination reveals Distinct Lymphoid tissue infiltrated by lymphocytes ,a variety of plasma cells which are matured in thymus with Lymphoblast cells. Most probable Diagnosis?",
+    "options": {
+      "A": "Infectious mononucleosis",
+      "B": "T- cell leukemia",
+      "C": "Acute Leukemia",
+      "D": "Lymphoblastic Cell Proliferation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 307,
+    "question_text": "Immature T-cells located in which part of the Thymus:",
+    "options": {
+      "A": "Cortex",
+      "B": "Medulla",
+      "C": "Subcapsular sinus",
+      "D": "Paracortex"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 308,
+    "question_text": "Eosinophilic granules present in:",
+    "options": {
+      "A": "Histiocytosis X",
+      "B": "T- cell lymphoma",
+      "C": "CML",
+      "D": "CLL"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 309,
+    "question_text": "Primigravida Rh-ive mother & Father is Rh+ive. Hemolytic disease of newborn can be caused by RH incompatibility. Which disease mediator can be found in Mother's blood after delivery?",
+    "options": {
+      "A": "IgG antibody",
+      "B": "IgM antibody",
+      "C": "IgA antibody",
+      "D": "IgE Antibody"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 310,
+    "question_text": "Structure surrounding vessels in spleen?",
+    "options": {
+      "A": "Splenic sinusoids with Endothelium",
+      "B": "RBCs",
+      "C": "Pericytes",
+      "D": "Endothelial cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 311,
+    "question_text": "Maternal antibodies which cross placenta to cause erythroblastosis foetalis?",
+    "options": {
+      "A": "IgA",
+      "B": "IgG",
+      "C": "IgM",
+      "D": "IgD"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 312,
+    "question_text": "A child presented with history of Fever & Sore throat. ASO titres raised on investigations. Which Cells are involved after acute post-streptococcal infection leading to the development of Secondary Rheumatic Fever?",
+    "options": {
+      "A": "Th Cells",
+      "B": "APC",
+      "C": "Plasma Cells",
+      "D": "Macrophages",
+      "E": "Memory B Cells"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 313,
+    "question_text": "A child was presented with fever and sore throat for 2 weeks in which examination shows thick waxy hepatomegaly and enlarge kidney, skin h/urinary protein was 4g/day. Kidney biopsy shows apple colored birefringence fibril under congo red stain. What is diagnosis",
+    "options": {
+      "A": "Organic Dust",
+      "B": "Inhaled dust",
+      "C": "Malaria",
+      "D": "TB",
+      "E": "Multiple myeloma"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "mcq_number": 314,
+    "question_text": "According to Gell and Coombs classification, IgE antibodies play role in which hypersensitivity reaction?",
+    "options": {
+      "A": "Type 1 HSR",
+      "B": "Type 2 HSR",
+      "C": "Type 3 HSR",
+      "D": "Type 4 HSR"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 315,
+    "question_text": "After blood transfusion what is the most convenient method to know there is no transfusion reaction",
+    "options": {
+      "A": "Indirect coomb test of donor blood",
+      "B": "direct coomb test of recipient blood",
+      "C": "Passage of clear Urine after transfusion",
+      "D": "Blood clot in sample of post transfusion"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 316,
+    "question_text": "Main action of C3a and C5a is",
+    "options": {
+      "A": "Phagocytosis",
+      "B": "Anaphylaxis",
+      "C": "Chemotaxis of neutrophils",
+      "D": "Leukocytic adhesion",
+      "E": "Vasodilation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 317,
+    "question_text": "A patient presents with a history suggestive of post-streptococcal glomerulonephritis. Further investigation reveals the presence of IgG antibodies against glomeruli. What type of hypersensitivity reaction is this?",
+    "options": {
+      "A": "Type-1",
+      "B": "Type-2",
+      "C": "Type-3",
+      "D": "Type-4"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 318,
+    "question_text": "Most marrow suppression is due to",
+    "options": {
+      "A": "Whole body irradiations",
+      "B": "Chemotherapy",
+      "C": "Extracorporeal Radiation",
+      "D": "Anti Lymphocytes serum",
+      "E": "Thymus removal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 319,
+    "question_text": "Live attenuated vaccine?",
+    "options": {
+      "A": "Tuberculosis BCG",
+      "B": "Tetanus",
+      "C": "Whooping cough",
+      "D": "Polio",
+      "E": "Typhoid parathyroid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 320,
+    "question_text": "Which of the following causes the most significant immunodeficiency",
+    "options": {
+      "A": "Surgery",
+      "B": "Radiotherapy",
+      "C": "Chemotherapy",
+      "D": "Multi lymphocytic serum"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 321,
+    "question_text": "Which organ is primarily affected in DiGeorge syndrome",
+    "options": {
+      "A": "Liver",
+      "B": "Pancreas",
+      "C": "Thymus",
+      "D": "Spleen",
+      "E": "Urinary bladder"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 322,
+    "question_text": "Patient with pain in left hypochondrium, Splenomegaly was found, what can be found surrounding the capillaries in the enlarged organ?",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "RBCs",
+      "C": "WBCs",
+      "D": "Plasma cells"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 323,
+    "question_text": "Cells in chronic atopic asthma:",
+    "options": {
+      "A": "Eosinophilic leukocytosis",
+      "B": "Basophilic leucocytosis",
+      "C": "Lymphocytosis",
+      "D": "Monocytosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 324,
+    "question_text": "Recognition of antigen is role of: (Medicine Feb 2025) Major histocompatibility complex (MHC)",
+    "options": {
+      "A": "T cells",
+      "B": "B cells",
+      "C": "Fc Receptor",
+      "D": "None"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 325,
+    "question_text": "Innate immunity response activated by (Medicine Feb 2025)",
+    "options": {
+      "A": "Flagellin",
+      "B": "Bacterial polysaccharide",
+      "C": "Bacterial DNA",
+      "D": "Bacterial RNA"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 326,
+    "question_text": "Type 3 hypersensitivity seen in: (Medicine Feb 2025)",
+    "options": {
+      "A": "Farmer’s lung",
+      "B": "Montox test",
+      "C": "Transplant rejection",
+      "D": "Anaphylaxis"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 327,
+    "question_text": "Histamine causes: (Medicine Feb 2025)",
+    "options": {
+      "A": "Vasoconstriction",
+      "B": "Vasodilation",
+      "C": "Bronchodilation",
+      "D": "Increase Temperature"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 328,
+    "question_text": "Which mechanism allows certain viruses to evade natural killer (NK) cells?(Medicine Feb 2025)",
+    "options": {
+      "A": "Downregulation of MHC I on their surface",
+      "B": "Upregulation of MHC I on their surface",
+      "C": "Inhibition of interferon production",
+      "D": "Activation of complement pathway"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 329,
+    "question_text": "What is a possible adverse effect of sublingual immunosuppressant therapy? (Medicine Feb 2025)",
+    "options": {
+      "A": "Oral mucosal swelling",
+      "B": "Gingival hyperplasia",
+      "C": "Oral ulcers",
+      "D": "Xerostomia (dry mouth)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 330,
+    "question_text": "A pregnant woman with Rh-negative blood type develops antibodies against the Rh-positive blood of her fetus, leading to the breakdown of fetal red blood cells. What is the most likely cause of this condition? (Medicine Feb 2025)",
+    "options": {
+      "A": "Anti-D IgM",
+      "B": "Anti-D IgG",
+      "C": "Anti-A IgG",
+      "D": "Anti-B IgM"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 331,
+    "question_text": "Which of the following primarily affected in DiGeorge syndrome: (Surgery Feb 2025)",
+    "options": {
+      "A": "Liver",
+      "B": "Thyroid aplasia",
+      "C": "Thymic hypoplasia",
+      "D": "parathyroid hypoplasia",
+      "E": "Urinary bladder"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 332,
+    "question_text": "Which of the following immediately prevent the contracture formation in burn formation(Surgery Feb 2025)",
+    "options": {
+      "A": "Corticosteroids",
+      "B": "Skin graft",
+      "C": "Formation of granulation tissue",
+      "D": "Antibiotics"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 333,
+    "question_text": "Warm antibodies are most commonly associated with which of the following(Surgery Feb 2025)",
+    "options": {
+      "A": "Allogenic antibodies",
+      "B": "Autoantibodies",
+      "C": "IgG",
+      "D": "Immune complex formation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 334,
+    "question_text": "A patient present with low levels of immunoglobulins and decreased levels of plasma cells what is your diagnosis(Surgery Feb 2025)",
+    "options": {
+      "A": "SCID",
+      "B": "CVID",
+      "C": "IgA deficiency",
+      "D": "A gammaglobulinemia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 335,
+    "question_text": "Which of the following is elevated in pancreatitis(Surgery Feb 2025)",
+    "options": {
+      "A": "IgG",
+      "B": "IgA",
+      "C": "IgE",
+      "D": "IgM"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 336,
+    "question_text": "How IVIG work in treating ITP(Radiology Feb 2025)",
+    "options": {
+      "A": "Increase platelet production in bone marrow",
+      "B": "Stimulate the spleen to produce more platelet",
+      "C": "Blocks the Fc receptors o macrophages reducing platelets destruction",
+      "D": "Directly destroy autoantibodies against platelets",
+      "E": "Antiplatelet therapy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 337,
+    "question_text": "A child was brought to emergency room who collapsed within few minutes after receiving an injection of Ferrous sulphate given by his family physician .The most likely mediator in illness is:(Radiology Feb 2025)",
+    "options": {
+      "A": "IgA",
+      "B": "IgD",
+      "C": "IgE",
+      "D": "IgG",
+      "E": "IgM"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 338,
+    "question_text": "Specific immunity of body: (Radiology Feb 2025)",
+    "options": {
+      "A": "Skin and mucous membranes",
+      "B": "Lymphocytes",
+      "C": "PMNs",
+      "D": "Macrophages"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 339,
+    "question_text": "Haemolytic disease of new-born is associated with:(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Direct combs test positive with raised IgG",
+      "B": "Indirect combs test positive with raised IgG",
+      "C": "Both IgG and IgM raised",
+      "D": "Direct combs test positive with raised IgM"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 340,
+    "question_text": "X-linked agammaglobulinemia has a defect in:(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "Pro-B to B cell maturation",
+      "B": "Precursor T to CD4 cell maturation",
+      "C": "Plasma cell maturation",
+      "D": "T cell receptor signalling"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 341,
+    "question_text": "Which of the following is most important property of IgM?(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "They are small molecules and appear late in the immune response.",
+      "B": "They are large molecules and appear first in response to infection.",
+      "C": "They are small molecules and appear first in response to infection.",
+      "D": "They are large molecules and appear late in the immune response."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 342,
+    "question_text": "Which antigen is primarily responsible for RhIncompatibility?(Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "D antigen",
+      "B": "C antigen",
+      "C": "Lewis antigen",
+      "D": "Kell antigen"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 343,
+    "question_text": "Rh negative woman is sensitized with Rh antigen in her first pregnancy at which following weeks of gestation of her 2nd pregnancy she should be advised for anti D to prevent hemolytic disease of newborn? (Gynae & Obs Feb 2025)",
+    "options": {
+      "A": "28 and 34 weeks",
+      "B": "24 and 28 weeks",
+      "C": "34week and after delivery",
+      "D": "After birth of baby"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 344,
+    "question_text": "A hypertensive patient is undergoing laparoscopic cholecystectomy. During the procedure, a test dose of an antibiotic is administered, and pneumoperitoneum is created by inflating air into the abdomen. Shortly after, the patient develops a sudden drop in blood pressure and a rapid increase in pulse rate.What is the most likely cause?(Anesthesia Feb 2025)",
+    "options": {
+      "A": "Anaphylactic reaction",
+      "B": "Air embolism",
+      "C": "Intra-abdominal hypertension syndrome",
+      "D": "Vasovagal response due to peritoneal stretching"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 345,
+    "question_text": "Which vaccine is conjugated with protein? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "Meningococcal",
+      "B": "Tetanus toxoid",
+      "C": "Pertussis",
+      "D": "Polio"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "mcq_number": 346,
+    "question_text": "A mother (Rh-negative) delivers her first baby without complications and does not receive Rhogam. After 18 months, she delivers her second baby, who develops hydrops fetalis. What type of hypersensitivity reaction is involved?",
+    "options": {
+      "A": "Type 1",
+      "B": "Type 2",
+      "C": "Type 3",
+      "D": "Type 4"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "mcq_number": 347,
+    "question_text": "T cells are related to which of the following conditions? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "ANCA-associated vasculitis",
+      "B": "Vasculitis",
+      "C": "Insulin-dependent diabetes mellitus (Type 1 DM)",
+      "D": "Insulin-independent diabetes mellitus (Type 2 DM)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "mcq_number": 348,
+    "question_text": "Beta globulins are synthesized in? (Anesthesia Feb 2025)",
+    "options": {
+      "A": "B cells",
+      "B": "Plasma cells",
+      "C": "T cells",
+      "D": "Spleen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "mcq_number": 349,
+    "question_text": "A female with short stature hand swollen and neck is now 20 years of age with amenorrhea and absent sexual characteristics likely karyotype of this diagnosis is",
+    "options": {
+      "A": "47XXY",
+      "B": "46XY",
+      "C": "45XO",
+      "D": "47XY",
+      "E": "46XY"
+    },
+    "correct_answer": "C"
+  }
+]
